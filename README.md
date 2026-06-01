@@ -1,10 +1,10 @@
 # Hello World
 
-This is my first repositry.
+This is my first repository.
 
-A simple project to lern Git and GitHub.
+A simple project to learn Git and GitHub.
 
-## Fetures
+## Features
 
 - Basic structure
-- Version controll with Git
+- Version control with Git
