@@ -99,6 +99,36 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
 8. Erneut: **Shorts auf Aktien kosten Geld** – alle Long+Short-Varianten sind schwächer
    als reine Long-Varianten.
 
+## Robustheits-Prüfung
+
+```bash
+python -m strategy_lab.robustness     # nach run_all; schreibt results/robustness.csv
+```
+
+Kein einzelner, von Hand gewählter Zeitraum entscheidet. Geprüft wird (Details im Kopf von
+`robustness.py`):
+
+- **Alle Trennjahre 2008–2023:** Profit-Faktor vor und nach jedem möglichen Trennjahr.
+- **Jedes Kalenderjahr einzeln** (festes Raster, Jahre mit mind. 5 Trades).
+- **Marktphasen nach objektiver Regel:** Bärenmarkt = SPY > 20 % unter seinem Hoch
+  (erfasst 2008/09, COVID 2020 und 2022 automatisch, ohne Daten auszuwählen).
+- **Zufallstest:** gleiche Werte und Haltedauern, zufällige Einstiegstage, 1.000 Durchläufe.
+  Gegenprobe mit zufälligen Trades ergibt p ≈ 0,5 – der Test bevorzugt keine Seite.
+- **Bootstrap** des Profit-Faktors und **Holm-Korrektur** für die vielen getesteten Strategien.
+
+**„Robust“ (vorab festgelegt):** Zufallstest korrigiert p < 0,05 · Bootstrap-5-%-Quantil > 1 ·
+mind. 70 % der Jahre positiv · vor und nach jedem Trennjahr PF > 1.
+
+**Ergebnis (Stand 12.10.2026):** Robust sind nur **kurzfristige Mean-Reversion-Strategien**
+(Kauf nach Rückgang, Verkauf bei Stärke): *Connors RSI(2)* (PF 1,77, 82 % der Jahre positiv,
+schlechtestes Jahr 2008 mit 0,62, im Bärenmarkt 2,31) und die *Quantified-Strategies-Regeln*
+(1,40 auf allen Werten, 1,92 auf SPY). Allerdings besteht auch der schlichte Vergleich
+„Kauf nach rotem Tag“ (1,28) – der Effekt ist allgemein, die Signale verstärken ihn nur.
+Alle Trendfolge- und Ausbruchs-Strategien schlagen **zufällige Einstiegstage nicht**: Ihr
+Gewinn kommt aus dem Anstieg der getesteten Aktien seit 2005, nicht vom Signal.
+Wichtig: Die Mean-Reversion-Quellen nennen **keinen Stop-Loss** – das reale Verlustrisiko in
+Crashs ist größer, als R und Drawdown zeigen.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
