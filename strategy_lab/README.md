@@ -12,6 +12,15 @@ python -m strategy_lab.run_all        # aus dem Repo-Hauptordner
 Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder Trade),
 `per_symbol.csv` (je Strategie und Wert).
 
+> **Verbindlich für jeden wöchentlichen Lauf:**
+> 1. Nach `run_all` immer `python -m strategy_lab.robustness` ausführen.
+> 2. Kriterien und Parameter in `robustness.py` (Trennjahre, Bärenmarkt-Regel, Schwellen,
+>    Seed, Zahl der Simulationen) **nicht ändern**, um ein Ergebnis zu verbessern. Keinen
+>    eigenen Testzeitraum wählen und keine Jahre oder Krisen ausschließen.
+> 3. Den Abschnitt „Robustheits-Prüfung“ unten aktualisieren und in der Abschlussnachricht
+>    für jede neue Strategie das Urteil (robust bzw. x/4 Kriterien) nennen.
+> 4. Vor dem Push `git pull --rebase origin claude/quirky-cannon-ke5yz8`, kein Force-Push.
+
 ## So liest man die Tabelle
 
 - **R** = Vielfaches des Risikos pro Trade (Abstand Einstieg–Stop). −1 R = Stop ausgelöst.
