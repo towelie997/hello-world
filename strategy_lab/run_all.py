@@ -13,8 +13,9 @@ from dataclasses import asdict
 import pandas as pd
 
 from .engine import DEFAULT_COST, make_trade, summarize
-from .strategies import (ema50_pullback, ema_rsi_engulf, fvg_orb, orb15, pattern_scalp,
-                         squeeze_swing, williams_r)
+from .strategies import (connors_rsi2, donchian_macd, ema50_pullback, ema_rsi_engulf, fvg_orb,
+                         glow_ribbon, orb15, pattern_scalp, qs_ibs, squeeze_swing,
+                         weekly_breakout, williams_r)
 
 HERE = os.path.dirname(__file__)
 RESULTS = os.path.join(HERE, "results")
@@ -49,6 +50,19 @@ VIDEOS = {
     "Williams %R (1h, base)": ("The Transparent Trader", "GyikfniCLqU", "Forex 1 Std, 2 Jahre"),
     "Williams %R (1h, filter)": ("The Transparent Trader", "GyikfniCLqU", "Forex 1 Std, 2 Jahre"),
     "Williams %R (1h, day)": ("The Transparent Trader", "GyikfniCLqU", "Forex 1 Std, 2 Jahre"),
+    # Quelle als (Name, Link) statt YouTube-ID, wenn nicht von YouTube
+    "Connors RSI(2) (1d)": ("Connors & Alvarez (Buch 2008)", "", "Tageskerzen seit 2005"),
+    "Vergleich: roter Tag > SMA200 (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "QS 3 Swing-Regeln (SPY, 1d)": ("Quantified Strategies", "lKzoUptU2io", "SPY Tageskerzen seit 2005"),
+    "QS 3 Swing-Regeln (1d)": ("Quantified Strategies", "lKzoUptU2io", "Tageskerzen seit 2005"),
+    "Vergleich: Kauf nach rotem Tag (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Wochen-Ausbruch + MACD-Ausstieg (1w)": ("Financial Wisdom", "tPjz1esBQVc", "Wochenkerzen seit 2005"),
+    "Vergleich: 6-Wochen-Hoch-Ausbruch (1w)": ("–", "", "Wochenkerzen seit 2005"),
+    "Glow Ribbon Flip (1d)": ("TradingView: blitz_locked", "https://www.tradingview.com/script/OUOx3rYT/", "Tageskerzen seit 2005"),
+    "Glow Ribbon Flip (1d, nur Long)": ("TradingView: blitz_locked", "https://www.tradingview.com/script/OUOx3rYT/", "Tageskerzen seit 2005"),
+    "Vergleich: EMA21-Kreuz, fester Stop (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Donchian 50 + MACD (1d)": ("TradingView: LordRobrecht", "https://www.tradingview.com/script/bGjB7COd/", "Tageskerzen seit 2005"),
+    "Vergleich: Donchian 50 ohne MACD (1d)": ("–", "", "Tageskerzen seit 2005"),
 }
 
 
@@ -93,6 +107,18 @@ def main():
         ("Williams 1h base", lambda: williams_r.run(FOREX, "1h", "730d", "base")),
         ("Williams 1h filter", lambda: williams_r.run(FOREX, "1h", "730d", "filter")),
         ("Williams 1h day", lambda: williams_r.run(FOREX, "1h", "730d", "day")),
+        ("Connors RSI2", lambda: connors_rsi2.run(SWING)),
+        ("Vergleich RSI2", lambda: connors_rsi2.run(SWING, baseline=True)),
+        ("QS Swing SPY", lambda: qs_ibs.run(["SPY"], label=" (SPY, 1d)")),
+        ("QS Swing", lambda: qs_ibs.run(SWING, label=" (1d)")),
+        ("Vergleich QS", lambda: qs_ibs.run(SWING, baseline=True, label=" (1d)")),
+        ("Wochen-Ausbruch", lambda: weekly_breakout.run(SWING)),
+        ("Vergleich Ausbruch", lambda: weekly_breakout.run(SWING, baseline=True)),
+        ("Glow Ribbon", lambda: glow_ribbon.run(SWING)),
+        ("Glow Ribbon Long", lambda: glow_ribbon.run(SWING, shorts=False)),
+        ("Vergleich Glow", lambda: glow_ribbon.run(SWING, baseline=True)),
+        ("Donchian+MACD", lambda: donchian_macd.run(SWING)),
+        ("Vergleich Donchian", lambda: donchian_macd.run(SWING, baseline=True)),
     ]
     all_trades = []
     for label, fn in jobs:
@@ -111,7 +137,8 @@ def main():
         s = summarize(g)
         channel, vid, data_desc = VIDEOS.get(name, ("", "", ""))
         rows.append({"strategie": name, "kanal": channel, "daten": data_desc, **s,
-                     "video": f"https://youtu.be/{vid}" if vid else ""})
+                     "video": vid if vid.startswith("http") else
+                     (f"https://youtu.be/{vid}" if vid else "")})
     table = pd.DataFrame(rows).sort_values("profit_factor", ascending=False)
     table.to_csv(os.path.join(RESULTS, "ranking.csv"), index=False)
 

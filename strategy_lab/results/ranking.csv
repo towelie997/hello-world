@@ -1,21 +1,33 @@
 strategie,kanal,daten,trades,trefferquote_%,avg_R,summe_R,profit_factor,max_dd_R,avg_pct,video
-Squeeze + EMA21/34 (1w),BrandonTrades,Wochenkerzen seit 2005,575,35.0,1.171,673.1,2.54,-31.4,5.835,https://youtu.be/OKl208tuiIs
-Vergleich: EMA21/34 ohne Squeeze (1w),–,Wochenkerzen seit 2005,1282,30.4,1.243,1592.9,2.47,-90.0,6.008,
-Vergleich: EMA21/34 ohne Squeeze (1d),–,Tageskerzen seit 2005,6395,27.2,0.486,3111.1,1.5,-380.1,0.846,
-EMA200 + RSI + Engulfing (1d),TradingLab,Tageskerzen seit 2005,1606,42.5,0.26,417.5,1.43,-24.6,1.264,https://youtu.be/XBcMiYK7qYY
-Squeeze + EMA21/34 (1d),BrandonTrades,Tageskerzen seit 2005,2589,29.8,0.373,965.8,1.42,-139.4,1.026,https://youtu.be/OKl208tuiIs
-Vergleich: grüne Kerze > EMA200 (1d),–,Tageskerzen seit 2005,4243,40.8,0.215,911.2,1.34,-68.8,1.116,
-EMA200 + RSI + Engulfing (1h),TradingLab,"1 Std, 2 Jahre",1988,38.0,0.113,224.1,1.16,-42.0,0.251,https://youtu.be/XBcMiYK7qYY
-EMA50 Pullback (1d),Data Trader,Tageskerzen seit 2005,1653,36.8,0.089,147.3,1.14,-49.3,0.334,https://youtu.be/7Ds9djcEKB4
-Vergleich: grüne Kerze > EMA200 (1h),–,"1 Std, 2 Jahre",3354,38.9,0.099,333.2,1.14,-72.2,0.259,
-EMA50 Pullback (1h),Data Trader,"Forex + Aktien 1 Std, 2 Jahre",2468,33.8,-0.023,-57.4,0.97,-108.4,-0.096,https://youtu.be/7Ds9djcEKB4
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),–,Wochenkerzen seit 2005,1154,35.7,0.985,1136.3,2.68,-60.7,5.381,
+Squeeze + EMA21/34 (1w),BrandonTrades,Wochenkerzen seit 2005,575,35.0,1.171,673.5,2.54,-31.4,5.842,https://youtu.be/OKl208tuiIs
+Vergleich: EMA21/34 ohne Squeeze (1w),–,Wochenkerzen seit 2005,1283,30.4,1.242,1594.0,2.47,-90.0,6.008,
+"QS 3 Swing-Regeln (SPY, 1d)",Quantified Strategies,SPY Tageskerzen seit 2005,527,70.8,0.316,166.4,1.92,-17.0,0.495,https://youtu.be/lKzoUptU2io
+Wochen-Ausbruch + MACD-Ausstieg (1w),Financial Wisdom,Wochenkerzen seit 2005,807,36.9,0.487,393.2,1.88,-31.5,2.654,https://youtu.be/tPjz1esBQVc
+Connors RSI(2) (1d),Connors & Alvarez (Buch 2008),Tageskerzen seit 2005,1994,69.6,0.281,559.5,1.77,-45.4,0.573,
+Vergleich: EMA21/34 ohne Squeeze (1d),–,Tageskerzen seit 2005,6395,27.2,0.487,3112.0,1.5,-380.1,0.846,
+"Glow Ribbon Flip (1d, nur Long)",TradingView: blitz_locked,Tageskerzen seit 2005,2431,40.7,0.188,457.1,1.46,-44.2,1.418,https://www.tradingview.com/script/OUOx3rYT/
+EMA200 + RSI + Engulfing (1d),TradingLab,Tageskerzen seit 2005,1606,42.5,0.26,417.7,1.43,-24.6,1.265,https://youtu.be/XBcMiYK7qYY
+Squeeze + EMA21/34 (1d),BrandonTrades,Tageskerzen seit 2005,2589,29.8,0.373,966.4,1.42,-139.4,1.027,https://youtu.be/OKl208tuiIs
+QS 3 Swing-Regeln (1d),Quantified Strategies,Tageskerzen seit 2005,13492,67.1,0.17,2293.0,1.4,-125.2,0.452,https://youtu.be/lKzoUptU2io
+Vergleich: grüne Kerze > EMA200 (1d),–,Tageskerzen seit 2005,4244,40.8,0.215,911.5,1.34,-68.8,1.117,
+Vergleich: Kauf nach rotem Tag (1d),–,Tageskerzen seit 2005,22662,67.5,0.12,2722.5,1.28,-214.1,0.289,
+Vergleich: roter Tag > SMA200 (1d),–,Tageskerzen seit 2005,19432,67.3,0.085,1653.0,1.26,-121.1,0.183,
+EMA200 + RSI + Engulfing (1h),TradingLab,"1 Std, 2 Jahre",1989,38.1,0.113,224.1,1.16,-42.0,0.251,https://youtu.be/XBcMiYK7qYY
+Donchian 50 + MACD (1d),TradingView: LordRobrecht,Tageskerzen seit 2005,2060,37.3,0.06,124.0,1.14,-66.2,0.378,https://www.tradingview.com/script/bGjB7COd/
+Vergleich: grüne Kerze > EMA200 (1h),–,"1 Std, 2 Jahre",3354,38.9,0.1,334.5,1.14,-72.2,0.26,
+Vergleich: Donchian 50 ohne MACD (1d),–,Tageskerzen seit 2005,2121,38.1,0.06,128.3,1.14,-69.6,0.393,
+EMA50 Pullback (1d),Data Trader,Tageskerzen seit 2005,1653,36.8,0.089,147.5,1.14,-49.3,0.335,https://youtu.be/7Ds9djcEKB4
+Glow Ribbon Flip (1d),TradingView: blitz_locked,Tageskerzen seit 2005,4573,34.7,0.03,138.7,1.07,-79.5,0.175,https://www.tradingview.com/script/OUOx3rYT/
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",–,Tageskerzen seit 2005,17677,30.8,0.009,162.9,1.03,-92.5,0.024,
+EMA50 Pullback (1h),Data Trader,"Forex + Aktien 1 Std, 2 Jahre",2468,33.8,-0.023,-57.7,0.97,-108.4,-0.097,https://youtu.be/7Ds9djcEKB4
 "Williams %R (1h, filter)",The Transparent Trader,"Forex 1 Std, 2 Jahre",960,62.1,-0.003,-3.0,0.95,-9.1,-0.007,https://youtu.be/GyikfniCLqU
 "Williams %R (1h, base)",The Transparent Trader,"Forex 1 Std, 2 Jahre",1724,61.7,-0.004,-6.8,0.94,-12.8,-0.008,https://youtu.be/GyikfniCLqU
 "Williams %R (1h, day)",The Transparent Trader,"Forex 1 Std, 2 Jahre",1355,56.2,-0.005,-6.2,0.92,-9.9,-0.009,https://youtu.be/GyikfniCLqU
 "Williams %R (30m, filter)",The Transparent Trader,"Forex 30 Min, 60 Tage",149,60.4,-0.004,-0.6,0.88,-2.0,-0.009,https://youtu.be/GyikfniCLqU
-ORB 15 Min,The Moving Average,"5 Min, 60 Tage",824,44.9,-0.054,-44.6,0.86,-71.5,-0.011,https://youtu.be/jlShztsY3oA
-Pattern Scalp (Rumers),The Rumers,"5 Min, 60 Tage",719,41.2,-0.116,-83.6,0.81,-114.1,-0.096,https://youtu.be/T0H_jpQXdVI
+ORB 15 Min,The Moving Average,"5 Min, 60 Tage",838,44.9,-0.055,-46.4,0.85,-71.5,-0.015,https://youtu.be/jlShztsY3oA
+Pattern Scalp (Rumers),The Rumers,"5 Min, 60 Tage",732,41.0,-0.125,-91.3,0.79,-114.1,-0.098,https://youtu.be/T0H_jpQXdVI
+5-Min Range + FVG (1 Min),Casper Trading,"1 Min, ~7 Tage",106,32.1,-0.196,-20.7,0.75,-32.4,0.003,https://youtu.be/mzFXoK2pbNE
 "Williams %R (30m, base)",The Transparent Trader,"Forex 30 Min, 60 Tage",272,57.7,-0.009,-2.4,0.75,-3.8,-0.019,https://youtu.be/GyikfniCLqU
-Sneaky Pivot,The Rumers,"15 Min, 60 Tage",286,39.5,-0.147,-42.2,0.72,-60.4,-0.063,https://youtu.be/zspMXJVbfAY
-ORB 15 Min + Trend,The Moving Average,"5 Min, 60 Tage",404,40.6,-0.121,-48.9,0.71,-65.5,-0.098,https://youtu.be/jlShztsY3oA
-5-Min Range + FVG (1 Min),Casper Trading,"1 Min, ~7 Tage",92,30.4,-0.238,-21.9,0.7,-29.6,0.008,https://youtu.be/mzFXoK2pbNE
+Sneaky Pivot,The Rumers,"15 Min, 60 Tage",295,40.0,-0.151,-44.5,0.71,-60.4,-0.066,https://youtu.be/zspMXJVbfAY
+ORB 15 Min + Trend,The Moving Average,"5 Min, 60 Tage",410,40.5,-0.125,-51.1,0.7,-65.5,-0.104,https://youtu.be/jlShztsY3oA
