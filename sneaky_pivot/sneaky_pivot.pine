@@ -1,0 +1,147 @@
+//@version=6
+// Sneaky Pivot – Magic Lines + 3-Kerzen-Signal
+// Nach dem Video "How Trading Like an Idiot Makes Me $10,000/Month" (The Rumers).
+// Für 15-Minuten-Charts, reguläre Handelszeit. Gleiche Regeln wie sneaky_pivot/backtest.py.
+indicator("Sneaky Pivot", overlay = true, max_lines_count = 500, max_labels_count = 500, max_bars_back = 500)
+
+// ---------- Eingaben ----------
+zonePct      = input.float(0.10, "Toleranz um Linien (Anteil Vortagesspanne)", minval = 0, step = 0.01)
+maxWait      = input.int(3, "Max. Kerzen bis zur Sneaky-Kerze", minval = 1)
+cutoffHHMM   = input.int(1200, "Letzter Einstieg (HHMM, Börsenzeit)")
+stopBufPct   = input.float(0.02, "Stop-Puffer (Anteil Vortagesspanne)", minval = 0, step = 0.01)
+targetMode   = input.string("Range", "Kursziel", options = ["Range", "Swing"])
+swingLookback = input.int(250, "Swing-Suche: max. Tage zurück", minval = 2, maxval = 500)
+showLines    = input.bool(true, "Magic Lines zeichnen")
+
+// ---------- Magic Lines (Tagesdaten, nicht repaintend) ----------
+f_lines() =>
+    rh = high[1]
+    rl = low[1]
+    float sh = na
+    float sl = na
+    for i = 2 to swingLookback
+        if na(sh) and high[i] > rh
+            sh := high[i]
+        if na(sl) and low[i] < rl
+            sl := low[i]
+        if not na(sh) and not na(sl)
+            break
+    [rh, rl, sh, sl]
+
+[rangeHigh, rangeLow, swingHigh, swingLow] = request.security(syminfo.tickerid, "D", f_lines(), lookahead = barmerge.lookahead_on)
+
+var label tfHint = na
+if timeframe.isintraday and timeframe.multiplier != 15 and barstate.islast
+    label.delete(tfHint)
+    tfHint := label.new(bar_index, high, "Hinweis: Strategie ist für 15-Minuten-Kerzen gedacht", style = label.style_label_down, color = color.orange, textcolor = color.black)
+
+plot(showLines ? rangeHigh : na, "Range High", color.red, 2, plot.style_linebr)
+plot(showLines ? swingHigh : na, "Swing High", color.maroon, 1, plot.style_linebr)
+plot(showLines ? rangeLow : na, "Range Low", color.green, 2, plot.style_linebr)
+plot(showLines ? swingLow : na, "Swing Low", color.teal, 1, plot.style_linebr)
+
+// ---------- Zustandsautomat pro Tag ----------
+// 0 = kein Setup, 1 = warte auf Sneaky, 2 = warte auf Einstieg, 3 = im Trade, 4 = fertig
+var int   state    = 0
+var int   barNo    = 0
+var int   side     = 0      // 1 = long, -1 = short
+var float trigger  = na
+var float dayHi    = na
+var float dayLo    = na
+var float entry    = na
+var float stop     = na
+var float target   = na
+
+isFirst = session.isfirstbar_regular
+inSession = session.ismarket
+
+if isFirst
+    state   := 0
+    barNo   := 0
+    side    := 0
+    trigger := na
+    dayHi   := high
+    dayLo   := low
+    entry   := na
+    stop    := na
+    target  := na
+
+if inSession
+    barNo += 1
+    if not isFirst
+        dayHi := math.max(dayHi, high)
+        dayLo := math.min(dayLo, low)
+
+width = rangeHigh - rangeLow
+tol   = zonePct * width
+hhmm  = hour(time, syminfo.timezone) * 100 + minute(time, syminfo.timezone)
+
+bool longEntry  = false
+bool shortEntry = false
+bool hitStop    = false
+bool hitTarget  = false
+
+if inSession and width > 0
+    // Kerze 1: Opening Range
+    if barNo == 1
+        if close < open and low <= rangeLow + tol
+            side  := 1
+            state := 1
+        else if close > open and high >= rangeHigh - tol
+            side  := -1
+            state := 1
+        else
+            state := 4
+
+    // Sneaky-Kerze
+    else if state == 1
+        if barNo > 1 + maxWait
+            state := 4
+        else if (side == 1 and close > open) or (side == -1 and close < open)
+            trigger := side == 1 ? high : low
+            state   := 2
+
+    // Einstieg: Kerze über/unter die Sneaky-Kerze
+    else if state == 2
+        if hhmm > cutoffHHMM
+            state := 4
+        else if side == 1 and high > trigger
+            entry  := math.max(trigger, open)
+            stop   := dayLo - stopBufPct * width
+            target := targetMode == "Swing" and not na(swingHigh) ? swingHigh : rangeHigh
+            if target > entry
+                state     := 3
+                longEntry := true
+            else
+                state := 4
+        else if side == -1 and low < trigger
+            entry  := math.min(trigger, open)
+            stop   := dayHi + stopBufPct * width
+            target := targetMode == "Swing" and not na(swingLow) ? swingLow : rangeLow
+            if target < entry
+                state      := 3
+                shortEntry := true
+            else
+                state := 4
+
+    // Trade verwalten (Stop zuerst = konservativ)
+    else if state == 3
+        if (side == 1 and low <= stop) or (side == -1 and high >= stop)
+            hitStop := true
+            state   := 4
+        else if (side == 1 and high >= target) or (side == -1 and low <= target)
+            hitTarget := true
+            state     := 4
+
+// ---------- Darstellung ----------
+plotshape(longEntry,  "Long-Einstieg",  shape.triangleup,   location.belowbar, color.green, size = size.small, text = "LONG")
+plotshape(shortEntry, "Short-Einstieg", shape.triangledown, location.abovebar, color.red,   size = size.small, text = "SHORT")
+plotshape(hitTarget,  "Ziel erreicht",  shape.circle,  location.abovebar, color.lime,   size = size.tiny, text = "Ziel")
+plotshape(hitStop,    "Stop",           shape.xcross,  location.abovebar, color.orange, size = size.tiny, text = "Stop")
+
+plot(state == 3 or hitStop or hitTarget ? stop : na,   "Stop",   color.orange, 1, plot.style_linebr)
+plot(state == 3 or hitStop or hitTarget ? target : na, "Ziel",   color.lime,   1, plot.style_linebr)
+plot(state == 3 ? entry : na,                          "Einstieg", color.blue, 1, plot.style_linebr)
+
+alertcondition(longEntry,  "Sneaky Pivot Long",  "Sneaky Pivot: LONG-Einstieg auf {{ticker}} bei {{close}}")
+alertcondition(shortEntry, "Sneaky Pivot Short", "Sneaky Pivot: SHORT-Einstieg auf {{ticker}} bei {{close}}")
