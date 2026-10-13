@@ -1,33 +1,33 @@
-strategie,trades,pf,pf_boot_5%,typ,jahre,jahre_pf>1_%,schlechtestes_jahr,split_min_vorher,split_min_nachher,pf_baerenmarkt,trades_baerenmarkt,pf_ohne_baerenmarkt,pf_pct,pf_zufall_median,p_zufall,p_zufall_holm,urteil
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),1154,2.68,2.06,tages/wochen,22.0,73.0,2008 (0.10),1.62,2.45,2.75,155.0,2.67,2.8,2.43,0.13986013986013987,1.0,nein (3/4)
-Squeeze + EMA21/34 (1w),575,2.54,1.97,tages/wochen,22.0,77.0,2008 (0.00),1.24,2.14,2.7,101.0,2.51,3.12,2.82,0.24375624375624375,1.0,nein (3/4)
-Vergleich: EMA21/34 ohne Squeeze (1w),1283,2.47,2.06,tages/wochen,22.0,73.0,2008 (0.09),1.47,2.55,2.83,216.0,2.41,3.28,2.8,0.07992007992007992,1.0,nein (3/4)
-"QS 3 Swing-Regeln (SPY, 1d)",527,1.92,1.54,tages/wochen,22.0,86.0,2018 (0.17),1.79,1.53,2.37,100.0,1.83,2.07,1.21,0.000999000999000999,0.01898101898101898,robust
-Wochen-Ausbruch + MACD-Ausstieg (1w),807,1.88,1.57,tages/wochen,22.0,68.0,2008 (0.04),1.66,1.7,2.54,92.0,1.81,1.96,2.26,0.8861138861138861,1.0,nein (2/4)
-Connors RSI(2) (1d),1994,1.77,1.57,tages/wochen,22.0,82.0,2008 (0.62),1.3,1.75,2.31,262.0,1.71,1.73,1.21,0.000999000999000999,0.01898101898101898,robust
-Vergleich: EMA21/34 ohne Squeeze (1d),6395,1.5,1.38,tages/wochen,22.0,82.0,2008 (0.24),1.08,1.47,1.92,1054.0,1.43,1.6,1.52,0.12787212787212787,1.0,nein (3/4)
-"Glow Ribbon Flip (1d, nur Long)",2431,1.46,1.36,tages/wochen,22.0,77.0,2008 (0.37),1.22,1.33,2.09,345.0,1.38,1.51,1.65,0.9000999000999002,1.0,nein (3/4)
-EMA200 + RSI + Engulfing (1d),1606,1.43,1.32,tages/wochen,22.0,77.0,2008 (0.41),1.14,1.31,1.77,189.0,1.39,1.48,1.69,0.926073926073926,1.0,nein (3/4)
-Squeeze + EMA21/34 (1d),2589,1.42,1.25,tages/wochen,22.0,77.0,2008 (0.36),1.2,1.4,1.48,407.0,1.41,1.71,1.54,0.08391608391608392,1.0,nein (3/4)
-QS 3 Swing-Regeln (1d),13492,1.4,1.34,tages/wochen,22.0,95.0,2018 (0.90),1.3,1.33,1.6,2291.0,1.36,1.45,1.22,0.000999000999000999,0.01898101898101898,robust
-Vergleich: grüne Kerze > EMA200 (1d),4244,1.34,1.28,tages/wochen,22.0,77.0,2008 (0.39),1.14,1.3,1.65,512.0,1.31,1.42,1.72,0.999000999000999,1.0,nein (3/4)
-Vergleich: Kauf nach rotem Tag (1d),22662,1.28,1.24,tages/wochen,22.0,95.0,2022 (0.81),1.16,1.21,1.48,3607.0,1.24,1.29,1.21,0.002997002997002997,0.04495504495504495,robust
-Vergleich: roter Tag > SMA200 (1d),19432,1.26,1.21,tages/wochen,22.0,77.0,2022 (0.67),1.18,1.22,1.48,2383.0,1.24,1.28,1.17,0.000999000999000999,0.01898101898101898,robust
-Donchian 50 + MACD (1d),2060,1.14,1.03,tages/wochen,22.0,59.0,2014 (0.44),1.07,0.97,1.18,314.0,1.13,1.09,1.93,1.0,1.0,nein (1/4)
-EMA50 Pullback (1d),1653,1.14,1.04,tages/wochen,23.0,65.0,2026 (0.48),1.05,1.09,0.89,287.0,1.19,1.08,1.75,1.0,1.0,nein (2/4)
-Vergleich: Donchian 50 ohne MACD (1d),2121,1.14,1.03,tages/wochen,22.0,64.0,2014 (0.44),1.07,0.97,1.23,310.0,1.13,1.1,1.93,1.0,1.0,nein (1/4)
-Glow Ribbon Flip (1d),4573,1.07,1.0,tages/wochen,22.0,64.0,2011 (0.57),1.07,1.0,1.2,709.0,1.04,1.05,1.62,1.0,1.0,nein (0/4)
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",17677,1.03,0.99,tages/wochen,22.0,64.0,2008 (0.78),1.02,1.01,1.12,2908.0,1.02,1.02,1.27,1.0,1.0,nein (1/4)
-EMA200 + RSI + Engulfing (1h),1989,1.16,1.07,intraday,,,,,,,,,,,,,zu wenig Daten
-Vergleich: grüne Kerze > EMA200 (1h),3354,1.14,1.07,intraday,,,,,,,,,,,,,zu wenig Daten
-EMA50 Pullback (1h),2468,0.97,0.9,intraday,,,,,,,,,,,,,nein
-"Williams %R (1h, filter)",960,0.95,0.82,intraday,,,,,,,,,,,,,nein
-"Williams %R (1h, base)",1724,0.94,0.84,intraday,,,,,,,,,,,,,nein
-"Williams %R (1h, day)",1355,0.92,0.82,intraday,,,,,,,,,,,,,nein
-"Williams %R (30m, filter)",149,0.88,0.6,intraday,,,,,,,,,,,,,nein
-ORB 15 Min,838,0.85,0.75,intraday,,,,,,,,,,,,,nein
-Pattern Scalp (Rumers),732,0.79,0.68,intraday,,,,,,,,,,,,,nein
-5-Min Range + FVG (1 Min),106,0.75,0.52,intraday,,,,,,,,,,,,,nein
-"Williams %R (30m, base)",272,0.75,0.56,intraday,,,,,,,,,,,,,nein
-Sneaky Pivot,295,0.71,0.55,intraday,,,,,,,,,,,,,nein
-ORB 15 Min + Trend,410,0.7,0.57,intraday,,,,,,,,,,,,,nein
+strategie,trades,pf,pf_boot_5%,typ,jahre,jahre_pf>1_%,schlechtestes_jahr,pf_letzte5,trades_letzte5,jahre_letzte5_pf>1,jahre_pf>1_gewichtet_%,hinweis_letzte5,split_min_vorher,split_min_nachher,pf_baerenmarkt,trades_baerenmarkt,pf_ohne_baerenmarkt,pf_pct,pf_zufall_median,p_zufall,p_zufall_holm,urteil
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),1154,2.68,2.06,tages/wochen,22.0,73.0,2008 (0.10),2.53,258.0,4/5,72.0,,1.62,2.45,2.75,155.0,2.67,2.8,2.43,0.13986013986013987,1.0,nein (3/4)
+Squeeze + EMA21/34 (1w),575,2.54,1.97,tages/wochen,22.0,77.0,2008 (0.00),2.65,106.0,4/5,78.0,,1.24,2.14,2.7,101.0,2.51,3.12,2.82,0.24375624375624375,1.0,nein (3/4)
+Vergleich: EMA21/34 ohne Squeeze (1w),1283,2.47,2.06,tages/wochen,22.0,73.0,2008 (0.09),3.33,285.0,4/5,72.0,,1.47,2.55,2.83,216.0,2.41,3.28,2.8,0.07992007992007992,1.0,nein (3/4)
+"QS 3 Swing-Regeln (SPY, 1d)",527,1.92,1.54,tages/wochen,22.0,86.0,2018 (0.17),1.53,115.0,4/5,85.0,zuletzt schwächer,1.79,1.53,2.37,100.0,1.83,2.07,1.21,0.000999000999000999,0.01898101898101898,robust
+Wochen-Ausbruch + MACD-Ausstieg (1w),807,1.88,1.57,tages/wochen,22.0,68.0,2008 (0.04),2.44,170.0,4/5,68.0,,1.66,1.7,2.54,92.0,1.81,1.96,2.26,0.8861138861138861,1.0,nein (2/4)
+Connors RSI(2) (1d),1994,1.77,1.57,tages/wochen,22.0,82.0,2008 (0.62),1.86,449.0,4/5,80.0,,1.3,1.75,2.31,262.0,1.71,1.73,1.21,0.000999000999000999,0.01898101898101898,robust
+Vergleich: EMA21/34 ohne Squeeze (1d),6395,1.5,1.38,tages/wochen,22.0,82.0,2008 (0.24),1.55,1386.0,4/5,80.0,,1.08,1.47,1.92,1054.0,1.43,1.6,1.52,0.12787212787212787,1.0,nein (3/4)
+"Glow Ribbon Flip (1d, nur Long)",2431,1.46,1.36,tages/wochen,22.0,77.0,2008 (0.37),1.35,555.0,4/5,78.0,,1.22,1.33,2.09,345.0,1.38,1.51,1.65,0.9000999000999002,1.0,nein (3/4)
+EMA200 + RSI + Engulfing (1d),1606,1.43,1.32,tages/wochen,22.0,77.0,2008 (0.41),1.33,342.0,3/5,75.0,,1.14,1.31,1.77,189.0,1.39,1.48,1.69,0.926073926073926,1.0,nein (3/4)
+Squeeze + EMA21/34 (1d),2589,1.42,1.25,tages/wochen,22.0,77.0,2008 (0.36),1.49,505.0,4/5,78.0,,1.2,1.4,1.48,407.0,1.41,1.71,1.54,0.08391608391608392,1.0,nein (3/4)
+QS 3 Swing-Regeln (1d),13492,1.4,1.34,tages/wochen,22.0,95.0,2018 (0.90),1.33,3056.0,5/5,95.0,,1.3,1.33,1.6,2291.0,1.36,1.45,1.22,0.000999000999000999,0.01898101898101898,robust
+Vergleich: grüne Kerze > EMA200 (1d),4244,1.34,1.28,tages/wochen,22.0,77.0,2008 (0.39),1.34,985.0,4/5,78.0,,1.14,1.3,1.65,512.0,1.31,1.42,1.72,0.999000999000999,1.0,nein (3/4)
+Vergleich: Kauf nach rotem Tag (1d),22662,1.28,1.24,tages/wochen,22.0,95.0,2022 (0.81),1.21,5128.0,4/5,92.0,,1.16,1.21,1.48,3607.0,1.24,1.29,1.21,0.002997002997002997,0.04495504495504495,robust
+Vergleich: roter Tag > SMA200 (1d),19432,1.26,1.21,tages/wochen,22.0,77.0,2022 (0.67),1.24,4078.0,4/5,78.0,,1.18,1.22,1.48,2383.0,1.24,1.28,1.17,0.000999000999000999,0.01898101898101898,robust
+Donchian 50 + MACD (1d),2060,1.14,1.03,tages/wochen,22.0,59.0,2014 (0.44),1.03,476.0,2/5,52.0,,1.07,0.97,1.18,314.0,1.13,1.09,1.93,1.0,1.0,nein (1/4)
+EMA50 Pullback (1d),1653,1.14,1.04,tages/wochen,23.0,65.0,2026 (0.48),1.12,387.0,4/5,66.0,,1.05,1.09,0.89,287.0,1.19,1.08,1.75,1.0,1.0,nein (2/4)
+Vergleich: Donchian 50 ohne MACD (1d),2121,1.14,1.03,tages/wochen,22.0,64.0,2014 (0.44),1.03,494.0,3/5,60.0,,1.07,0.97,1.23,310.0,1.13,1.1,1.93,1.0,1.0,nein (1/4)
+Glow Ribbon Flip (1d),4573,1.07,1.0,tages/wochen,22.0,64.0,2011 (0.57),1.07,1055.0,3/5,60.0,,1.07,1.0,1.2,709.0,1.04,1.05,1.62,1.0,1.0,nein (0/4)
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",17677,1.03,0.99,tages/wochen,22.0,64.0,2008 (0.78),1.08,3835.0,3/5,62.0,,1.02,1.01,1.12,2908.0,1.02,1.02,1.27,1.0,1.0,nein (1/4)
+EMA200 + RSI + Engulfing (1h),1989,1.16,1.07,intraday,,,,,,,,,,,,,,,,,,zu wenig Daten
+Vergleich: grüne Kerze > EMA200 (1h),3354,1.14,1.07,intraday,,,,,,,,,,,,,,,,,,zu wenig Daten
+EMA50 Pullback (1h),2468,0.97,0.9,intraday,,,,,,,,,,,,,,,,,,nein
+"Williams %R (1h, filter)",960,0.95,0.82,intraday,,,,,,,,,,,,,,,,,,nein
+"Williams %R (1h, base)",1724,0.94,0.84,intraday,,,,,,,,,,,,,,,,,,nein
+"Williams %R (1h, day)",1355,0.92,0.82,intraday,,,,,,,,,,,,,,,,,,nein
+"Williams %R (30m, filter)",149,0.88,0.6,intraday,,,,,,,,,,,,,,,,,,nein
+ORB 15 Min,838,0.85,0.75,intraday,,,,,,,,,,,,,,,,,,nein
+Pattern Scalp (Rumers),732,0.79,0.68,intraday,,,,,,,,,,,,,,,,,,nein
+5-Min Range + FVG (1 Min),106,0.75,0.52,intraday,,,,,,,,,,,,,,,,,,nein
+"Williams %R (30m, base)",272,0.75,0.56,intraday,,,,,,,,,,,,,,,,,,nein
+Sneaky Pivot,295,0.71,0.55,intraday,,,,,,,,,,,,,,,,,,nein
+ORB 15 Min + Trend,410,0.7,0.57,intraday,,,,,,,,,,,,,,,,,,nein

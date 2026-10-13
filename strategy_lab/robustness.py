@@ -16,6 +16,11 @@ Darum gibt es keine feste Trennung in "Entwicklung" und "Test", sondern:
 5. Bootstrap: Trades N_BOOT-mal mit Zurücklegen gezogen -> 5-%-Quantil des PF.
 6. Mehrfachtests: p-Werte des Zufallstests nach Holm korrigiert, weil viele
    Strategien getestet werden und sonst einige allein durch Glück auffallen.
+7. Jüngere Jahre (nur Zusatzinfo, fließt NICHT ins Urteil ein): Profit-Faktor der
+   letzten 5 Kalenderjahre, Anteil positiver Jahre mit Gewichtung nach Alter
+   (letzte 5 Jahre x3, die 8 Jahre davor x2, ältere x1) und ein Hinweis, wenn die
+   Strategie zuletzt klar schwächer ist (PF letzte 5 Jahre <= 1 oder < 80 % des
+   Gesamt-PF). Die Jahre zählen relativ zum jüngsten Trade-Jahr in trades.csv.
 
 Urteil "robust" (Kriterien vorab festgelegt, nicht nachträglich angepasst):
   a) Zufallstest: Holm-korrigiertes p < 0,05
@@ -46,6 +51,9 @@ N_BOOT = 2000
 SPLIT_YEARS = range(2008, 2024)
 MIN_TRADES_YEAR = 5
 SEED = 42
+RECENT_YEARS = 5                       # "letzte Jahre" – nur Zusatzinfo
+YEAR_WEIGHTS = ((5, 3), (13, 2))       # (Alter < x Jahre, Gewicht); sonst Gewicht 1
+RECENT_WARN_RATIO = 0.8
 
 
 def profit_factor(x: np.ndarray) -> float:
@@ -108,7 +116,11 @@ def random_entry_test(g: pd.DataFrame, rng: np.random.Generator) -> tuple[float,
     return act, float(np.median(sim_pf)), float(p)
 
 
-def analyze(name: str, g: pd.DataFrame, bear: pd.Series, rng) -> dict:
+def year_weight(age: int) -> int:
+    return next((w for limit, w in YEAR_WEIGHTS if age < limit), 1)
+
+
+def analyze(name: str, g: pd.DataFrame, bear: pd.Series, rng, last_year: int) -> dict:
     r = g.r.to_numpy()
     t = pd.to_datetime(g.entry_time, utc=True, format="mixed").dt.tz_localize(None)
     row = {"strategie": name, "trades": len(g), "pf": round(profit_factor(r), 2)}
@@ -127,6 +139,18 @@ def analyze(name: str, g: pd.DataFrame, bear: pd.Series, rng) -> dict:
     row["jahre_pf>1_%"] = round(100 * np.mean([v > 1 for v in yearly.values()]), 0)
     worst = min(yearly, key=yearly.get)
     row["schlechtestes_jahr"] = f"{worst} ({yearly[worst]:.2f})"
+
+    recent = (t.dt.year > last_year - RECENT_YEARS).to_numpy()
+    recent_years = {y: v for y, v in yearly.items() if y > last_year - RECENT_YEARS}
+    weights = {y: year_weight(last_year - y) for y in yearly}
+    row["pf_letzte5"] = round(profit_factor(r[recent]), 2) if recent.sum() >= 10 else math.nan
+    row["trades_letzte5"] = int(recent.sum())
+    row["jahre_letzte5_pf>1"] = f"{sum(v > 1 for v in recent_years.values())}/{len(recent_years)}"
+    row["jahre_pf>1_gewichtet_%"] = round(
+        100 * sum(w for y, w in weights.items() if yearly[y] > 1) / sum(weights.values()), 0)
+    pf5 = row["pf_letzte5"]
+    row["hinweis_letzte5"] = ("zuletzt schwächer" if not math.isnan(pf5)
+                              and (pf5 <= 1 or pf5 < RECENT_WARN_RATIO * row["pf"]) else "")
 
     before, after = [], []
     for y in SPLIT_YEARS:
@@ -153,7 +177,8 @@ def main():
     df = pd.read_csv(os.path.join(RESULTS, "trades.csv"))
     rng = np.random.default_rng(SEED)
     bear = bear_market_days()
-    rows = [analyze(name, g, bear, rng) for name, g in df.groupby("strategy", sort=False)]
+    last_year = int(pd.to_datetime(df.entry_time, utc=True, format="mixed").dt.year.max())
+    rows = [analyze(name, g, bear, rng, last_year) for name, g in df.groupby("strategy", sort=False)]
     out = pd.DataFrame(rows)
 
     daily = out[out.typ == "tages/wochen"]

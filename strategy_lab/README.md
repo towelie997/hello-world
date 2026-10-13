@@ -124,6 +124,10 @@ Kein einzelner, von Hand gewählter Zeitraum entscheidet. Geprüft wird (Details
 - **Zufallstest:** gleiche Werte und Haltedauern, zufällige Einstiegstage, 1.000 Durchläufe.
   Gegenprobe mit zufälligen Trades ergibt p ≈ 0,5 – der Test bevorzugt keine Seite.
 - **Bootstrap** des Profit-Faktors und **Holm-Korrektur** für die vielen getesteten Strategien.
+- **Jüngere Jahre (nur Zusatzinfo, nicht Teil des Urteils):** `pf_letzte5` (Profit-Faktor
+  der letzten 5 Kalenderjahre), `jahre_letzte5_pf>1`, `jahre_pf>1_gewichtet_%` (positive
+  Jahre, gewichtet: letzte 5 Jahre x3, die 8 davor x2, ältere x1) und `hinweis_letzte5`
+  = „zuletzt schwächer“, wenn der PF der letzten 5 Jahre <= 1 oder < 80 % des Gesamt-PF ist.
 
 **„Robust“ (vorab festgelegt):** Zufallstest korrigiert p < 0,05 · Bootstrap-5-%-Quantil > 1 ·
 mind. 70 % der Jahre positiv · vor und nach jedem Trennjahr PF > 1.
@@ -137,6 +141,13 @@ Alle Trendfolge- und Ausbruchs-Strategien schlagen **zufällige Einstiegstage ni
 Gewinn kommt aus dem Anstieg der getesteten Aktien seit 2005, nicht vom Signal.
 Wichtig: Die Mean-Reversion-Quellen nennen **keinen Stop-Loss** – das reale Verlustrisiko in
 Crashs ist größer, als R und Drawdown zeigen.
+
+**Letzte 5 Jahre (2022–2026):** Die Gewichtung nach Alter ändert kaum etwas – die
+Rangfolge bleibt, kein Urteil würde kippen. *Connors RSI(2)* ist zuletzt sogar etwas besser
+(1,86), *QS 3 Swing-Regeln* auf allen Werten waren in allen 5 Jahren positiv (1,33).
+Einziger Hinweis „zuletzt schwächer“: *QS 3 Swing-Regeln auf SPY* (1,53 statt 1,92, nur
+115 Trades). Die Wochen-Strategien legen zuletzt stark zu, ihre Vergleiche ohne Signal aber
+genauso – das ist der starke Aktienmarkt seit 2023, kein Verdienst der Signale.
 
 ## Grenzen
 
