@@ -1,0 +1,11 @@
+# /etc/systemd/system/connors-bot.timer – Mo–Fr 10:00 New Yorker Zeit; Feiertage und
+# verkürzte Handelstage erkennt der Bot selbst (exchange_calendars).
+[Unit]
+Description=Connors RSI(2) Bot täglich
+
+[Timer]
+OnCalendar=Mon..Fri 10:00 America/New_York
+Persistent=false
+
+[Install]
+WantedBy=timers.target

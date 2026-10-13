@@ -1,0 +1,12 @@
+# /etc/systemd/system/connors-bot.service – startet den Tageslauf (wartet selbst bis kurz vor Schluss)
+[Unit]
+Description=Connors RSI(2) Bot (Tageslauf)
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=trader
+WorkingDirectory=/home/trader/hello-world
+EnvironmentFile=/home/trader/connors-bot.env
+ExecStart=/home/trader/venv/bin/python -m connors_bot.main --mode paper --wait
+TimeoutStartSec=8h
