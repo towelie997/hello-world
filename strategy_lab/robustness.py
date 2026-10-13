@@ -83,8 +83,9 @@ def holm(pvals: dict) -> dict:
 
 
 def random_entry_test(g: pd.DataFrame, rng: np.random.Generator) -> tuple[float, float, float]:
-    """PF (auf % je Trade) der Strategie vs. zufällige Einstiege mit gleicher Haltedauer."""
-    sims = np.zeros((N_SIM, 0))
+    """PF (auf % je Trade) der Strategie vs. zufällige Einstiege mit gleicher Haltedauer.
+    Gewinne/Verluste je Durchlauf werden pro Wert aufsummiert (spart Speicher bei vielen Werten)."""
+    gains, losses = np.zeros(N_SIM), np.zeros(N_SIM)
     actual = []
     for sym, gs in g.groupby("symbol"):
         px = data.load(sym, "1d", "max")
@@ -106,12 +107,13 @@ def random_entry_test(g: pd.DataFrame, rng: np.random.Generator) -> tuple[float,
         hold, hi = hold[ok], hi[ok]
         actual.append(gs.pct.to_numpy()[ok])
         starts = rng.integers(lo, hi + 1, size=(N_SIM, len(hold)))
-        ret = close[starts + hold] / close[starts] - 1 - 2 * DEFAULT_COST
-        sims = np.concatenate([sims, 100 * ret], axis=1)
-    if sims.shape[1] == 0:
+        ret = 100 * (close[starts + hold] / close[starts] - 1 - 2 * DEFAULT_COST)
+        gains += np.where(ret > 0, ret, 0).sum(axis=1)
+        losses -= np.where(ret <= 0, ret, 0).sum(axis=1)
+    if not actual:
         return math.nan, math.nan, math.nan
     act = profit_factor(np.concatenate(actual))
-    sim_pf = np.array([profit_factor(row) for row in sims])
+    sim_pf = np.where(losses > 0, gains / np.where(losses > 0, losses, 1), math.inf)
     p = (1 + (sim_pf >= act).sum()) / (N_SIM + 1)
     return act, float(np.median(sim_pf)), float(p)
 
@@ -173,8 +175,9 @@ def analyze(name: str, g: pd.DataFrame, bear: pd.Series, rng, last_year: int) ->
     return row
 
 
-def main():
-    df = pd.read_csv(os.path.join(RESULTS, "trades.csv"))
+def main(src: str = "trades.csv", dst: str = "robustness.csv"):
+    """src/dst relativ zu results/ (großer Test: big/trades.csv.gz -> big/robustness.csv)."""
+    df = pd.read_csv(os.path.join(RESULTS, src))
     rng = np.random.default_rng(SEED)
     bear = bear_market_days()
     last_year = int(pd.to_datetime(df.entry_time, utc=True, format="mixed").dt.year.max())
@@ -194,7 +197,7 @@ def main():
 
     out["urteil"] = out.apply(verdict, axis=1)
     out = out.sort_values(["typ", "pf"], ascending=[False, False])
-    out.to_csv(os.path.join(RESULTS, "robustness.csv"), index=False)
+    out.to_csv(os.path.join(RESULTS, dst), index=False)
     with pd.option_context("display.width", 250, "display.max_columns", 30):
         print(out.to_string(index=False))
 

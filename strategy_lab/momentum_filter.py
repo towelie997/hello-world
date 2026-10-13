@@ -47,10 +47,12 @@ SEED = 7
 FILTERS = ["sma200", "abs_12_1", "rel_12_1", "rel_6m", "rs_spy_6m", "near_52w", "dual"]
 
 
-def momentum_flags() -> dict[str, pd.DataFrame]:
-    """{kriterium: DataFrame Datum x Symbol (bool)}, Stand jeweils Tagesschluss."""
-    close = pd.DataFrame({s: data.load(s, "1d", "max").Close for s in SWING}).sort_index()
-    close = close[close.index >= "1995-01-01"]
+def momentum_flags(universe=SWING) -> dict[str, pd.DataFrame]:
+    """{kriterium: DataFrame Datum x Symbol (bool)}, Stand jeweils Tagesschluss.
+    Feiertage verschiedener Börsen (DAX/USA): letzter Schluss wird bis zu 5 Tage fortgeschrieben."""
+    close = pd.DataFrame({s: data.load(s, "1d", "max").Close for s in universe}).sort_index()
+    close = close[close.index >= "1995-01-01"].ffill(limit=5)
+    spy = data.load("SPY", "1d", "max").Close.reindex(close.index).ffill(limit=5)
     r12_1 = close.shift(21) / close.shift(252) - 1
     r6 = close / close.shift(126) - 1
     rank = lambda x: x.rank(axis=1, pct=True) > 0.5
@@ -59,7 +61,7 @@ def momentum_flags() -> dict[str, pd.DataFrame]:
         "abs_12_1": r12_1 > 0,
         "rel_12_1": rank(r12_1) & r12_1.notna(),
         "rel_6m": rank(r6) & r6.notna(),
-        "rs_spy_6m": r6.gt(r6["SPY"], axis=0),
+        "rs_spy_6m": r6.gt(spy / spy.shift(126) - 1, axis=0),
         "near_52w": close >= 0.9 * close.rolling(252).max(),
     }
     f["dual"] = f["rel_12_1"] & f["abs_12_1"]
@@ -78,9 +80,10 @@ def flag_at_entry(flags: pd.DataFrame, g: pd.DataFrame) -> np.ndarray:
     return out
 
 
-def random_pf(g: pd.DataFrame, close: pd.DataFrame, allowed: pd.DataFrame, rng) -> np.ndarray:
+def random_pf(g: pd.DataFrame, close: pd.DataFrame, allowed: pd.DataFrame, rng,
+              n_sim: int = N_SIM) -> np.ndarray:
     """PF (in %) zufälliger Einstiege an erlaubten Tagen, gleiche Werte und Haltedauern."""
-    sims = []
+    gains, losses = np.zeros(n_sim), np.zeros(n_sim)
     for sym, gs in g.groupby("symbol"):
         px = close[sym].dropna()
         idx = px.index
@@ -92,23 +95,25 @@ def random_pf(g: pd.DataFrame, close: pd.DataFrame, allowed: pd.DataFrame, rng) 
         if len(ok_days) == 0:
             continue
         c = px.to_numpy()
-        starts = rng.choice(ok_days, size=(N_SIM, len(hold)))
+        starts = rng.choice(ok_days, size=(n_sim, len(hold)))
         ends = np.minimum(starts + hold, len(c) - 1)
-        sims.append(100 * (c[ends] / c[starts] - 1 - 2 * DEFAULT_COST))
-    sims = np.concatenate(sims, axis=1)
-    return np.array([profit_factor(row) for row in sims])
+        ret = 100 * (c[ends] / c[starts] - 1 - 2 * DEFAULT_COST)
+        gains += np.where(ret > 0, ret, 0).sum(axis=1)
+        losses -= np.where(ret <= 0, ret, 0).sum(axis=1)
+    return np.where(losses > 0, gains / np.where(losses > 0, losses, 1), np.inf)
 
 
-def main():
-    trades = pd.read_csv(os.path.join(RESULTS, "trades.csv"))
+def main(universe=SWING, src: str = "trades.csv", dst: str = "momentum_filter.csv",
+         n_sim: int = N_SIM):
+    trades = pd.read_csv(os.path.join(RESULTS, src))
     trades = trades[~trades.entry_time.str.contains(":") | trades.entry_time.str.endswith("00:00:00")]
-    flags, close = momentum_flags()
+    flags, close = momentum_flags(universe)
     everything = pd.DataFrame(True, index=close.index, columns=close.columns)
     rng = np.random.default_rng(SEED)
     rows = []
     for name, g in trades.groupby("strategy", sort=False):
         t = pd.to_datetime(g.entry_time, format="mixed")
-        if (g.side != "long").any() or t.dt.year.min() > 2008 or g.symbol.nunique() < len(SWING):
+        if (g.side != "long").any() or t.dt.year.min() > 2008 or g.symbol.nunique() < 0.9 * len(universe):
             continue
         last_year = t.dt.year.max()
         for fname in ["ohne Filter"] + FILTERS:
@@ -120,7 +125,7 @@ def main():
             yearly = [profit_factor(v.to_numpy()) for _, v in gf.r.groupby(tf.dt.year) if len(v) >= 5]
             recent = (tf.dt.year > last_year - RECENT_YEARS).to_numpy()
             act = profit_factor(gf.pct.to_numpy())
-            sim = random_pf(gf, close, everything if fname == "ohne Filter" else flags[fname], rng)
+            sim = random_pf(gf, close, everything if fname == "ohne Filter" else flags[fname], rng, n_sim)
             rows.append({
                 "strategie": name, "filter": fname, "trades": len(gf),
                 "anteil_%": round(100 * len(gf) / len(g)),
@@ -130,14 +135,14 @@ def main():
                 "avg_pct": round(gf.pct.mean(), 3),
                 "pf_pct": round(act, 2),
                 "pf_zufall_filter": round(float(np.median(sim)), 2),
-                "p_signal": (1 + (sim >= act).sum()) / (N_SIM + 1),
+                "p_signal": (1 + (sim >= act).sum()) / (n_sim + 1),
             })
     out = pd.DataFrame(rows)
     adj = holm({i: p for i, p in out.p_signal.items()})
     out["p_signal_holm"] = out.index.map(adj).round(4)
     base = out[out["filter"] == "ohne Filter"].set_index("strategie").pf
     out["pf_aenderung"] = (out.pf - out.strategie.map(base)).round(2)
-    out.to_csv(os.path.join(RESULTS, "momentum_filter.csv"), index=False)
+    out.to_csv(os.path.join(RESULTS, dst), index=False)
     with pd.option_context("display.width", 250, "display.max_columns", 30, "display.max_rows", 500):
         print(out.to_string(index=False))
         print("\nØ PF-Änderung je Filter (über alle Strategien):")
