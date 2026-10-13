@@ -14,6 +14,25 @@ def _ok(x) -> bool:
     return x is not None and not (isinstance(x, float) and math.isnan(x)) and x > 0
 
 
+def usd_per_base(account_values, base: str) -> float:
+    """Wechselkurs aus den Kontodaten von IBKR (Tag 'ExchangeRate', Währung USD =
+    Basiswährung je 1 USD) – braucht kein Marktdaten-Abo. Ersatz: Yahoo."""
+    for v in account_values:
+        if v.tag == "ExchangeRate" and v.currency == "USD":
+            try:
+                rate = float(v.value)
+            except ValueError:
+                continue
+            if rate > 0:
+                return 1.0 / rate
+    import yfinance as yf
+    px = yf.Ticker(f"{base}USD=X").history(period="5d").Close.dropna()
+    if px.empty:
+        raise RuntimeError(f"Kein Wechselkurs {base}USD (weder von IBKR noch von Yahoo)")
+    log.warning("Wechselkurs %sUSD von Yahoo: %.4f", base, px.iloc[-1])
+    return float(px.iloc[-1])
+
+
 class IBBroker:
     def __init__(self, cfg):
         from ib_async import IB
@@ -80,19 +99,8 @@ class IBBroker:
         vals = {(v.tag, v.currency): float(v.value) for v in self.ib.accountSummary()
                 if v.tag in ("NetLiquidation", "AvailableFunds")}
         base = next(cur for (tag, cur) in vals if tag == "NetLiquidation")
-        rate = 1.0 if base == "USD" else self._fx(base)
+        rate = 1.0 if base == "USD" else usd_per_base(self.ib.accountValues(), base)
         return vals[("NetLiquidation", base)] * rate, vals[("AvailableFunds", base)] * rate
-
-    def _fx(self, base: str) -> float:
-        from ib_async import Forex
-        c = Forex(f"{base}USD")
-        self.ib.qualifyContracts(c)
-        t = self.ib.reqMktData(c, "", snapshot=True)
-        for _ in range(20):
-            self.ib.sleep(0.5)
-            if _ok(t.marketPrice()):
-                return float(t.marketPrice())
-        raise RuntimeError(f"Kein Wechselkurs {base}USD")
 
     # Orders -----------------------------------------------------------------
     def cancel_open_orders(self, sym: str):

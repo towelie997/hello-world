@@ -128,6 +128,9 @@ def main(argv=None):
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s",
                         handlers=[logging.StreamHandler(),
                                   logging.FileHandler(os.path.join(cfg.state_dir, "bot.log"))])
+    # IBKR-Hinweise (verzögerte Daten, Verbindungsstatus) nicht einzeln protokollieren;
+    # echte Fehlermeldungen von IBKR bleiben sichtbar.
+    logging.getLogger("ib_async").setLevel(logging.ERROR)
     try:
         return run(cfg, a.mode, a.wait, a.offline)
     except Exception as e:

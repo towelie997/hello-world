@@ -103,3 +103,11 @@ def test_live_mode_refuses_too_late(monkeypatch, tmp_path):
     monkeypatch.setenv("CB_STATE_DIR", str(tmp_path))
     late = pd.Timestamp("2026-07-06 19:55", tz="UTC")                 # 15:55 NY
     assert bot_main.run(Config(), "paper", wait=False, offline=True, now=late) == 1
+
+
+def test_usd_per_base_from_account_values():
+    from types import SimpleNamespace as NS
+    from connors_bot.broker import usd_per_base
+    vals = [NS(tag="ExchangeRate", value="1.00", currency="EUR"),
+            NS(tag="ExchangeRate", value="0.8", currency="USD")]   # 1 USD = 0,80 EUR
+    assert usd_per_base(vals, "EUR") == pytest.approx(1.25)
