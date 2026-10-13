@@ -238,6 +238,35 @@ strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Index
    Liste, bei 20–40 % weniger Gesamtgewinn. Keine Trend-/Wochenstrategie wird mit einem Filter
    besser als zufällige Einstiege in dieselben Momentum-Aktien.
 
+## Connors RSI(2) mit Stop-Loss
+
+```bash
+python -m strategy_lab.connors_stops   # schreibt results/connors_stops.csv
+```
+
+Das Original hat keinen Stop. Getestet (vorab festgelegt): Stop 5 % / 10 % unter Einstieg,
+2 / 3 ATR(14) unter Einstieg, Zeit-Stop nach 10 Handelstagen. Der Ausstieg „Schluss > SMA5“
+bleibt immer aktiv; Preis-Stops werden ab dem Folgetag über das Tagestief geprüft, Kurslücken
+zur Eröffnung gefüllt.
+
+| 200 Werte | PF | Ø je Trade | Summe | 1-%-Quantil | Stop-Ausstiege | PF letzte 5 J. | Urteil |
+|---|---|---|---|---|---|---|---|
+| ohne Stop (Original) | **1,47** | +0,49 % | 6.880 % | −12,4 % | – | 1,24 | robust |
+| Zeit-Stop 10 Tage | 1,45 | +0,48 % | 6.741 % | −12,3 % | 2,9 % | 1,23 | robust |
+| Stop 10 % | 1,38 | +0,42 % | 5.906 % | −10,0 % | 5,2 % | 1,20 | robust |
+| Stop 3 ATR | 1,33 | +0,40 % | 5.605 % | −11,1 % | 10,2 % | 1,16 | robust |
+| Stop 2 ATR | 1,27 | +0,33 % | 4.864 % | −9,1 % | 20,0 % | 1,11 | robust |
+| Stop 5 % | 1,26 | +0,30 % | 4.380 % | −6,5 % | 18,3 % | 1,11 | robust |
+
+**Ergebnis (Stand 13.10.2026):** Jeder Stop **kostet Ertrag** – je enger, desto mehr (Stop 5 %:
+PF 1,47 → 1,26, Summe −36 %). Mean-Reversion kauft Schwäche; ein enger Stop verkauft genau
+die Trades, die sich danach erholen. Dafür werden die großen Einzelverluste kleiner (1-%-
+Quantil −12,4 % → −6,5 %). Der summierte Drawdown sinkt **nicht** (mehr, kleinere Verluste in
+Serie). **Kurslücken umgeht kein Stop:** Crashs über Nacht (z. B. OXY 2020 −53 %) werden zur
+Eröffnung gefüllt. Alle Varianten bleiben robust. Bester Kompromiss: **Stop 10 %** (PF 1,38,
+begrenzt die Verluste, 5 % der Trades gestoppt) oder kein Preis-Stop und stattdessen kleine
+Positionen. Auf 26 Werten gleiches Bild (Original 1,77, Stop 10 % 1,55, Stop 5 % 1,41).
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
@@ -245,6 +274,9 @@ strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Index
 - Video-Regeln sind oft unscharf („nah genug“, „bullische Kursbewegung“). Jede Annahme
   steht im Kopf der jeweiligen Datei unter `strategies/`.
 - Treffen Stop und Ziel in derselben Kerze, wird der Stop angenommen (konservativ).
+- Yahoo-Schlusskurse sind um Splits, aber nicht um Abspaltungen und Sonderdividenden
+  bereinigt; im großen Test gibt es drei solche Fehlsprünge (DB1.DE 2007, MO 2008, WY 2010).
+  Sie betreffen 1–3 Trades je Strategie und ändern die Profit-Faktoren um weniger als 0,01.
 - Fundamentaldaten und Marktkapitalisierung (z. B. bei Financial Wisdom) lassen sich mit
   Yahoo-Kursdaten nicht prüfen und wurden weggelassen.
 - Nicht getestet: [Tradeciety](https://youtu.be/dDLG5VEVRL8) – Strategie beruht auf
