@@ -25,7 +25,7 @@ from .strategies import (connors_rsi2, donchian_macd, ema50_pullback, ema_rsi_en
 from .universe import BIG
 
 OUT = os.path.join(RESULTS, "big")
-N_SIM_MOMENTUM = 2000
+N_SIM_MOMENTUM = 5000
 
 
 def main():
