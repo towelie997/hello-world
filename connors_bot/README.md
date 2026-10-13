@@ -59,6 +59,59 @@ Echtgeld nur mit echtem Konto **und** `CB_LIVE=JA`, Papier-Modus verweigert echt
 5. Zeitplan: `deploy/connors-bot.service` und `.timer` nach `/etc/systemd/system/`,
    dann `systemctl enable --now connors-bot.timer`.
 
+## Einrichtung auf einem Mac mini
+
+Der Mac mini eignet sich gut: leise, sparsam, immer an. Statt systemd nutzt macOS
+**launchd** (Dateien in `deploy/macos/`).
+
+**1. Mac dauerhaft wach halten** (Systemeinstellungen → Energie):
+- „Automatischen Ruhezustand verhindern, wenn der Bildschirm aus ist“ an
+- „Nach Stromausfall automatisch starten“ an
+- im Terminal zusätzlich: `sudo pmset -a sleep 0 disksleep 0 autorestart 1`
+- Automatische macOS-Updates mit Neustart ausschalten (nur Sicherheitsupdates von Hand,
+  am Wochenende).
+- Automatische Anmeldung des Benutzers einschalten (Benutzer & Gruppen), damit IB Gateway
+  nach einem Neustart wieder startet. Bei aktivem FileVault geht das nicht – dann nach
+  jedem Neustart einmal selbst anmelden.
+
+**2. Python und Bot:**
+```bash
+xcode-select --install                       # Git und Entwicklerwerkzeuge
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python@3.12
+git clone https://github.com/towelie997/hello-world.git ~/hello-world
+cd ~/hello-world && git checkout claude/quirky-cannon-ke5yz8
+python3.12 -m venv ~/venv-connors
+~/venv-connors/bin/pip install -r connors_bot/requirements.txt pytest
+~/venv-connors/bin/python -m pytest tests/test_connors_bot.py -q
+cp connors_bot/deploy/connors-bot.env.example ~/connors-bot.env
+```
+In `~/connors-bot.env` jede Zeile mit `export ` beginnen lassen (z. B.
+`export CB_MAX_POSITIONS=5`) und `export CB_MODE=paper` ergänzen.
+
+**3. IB Gateway + IBC:** IB Gateway (stabile Version, macOS) von der IBKR-Webseite
+installieren, IBC für macOS nach dessen Anleitung einrichten (Zugangsdaten des
+**Papierkontos** nur in der IBC-`config.ini`). In IB Gateway: API → Einstellungen →
+„ActiveX and Socket Clients“ an, Port 4002, nur 127.0.0.1, „Read-Only API“ **aus**.
+Hinweis: Für echte Konten verlangt IBKR regelmäßig eine Bestätigung per IBKR-Mobile-App
+(2FA) – beim Papierkonto entfällt das.
+
+**4. Zeitplan einrichten** (`DEINNAME` in beiden Dateien durch deinen Benutzernamen ersetzen):
+```bash
+cp connors_bot/deploy/macos/*.plist ~/Library/LaunchAgents/
+launchctl load ~/Library/LaunchAgents/com.connorsbot.ibgateway.plist
+launchctl load ~/Library/LaunchAgents/com.connorsbot.daily.plist
+```
+Der Bot startet Mo–Fr um 15:00 deutscher Zeit und wartet bis 20 Min. vor dem
+US-Börsenschluss (meist 21:40 bzw. 22:40 Uhr deutscher Zeit, an verkürzten Tagen früher).
+Protokolle: `~/Library/Logs/connors-bot.log` und `connors_bot/data/bot.log`.
+
+**5. Erster Test mit IB Gateway** (Papierkonto angemeldet):
+```bash
+cd ~/hello-world && ~/venv-connors/bin/python -m connors_bot.main --mode dry-run
+```
+Zeigt die Orders an, die heute gesendet würden – ohne zu handeln.
+
 ## Einstellungen (Umgebungsvariablen)
 
 | Variable | Standard | Bedeutung |

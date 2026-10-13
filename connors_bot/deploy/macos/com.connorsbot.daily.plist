@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Nach ~/Library/LaunchAgents/ kopieren, DEINNAME ersetzen, dann:
+     launchctl load ~/Library/LaunchAgents/com.connorsbot.daily.plist
+     launchd kennt keine Zeitzone: 15:00 deutscher Zeit (Mo–Fr) liegt immer vor dem
+     frühesten US-Schluss (13:00 New York = 19:00 MEZ). Der Bot wartet selbst. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.connorsbot.daily</string>
+  <key>ProgramArguments</key>
+  <array><string>/Users/DEINNAME/hello-world/connors_bot/deploy/macos/run_bot.sh</string></array>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>2</integer><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+  <key>StandardOutPath</key><string>/Users/DEINNAME/Library/Logs/connors-bot.log</string>
+  <key>StandardErrorPath</key><string>/Users/DEINNAME/Library/Logs/connors-bot.log</string>
+</dict>
+</plist>

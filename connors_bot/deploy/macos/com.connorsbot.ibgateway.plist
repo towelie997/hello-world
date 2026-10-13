@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Startet IB Gateway über IBC beim Anmelden und nach Abstürzen neu.
+     Pfad zum IBC-Skript an deine Installation anpassen (IBC-Anleitung für macOS). -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.connorsbot.ibgateway</string>
+  <key>ProgramArguments</key>
+  <array><string>/Users/DEINNAME/ibc/gatewaystartmacos.sh</string><string>-inline</string></array>
+  <key>RunAtLoad</key><true/>
+  <key>KeepAlive</key><true/>
+  <key>StandardOutPath</key><string>/Users/DEINNAME/Library/Logs/ibgateway.log</string>
+  <key>StandardErrorPath</key><string>/Users/DEINNAME/Library/Logs/ibgateway.log</string>
+</dict>
+</plist>
