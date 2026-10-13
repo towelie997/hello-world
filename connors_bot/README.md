@@ -88,10 +88,18 @@ cp connors_bot/deploy/connors-bot.env.example ~/connors-bot.env
 ```
 In `~/connors-bot.env` die Werte anpassen und die Zeile `CB_MODE=paper` ergänzen.
 
-**3. IB Gateway + IBC:** IB Gateway (stabile Version, macOS) von der IBKR-Webseite
-installieren, IBC für macOS nach dessen Anleitung einrichten (Zugangsdaten des
-**Papierkontos** nur in der IBC-`config.ini`). In IB Gateway: API → Einstellungen →
-„ActiveX and Socket Clients“ an, Port 4002, nur 127.0.0.1, „Read-Only API“ **aus**.
+**3. IB Gateway + IBC** (ausführlich mit allen Befehlen: siehe Chat bzw. IBC-`userguide.md`):
+- IB Gateway in der **Offline-Version** (nicht „latest“/selbst-aktualisierend – damit
+  funktioniert IBC nicht) für macOS installieren, Sprache Englisch. Es landet in
+  `~/Applications`. Einmal von Hand starten, mit dem Papierkonto anmelden und unter
+  *Help → About IB Gateway* die Version ablesen (z. B. `10.37` aus „Build 10.37.1f“).
+  Unter *Configure → Settings → API → Settings*: „Read-Only API“ **aus**, Socket-Port
+  **4002**, „Allow connections from localhost only“ **an**. Gateway beenden.
+- IBC (macOS-ZIP von github.com/IbcAlpha/IBC/releases) nach `/opt/ibc` entpacken,
+  Skripte ausführbar machen, `config.ini` nach `~/ibc/` kopieren und die Zeilen aus
+  `deploy/macos/ibc-config-aenderungen.txt` übernehmen.
+- In `/opt/ibc/gatewaystartmacos.sh` `TWS_MAJOR_VRSN` auf die abgelesene Version setzen.
+- Test: `/opt/ibc/gatewaystartmacos.sh -inline` – das Gateway muss sich selbst anmelden.
 Hinweis: Für echte Konten verlangt IBKR regelmäßig eine Bestätigung per IBKR-Mobile-App
 (2FA) – beim Papierkonto entfällt das.
 

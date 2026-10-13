@@ -1,0 +1,11 @@
+# Diese Zeilen in ~/ibc/config.ini ändern (die Datei stammt aus /opt/ibc/config.ini).
+# Jede Einstellung steht dort schon – nur den Wert hinter dem = ersetzen.
+
+IbLoginId=DEIN_PAPIER_BENUTZERNAME
+IbPassword=DEIN_PAPIER_PASSWORT
+TradingMode=paper
+AcceptNonBrokerageAccountWarning=yes
+ExistingSessionDetectedAction=primary
+ReadOnlyApi=no
+AcceptIncomingConnectionAction=reject
+AutoRestartTime=11:45 PM
