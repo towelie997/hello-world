@@ -86,8 +86,7 @@ python3.12 -m venv ~/venv-connors
 ~/venv-connors/bin/python -m pytest tests/test_connors_bot.py -q
 cp connors_bot/deploy/connors-bot.env.example ~/connors-bot.env
 ```
-In `~/connors-bot.env` jede Zeile mit `export ` beginnen lassen (z. B.
-`export CB_MAX_POSITIONS=5`) und `export CB_MODE=paper` ergänzen.
+In `~/connors-bot.env` die Werte anpassen und die Zeile `CB_MODE=paper` ergänzen.
 
 **3. IB Gateway + IBC:** IB Gateway (stabile Version, macOS) von der IBKR-Webseite
 installieren, IBC für macOS nach dessen Anleitung einrichten (Zugangsdaten des
