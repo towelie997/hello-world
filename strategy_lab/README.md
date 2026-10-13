@@ -300,7 +300,7 @@ RSI(2) zuerst. Barbestand ohne Zins. Kosten 0,01 % je Seite.
    Kandidaten ergibt gleich viel (N=10: 15,0–18,9 % über 8 Zufallsläufe, RSI-Auswahl 15,4 %).
    Die Unterschiede zwischen N=5/10/20 sind daher vor allem Zufall und Konzentration.
 4. **Kosten sind entscheidend:** 0,05 % statt 0,01 % je Seite kostet 4 Prozentpunkte p. a.
-   Ausführung im Schlussauktion (Market-on-Close) ohne Spread ist Pflicht.
+   Ausführung in der Schlussauktion (Market-on-Close) ohne Spread ist Pflicht.
 5. **Stop 10 % lohnt sich im Portfolio nicht** (außer leicht bei N=5).
 6. **Zuletzt schwächer:** letzte 5 Jahre 11–14 % p. a. – etwa wie Halten (12,2 %), 2026 bisher
    bei N=10 ±0 %.
