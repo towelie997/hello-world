@@ -267,6 +267,46 @@ Eröffnung gefüllt. Alle Varianten bleiben robust. Bester Kompromiss: **Stop 10
 begrenzt die Verluste, 5 % der Trades gestoppt) oder kein Preis-Stop und stattdessen kleine
 Positionen. Auf 26 Werten gleiches Bild (Original 1,77, Stop 10 % 1,55, Stop 5 % 1,41).
 
+## Connors RSI(2) als Portfolio mit Kapitalgrenze (alle S&P-500-Werte)
+
+```bash
+python -m strategy_lab.portfolio   # schreibt results/portfolio/ (summary, yearly, equity, trades)
+```
+
+Alle 503 aktuellen S&P-500-Werte (499 mit genug Historie), seit 2005. Höchstens N Positionen,
+jede 1/N des Depotwerts, Kauf/Verkauf zum Schluss, bei zu vielen Signalen niedrigster
+RSI(2) zuerst. Barbestand ohne Zins. Kosten 0,01 % je Seite.
+
+| Variante | Rendite p. a. | Max. Drawdown | Sharpe | 2008 | 2022 | Letzte 5 J. p. a. | Investiert |
+|---|---|---|---|---|---|---|---|
+| N=5, ohne Stop | 20,4 % | −35,6 % | 1,12 | −10,1 % | +10,7 % | 13,7 % | 80 % |
+| N=5, Stop 10 % | 20,0 % | −29,3 % | 1,15 | −13,7 % | +15,2 % | 13,8 % | 80 % |
+| N=10, ohne Stop | 15,4 % | −29,7 % | 1,01 | −20,1 % | +2,3 % | 11,2 % | 71 % |
+| N=10, Stop 10 % | 14,4 % | −28,3 % | 1,00 | −22,9 % | −3,1 % | 8,5 % | 71 % |
+| **N=20, ohne Stop** | **14,0 %** | **−19,6 %** | **1,09** | −5,2 % | −7,3 % | 12,4 % | 58 % |
+| N=20, Stop 10 % | 12,0 % | −22,2 % | 0,98 | −14,8 % | −14,1 % | 10,4 % | 58 % |
+| N=10, Kosten 0,05 % je Seite | 11,4 % | −31,5 % | 0,79 | −21,6 % | −0,4 % | 7,3 % | 71 % |
+| Vergleich: gleichgewichtet halten, gleiche Werte | 14,4 % | −52,1 % | 0,77 | −31,9 % | −11,8 % | 12,2 % | 100 % |
+| Vergleich: SPY halten (ohne Dividenden) | 9,0 % | −56,5 % | 0,55 | −38,3 % | −19,5 % | 12,4 % | 100 % |
+
+**Ergebnis (Stand 13.10.2026):**
+1. **Gleiche Rendite wie Halten, aber deutlich weniger Risiko.** Fairer Maßstab ist das
+   gleichgewichtete Halten derselben Werte (gleicher Survivorship-Bias): Connors mit 10–20
+   Positionen bringt 14–15 % p. a. wie das Halten (14,4 %), aber mit halbem Drawdown
+   (−20 bis −30 % statt −52 %), nur 58–71 % der Zeit investiert und besserem Sharpe.
+2. **Die absolute Rendite ist zu günstig:** heutige Indexmitglieder seit 2005
+   (Survivorship-Bias) – darum nur relativ zum gleichgewichteten Halten vergleichen.
+3. **Die Auswahl nach niedrigstem RSI(2) bringt nichts:** zufällige Auswahl unter den
+   Kandidaten ergibt gleich viel (N=10: 15,0–18,9 % über 8 Zufallsläufe, RSI-Auswahl 15,4 %).
+   Die Unterschiede zwischen N=5/10/20 sind daher vor allem Zufall und Konzentration.
+4. **Kosten sind entscheidend:** 0,05 % statt 0,01 % je Seite kostet 4 Prozentpunkte p. a.
+   Ausführung im Schlussauktion (Market-on-Close) ohne Spread ist Pflicht.
+5. **Stop 10 % lohnt sich im Portfolio nicht** (außer leicht bei N=5).
+6. **Zuletzt schwächer:** letzte 5 Jahre 11–14 % p. a. – etwa wie Halten (12,2 %), 2026 bisher
+   bei N=10 ±0 %.
+7. Empfehlung für einen Live-Test: **N=20, ohne Preis-Stop** – geringster Drawdown, bester
+   Sharpe, Rendite wie Halten.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
