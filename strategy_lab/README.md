@@ -149,6 +149,46 @@ Einziger Hinweis „zuletzt schwächer“: *QS 3 Swing-Regeln auf SPY* (1,53 sta
 115 Trades). Die Wochen-Strategien legen zuletzt stark zu, ihre Vergleiche ohne Signal aber
 genauso – das ist der starke Aktienmarkt seit 2023, kein Verdienst der Signale.
 
+## Momentum-Filter (Aktienauswahl)
+
+```bash
+python -m strategy_lab.momentum_filter   # nach run_all; schreibt results/momentum_filter.csv
+```
+
+Vor jede reine Long-Strategie (Tages-/Wochenkerzen, ganze SWING-Liste) wird ein
+Momentum-Filter geschaltet: Ein Trade bleibt nur, wenn die Aktie am Vortag (Wochen-
+strategien: in der Vorwoche) das Kriterium erfüllt. Sieben Kriterien mit Standardwerten
+aus der Literatur, nicht optimiert: über SMA200 · 12-1-Monats-Rendite > 0 · 12-1-Rendite in
+der oberen Hälfte der Liste · 6-Monats-Rendite in der oberen Hälfte · 6 Monate besser als
+SPY · höchstens 10 % unter dem 52-Wochen-Hoch · Dual Momentum (relativ + absolut).
+Kontrolle: Zufallstest mit 5.000 Durchläufen, zufällige Einstiege **nur an Tagen, an denen
+derselbe Filter erfüllt ist**, Holm-Korrektur über alle 96 Kombinationen.
+
+**Ergebnis (Stand 13.10.2026):**
+1. **Der Filter macht aus keiner Strategie eine robuste.** Alle Trendfolge- und
+   Wochenstrategien bleiben auch mit Filter nicht besser als zufällige Einstiege in
+   dieselben Momentum-Aktien. Robust bleiben nur *Connors RSI(2)*, *QS 3 Swing-Regeln* und
+   die „roter Tag“-Vergleiche – mit jedem Filter.
+2. **Bei den robusten Mean-Reversion-Strategien hilft relatives Momentum etwas:**
+   12-1-Rendite in der oberen Hälfte hebt *Connors RSI(2)* von 1,77 auf 1,95 und
+   *QS 3 Swing-Regeln* von 1,40 auf 1,58 (Rücksetzer bei starken Aktien kaufen). Bei QS
+   ist der Unterschied zwischen behaltenen und weggefilterten Trades klar (90-%-Intervall
+   +0,22 bis +0,46), bei Connors knapp (+0,06 bis +0,86). Aber: rund ein Drittel bis die
+   Hälfte der Trades fällt weg, die **Summe der Gewinne sinkt** (Connors 932 % statt
+   1.143 %, QS 4.130 % statt 6.104 %). In den letzten 5 Jahren bringt der Filter bei Connors
+   nichts (1,86 mit und ohne).
+3. **Am meisten im Schnitt bringen 6-Monats-Kriterien** (relativ zur Liste oder besser als
+   SPY: Ø +0,14 bis +0,16 PF, bei 92–100 % der Strategien positiv). Der Großteil davon steckt
+   aber schon im Zufallstest mit Filter (Ø +0,15 bis +0,19) – es ist der allgemeine
+   Momentum-Effekt, kein besseres Timing der Strategien.
+4. **Nähe zum 52-Wochen-Hoch schadet** (Ø −0,10). Absolutes Momentum und SMA200 ändern kaum
+   etwas (+0,04 / +0,05).
+5. Wochenstrategien schwanken mit Filter stark (−0,5 bis +0,8), weil oft nur 200–500 Trades
+   übrig bleiben – dort keine Schlüsse ziehen.
+
+Vorsicht: Die Bootstrap-Vergleiche in Punkt 2 wurden nach Sicht der Ergebnisse für die
+besten Filter gerechnet und sind daher optimistisch.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
