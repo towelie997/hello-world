@@ -189,6 +189,55 @@ derselbe Filter erfüllt ist**, Holm-Korrektur über alle 96 Kombinationen.
 Vorsicht: Die Bootstrap-Vergleiche in Punkt 2 wurden nach Sicht der Ergebnisse für die
 besten Filter gerechnet und sind daher optimistisch.
 
+## Großer Test: 200 Werte aus S&P 500 und DAX
+
+```bash
+python -m strategy_lab.big_test   # ca. 25 Min.; schreibt results/big/
+```
+
+Universum (`universe.py`): alle **40 DAX-Werte** + **160 S&P-500-Werte**, zufällig gezogen
+je GICS-Sektor (Seed 2026) – also nicht nach Erfolg ausgesucht. Alle Tages-/Wochen-
+strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Indexmitglieder
+(Survivorship-Bias bleibt), Bärenmarkt-Regel weiter über SPY.
+
+| Strategie | PF 26 Werte | PF 200 Werte | PF letzte 5 J. | Gewinnjahre | PF Strategie / Zufall | Urteil |
+|---|---|---|---|---|---|---|
+| Squeeze + EMA21/34 (1w) | 2,54 | **1,97** | 1,78 | 77 % | 2,11 / 2,30 | nein (3/4) |
+| Vergleich: EMA21/34 ohne Squeeze (1w) | 2,47 | **1,94** | 1,65 | 77 % | 2,15 / 2,26 | nein (3/4) |
+| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | 2,68 | **1,67** | 1,44 | 73 % | 1,81 / 2,02 | nein (3/4) |
+| Wochen-Ausbruch + MACD-Ausstieg (1w) | 1,88 | **1,49** | 1,36 | 68 % | 1,54 / 1,93 | nein (2/4) |
+| Connors RSI(2) (1d) | 1,77 | **1,47** | 1,24 | 82 % | 1,52 / 1,17 | robust |
+| Glow Ribbon Flip (1d, nur Long) | 1,46 | **1,37** | 1,18 | 77 % | 1,41 / 1,53 | nein (3/4) |
+| Vergleich: EMA21/34 ohne Squeeze (1d) | 1,50 | **1,32** | 1,20 | 73 % | 1,32 / 1,41 | nein (3/4) |
+| QS 3 Swing-Regeln (1d) | 1,40 | **1,29** | 1,20 | 95 % | 1,35 / 1,18 | robust |
+| EMA200 + RSI + Engulfing (1d) | 1,43 | **1,28** | 1,12 | 68 % | 1,35 / 1,63 | nein (2/4) |
+| Squeeze + EMA21/34 (1d) | 1,42 | **1,27** | 1,16 | 77 % | 1,29 / 1,43 | nein (3/4) |
+| Vergleich: grüne Kerze > EMA200 (1d) | 1,34 | **1,25** | 1,12 | 77 % | 1,32 / 1,62 | nein (3/4) |
+| Vergleich: Kauf nach rotem Tag (1d) | 1,28 | **1,23** | 1,13 | 82 % | 1,26 / 1,18 | robust |
+| Vergleich: roter Tag > SMA200 (1d) | 1,26 | **1,20** | 1,10 | 77 % | 1,22 / 1,14 | robust |
+| EMA50 Pullback (1d) | 1,14 | **1,01** | 0,91 | 48 % | 0,97 / 1,65 | nein (0/4) |
+| Glow Ribbon Flip (1d) | 1,07 | **1,01** | 0,98 | 45 % | 0,98 / 1,51 | nein (0/4) |
+| Donchian 50 + MACD (1d) | 1,14 | **0,99** | 0,81 | 59 % | 0,95 / 1,77 | nein (0/4) |
+| Vergleich: Donchian 50 ohne MACD (1d) | 1,14 | **0,99** | 0,82 | 59 % | 0,95 / 1,77 | nein (0/4) |
+| Vergleich: EMA21-Kreuz, fester Stop (1d) | 1,03 | **0,98** | 1,00 | 59 % | 0,97 / 1,22 | nein (0/4) |
+
+**Ergebnis (Stand 13.10.2026):**
+1. **Alle Profit-Faktoren sinken** gegenüber der kleinen Liste (z. B. Squeeze 1w 2,54 → 1,97,
+   Connors 1,77 → 1,47, QS 1,40 → 1,29) – die 26 Werte mit vielen Tech-Gewinnern waren zu
+   günstig.
+2. **Das Urteil bleibt gleich:** robust sind nur *Connors RSI(2)*, *QS 3 Swing-Regeln* und
+   die beiden „roter Tag“-Vergleiche. Alle Trend-/Wochenstrategien sind schlechter als
+   zufällige Einstiege mit gleicher Haltedauer.
+3. **Verlierer werden sichtbar:** *EMA50 Pullback*, *Glow Ribbon (Long+Short)* und
+   *Donchian 50 + MACD* liegen bei PF ≈ 1,0, zuletzt darunter.
+4. **Die robusten Strategien sind zuletzt schwächer:** Connors 1,24 und QS 1,20 in den
+   letzten 5 Jahren (gesamt 1,47 / 1,29).
+5. **DAX schwächer als USA:** Connors 1,34 (DAX) vs. 1,50 (USA), QS 1,07 vs. 1,36.
+6. **Momentum-Filter** (`results/big/momentum_filter.csv`, 5.000 Zufallsdurchläufe): relatives
+   12-1-Momentum hebt Connors auf 1,53 und QS auf 1,37 – deutlich weniger als auf der kleinen
+   Liste, bei 20–40 % weniger Gesamtgewinn. Keine Trend-/Wochenstrategie wird mit einem Filter
+   besser als zufällige Einstiege in dieselben Momentum-Aktien.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
