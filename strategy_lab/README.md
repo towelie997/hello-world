@@ -26,6 +26,8 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
 >    (`results/big/`), die 26 Werte aus `run_all` sind nur der schnelle Vortest. Tabelle im
 >    Abschnitt „Großer Test“ aktualisieren und in der Abschlussnachricht beide PF nennen.
 >    Day-Trading/Forex bleiben bei den kleinen Listen (Yahoo liefert dafür zu kurze Historie).
+>    Teil-Läufe nutzen die neuesten Kursdaten, ältere Strategien die vom letzten Volllauf –
+>    darum etwa monatlich einmal den kompletten großen Test laufen lassen.
 > 5. Vor dem Push `git pull --rebase origin claude/quirky-cannon-ke5yz8`, kein Force-Push.
 
 ## So liest man die Tabelle
