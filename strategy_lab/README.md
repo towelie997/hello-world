@@ -19,7 +19,14 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
 >    eigenen Testzeitraum wählen und keine Jahre oder Krisen ausschließen.
 > 3. Den Abschnitt „Robustheits-Prüfung“ unten aktualisieren und in der Abschlussnachricht
 >    für jede neue Strategie das Urteil (robust bzw. x/4 Kriterien) nennen.
-> 4. Vor dem Push `git pull --rebase origin claude/quirky-cannon-ke5yz8`, kein Force-Push.
+> 4. **Großer Test ist Pflicht** für jede neue Tages-/Wochenstrategie: in `big_test.py` in
+>    `jobs` eintragen (mit Vergleichs-Variante) und `python -m strategy_lab.big_test --only
+>    "<Name>"` ausführen (ersetzt nur deren Trades, rechnet Robustheit und Momentum-Filter
+>    für alle neu). **Maßgeblich für Rangliste und Urteil „robust“ sind die 200 Werte**
+>    (`results/big/`), die 26 Werte aus `run_all` sind nur der schnelle Vortest. Tabelle im
+>    Abschnitt „Großer Test“ aktualisieren und in der Abschlussnachricht beide PF nennen.
+>    Day-Trading/Forex bleiben bei den kleinen Listen (Yahoo liefert dafür zu kurze Historie).
+> 5. Vor dem Push `git pull --rebase origin claude/quirky-cannon-ke5yz8`, kein Force-Push.
 
 ## So liest man die Tabelle
 
@@ -36,6 +43,9 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
   Strategie nicht besser als ihr Vergleich, bringt das Signal nichts.
 
 ## Rangliste (Stand 12.10.2026)
+
+> Schneller Vortest mit 26 Werten (`run_all`). Für Tages-/Wochenstrategien zählt die
+> Tabelle im Abschnitt **„Großer Test: 200 Werte aus S&P 500 und DAX“** weiter unten.
 
 | Strategie | Quelle | Daten | Trades | Treffer | Ø je Trade | Profit-Faktor | Max. DD |
 |---|---|---|---|---|---|---|---|

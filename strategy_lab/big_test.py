@@ -1,6 +1,11 @@
 """Großer Test: alle Tages-/Wochenstrategien auf 200 Werten aus S&P 500 und DAX.
 
-    python -m strategy_lab.big_test        (aus dem Repo-Hauptordner, dauert lange)
+    python -m strategy_lab.big_test                  alle Strategien (~25 Min.)
+    python -m strategy_lab.big_test --only "Connors"  nur Jobs, deren Name den Text enthält;
+                                                      ersetzt deren Trades, Rest bleibt
+
+Pflicht im wöchentlichen Lauf für jede neue Tages-/Wochenstrategie (siehe README):
+neue Strategie in `jobs` unten eintragen (mit Vergleichs-Variante) und mit --only testen.
 
 Universum: strategy_lab/universe.py (40 DAX + 160 zufällig gezogene S&P-500-Werte).
 Schreibt nach results/big/: trades.csv.gz, ranking.csv, per_symbol.csv,
@@ -11,6 +16,7 @@ Intraday- und Forex-Strategien sind nicht enthalten (Yahoo liefert dafür zu wen
 
 from __future__ import annotations
 
+import argparse
 import os
 import time
 from dataclasses import asdict
@@ -28,7 +34,11 @@ OUT = os.path.join(RESULTS, "big")
 N_SIM_MOMENTUM = 5000
 
 
-def main():
+def main(argv=None):
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--only", action="append", default=[],
+                    help="nur Jobs, deren Name diesen Text enthält (mehrfach möglich)")
+    args = ap.parse_args(argv)
     U = BIG
     jobs = [
         ("EMA/RSI/Engulf 1d", lambda: ema_rsi_engulf.run(U, "1d", "max")),
@@ -50,6 +60,10 @@ def main():
         ("Donchian+MACD", lambda: donchian_macd.run(U)),
         ("Vergleich Donchian", lambda: donchian_macd.run(U, baseline=True)),
     ]
+    if args.only:
+        jobs = [j for j in jobs if any(o.lower() in j[0].lower() for o in args.only)]
+        if not jobs:
+            raise SystemExit(f"Kein Job passt zu {args.only}")
     all_trades = []
     for label, fn in jobs:
         t0 = time.time()
@@ -58,7 +72,12 @@ def main():
         all_trades += trades
 
     df = pd.DataFrame([asdict(t) for t in all_trades])
-    df["_t"] = pd.to_datetime(df.entry_time)
+    old_path = os.path.join(OUT, "trades.csv.gz")
+    if args.only and os.path.exists(old_path):
+        # nur die neu gerechneten Strategien ersetzen, alle anderen behalten
+        old = pd.read_csv(old_path)
+        df = pd.concat([old[~old.strategy.isin(set(df.strategy))], df], ignore_index=True)
+    df["_t"] = pd.to_datetime(df.entry_time)  # gleiche Reihenfolge wie beim Volllauf
     df = df.sort_values(["strategy", "_t"], kind="stable").drop(columns="_t").reset_index(drop=True)
     os.makedirs(OUT, exist_ok=True)
     df.to_csv(os.path.join(OUT, "trades.csv.gz"), index=False)
