@@ -363,6 +363,56 @@ Einstiegs zur TOP 200 gehört. Gleiche Regeln, Kosten und Robustheits-Kriterien.
    repräsentativ. Die TOP-200-Auswahl ist näher an dem, was live gehandelt wird (große,
    liquide Werte) und vermeidet die nachträgliche Auswahl nach Größe.
 
+## Hedgefonds- und Quant-Strategien (Portfolio-Backtest)
+
+```bash
+python -m strategy_lab.quant.run   # ~45 Min.; schreibt results/quant/
+```
+
+Neun klassische, regelbasierte Strategien aus Forschung und Fondspraxis (Quellen und Regeln im
+Kopf von `quant/strategies.py` und `quant/pairs.py`): Aktien-Momentum (Jegadeesh/Titman, AQR),
+Clenow „Stocks on the Move“, niedrige Schwankung (Frazzini/Pedersen), Kurzfrist-Umkehr
+(Lehmann), Trendfolge über Anlageklassen (Moskowitz/Ooi/Pedersen – CTAs wie Man AHL), Dual
+Momentum (Antonacci), Risk Parity (Bridgewater-Idee), Monatswechsel-Effekt, Paarhandel (Gatev
+et al.). Aktien aus der monatlichen TOP 200, Kurse **inkl. Dividenden**, freies Geld verzinst
+wie SHY, Kosten 0,05 % (Aktien) bzw. 0,02 % (ETFs) je Umschichtung, seit 2005 bzw. erstem Signal.
+Nicht testbar mit freien Daten: Value/Quality (Bilanzdaten), Hochfrequenz/Spezialdaten.
+
+**„Robust“ (vorab festgelegt):** höhere Sharpe-Quote als der Vergleich (Aktien: TOP 200
+gleichgewichtet; sonst 60/40 SPY/IEF) · besser in ≥ 3 von 4 Zeitabschnitten · alle
+Nachbar-Parameter besser · Aktienauswahl zusätzlich besser als 100 Zufallsportfolios (Holm).
+
+| Strategie | Rendite p. a. | Sharpe | Max. DD | letzte 5 J. p. a. | Sharpe Vergleich | Abschnitte besser | Urteil |
+|---|---|---|---|---|---|---|---|
+| Aktien-Momentum 12-1 | 20,3 % | 0,72 | -59,9 % | 35,9 % | 0,61 | 4/4 | robust |
+| Clenow Stocks on the Move | 10,3 % | 0,57 | -24,8 % | 7,3 % | 0,61 | 1/4 | nein (1/4) |
+| Niedrige Schwankung | 9,5 % | 0,58 | -37,9 % | 6,6 % | 0,61 | 2/4 | nein (0/4) |
+| Kurzfrist-Umkehr (Wochenverlierer) | 19,2 % | 0,66 | -57,7 % | 19,7 % | 0,61 | 1/4 | nein (2/4) |
+| Trendfolge Anlageklassen (TSMOM) | 4,7 % | 0,56 | -11,9 % | 3,6 % | 0,60 | 1/4 | nein (0/3) |
+| Dual Momentum GEM | 8,4 % | 0,47 | -35,9 % | 6,8 % | 0,59 | 1/4 | nein (0/3) |
+| Risk Parity (All-Weather-Idee) | 5,9 % | 0,64 | -18,9 % | 4,4 % | 0,61 | 2/4 | nein (2/3) |
+| Monatswechsel-Effekt SPY | 3,6 % | 0,24 | -14,9 % | 3,0 % | 0,59 | 1/4 | nein (0/3) |
+| Paarhandel (Gatev et al.) | 3,2 % | 0,23 | -15,0 % | 3,4 % | 0,59 | 0/4 | nein (0/3) |
+| Vergleich: TOP 200 gleichgewichtet | 13,2 % | 0,61 | -57,5 % | 13,6 % | – | – | – |
+| Vergleich: 60 % SPY / 40 % IEF | 8,1 % | 0,59 | -32,6 % | 7,2 % | – | – | – |
+| Vergleich: SPY | 10,9 % | 0,53 | -55,2 % | 13,1 % | – | – | – |
+
+**Ergebnis (Stand 15.10.2026):**
+1. **Nur Aktien-Momentum 12-1 besteht alle Prüfungen** (20,3 % p. a., Sharpe 0,72 vs. 0,61,
+   in allen 4 Zeitabschnitten besser, alle Nachbar-Parameter besser, besser als alle 100
+   Zufallsportfolios). **Aber:** größter Einbruch −60 % (2008: −47 %), sehr konzentriert auf
+   die Gewinner des Moments (2024: +73 %, 2026 bisher +78 %) – Rückschläge wie der
+   „Momentum-Crash“ 2009 (+17 % gegenüber +39 % des Markts) gehören dazu.
+2. **Kurzfrist-Umkehr** hat eine gute Sharpe (0,66), ist aber nur in 1 von 4 Abschnitten besser.
+3. **Risk Parity** hat die beste Sharpe der Mischportfolios (0,64) bei −19 % Einbruch, aber
+   nur 5,9 % p. a. – nicht in allen Abschnitten besser als 60/40.
+4. **Trendfolge (TSMOM)** schützt am besten (−12 % Einbruch, 2008 positiv), bringt ohne Hebel
+   aber nur 4,7 % p. a.; Fonds setzen dafür Hebel ein.
+5. Clenow, niedrige Schwankung, Dual Momentum, Monatswechsel und Paarhandel schlagen ihren
+   Vergleich nicht. Paarhandel ist seit den 2000ern bekannt und nach Kosten fast ausgereizt.
+6. Survivorship-Bias bleibt (Pool = heutige Indexmitglieder) – trifft Momentum vermutlich
+   stärker, weil abgestürzte frühere Gewinner fehlen.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.

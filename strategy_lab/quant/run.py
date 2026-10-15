@@ -91,7 +91,8 @@ def main():
     bench_stock, _ = backtest(ew_t, pc, cash, 0.0005, start=START)
     b6040_t = pd.DataFrame({d: {"SPY": 0.6, "IEF": 0.4} for d in S.month_ends(cal)}).T
     bench_etf, _ = backtest(b6040_t, ec, cash, 0.0002, start=START)
-    spy, _ = backtest(pd.DataFrame({cal[0]: {"SPY": 1.0}}).T, ec, cash, 0, start=START)
+    first = cal[cal >= pd.Timestamp(START)][0]
+    spy, _ = backtest(pd.DataFrame({first: {"SPY": 1.0}}).T, ec, cash, 0, start=first)
 
     stock = {
         "Aktien-Momentum 12-1": (lambda **k: S.momentum(pc, elig, **k), {},
