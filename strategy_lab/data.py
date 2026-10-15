@@ -30,6 +30,10 @@ def load(symbol: str, interval: str, period: str) -> pd.DataFrame:
         return df
     if isinstance(df.columns, pd.MultiIndex):
         df.columns = df.columns.get_level_values(0)
+    if interval == "1d" and "Volume" in df:
+        vol = df["Volume"].copy()
+        vol.index = pd.to_datetime(vol.index).tz_localize(None).normalize()
+        vol.to_pickle(path.replace(".pkl", "_vol.pkl"))
     df = df[["Open", "High", "Low", "Close"]].dropna()
     if interval.endswith(("m", "h")):
         df.index = df.index.tz_convert(NY)
@@ -37,6 +41,17 @@ def load(symbol: str, interval: str, period: str) -> pd.DataFrame:
         df.index = pd.to_datetime(df.index).tz_localize(None).normalize()
     df.to_pickle(path)
     return df
+
+
+def load_volume(symbol: str) -> pd.Series:
+    """Tägliche Stückzahl (Volume); wird beim Laden der Tageskerzen mitgespeichert."""
+    path = os.path.join(CACHE_DIR, f"{symbol}_1d_max_vol.pkl".replace("=", "_"))
+    price = os.path.join(CACHE_DIR, f"{symbol}_1d_max.pkl".replace("=", "_"))
+    if not os.path.exists(path) and os.path.exists(price):
+        os.remove(price)                       # Kurs-Cache ohne Volumen -> neu laden
+    if not os.path.exists(path):
+        load(symbol, "1d", "max")
+    return pd.read_pickle(path) if os.path.exists(path) else pd.Series(dtype=float)
 
 
 def regular_session(df: pd.DataFrame) -> pd.DataFrame:

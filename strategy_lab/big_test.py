@@ -34,13 +34,9 @@ OUT = os.path.join(RESULTS, "big")
 N_SIM_MOMENTUM = 5000
 
 
-def main(argv=None):
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--only", action="append", default=[],
-                    help="nur Jobs, deren Name diesen Text enthält (mehrfach möglich)")
-    args = ap.parse_args(argv)
-    U = BIG
-    jobs = [
+def jobs_for(U):
+    """Alle Tages-/Wochenstrategien als (Name, Funktion) für das Universum U."""
+    return [
         ("EMA/RSI/Engulf 1d", lambda: ema_rsi_engulf.run(U, "1d", "max")),
         ("Vergleich 1d", lambda: ema_rsi_engulf.run(U, "1d", "max", baseline=True)),
         ("EMA50 Pullback 1d", lambda: ema50_pullback.run(U, "1d", "max")),
@@ -60,6 +56,14 @@ def main(argv=None):
         ("Donchian+MACD", lambda: donchian_macd.run(U)),
         ("Vergleich Donchian", lambda: donchian_macd.run(U, baseline=True)),
     ]
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--only", action="append", default=[],
+                    help="nur Jobs, deren Name diesen Text enthält (mehrfach möglich)")
+    args = ap.parse_args(argv)
+    jobs = jobs_for(BIG)
     if args.only:
         jobs = [j for j in jobs if any(o.lower() in j[0].lower() for o in args.only)]
         if not jobs:
