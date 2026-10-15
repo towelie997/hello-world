@@ -111,3 +111,27 @@ def test_usd_per_base_from_account_values():
     vals = [NS(tag="ExchangeRate", value="1.00", currency="EUR"),
             NS(tag="ExchangeRate", value="0.8", currency="USD")]   # 1 USD = 0,80 EUR
     assert usd_per_base(vals, "EUR") == pytest.approx(1.25)
+
+
+def test_gateway_starts_waits_for_port_and_stops(tmp_path):
+    import socket, sys, time
+    from connors_bot.gateway import Gateway, port_open
+    with socket.socket() as sk:                      # freien Port finden
+        sk.bind(("127.0.0.1", 0))
+        port = sk.getsockname()[1]
+    cmd = f"{sys.executable} -m http.server {port} --bind 127.0.0.1"   # Ersatz für IB Gateway
+    gw = Gateway(cmd, "127.0.0.1", port, str(tmp_path / "gw.log"))
+    t0 = time.time()
+    gw.start(timeout=30)
+    assert port_open("127.0.0.1", port)
+    pid = gw.proc.pid
+    gw.stop()
+    time.sleep(0.5)
+    assert not port_open("127.0.0.1", port)
+    import os
+    try:
+        os.kill(pid, 0)
+        alive = True
+    except ProcessLookupError:
+        alive = False
+    assert not alive

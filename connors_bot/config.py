@@ -32,6 +32,9 @@ class Config:
     ib_client_id: int = field(default_factory=lambda: _env("CB_IB_CLIENT_ID", 17, int))
     market_data_type: int = field(default_factory=lambda: _env("CB_MARKET_DATA_TYPE", 1, int))
     snapshot_batch: int = field(default_factory=lambda: _env("CB_SNAPSHOT_BATCH", 80, int))
+    # IB Gateway nur bei Bedarf: Startbefehl (leer = Gateway läuft dauerhaft separat)
+    gateway_start_cmd: str = field(default_factory=lambda: _env("CB_GATEWAY_START_CMD", ""))
+    gateway_lead_minutes: int = field(default_factory=lambda: _env("CB_GATEWAY_LEAD_MINUTES", 10, int))
     # Dateien und Benachrichtigung
     state_dir: str = field(default_factory=lambda: _env(
         "CB_STATE_DIR", os.path.join(os.path.dirname(__file__), "data")))

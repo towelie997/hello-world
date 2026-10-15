@@ -21,6 +21,7 @@ import pandas as pd
 from . import marketdata, notify, planner, signals, state as st
 from .broker import IBBroker, OfflineBroker
 from .config import Config
+from .gateway import Gateway
 from .universe import sp500
 
 log = logging.getLogger("connors_bot")
@@ -44,10 +45,35 @@ def run(cfg: Config, mode: str, wait: bool, offline: bool, now=None) -> int:
         log.info("Heute (%s) kein Handelstag an der NYSE – nichts zu tun", today.date())
         return 0
     target = close - pd.Timedelta(minutes=cfg.minutes_before_close)
-    if wait and now < target:
-        secs = (target - now).total_seconds()
-        log.info("Warte bis %s New York (%.0f Min.)", target.tz_convert(NY).strftime("%H:%M"), secs / 60)
+    if mode != "dry-run" and st.load(cfg.state_dir).last_run == str(today.date()):
+        log.info("Heute schon gehandelt – Ende")
+        return 0
+    gw = None
+    if cfg.gateway_start_cmd and not offline:
+        if wait:
+            _sleep_until(target - pd.Timedelta(minutes=cfg.gateway_lead_minutes), "Gateway-Start")
+        gw = Gateway(cfg.gateway_start_cmd, cfg.ib_host, cfg.ib_port,
+                     os.path.join(cfg.state_dir, "gateway.log"))
+        gw.start()
+    try:
+        return _run_session(cfg, mode, wait, offline, today, close, target, now)
+    finally:
+        if gw:
+            gw.stop()
+
+
+def _sleep_until(when: pd.Timestamp, what: str) -> None:
+    now = pd.Timestamp(datetime.now(timezone.utc))
+    if now < when:
+        secs = (when - now).total_seconds()
+        log.info("Warte bis %s New York (%s, %.0f Min.)", when.tz_convert(NY).strftime("%H:%M"),
+                 what, secs / 60)
         time.sleep(secs)
+
+
+def _run_session(cfg, mode, wait, offline, today, close, target, now) -> int:
+    if wait:
+        _sleep_until(target, "Handel")
         now = pd.Timestamp(datetime.now(timezone.utc))
     if mode != "dry-run" and now > close - pd.Timedelta(minutes=MOC_CUTOFF_MIN + 2):
         notify.send(cfg, f"Zu spät für MOC-Orders ({now.tz_convert(NY):%H:%M} NY) – kein Handel heute")

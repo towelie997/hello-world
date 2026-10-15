@@ -40,9 +40,17 @@ class IBBroker:
         self._contracts = {}
 
     # Verbindung -------------------------------------------------------------
-    def connect(self):
-        self.ib.connect(self.cfg.ib_host, self.cfg.ib_port, clientId=self.cfg.ib_client_id,
-                        timeout=20)
+    def connect(self, attempts: int = 3):
+        for k in range(attempts):
+            try:
+                self.ib.connect(self.cfg.ib_host, self.cfg.ib_port,
+                                clientId=self.cfg.ib_client_id, timeout=20)
+                break
+            except Exception as e:  # Gateway kann kurz nach dem Start noch nicht bereit sein
+                if k == attempts - 1:
+                    raise
+                log.warning("Verbindung zu IB Gateway fehlgeschlagen (%s) – neuer Versuch", e)
+                self.ib.sleep(20)
         self.ib.reqMarketDataType(self.cfg.market_data_type)
 
     def disconnect(self):

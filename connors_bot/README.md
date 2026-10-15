@@ -103,19 +103,26 @@ In `~/connors-bot.env` die Werte anpassen und die Zeile `CB_MODE=paper` ergänze
 Hinweis: Für echte Konten verlangt IBKR regelmäßig eine Bestätigung per IBKR-Mobile-App
 (2FA) – beim Papierkonto entfällt das.
 
-**4. Zeitplan einrichten** (`DEINNAME` in beiden Dateien durch deinen Benutzernamen ersetzen):
+**4. Zeitplan einrichten** (`DEINNAME` wird automatisch ersetzt):
 ```bash
-cp connors_bot/deploy/macos/*.plist ~/Library/LaunchAgents/
-launchctl load ~/Library/LaunchAgents/com.connorsbot.ibgateway.plist
-launchctl load ~/Library/LaunchAgents/com.connorsbot.daily.plist
+cp connors_bot/deploy/macos/com.connorsbot.daily.plist ~/Library/LaunchAgents/
+sed -i '' "s/DEINNAME/$(whoami)/g" ~/Library/LaunchAgents/com.connorsbot.daily.plist
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.connorsbot.daily.plist
 ```
-Der Bot startet Mo–Fr um 15:00 deutscher Zeit und wartet bis 20 Min. vor dem
-US-Börsenschluss (meist 21:40 bzw. 22:40 Uhr deutscher Zeit, an verkürzten Tagen früher).
-Protokolle: `~/Library/Logs/connors-bot.log` und `connors_bot/data/bot.log`.
+Der Bot startet Mo–Fr um 15:00 deutscher Zeit und wartet. **Das IB Gateway startet er
+selbst erst 30 Min. vor dem US-Schluss** (meist 21:30 Uhr deutscher Zeit, Einstellung
+`CB_GATEWAY_START_CMD` in `~/connors-bot.env`), sendet die Market-on-Close-Orders und
+**beendet das Gateway danach wieder** (gegen ca. 21:45 Uhr). Die Orders liegen dann bei
+IBKR und werden zum Schluss ausgeführt. Den Rest des Tages ist der Zugang für die
+IBKR-App frei. Ist man gerade in der App angemeldet, übernimmt das Gateway für diese
+Viertelstunde (`ExistingSessionDetectedAction=primary` in der IBC-`config.ini`).
+Protokolle: `~/Library/Logs/connors-bot.log`, `connors_bot/data/bot.log`,
+`connors_bot/data/gateway.log`.
 
-**5. Erster Test mit IB Gateway** (Papierkonto angemeldet):
+**5. Erster Test** (der Bot startet das Gateway selbst und beendet es danach):
 ```bash
-cd ~/hello-world && ~/venv-connors/bin/python -m connors_bot.main --mode dry-run
+cd ~/hello-world && set -a && source ~/connors-bot.env && set +a
+~/venv-connors/bin/python -m connors_bot.main --mode dry-run
 ```
 Zeigt die Orders an, die heute gesendet würden – ohne zu handeln.
 
@@ -130,6 +137,8 @@ Zeigt die Orders an, die heute gesendet würden – ohne zu handeln.
 | `CB_IB_PORT` | 4002 | IB Gateway Papier 4002 / echt 4001; TWS 7497 / 7496 |
 | `CB_MARKET_DATA_TYPE` | 1 | 1 = Echtzeit (Abo nötig), 3 = verzögert (nur zum Testen) |
 | `CB_TELEGRAM_TOKEN`, `CB_TELEGRAM_CHAT_ID` | – | Nachrichten aufs Handy |
+| `CB_GATEWAY_START_CMD` | – | Befehl, mit dem der Bot das Gateway selbst startet und danach beendet (Mac: `/opt/ibc/gatewaystartmacos.sh -inline`) |
+| `CB_GATEWAY_LEAD_MINUTES` | 10 | so viele Minuten vor dem Handelszeitpunkt startet das Gateway |
 
 ## Bekannte Grenzen
 
