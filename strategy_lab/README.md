@@ -319,6 +319,50 @@ RSI(2) zuerst. Barbestand ohne Zins. Kosten 0,01 % je Seite.
 7. Empfehlung für einen Live-Test: **N=20, ohne Preis-Stop** – geringster Drawdown, bester
    Sharpe, Rendite wie Halten.
 
+## TOP 200 nach Liquidität (monatlich, ohne Blick in die Zukunft)
+
+```bash
+python -m strategy_lab.top200   # ~1 Std.; schreibt results/top200/
+```
+
+Pool: alle aktuellen S&P-500- und DAX-Werte (~540). Zu jedem Monatsanfang die 200 Werte mit
+dem höchsten Ø Tagesumsatz in USD der 63 Handelstage **vor** dem Monat (447 verschiedene Werte
+waren seit 2003 mindestens einmal dabei). Ein Trade zählt nur, wenn die Aktie im Monat des
+Einstiegs zur TOP 200 gehört. Gleiche Regeln, Kosten und Robustheits-Kriterien.
+
+| Strategie | PF zufällige 200 | PF TOP 200 | PF ganzer Pool | TOP 200 letzte 5 J. | Urteil zufällig | Urteil TOP 200 |
+|---|---|---|---|---|---|---|
+| Squeeze + EMA21/34 (1w) | 1,97 | **1,85** | 2,10 | 1,57 | nein (3/4) | nein (3/4) |
+| Vergleich: EMA21/34 ohne Squeeze (1w) | 1,94 | **1,73** | 1,96 | 1,75 | nein (3/4) | nein (3/4) |
+| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | 1,67 | **1,54** | 1,67 | 1,40 | nein (3/4) | nein (3/4) |
+| Connors RSI(2) (1d) | 1,47 | **1,53** | 1,48 | 1,28 | robust | robust |
+| Wochen-Ausbruch + MACD-Ausstieg (1w) | 1,49 | **1,38** | 1,51 | 1,30 | nein (2/4) | nein (3/4) |
+| Glow Ribbon Flip (1d, nur Long) | 1,37 | **1,31** | 1,37 | 1,17 | nein (3/4) | nein (3/4) |
+| QS 3 Swing-Regeln (1d) | 1,29 | **1,31** | 1,32 | 1,22 | robust | robust |
+| Vergleich: EMA21/34 ohne Squeeze (1d) | 1,32 | **1,25** | 1,30 | 1,19 | nein (3/4) | nein (2/4) |
+| Squeeze + EMA21/34 (1d) | 1,27 | **1,24** | 1,28 | 1,12 | nein (3/4) | nein (3/4) |
+| EMA200 + RSI + Engulfing (1d) | 1,28 | **1,22** | 1,28 | 1,13 | nein (2/4) | nein (3/4) |
+| Vergleich: Kauf nach rotem Tag (1d) | 1,23 | **1,22** | 1,25 | 1,13 | robust | robust |
+| Vergleich: roter Tag > SMA200 (1d) | 1,20 | **1,21** | 1,22 | 1,11 | robust | robust |
+| Vergleich: grüne Kerze > EMA200 (1d) | 1,25 | **1,20** | 1,26 | 1,11 | nein (3/4) | nein (3/4) |
+| Vergleich: EMA21-Kreuz, fester Stop (1d) | 0,98 | **0,99** | 0,98 | 0,99 | nein (0/4) | nein (0/4) |
+| EMA50 Pullback (1d) | 1,01 | **0,99** | 1,00 | 0,88 | nein (0/4) | nein (0/4) |
+| Glow Ribbon Flip (1d) | 1,01 | **0,98** | 1,00 | 0,95 | nein (0/4) | nein (0/4) |
+| Vergleich: Donchian 50 ohne MACD (1d) | 0,99 | **0,94** | 0,99 | 0,83 | nein (0/4) | nein (0/4) |
+| Donchian 50 + MACD (1d) | 0,99 | **0,93** | 0,99 | 0,83 | nein (0/4) | nein (0/4) |
+
+**Ergebnis (Stand 15.10.2026):**
+1. **Das Urteil ändert sich bei keiner Strategie:** robust bleiben nur *Connors RSI(2)*,
+   *QS 3 Swing-Regeln* und die beiden „roter Tag“-Vergleiche.
+2. **Connors RSI(2) wird mit den liquidesten Werten etwas besser** (1,47 → 1,53, letzte 5
+   Jahre 1,24 → 1,28) – Rücksetzer bei großen, viel gehandelten Aktien erholen sich
+   zuverlässiger. QS leicht besser (1,29 → 1,31).
+3. **Trend- und Wochenstrategien werden schlechter** (Squeeze 1w 1,97 → 1,85, Ausbruch
+   1,67 → 1,54): Ihr Gewinn kam zum Teil aus kleineren Werten mit starken Kursläufen.
+4. Zufällige 200 und ganzer Pool liegen fast gleich – die bisherige Zufallsauswahl war
+   repräsentativ. Die TOP-200-Auswahl ist näher an dem, was live gehandelt wird (große,
+   liquide Werte) und vermeidet die nachträgliche Auswahl nach Größe.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
