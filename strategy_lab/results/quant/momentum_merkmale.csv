@@ -1,0 +1,13 @@
+merkmal,beschreibung,quelle,ic_2005_15,t_2005_15,p_holm_2005_15,ic_2016_26,t_2016_26,p_2016_26,monate_ic_pos_%,entdeckt,bestaetigt
+mom_12_1,12-1-Rendite selbst (stärkste Gewinner),Jegadeesh & Titman 1993,0.015,0.88,1.0,0.027,1.28,0.1005,59,False,False
+gleichmaessig,gleichmäßiger Anstieg statt Sprünge (−Informations-Diskretheit),"Da, Gurun & Warachka 2014 'Frog in the Pan'",0.009,0.49,1.0,-0.009,-0.5,0.6921,47,False,False
+resid_mom,Residual-Momentum: Rendite über dem Markt (Beta-bereinigt) / Restschwankung,"Blitz, Huij & Martens 2011",0.009,0.54,1.0,0.018,0.9,0.1833,50,False,False
+nahe_hoch,Nähe zum 52-Wochen-Hoch,George & Hwang 2004,-0.011,-0.56,1.0,-0.037,-1.7,0.955,46,False,False
+sharpe_mom,12-1-Rendite / Schwankung (Rendite je Risiko),Rachev et al. 2007,0.006,0.36,1.0,0.008,0.43,0.3329,53,False,False
+trend_r2,Trendqualität: R² der Regression über 12 Monate,Clenow 2015,-0.003,-0.17,1.0,-0.004,-0.2,0.5795,50,False,False
+niedrige_vola,niedrige 12-Monats-Schwankung,Frazzini & Pedersen 2014,-0.007,-0.32,1.0,-0.038,-1.39,0.9185,42,False,False
+kein_volumenschub,kein Umsatzanstieg (−Umsatz 3 M / 12 M),Lee & Swaminathan 2000,0.005,0.25,1.0,-0.029,-1.38,0.9163,48,False,False
+mom_12_7,mittelfristiges Momentum 12-7 Monate,Novy-Marx 2012,0.022,1.21,1.0,0.0,0.01,0.4968,50,False,False
+sektor_mom,Momentum des Sektors (Ø 12-1 der Sektor-Werte),Moskowitz & Grinblatt 1999,0.001,0.06,1.0,-0.0,-0.02,0.5069,49,False,False
+kein_lotterie,kein extremer Tagesgewinn im letzten Monat (−Max-Tagesrendite),"Bali, Cakici & Whitelaw 2011",0.005,0.26,1.0,-0.026,-1.16,0.8761,41,False,False
+rueckschlag_1m,Rücksetzer im letzten Monat (−1-Monats-Rendite),Jegadeesh 1990,-0.002,-0.09,1.0,0.001,0.04,0.4835,49,False,False

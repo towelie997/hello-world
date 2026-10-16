@@ -397,7 +397,12 @@ Nachbar-Parameter besser · Aktienauswahl zusätzlich besser als 100 Zufallsport
 | Vergleich: 60 % SPY / 40 % IEF | 8,1 % | 0,59 | -32,6 % | 7,2 % | – | – | – |
 | Vergleich: SPY | 10,9 % | 0,53 | -55,2 % | 13,1 % | – | – | – |
 
-**Ergebnis (Stand 15.10.2026):**
+> **Korrektur (16.10.2026):** Diese Tabelle nutzt heutige Indexmitglieder auch für
+> frühere Jahre – spätere Aufsteiger (CVNA, APP, SMCI …) wurden schon vor ihrer Aufnahme
+> gekauft. Mit Stichtags-Universum (Abschnitt „Fairer Vergleich“ unten) besteht **keine**
+> Strategie mehr, auch Momentum nicht (Sharpe 0,55 statt 0,72).
+
+**Ergebnis (Stand 15.10.2026, vor der Korrektur):**
 1. **Nur Aktien-Momentum 12-1 besteht alle Prüfungen** (20,3 % p. a., Sharpe 0,72 vs. 0,61,
    in allen 4 Zeitabschnitten besser, alle Nachbar-Parameter besser, besser als alle 100
    Zufallsportfolios). **Aber:** größter Einbruch −60 % (2008: −47 %), sehr konzentriert auf
@@ -413,6 +418,106 @@ Nachbar-Parameter besser · Aktienauswahl zusätzlich besser als 100 Zufallsport
 6. Survivorship-Bias bleibt (Pool = heutige Indexmitglieder) – trifft Momentum vermutlich
    stärker, weil abgestürzte frühere Gewinner fehlen.
 
+## Fairer Vergleich mit Stichtags-Universum (Connors, Momentum, Kombinationen)
+
+```bash
+python -m strategy_lab.quant.compare            # Vergleich + 5.000-€-Konto
+python -m strategy_lab.quant.run --pit          # 9 Quant-Strategien mit Stichtags-Universum
+python -m strategy_lab.quant.momentum_research  # Merkmale der künftigen Momentum-Gewinner
+python -m strategy_lab.quant.explore_resid      # explorativ: Residual-Momentum
+```
+
+**Stichtags-Universum:** nur US-Werte, jeder erst ab seinem Aufnahmedatum in den S&P 500
+(`quant/sp500_aufnahme.csv`, Wikipedia), daraus die monatliche TOP 200 nach Liquidität
+(~150–196 Werte). 293 der 503 heutigen Mitglieder kamen erst nach 2005 dazu – ohne diese
+Regel kaufte der Test z. B. CVNA, APP oder SMCI Jahre vor ihrem Aufstieg. Später
+entfernte Verlierer fehlen weiterhin (Rest-Verzerrung zugunsten aller Long-Strategien).
+Alles mit derselben Engine, Kursen inkl. Dividenden, Kosten 0,05 % je Umschichtung.
+
+| Variante | Rendite p. a. | Sharpe | Max. DD | 2008 | letzte 5 J. p. a. | Urteil |
+|---|---|---|---|---|---|---|
+| Connors RSI(2), 20 Pos. | 9,5 % | 0,74 | -19,6 % | 4,6 % | 7,2 % | nein (2/3) |
+| Momentum 12-1, 20 Pos. | 13,9 % | 0,55 | -54,9 % | -42,1 % | 18,9 % | nein (0/3) |
+| Momentum + Marktfilter | 11,9 % | 0,55 | -32,6 % | 6,6 % | 1,6 % | nein (1/3) |
+| Momentum + Schwankungssteuerung | 11,5 % | 0,54 | -35,2 % | -26,3 % | 13,2 % | nein (0/3) |
+| 50 % Momentum + 50 % Connors | 12,2 % | 0,66 | -30,5 % | -21,3 % | 14,0 % | nein (2/3) |
+| 50 % Momentum+Filter + 50 % Connors | 11,0 % | 0,67 | -22,0 % | 5,7 % | 5,0 % | nein (2/3) |
+| Vergleich: TOP 200 gleichgewichtet | 12,7 % | 0,59 | -55,8 % | -35,9 % | 12,4 % | – |
+| Vergleich: SPY | 10,8 % | 0,53 | -55,2 % | -36,8 % | 12,8 % | – |
+
+**9 Quant-Strategien – Sharpe vorher (heutige Mitglieder) und mit Stichtags-Universum:**
+
+| Strategie | Sharpe vorher | Sharpe Stichtag | Rendite p. a. Stichtag | Urteil Stichtag |
+|---|---|---|---|---|
+| Aktien-Momentum 12-1 | 0,72 | **0,55** | 13,9 % | nein (0/4) |
+| Clenow Stocks on the Move | 0,57 | **0,56** | 9,8 % | nein (1/4) |
+| Niedrige Schwankung | 0,58 | **0,59** | 9,7 % | nein (1/4) |
+| Kurzfrist-Umkehr (Wochenverlierer) | 0,66 | **0,63** | 17,8 % | nein (1/4) |
+| Trendfolge Anlageklassen (TSMOM) | 0,56 | **0,55** | 4,7 % | nein (0/3) |
+| Dual Momentum GEM | 0,47 | **0,46** | 8,3 % | nein (0/3) |
+| Risk Parity (All-Weather-Idee) | 0,64 | **0,63** | 5,9 % | nein (2/3) |
+| Monatswechsel-Effekt SPY | 0,24 | **0,23** | 3,5 % | nein (0/3) |
+| Paarhandel (Gatev et al.) | 0,23 | **0,24** | 3,3 % | nein (0/3) |
+
+**Merkmale, die künftige Momentum-Gewinner vorhersagen sollen** (Rangkorrelation „IC“ mit
+der Folgemonats-Rendite unter den 40 besten 12-1-Werten; 0 = keine Vorhersagekraft):
+
+| Merkmal | Quelle | IC 2005–15 | IC 2016–26 | bestätigt |
+|---|---|---|---|---|
+| 12-1-Rendite selbst (stärkste Gewinner) | Jegadeesh & Titman 1993 | 0,015 | 0,027 | nein |
+| gleichmäßiger Anstieg statt Sprünge (−Informations-Diskretheit) | Da, Gurun & Warachka 2014 'Frog in the Pan' | 0,009 | -0,009 | nein |
+| Residual-Momentum: Rendite über dem Markt (Beta-bereinigt) / Restschwankung | Blitz, Huij & Martens 2011 | 0,009 | 0,018 | nein |
+| Nähe zum 52-Wochen-Hoch | George & Hwang 2004 | -0,011 | -0,037 | nein |
+| 12-1-Rendite / Schwankung (Rendite je Risiko) | Rachev et al. 2007 | 0,006 | 0,008 | nein |
+| Trendqualität: R² der Regression über 12 Monate | Clenow 2015 | -0,003 | -0,004 | nein |
+| niedrige 12-Monats-Schwankung | Frazzini & Pedersen 2014 | -0,007 | -0,038 | nein |
+| kein Umsatzanstieg (−Umsatz 3 M / 12 M) | Lee & Swaminathan 2000 | 0,005 | -0,029 | nein |
+| mittelfristiges Momentum 12-7 Monate | Novy-Marx 2012 | 0,022 | 0,000 | nein |
+| Momentum des Sektors (Ø 12-1 der Sektor-Werte) | Moskowitz & Grinblatt 1999 | 0,001 | -0,000 | nein |
+| kein extremer Tagesgewinn im letzten Monat (−Max-Tagesrendite) | Bali, Cakici & Whitelaw 2011 | 0,005 | -0,026 | nein |
+| Rücksetzer im letzten Monat (−1-Monats-Rendite) | Jegadeesh 1990 | -0,002 | 0,001 | nein |
+
+**5.000-€-Konto** (Kosten je Order = 0,02 % + 0,50 $ / Ordergröße):
+
+| Pos. | Variante | Rendite p. a. | Sharpe | Max. DD | letzte 5 J. p. a. |
+|---|---|---|---|---|---|
+| 3 | Connors RSI(2) | 9,4 % | 0,49 | -31,7 % | -2,1 % |
+| 3 | Momentum 12-1 | 20,1 % | 0,61 | -66,3 % | 41,3 % |
+| 3 | Momentum + Marktfilter | 17,6 % | 0,60 | -42,4 % | 12,5 % |
+| 3 | 50/50 Momentum+Filter / Connors | 14,3 % | 0,64 | -33,2 % | 6,6 % |
+| 5 | Connors RSI(2) | 10,0 % | 0,57 | -24,8 % | 1,6 % |
+| 5 | Momentum 12-1 | 20,1 % | 0,65 | -59,4 % | 26,7 % |
+| 5 | Momentum + Marktfilter | 17,3 % | 0,64 | -38,7 % | 3,8 % |
+| 5 | 50/50 Momentum+Filter / Connors | 14,2 % | 0,70 | -29,0 % | 3,9 % |
+| 10 | Connors RSI(2) | 7,1 % | 0,45 | -29,6 % | 2,9 % |
+| 10 | Momentum 12-1 | 16,2 % | 0,58 | -56,4 % | 22,8 % |
+| 10 | Momentum + Marktfilter | 13,8 % | 0,57 | -36,4 % | 2,1 % |
+| 10 | 50/50 Momentum+Filter / Connors | 10,8 % | 0,59 | -26,1 % | 3,4 % |
+
+**Ergebnis (Stand 16.10.2026):**
+1. **Der Vorsprung von Momentum kam großteils aus der Aktienauswahl mit heutigem Wissen.**
+   Mit Stichtags-Universum: 13,9 % statt 20,0 % p. a., Sharpe 0,55 – unter dem
+   gleichgewichteten Halten (0,59). Mit Marktfilter halbiert sich der Einbruch (−33 % statt
+   −55 %), die Sharpe bleibt 0,55.
+2. **Connors RSI(2) ist kaum betroffen** (Sharpe 0,74, Einbruch −20 %, 2008 +4,6 %) und hat
+   die beste Rendite je Risiko – aber **sein Vorteil schrumpft**: Sharpe je Abschnitt
+   1,05 / 1,08 / 0,46 / 0,47 gegen 0,25 / 0,86 / 0,73 / 0,82 beim Halten. Seit 2016
+   schlechter als Halten.
+3. **Beste Mischung: 50 % Momentum mit Marktfilter + 50 % Connors** (Sharpe 0,67, Einbruch
+   −22 %, 2008 +5,7 %). Die Korrelation der beiden ist nur 0,54 – sie ergänzen sich.
+   Nicht „robust“ nach den Regeln (nur 2/4 Abschnitte besser).
+4. **Keines der 12 Merkmale sagt die künftigen Gewinner unter den Momentum-Kandidaten
+   voraus** (alle IC nahe 0, keines besteht schon die Entdeckungsphase). Am nächsten kommt
+   *Residual-Momentum* (Blitz et al.): als eigene Strategie Sharpe 0,66 vs. 0,59, besser
+   als 97 % der Zufallsauswahlen, aber nur in 2 von 4 Abschnitten besser – ein Hinweis,
+   kein Beweis (`results/quant/explorativ_residual.csv`).
+5. **Bei 5.000 €** stehen Momentum-Varianten mit 3–5 Positionen auf dem Papier am besten da,
+   sind aber extrem konzentriert (Einbruch −40 bis −66 %) und hängen an einzelnen Werten;
+   Connors mit 5 Positionen brachte in den letzten 5 Jahren nur 1,6 % p. a.
+6. Nicht testbar mit freien Daten, laut Forschung aber die stärkste Ergänzung zu Momentum:
+   **Gewinn-Momentum** (Gewinnüberraschungen, Analysten-Anhebungen; Chan, Jegadeesh &
+   Lakonishok 1996) – braucht Gewinn- und Schätzungsdaten.
+
 ## Grenzen
 
 - Intraday-Daten von Yahoo: 1 Min nur ~7 Tage, 5/15/30 Min nur ~60 Tage, 1 Std ~2 Jahre.
@@ -423,6 +528,10 @@ Nachbar-Parameter besser · Aktienauswahl zusätzlich besser als 100 Zufallsport
 - Yahoo-Schlusskurse sind um Splits, aber nicht um Abspaltungen und Sonderdividenden
   bereinigt; im großen Test gibt es drei solche Fehlsprünge (DB1.DE 2007, MO 2008, WY 2010).
   Sie betreffen 1–3 Trades je Strategie und ändern die Profit-Faktoren um weniger als 0,01.
+- **Aufnahme-Verzerrung:** Alle Tests vor dem Abschnitt „Fairer Vergleich mit
+  Stichtags-Universum“ nutzen heutige Indexmitglieder auch für frühere Jahre. Das schönt vor
+  allem Trend- und Momentum-Strategien (Momentum-Sharpe 0,72 → 0,55); Connors RSI(2) ist
+  kaum betroffen (0,74 → 0,74).
 - Fundamentaldaten und Marktkapitalisierung (z. B. bei Financial Wisdom) lassen sich mit
   Yahoo-Kursdaten nicht prüfen und wurden weggelassen.
 - Nicht getestet: [Tradeciety](https://youtu.be/dDLG5VEVRL8) – Strategie beruht auf

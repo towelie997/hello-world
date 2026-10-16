@@ -1,0 +1,13 @@
+strategie,art,cagr_%,vola_%,sharpe,max_dd_%,schlechtestes_jahr_%,jahre_positiv_%,cagr_letzte5_%,umschlag_pa,positionen,sharpe_vergleich,cagr_vergleich_%,maxdd_vergleich_%,abschnitte_besser,nachbarn_sharpe,sharpe_zufall_median,p_zufall_holm,urteil
+Aktien-Momentum 12-1,Aktien,13.9,26.1,0.55,-54.9,-42.1,86,18.9,7.50866432733877,19.930682232761765,0.59,12.7,-55.8,0/4,0.60 / 0.55 / 0.56 / 0.55,0.53,0.3663,nein (0/4)
+Clenow Stocks on the Move,Aktien,9.8,15.0,0.56,-20.8,-12.2,82,5.8,12.545059116016242,19.201386355344766,0.59,12.7,-55.8,1/4,0.52 / 0.55 / 0.63 / 0.58,0.37,0.0396,nein (1/4)
+Niedrige Schwankung,Aktien,9.7,13.7,0.59,-36.5,-21.2,91,6.8,2.912665752315799,19.930682232761765,0.59,12.7,-55.8,2/4,0.55 / 0.55 / 0.58,0.53,0.2772,nein (1/4)
+Kurzfrist-Umkehr (Wochenverlierer),Aktien,17.8,29.4,0.63,-57.7,-18.9,77,17.9,88.8829709900217,19.98540678584458,0.59,12.7,-55.8,1/4,0.66 / 0.63 / 0.54,0.41,0.0594,nein (1/4)
+Trendfolge Anlageklassen (TSMOM),ETF,4.7,5.7,0.55,-11.9,-8.2,85,3.6,1.9944723886065205,6.358834244080145,0.59,8.1,-32.6,1/4,0.69 / 0.58 / 0.53,,,nein (0/3)
+Dual Momentum GEM,ETF,8.3,15.6,0.46,-35.9,-22.6,82,6.6,3.534973604826546,0.9965341116380882,0.59,8.0,-32.6,1/4,0.50 / 0.40,,,nein (0/3)
+Risk Parity (All-Weather-Idee),ETF,5.9,6.9,0.63,-18.9,-11.8,81,4.4,0.8961434311405564,5.0,0.6,8.4,-32.6,2/4,0.62 / 0.62,,,nein (2/3)
+Monatswechsel-Effekt SPY,ETF,3.5,7.9,0.23,-14.9,-6.4,64,2.7,24.010275263951733,0.19080627508208683,0.59,8.0,-32.6,1/4,0.33 / 0.18 / 0.18,,,nein (0/3)
+Paarhandel (Gatev et al.),Long/Short,3.3,6.1,0.24,-16.5,-4.9,82,3.4,11.04564479638009,40.0,0.59,8.0,-32.6,1/4,0.19 / 0.33 / 0.27,,,nein (0/3)
+Vergleich: TOP 200 gleichgewichtet,Vergleich,12.7,20.2,0.59,-55.8,-35.9,86,12.4,,,,,,,,,,
+Vergleich: 60 % SPY / 40 % IEF,Vergleich,8.0,10.6,0.59,-32.6,-18.0,86,7.0,,,,,,,,,,
+Vergleich: SPY,Vergleich,10.8,18.9,0.53,-55.2,-36.8,86,12.8,,,,,,,,,,

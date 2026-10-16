@@ -1,0 +1,9 @@
+variante,cagr_%,vola_%,sharpe,max_dd_%,schlechtestes_jahr_%,jahre_positiv_%,cagr_letzte5_%,abschnitte_besser,nachbarn_sharpe,jahr_2008_%,jahr_2022_%,urteil
+"Connors RSI(2), 20 Pos.",9.5,10.3,0.74,-19.6,-12.5,91,7.2,2/4,0.75 / 0.70 / 0.76,4.6,-12.5,nein (2/3)
+"Momentum 12-1, 20 Pos.",13.9,26.1,0.55,-54.9,-42.1,86,18.9,0/4,0.60 / 0.55 / 0.55,-42.1,5.8,nein (0/3)
+Momentum + Marktfilter,11.9,20.8,0.55,-32.6,-16.3,77,1.6,2/4,0.59 / 0.60,6.6,-16.3,nein (1/3)
+Momentum + Schwankungssteuerung,11.5,19.7,0.54,-35.2,-26.3,86,13.2,1/4,0.55 / 0.55,-26.3,1.8,nein (0/3)
+50 % Momentum + 50 % Connors,12.2,16.3,0.66,-30.5,-21.3,86,14.0,2/4,0.72 / 0.61,-21.3,-3.0,nein (2/3)
+50 % Momentum+Filter + 50 % Connors,11.0,14.0,0.67,-22.0,-14.3,91,5.0,2/4,0.72 / 0.61,5.7,-14.3,nein (2/3)
+Vergleich: TOP 200 gleichgewichtet,12.7,20.2,0.59,-55.8,-35.9,86,12.4,,,-35.9,-10.1,
+Vergleich: SPY,10.8,18.9,0.53,-55.2,-36.8,86,12.8,,,-36.8,-18.2,
