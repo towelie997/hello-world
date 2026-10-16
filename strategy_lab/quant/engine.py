@@ -13,7 +13,7 @@ import pandas as pd
 
 
 def backtest(targets: pd.DataFrame, close: pd.DataFrame, cash: pd.Series,
-             cost: float = 0.0005, start=None, end=None) -> tuple[pd.Series, dict]:
+             cost: float = 0.0005, start=None, end=None, cap: bool = True) -> tuple[pd.Series, dict]:
     """targets: Index = Umschichtungstage, Spalten = Symbole, Werte = Zielgewicht
     (NaN = Gewicht unverändert lassen). Gibt tägliche Renditen und Kennzahlen zurück."""
     cols = list(targets.columns)
@@ -38,6 +38,13 @@ def backtest(targets: pd.DataFrame, close: pd.DataFrame, cash: pd.Series,
             w = w * (1 + r) / (1 + port) if port > -1 else w * 0
         if d in reb:
             new = np.where(np.isnan(reb[d]), w, reb[d])
+            if cap and new.sum() > 1 + 1e-9:
+                # ohne Kredit: neu gesetzte Käufe so weit kürzen, dass höchstens 100 % investiert sind
+                fresh = ~np.isnan(reb[d]) & (reb[d] > 0) & (reb[d] > w)
+                excess = new.sum() - 1
+                room = new[fresh].sum()
+                if room > 0:
+                    new[fresh] *= max(0.0, 1 - excess / room)
             to = float(np.abs(new - w).sum())
             port -= to * cost
             turnover += to

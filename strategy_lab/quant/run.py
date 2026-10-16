@@ -36,11 +36,21 @@ ETF = ["SPY", "QQQ", "IWM", "EFA", "EEM", "TLT", "IEF", "SHY", "AGG", "LQD", "HY
        "DBC", "VNQ", "BIL"]
 
 
-def eligible_panel(index, columns) -> pd.DataFrame:
+def eligible_panel(index, columns, pit: bool = False) -> pd.DataFrame:
+    """Monatliche TOP 200. pit=True ("point in time"): nur US-Werte und jeder erst ab dem
+    Tag seiner Aufnahme in den S&P 500 (verhindert, dass spätere Aufsteiger wie CVNA oder
+    SMCI schon Jahre vorher gekauft werden). Später entfernte Verlierer fehlen weiterhin."""
     mem = pd.read_csv(os.path.join(HERE, "results", "top200", "mitglieder.csv"), index_col=0)
     mem.index = pd.PeriodIndex(mem.index, freq="M")
     mem = mem.reindex(columns=columns).fillna(False).astype(bool)
-    return mem.reindex(index.to_period("M")).set_axis(index).fillna(False).astype(bool)
+    out = mem.reindex(index.to_period("M")).set_axis(index).fillna(False).astype(bool)
+    if pit:
+        added = pd.read_csv(os.path.join(HERE, "quant", "sp500_aufnahme.csv"),
+                            parse_dates=["aufgenommen"]).set_index("symbol").aufgenommen
+        since = added.reindex(columns)                      # DAX-Werte: NaT -> nie
+        out &= pd.DataFrame(index.to_numpy()[:, None] >= since.to_numpy()[None, :],
+                            index=index, columns=columns)
+    return out
 
 
 def period_sharpes(ret, cash):
@@ -73,7 +83,13 @@ def placebo(targets, close, cash, eligible, cost, rng, n=N_PLACEBO):
     return np.array(vals)
 
 
-def main():
+def main(argv=None):
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--pit", action="store_true",
+                    help="Stichtags-Universum: nur US-Werte ab ihrer Aufnahme in den S&P 500")
+    pit = ap.parse_args(argv).pit
+    suffix = "_stichtag" if pit else ""
     os.makedirs(OUT, exist_ok=True)
     etf = load_adjusted(ETF, "etf")
     pool = load_adjusted(SP500_ALL + DAX40, "pool")
@@ -84,7 +100,7 @@ def main():
     pc = pool["Close"].reindex(cal).ffill(limit=5)
     ph = pool["High"].reindex(cal).ffill(limit=5)
     pl = pool["Low"].reindex(cal).ffill(limit=5)
-    elig = eligible_panel(cal, pc.columns) & pc.notna()
+    elig = eligible_panel(cal, pc.columns, pit=pit) & pc.notna()
 
     # Vergleichsanlagen
     ew_t = pd.DataFrame({d: elig.loc[d] / elig.loc[d].sum() for d in S.month_ends(cal)}).T
@@ -171,8 +187,8 @@ def main():
                              ("Vergleich: SPY", spy, None)]:
         table.loc[len(table)] = {"strategie": name, "art": "Vergleich", **stats(ret, cash)}
         curves[name] = ret
-    table.to_csv(os.path.join(OUT, "summary.csv"), index=False)
-    pd.DataFrame(curves).to_csv(os.path.join(OUT, "returns.csv.gz"))
+    table.to_csv(os.path.join(OUT, f"summary{suffix}.csv"), index=False)
+    pd.DataFrame(curves).to_csv(os.path.join(OUT, f"returns{suffix}.csv.gz"))
     with pd.option_context("display.width", 250, "display.max_columns", 30):
         print(table.to_string(index=False))
 
