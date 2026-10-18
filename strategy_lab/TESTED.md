@@ -21,3 +21,12 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-10-12 | TradingView | OUOx3rYT | blitz_locked – Glow Ribbon Flip | getestet, PF 1,07 / 1,46 nur Long (Vergleich 1,03) |
 | 2026-10-12 | TradingView | bGjB7COd | LordRobrecht – Donchian Channels + MACD | getestet, PF 1,14 (Vergleich ohne MACD 1,14) |
 | 2026-10-12 | Buch | Connors & Alvarez 2008 | Connors RSI(2) | getestet, PF 1,77 (Vergleich 1,26), kein Stop im Original |
+| 2026-10-18 | YouTube | KuXV0LRfJx8 | Quantified Strategies – 5 Swing-Regeln (S&P 500) | getestet, PF 1,78 (SPY) / 1,33 (26) / 1,26 (200), robust, Vergleich 1,28 / 1,23; kein Stop im Original |
+| 2026-10-18 | YouTube | e-QmGJU1XYc | TradingLab – The Only Trading Strategy (Angebots-/Nachfragezonen) | übersprungen: Ermessensstrategie (Zonen von Hand) |
+| 2026-10-18 | YouTube | Ux_uuOj-gKs | Trade With Trend – Stan Weinstein Stufe 2 (Wochen) | getestet, PF 4,40 (26) / 2,92 (200), Vergleich ohne RS 4,01 / 2,84; nicht robust |
+| 2026-10-18 | YouTube | 62OaP91Jz9k | TraderLion – Weekly Strategy (Podcast, CAN SLIM) | übersprungen: Ermessensstrategie |
+| 2026-10-18 | YouTube | k-X0164r66U | TheOneLanceB – 2 Swing Trading Strategies | übersprungen: Ermessensstrategie (keine festen Regeln) |
+| 2026-10-18 | TradingView | uCV8I4xA | ChartArt – Bollinger + RSI, Double Strategy v1.1 | getestet, PF 0,23 (L/S) / 5,05 nur Long (26); 0,34 / 4,05 (200); Vergleich 0,38 / 0,45; nicht robust, kein Stop |
+| 2026-10-18 | TradingView | yMCa3XZD | ChartArt – MACD + SMA 200 Strategy | getestet, PF 2,47 (L/S) / 6,64 nur Long (26); 2,22 / 5,41 (200); Vergleich 0,96 / 0,93; nicht robust, kein Stop |
+| 2026-10-18 | StockCharts ChartSchool | moving-momentum | Arthur Hill – Moving Momentum | getestet, PF 1,69 (L/S) / 2,99 nur Long (26); 1,24 / 2,06 (200); Vergleich 1,84 / 1,27; nicht robust |
+| 2026-10-18 | Buch/Fachaufsatz | quant/strategies.py | Clenow, Antonacci, Frazzini/Pedersen, Moskowitz/Ooi/Pedersen, Gatev u. a. (9 Quant-Strategien) | getestet 15.–16.10. (Abschnitt „Hedgefonds- und Quant-Strategien“), mit Stichtag keine robust |

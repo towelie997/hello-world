@@ -1,19 +1,31 @@
 strategie,quelle,werte,trades,trefferquote_%,avg_R,summe_R,profit_factor,max_dd_R,avg_pct
+"ChartArt MACD + SMA200 (1d, nur Long)",TradingView: ChartArt,199,1346,54.9,15.148,20389.0,5.41,-354.0,35.986
+"ChartArt Bollinger + RSI (1d, nur Long)",TradingView: ChartArt,196,942,77.1,5.151,4851.9,4.05,-355.4,20.27
+Weinstein Stufe 2 (1w),Trade With Trend (Weinstein),199,2222,44.4,0.607,1349.3,2.92,-41.7,11.905
+Vergleich: Stufe 2 ohne rel. Stärke (1w),–,199,2371,42.7,0.584,1384.0,2.84,-41.0,11.272
+ChartArt MACD + SMA200 (1d),TradingView: ChartArt,199,2607,39.4,5.717,14904.9,2.22,-452.2,11.592
+"Moving Momentum (1d, nur Long)",StockCharts ChartSchool (A. Hill),200,4399,32.8,0.643,2826.7,2.06,-153.7,4.965
 Squeeze + EMA21/34 (1w),BrandonTrades,199,4465,31.6,0.804,3590.6,1.97,-297.4,3.714
 Vergleich: EMA21/34 ohne Squeeze (1w),–,199,9430,28.8,0.837,7890.5,1.94,-788.8,3.736
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),–,199,8323,32.0,0.413,3434.4,1.67,-339.3,2.931
 Wochen-Ausbruch + MACD-Ausstieg (1w),Financial Wisdom,198,5926,33.0,0.289,1710.7,1.49,-178.0,1.778
 Connors RSI(2) (1d),Connors & Alvarez (Buch 2008),199,13934,68.8,0.194,2703.8,1.47,-317.4,0.494
-"Glow Ribbon Flip (1d, nur Long)",TradingView: blitz_locked,200,17150,40.1,0.152,2602.6,1.37,-273.8,1.243
+"Glow Ribbon Flip (1d, nur Long)",TradingView: blitz_locked,200,17186,40.2,0.152,2615.4,1.37,-273.8,1.24
 Vergleich: EMA21/34 ohne Squeeze (1d),–,200,46160,26.1,0.314,14517.1,1.32,-2514.2,0.514
 QS 3 Swing-Regeln (1d),Quantified Strategies,200,95367,66.9,0.132,12636.1,1.29,-1303.3,0.416
 EMA200 + RSI + Engulfing (1d),TradingLab,199,11111,40.0,0.179,1987.8,1.28,-203.0,1.128
 Squeeze + EMA21/34 (1d),BrandonTrades,200,21073,27.8,0.247,5210.6,1.27,-1109.3,0.488
+Vergleich: Moving Momentum ohne Stochastik (1d),–,200,10387,25.1,0.192,1989.8,1.27,-455.5,1.276
+QS 5 Regeln (1d),Quantified Strategies,200,100988,67.5,0.112,11312.9,1.26,-1419.1,0.343
 Vergleich: grüne Kerze > EMA200 (1d),–,199,26132,39.2,0.158,4128.3,1.25,-455.5,1.04
+Moving Momentum (1d),StockCharts ChartSchool (A. Hill),200,8014,26.4,0.16,1280.5,1.24,-371.8,1.253
 Vergleich: Kauf nach rotem Tag (1d),–,200,157007,67.6,0.101,15825.2,1.23,-1754.7,0.291
 Vergleich: roter Tag > SMA200 (1d),–,199,135472,67.1,0.066,8921.1,1.2,-1039.5,0.162
 EMA50 Pullback (1d),Data Trader,200,11376,34.1,0.003,39.6,1.01,-237.9,-0.13
-Glow Ribbon Flip (1d),TradingView: blitz_locked,200,32237,34.1,0.003,110.0,1.01,-413.8,-0.071
-Donchian 50 + MACD (1d),TradingView: LordRobrecht,200,14266,35.3,-0.004,-62.9,0.99,-414.4,-0.241
+Glow Ribbon Flip (1d),TradingView: blitz_locked,200,32285,34.1,0.003,106.8,1.01,-413.8,-0.075
 Vergleich: Donchian 50 ohne MACD (1d),–,200,14703,35.8,-0.006,-91.7,0.99,-431.3,-0.223
+Donchian 50 + MACD (1d),TradingView: LordRobrecht,200,14266,35.3,-0.004,-62.9,0.99,-414.4,-0.241
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",–,200,128496,29.8,-0.004,-575.2,0.98,-884.0,-0.051
+Vergleich: jede MACD-Kreuzung (1d),–,199,68866,41.7,-0.071,-4861.0,0.93,-5494.2,-0.167
+Vergleich: nur Bollinger-Kreuz (1d),–,199,2949,60.4,-4.822,-14221.3,0.45,-14374.8,-10.085
+ChartArt Bollinger + RSI (1d),TradingView: ChartArt,199,1980,58.1,-9.486,-18782.2,0.34,-18896.3,-20.04

@@ -44,45 +44,58 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
   dieselben Ein- und Ausstiegsregeln ohne das besondere Signal der Quelle. Ist die
   Strategie nicht besser als ihr Vergleich, bringt das Signal nichts.
 
-## Rangliste (Stand 12.10.2026)
+## Rangliste (Stand 18.10.2026)
 
 > Schneller Vortest mit 26 Werten (`run_all`). Für Tages-/Wochenstrategien zählt die
 > Tabelle im Abschnitt **„Großer Test: 200 Werte aus S&P 500 und DAX“** weiter unten.
 
 | Strategie | Quelle | Daten | Trades | Treffer | Ø je Trade | Profit-Faktor | Max. DD |
 |---|---|---|---|---|---|---|---|
-| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | – | Wochenkerzen seit 2005 | 1154 | 35,7 % | +0,98 R | **2,68** | −61 R |
-| Squeeze + EMA21/34 (1w) | [BrandonTrades](https://youtu.be/OKl208tuiIs) | Wochenkerzen seit 2005 | 575 | 35,0 % | +1,17 R | **2,54** | −31 R |
-| Vergleich: EMA21/34 ohne Squeeze (1w) | – | Wochenkerzen seit 2005 | 1283 | 30,4 % | +1,24 R | **2,47** | −90 R |
+| ChartArt MACD + SMA200 (1d, nur Long) | [TV: ChartArt](https://www.tradingview.com/script/yMCa3XZD/) | Tageskerzen seit 2005 | 181 | 54,7 % | +20,95 R | **6,64** | −85 R |
+| ChartArt Bollinger + RSI (1d, nur Long) | [TV: ChartArt](https://www.tradingview.com/script/uCV8I4xA/) | Tageskerzen seit 2005 | 146 | 76,7 % | +5,63 R | **5,05** | −85 R |
+| Weinstein Stufe 2 (1w) | [Trade With Trend (Weinstein)](https://youtu.be/Ux_uuOj-gKs) | Wochenkerzen seit 2005 | 276 | 48,2 % | +0,99 R | **4,40** | −10 R |
+| Vergleich: Stufe 2 ohne rel. Stärke (1w) | – | Wochenkerzen seit 2005 | 332 | 44,9 % | +0,89 R | **4,01** | −13 R |
+| Moving Momentum (1d, nur Long) | [StockCharts ChartSchool (A. Hill)](https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum) | Tageskerzen seit 2005 | 585 | 36,1 % | +1,17 R | **2,99** | −30 R |
+| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | – | Wochenkerzen seit 2005 | 1154 | 35,5 % | +0,98 R | **2,67** | −61 R |
+| Squeeze + EMA21/34 (1w) | [BrandonTrades](https://youtu.be/OKl208tuiIs) | Wochenkerzen seit 2005 | 575 | 34,6 % | +1,16 R | **2,51** | −31 R |
+| ChartArt MACD + SMA200 (1d) | [TV: ChartArt](https://www.tradingview.com/script/yMCa3XZD/) | Tageskerzen seit 2005 | 352 | 38,6 % | +8,00 R | **2,47** | −204 R |
+| Vergleich: EMA21/34 ohne Squeeze (1w) | – | Wochenkerzen seit 2005 | 1283 | 30,4 % | +1,23 R | **2,46** | −90 R |
 | QS 3 Swing-Regeln (SPY, 1d) | [Quantified Strategies](https://youtu.be/lKzoUptU2io) | SPY Tageskerzen seit 2005 | 527 | 70,8 % | +0,32 R | **1,92** | −17 R |
-| Wochen-Ausbruch + MACD-Ausstieg (1w) | [Financial Wisdom](https://youtu.be/tPjz1esBQVc) | Wochenkerzen seit 2005 | 807 | 36,9 % | +0,49 R | **1,88** | −32 R |
-| Connors RSI(2) (1d) | Connors & Alvarez (Buch 2008) | Tageskerzen seit 2005 | 1994 | 69,6 % | +0,28 R | **1,77** | −45 R |
-| Vergleich: EMA21/34 ohne Squeeze (1d) | – | Tageskerzen seit 2005 | 6395 | 27,2 % | +0,49 R | **1,50** | −380 R |
-| Glow Ribbon Flip (1d, nur Long) | [TV: blitz_locked](https://www.tradingview.com/script/OUOx3rYT/) | Tageskerzen seit 2005 | 2431 | 40,7 % | +0,19 R | **1,46** | −44 R |
-| EMA200 + RSI + Engulfing (1d) | [TradingLab](https://youtu.be/XBcMiYK7qYY) | Tageskerzen seit 2005 | 1606 | 42,5 % | +0,26 R | **1,43** | −25 R |
-| Squeeze + EMA21/34 (1d) | [BrandonTrades](https://youtu.be/OKl208tuiIs) | Tageskerzen seit 2005 | 2589 | 29,8 % | +0,37 R | **1,42** | −139 R |
-| QS 3 Swing-Regeln (1d) | [Quantified Strategies](https://youtu.be/lKzoUptU2io) | Tageskerzen seit 2005 | 13492 | 67,1 % | +0,17 R | **1,40** | −125 R |
-| Vergleich: grüne Kerze > EMA200 (1d) | – | Tageskerzen seit 2005 | 4244 | 40,8 % | +0,21 R | **1,34** | −69 R |
-| Vergleich: Kauf nach rotem Tag (1d) | – | Tageskerzen seit 2005 | 22662 | 67,5 % | +0,12 R | **1,28** | −214 R |
-| Vergleich: roter Tag > SMA200 (1d) | – | Tageskerzen seit 2005 | 19432 | 67,3 % | +0,09 R | **1,26** | −121 R |
-| EMA200 + RSI + Engulfing (1h) | [TradingLab](https://youtu.be/XBcMiYK7qYY) | 1 Std, 2 Jahre | 1989 | 38,1 % | +0,11 R | **1,16** | −42 R |
-| Donchian 50 + MACD (1d) | [TV: LordRobrecht](https://www.tradingview.com/script/bGjB7COd/) | Tageskerzen seit 2005 | 2060 | 37,3 % | +0,06 R | **1,14** | −66 R |
-| Vergleich: grüne Kerze > EMA200 (1h) | – | 1 Std, 2 Jahre | 3354 | 38,9 % | +0,10 R | **1,14** | −72 R |
-| Vergleich: Donchian 50 ohne MACD (1d) | – | Tageskerzen seit 2005 | 2121 | 38,1 % | +0,06 R | **1,14** | −70 R |
-| EMA50 Pullback (1d) | [Data Trader](https://youtu.be/7Ds9djcEKB4) | Tageskerzen seit 2005 | 1653 | 36,8 % | +0,09 R | **1,14** | −49 R |
-| Glow Ribbon Flip (1d) | [TV: blitz_locked](https://www.tradingview.com/script/OUOx3rYT/) | Tageskerzen seit 2005 | 4573 | 34,7 % | +0,03 R | **1,07** | −80 R |
-| Vergleich: EMA21-Kreuz, fester Stop (1d) | – | Tageskerzen seit 2005 | 17677 | 30,8 % | +0,01 R | **1,03** | −92 R |
-| EMA50 Pullback (1h) | [Data Trader](https://youtu.be/7Ds9djcEKB4) | Forex + Aktien 1 Std, 2 Jahre | 2468 | 33,8 % | −0,02 R | **0,97** | −108 R |
-| Williams %R (1h, filter) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 1 Std, 2 Jahre | 960 | 62,1 % | −0,00 R | **0,95** | −9 R |
-| Williams %R (1h, base) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 1 Std, 2 Jahre | 1724 | 61,7 % | −0,00 R | **0,94** | −13 R |
-| Williams %R (1h, day) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 1 Std, 2 Jahre | 1355 | 56,2 % | −0,01 R | **0,92** | −10 R |
-| Williams %R (30m, filter) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 30 Min, 60 Tage | 149 | 60,4 % | −0,00 R | **0,88** | −2 R |
-| ORB 15 Min | [The Moving Average](https://youtu.be/jlShztsY3oA) | 5 Min, 60 Tage | 838 | 44,9 % | −0,06 R | **0,85** | −72 R |
-| Pattern Scalp | [The Rumers](https://youtu.be/T0H_jpQXdVI) | 5 Min, 60 Tage | 732 | 41,0 % | −0,12 R | **0,79** | −114 R |
-| 5-Min Range + FVG | [Casper Trading](https://youtu.be/mzFXoK2pbNE) | 1 Min, ~7 Tage | 106 | 32,1 % | −0,20 R | **0,75** | −32 R |
-| Williams %R (30m, base) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 30 Min, 60 Tage | 272 | 57,7 % | −0,01 R | **0,75** | −4 R |
-| Sneaky Pivot | [The Rumers](https://youtu.be/zspMXJVbfAY) | 15 Min, 60 Tage | 295 | 40,0 % | −0,15 R | **0,71** | −60 R |
-| ORB 15 Min + Trend | [The Moving Average](https://youtu.be/jlShztsY3oA) | 5 Min, 60 Tage | 410 | 40,5 % | −0,12 R | **0,70** | −66 R |
+| Wochen-Ausbruch + MACD-Ausstieg (1w) | [Financial Wisdom](https://youtu.be/tPjz1esBQVc) | Wochenkerzen seit 2005 | 807 | 36,6 % | +0,49 R | **1,88** | −32 R |
+| Vergleich: Moving Momentum ohne Stochastik (1d) | – | Tageskerzen seit 2005 | 1393 | 26,1 % | +0,58 R | **1,84** | −78 R |
+| QS 5 Regeln (SPY, 1d) | [Quantified Strategies](https://youtu.be/KuXV0LRfJx8) | SPY Tageskerzen seit 2005 | 626 | 73,2 % | +0,25 R | **1,78** | −18 R |
+| Connors RSI(2) (1d) | Connors & Alvarez (Buch 2008) | Tageskerzen seit 2005 | 1996 | 69,5 % | +0,28 R | **1,75** | −45 R |
+| Moving Momentum (1d) | [StockCharts ChartSchool (A. Hill)](https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum) | Tageskerzen seit 2005 | 1101 | 27,8 % | +0,44 R | **1,69** | −73 R |
+| Vergleich: EMA21/34 ohne Squeeze (1d) | – | Tageskerzen seit 2005 | 6397 | 27,1 % | +0,49 R | **1,50** | −380 R |
+| Glow Ribbon Flip (1d, nur Long) | [TV: blitz_locked](https://www.tradingview.com/script/OUOx3rYT/) | Tageskerzen seit 2005 | 2433 | 40,6 % | +0,19 R | **1,46** | −44 R |
+| EMA200 + RSI + Engulfing (1d) | [TradingLab](https://youtu.be/XBcMiYK7qYY) | Tageskerzen seit 2005 | 1606 | 42,4 % | +0,26 R | **1,43** | −25 R |
+| Squeeze + EMA21/34 (1d) | [BrandonTrades](https://youtu.be/OKl208tuiIs) | Tageskerzen seit 2005 | 2590 | 29,7 % | +0,37 R | **1,41** | −139 R |
+| QS 3 Swing-Regeln (1d) | [Quantified Strategies](https://youtu.be/lKzoUptU2io) | Tageskerzen seit 2005 | 13505 | 67,1 % | +0,17 R | **1,39** | −125 R |
+| Vergleich: grüne Kerze > EMA200 (1d) | – | Tageskerzen seit 2005 | 4250 | 40,8 % | +0,21 R | **1,34** | −69 R |
+| QS 5 Regeln (1d) | [Quantified Strategies](https://youtu.be/KuXV0LRfJx8) | Tageskerzen seit 2005 | 14613 | 67,9 % | +0,14 R | **1,33** | −166 R |
+| Vergleich: Kauf nach rotem Tag (1d) | – | Tageskerzen seit 2005 | 22680 | 67,5 % | +0,12 R | **1,28** | −214 R |
+| Vergleich: roter Tag > SMA200 (1d) | – | Tageskerzen seit 2005 | 19444 | 67,3 % | +0,08 R | **1,26** | −121 R |
+| EMA200 + RSI + Engulfing (1h) | [TradingLab](https://youtu.be/XBcMiYK7qYY) | 1 Std, 2 Jahre | 1977 | 37,9 % | +0,11 R | **1,16** | −43 R |
+| Vergleich: grüne Kerze > EMA200 (1h) | – | 1 Std, 2 Jahre | 3292 | 39,1 % | +0,11 R | **1,15** | −72 R |
+| Donchian 50 + MACD (1d) | [TV: LordRobrecht](https://www.tradingview.com/script/bGjB7COd/) | Tageskerzen seit 2005 | 2063 | 37,1 % | +0,06 R | **1,14** | −66 R |
+| Vergleich: Donchian 50 ohne MACD (1d) | – | Tageskerzen seit 2005 | 2124 | 37,9 % | +0,06 R | **1,14** | −70 R |
+| EMA50 Pullback (1d) | [Data Trader](https://youtu.be/7Ds9djcEKB4) | Tageskerzen seit 2005 | 1655 | 36,7 % | +0,09 R | **1,13** | −49 R |
+| Glow Ribbon Flip (1d) | [TV: blitz_locked](https://www.tradingview.com/script/OUOx3rYT/) | Tageskerzen seit 2005 | 4578 | 34,7 % | +0,03 R | **1,07** | −80 R |
+| Vergleich: EMA21-Kreuz, fester Stop (1d) | – | Tageskerzen seit 2005 | 17695 | 30,8 % | +0,01 R | **1,03** | −92 R |
+| EMA50 Pullback (1h) | [Data Trader](https://youtu.be/7Ds9djcEKB4) | Forex + Aktien 1 Std, 2 Jahre | 2468 | 33,5 % | −0,03 R | **0,96** | −108 R |
+| Vergleich: jede MACD-Kreuzung (1d) | – | Tageskerzen seit 2005 | 9538 | 42,2 % | −0,05 R | **0,96** | −893 R |
+| Williams %R (1h, filter) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 1 Std, 2 Jahre | 959 | 62,0 % | −0,00 R | **0,95** | −9 R |
+| Williams %R (1h, base) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 1 Std, 2 Jahre | 1722 | 61,7 % | −0,00 R | **0,94** | −13 R |
+| Williams %R (1h, day) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 1 Std, 2 Jahre | 1354 | 56,1 % | −0,01 R | **0,91** | −10 R |
+| ORB 15 Min | [The Moving Average](https://youtu.be/jlShztsY3oA) | 5 Min, 60 Tage | 835 | 44,6 % | −0,06 R | **0,84** | −72 R |
+| Williams %R (30m, filter) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 30 Min, 60 Tage | 143 | 60,1 % | −0,01 R | **0,82** | −3 R |
+| Pattern Scalp | [The Rumers](https://youtu.be/T0H_jpQXdVI) | 5 Min, 60 Tage | 738 | 40,2 % | −0,14 R | **0,76** | −116 R |
+| Sneaky Pivot | [The Rumers](https://youtu.be/zspMXJVbfAY) | 15 Min, 60 Tage | 288 | 41,7 % | −0,13 R | **0,74** | −65 R |
+| 5-Min Range + FVG | [Casper Trading](https://youtu.be/mzFXoK2pbNE) | 1 Min, ~7 Tage | 111 | 30,6 % | −0,24 R | **0,70** | −30 R |
+| Williams %R (30m, base) | [The Transparent Trader](https://youtu.be/GyikfniCLqU) | Forex 30 Min, 60 Tage | 256 | 55,9 % | −0,01 R | **0,64** | −5 R |
+| ORB 15 Min + Trend | [The Moving Average](https://youtu.be/jlShztsY3oA) | 5 Min, 60 Tage | 409 | 38,6 % | −0,15 R | **0,64** | −69 R |
+| Vergleich: nur Bollinger-Kreuz (1d) | – | Tageskerzen seit 2005 | 429 | 60,8 % | −6,78 R | **0,38** | −2927 R |
+| ChartArt Bollinger + RSI (1d) | [TV: ChartArt](https://www.tradingview.com/script/uCV8I4xA/) | Tageskerzen seit 2005 | 304 | 57,9 % | −16,43 R | **0,23** | −5082 R |
 
 ## Erkenntnisse
 
@@ -119,6 +132,21 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
    „EMA21-Kreuz mit festem Stop“ liegt bei 1,03.
 8. Erneut: **Shorts auf Aktien kosten Geld** – alle Long+Short-Varianten sind schwächer
    als reine Long-Varianten.
+
+9. **Neu (Lauf 18.10.2026):** *QS 5 Regeln* (Quantified Strategies) ist die einzige neue
+   Strategie mit echtem Vorteil – robust auf 26 und auf 200 Werten, aber nur knapp besser
+   als „Kauf nach rotem Tag“ (PF 1,26 vs. 1,23 auf 200 Werten). Kein Stop-Loss im Original.
+10. Die TradingView-Wendesysteme von ChartArt (Bollinger + RSI, MACD + SMA200) verlieren
+    mit Shorts deutlich (PF 0,23 bzw. 2,47 auf 26 Werten, Short-Seite stark negativ). Nur
+    Long sehen sie mit PF 5–6,6 glänzend aus, halten aber im Schnitt über ein Jahr und sind
+    **schlechter als zufällige Einstiege mit gleicher Haltedauer** – reines Mitlaufen im
+    Aktienanstieg. Beide haben im Original keinen Stop-Loss.
+11. *Weinstein Stufe 2* (PF 4,40 / 2,92) und *Moving Momentum* (nur Long 2,99 / 2,06) zeigen
+    dasselbe Muster: hohe PF durch lange Haltedauer, kein Vorteil gegenüber Zufall. Die
+    relative Stärke bei Weinstein bringt kaum etwas (Vergleich ohne: 4,01 / 2,84); die
+    Stochastik bei Moving Momentum (Long+Short 1,69) ist sogar schlechter als ohne (1,84).
+12. Alle Tests dieses Laufs nutzen wie bisher heutige Indexmitglieder (siehe „Grenzen“):
+    Trend- und Haltestrategien sind dadurch eher zu günstig bewertet, Mean-Reversion kaum.
 
 ## Robustheits-Prüfung
 
@@ -160,6 +188,10 @@ Rangfolge bleibt, kein Urteil würde kippen. *Connors RSI(2)* ist zuletzt sogar 
 Einziger Hinweis „zuletzt schwächer“: *QS 3 Swing-Regeln auf SPY* (1,53 statt 1,92, nur
 115 Trades). Die Wochen-Strategien legen zuletzt stark zu, ihre Vergleiche ohne Signal aber
 genauso – das ist der starke Aktienmarkt seit 2023, kein Verdienst der Signale.
+
+**Nachtrag (18.10.2026):** Von den 5 neuen Quellen besteht nur *QS 5 Regeln* (26 Werte: PF
+1,78 auf SPY, 1,33 auf allen; 200 Werte: 1,26 – jeweils „robust“). Alle anderen scheitern am
+Zufallstest.
 
 ## Momentum-Filter (Aktienauswahl)
 
@@ -214,24 +246,38 @@ strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Index
 
 | Strategie | PF 26 Werte | PF 200 Werte | PF letzte 5 J. | Gewinnjahre | PF Strategie / Zufall | Urteil |
 |---|---|---|---|---|---|---|
-| Squeeze + EMA21/34 (1w) | 2,54 | **1,97** | 1,78 | 77 % | 2,11 / 2,30 | nein (3/4) |
-| Vergleich: EMA21/34 ohne Squeeze (1w) | 2,47 | **1,94** | 1,65 | 77 % | 2,15 / 2,26 | nein (3/4) |
-| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | 2,68 | **1,67** | 1,44 | 73 % | 1,81 / 2,02 | nein (3/4) |
+| ChartArt MACD + SMA200 (1d, nur Long) | 6,64 | **5,41** | 4,38 | 95 % | 5,98 / 7,31 | nein (3/4) |
+| ChartArt Bollinger + RSI (1d, nur Long) | 5,05 | **4,05** | 3,79 | 95 % | 5,05 / 4,59 | nein (3/4) |
+| Weinstein Stufe 2 (1w) | 4,40 | **2,92** | 2,49 | 86 % | 3,17 / 3,53 | nein (3/4) |
+| Vergleich: Stufe 2 ohne rel. Stärke (1w) | 4,01 | **2,84** | 2,53 | 82 % | 3,10 / 3,48 | nein (3/4) |
+| ChartArt MACD + SMA200 (1d) | 2,47 | **2,22** | 1,57 | 91 % | 1,89 / 5,33 | nein (3/4) |
+| Moving Momentum (1d, nur Long) | 2,99 | **2,06** | 1,56 | 73 % | 2,33 / 2,52 | nein (3/4) |
+| Squeeze + EMA21/34 (1w) | 2,51 | **1,97** | 1,78 | 77 % | 2,11 / 2,30 | nein (3/4) |
+| Vergleich: EMA21/34 ohne Squeeze (1w) | 2,46 | **1,94** | 1,65 | 77 % | 2,15 / 2,26 | nein (3/4) |
+| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | 2,67 | **1,67** | 1,44 | 73 % | 1,81 / 2,02 | nein (3/4) |
 | Wochen-Ausbruch + MACD-Ausstieg (1w) | 1,88 | **1,49** | 1,36 | 68 % | 1,54 / 1,93 | nein (2/4) |
-| Connors RSI(2) (1d) | 1,77 | **1,47** | 1,24 | 82 % | 1,52 / 1,17 | robust |
-| Glow Ribbon Flip (1d, nur Long) | 1,46 | **1,37** | 1,18 | 77 % | 1,41 / 1,53 | nein (3/4) |
+| Connors RSI(2) (1d) | 1,75 | **1,47** | 1,24 | 82 % | 1,52 / 1,17 | robust |
+| Glow Ribbon Flip (1d, nur Long) | 1,46 | **1,37** | 1,19 | 77 % | 1,41 / 1,54 | nein (3/4) |
 | Vergleich: EMA21/34 ohne Squeeze (1d) | 1,50 | **1,32** | 1,20 | 73 % | 1,32 / 1,41 | nein (3/4) |
-| QS 3 Swing-Regeln (1d) | 1,40 | **1,29** | 1,20 | 95 % | 1,35 / 1,18 | robust |
+| QS 3 Swing-Regeln (1d) | 1,39 | **1,29** | 1,20 | 95 % | 1,35 / 1,18 | robust |
 | EMA200 + RSI + Engulfing (1d) | 1,43 | **1,28** | 1,12 | 68 % | 1,35 / 1,63 | nein (2/4) |
-| Squeeze + EMA21/34 (1d) | 1,42 | **1,27** | 1,16 | 77 % | 1,29 / 1,43 | nein (3/4) |
+| Squeeze + EMA21/34 (1d) | 1,41 | **1,27** | 1,16 | 77 % | 1,29 / 1,43 | nein (3/4) |
+| Vergleich: Moving Momentum ohne Stochastik (1d) | 1,84 | **1,27** | 1,16 | 68 % | 1,27 / 2,27 | nein (2/4) |
+| QS 5 Regeln (1d) | 1,33 | **1,26** | 1,16 | 86 % | 1,30 / 1,18 | robust |
 | Vergleich: grüne Kerze > EMA200 (1d) | 1,34 | **1,25** | 1,12 | 77 % | 1,32 / 1,62 | nein (3/4) |
+| Moving Momentum (1d) | 1,69 | **1,24** | 1,03 | 55 % | 1,28 / 2,22 | nein (2/4) |
 | Vergleich: Kauf nach rotem Tag (1d) | 1,28 | **1,23** | 1,13 | 82 % | 1,26 / 1,18 | robust |
 | Vergleich: roter Tag > SMA200 (1d) | 1,26 | **1,20** | 1,10 | 77 % | 1,22 / 1,14 | robust |
-| EMA50 Pullback (1d) | 1,14 | **1,01** | 0,91 | 48 % | 0,97 / 1,65 | nein (0/4) |
+| EMA50 Pullback (1d) | 1,13 | **1,01** | 0,91 | 48 % | 0,97 / 1,65 | nein (0/4) |
 | Glow Ribbon Flip (1d) | 1,07 | **1,01** | 0,98 | 45 % | 0,98 / 1,51 | nein (0/4) |
 | Donchian 50 + MACD (1d) | 1,14 | **0,99** | 0,81 | 59 % | 0,95 / 1,77 | nein (0/4) |
 | Vergleich: Donchian 50 ohne MACD (1d) | 1,14 | **0,99** | 0,82 | 59 % | 0,95 / 1,77 | nein (0/4) |
 | Vergleich: EMA21-Kreuz, fester Stop (1d) | 1,03 | **0,98** | 1,00 | 59 % | 0,97 / 1,22 | nein (0/4) |
+| Vergleich: jede MACD-Kreuzung (1d) | 0,96 | **0,93** | 0,98 | 36 % | 0,94 / 1,36 | nein (0/4) |
+| Vergleich: nur Bollinger-Kreuz (1d) | 0,38 | **0,45** | 0,44 | 23 % | 0,54 / 4,67 | nein (0/4) |
+| ChartArt Bollinger + RSI (1d) | 0,23 | **0,34** | 0,51 | 23 % | 0,45 / 7,10 | nein (0/4) |
+
+*Tabelle Stand 18.10.2026 (neue Strategien per `--only` ergänzt).*
 
 **Ergebnis (Stand 13.10.2026):**
 1. **Alle Profit-Faktoren sinken** gegenüber der kleinen Liste (z. B. Squeeze 1w 2,54 → 1,97,
