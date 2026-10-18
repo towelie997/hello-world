@@ -13,9 +13,10 @@ from dataclasses import asdict
 import pandas as pd
 
 from .engine import DEFAULT_COST, make_trade, summarize
-from .strategies import (connors_rsi2, donchian_macd, ema50_pullback, ema_rsi_engulf, fvg_orb,
-                         glow_ribbon, orb15, pattern_scalp, qs_ibs, squeeze_swing,
-                         weekly_breakout, williams_r)
+from .strategies import (chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
+                         ema50_pullback, ema_rsi_engulf, fvg_orb, glow_ribbon, moving_momentum,
+                         orb15, pattern_scalp, qs5, qs_ibs, squeeze_swing, weekly_breakout,
+                         weinstein, williams_r)
 
 HERE = os.path.dirname(__file__)
 RESULTS = os.path.join(HERE, "results")
@@ -63,6 +64,19 @@ VIDEOS = {
     "Vergleich: EMA21-Kreuz, fester Stop (1d)": ("–", "", "Tageskerzen seit 2005"),
     "Donchian 50 + MACD (1d)": ("TradingView: LordRobrecht", "https://www.tradingview.com/script/bGjB7COd/", "Tageskerzen seit 2005"),
     "Vergleich: Donchian 50 ohne MACD (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "QS 5 Regeln (SPY, 1d)": ("Quantified Strategies", "KuXV0LRfJx8", "SPY Tageskerzen seit 2005"),
+    "QS 5 Regeln (1d)": ("Quantified Strategies", "KuXV0LRfJx8", "Tageskerzen seit 2005"),
+    "Weinstein Stufe 2 (1w)": ("Trade With Trend (Weinstein)", "Ux_uuOj-gKs", "Wochenkerzen seit 2005"),
+    "Vergleich: Stufe 2 ohne rel. Stärke (1w)": ("–", "", "Wochenkerzen seit 2005"),
+    "ChartArt Bollinger + RSI (1d)": ("TradingView: ChartArt", "https://www.tradingview.com/script/uCV8I4xA/", "Tageskerzen seit 2005"),
+    "ChartArt Bollinger + RSI (1d, nur Long)": ("TradingView: ChartArt", "https://www.tradingview.com/script/uCV8I4xA/", "Tageskerzen seit 2005"),
+    "Vergleich: nur Bollinger-Kreuz (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "ChartArt MACD + SMA200 (1d)": ("TradingView: ChartArt", "https://www.tradingview.com/script/yMCa3XZD/", "Tageskerzen seit 2005"),
+    "ChartArt MACD + SMA200 (1d, nur Long)": ("TradingView: ChartArt", "https://www.tradingview.com/script/yMCa3XZD/", "Tageskerzen seit 2005"),
+    "Vergleich: jede MACD-Kreuzung (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Moving Momentum (1d)": ("StockCharts ChartSchool (A. Hill)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum", "Tageskerzen seit 2005"),
+    "Moving Momentum (1d, nur Long)": ("StockCharts ChartSchool (A. Hill)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum", "Tageskerzen seit 2005"),
+    "Vergleich: Moving Momentum ohne Stochastik (1d)": ("–", "", "Tageskerzen seit 2005"),
 }
 
 
@@ -119,6 +133,19 @@ def main():
         ("Vergleich Glow", lambda: glow_ribbon.run(SWING, baseline=True)),
         ("Donchian+MACD", lambda: donchian_macd.run(SWING)),
         ("Vergleich Donchian", lambda: donchian_macd.run(SWING, baseline=True)),
+        ("QS 5 Regeln SPY", lambda: qs5.run(["SPY"], label=" (SPY, 1d)")),
+        ("QS 5 Regeln", lambda: qs5.run(SWING, label=" (1d)")),
+        ("Weinstein", lambda: weinstein.run(SWING)),
+        ("Vergleich Weinstein", lambda: weinstein.run(SWING, baseline=True)),
+        ("ChartArt BB+RSI", lambda: chartart_bb_rsi.run(SWING)),
+        ("ChartArt BB+RSI Long", lambda: chartart_bb_rsi.run(SWING, shorts=False)),
+        ("Vergleich BB", lambda: chartart_bb_rsi.run(SWING, baseline=True)),
+        ("ChartArt MACD+SMA", lambda: chartart_macd_sma.run(SWING)),
+        ("ChartArt MACD+SMA Long", lambda: chartart_macd_sma.run(SWING, shorts=False)),
+        ("Vergleich MACD", lambda: chartart_macd_sma.run(SWING, baseline=True)),
+        ("Moving Momentum", lambda: moving_momentum.run(SWING)),
+        ("Moving Momentum Long", lambda: moving_momentum.run(SWING, shorts=False)),
+        ("Vergleich Moving Mom.", lambda: moving_momentum.run(SWING, baseline=True)),
     ]
     all_trades = []
     for label, fn in jobs:

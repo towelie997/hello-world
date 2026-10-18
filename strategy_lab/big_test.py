@@ -26,8 +26,9 @@ import pandas as pd
 from . import momentum_filter, robustness
 from .engine import summarize
 from .run_all import RESULTS, VIDEOS
-from .strategies import (connors_rsi2, donchian_macd, ema50_pullback, ema_rsi_engulf,
-                         glow_ribbon, qs_ibs, squeeze_swing, weekly_breakout)
+from .strategies import (chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
+                         ema50_pullback, ema_rsi_engulf, glow_ribbon, moving_momentum, qs5,
+                         qs_ibs, squeeze_swing, weekly_breakout, weinstein)
 from .universe import BIG
 
 OUT = os.path.join(RESULTS, "big")
@@ -55,6 +56,18 @@ def jobs_for(U):
         ("Vergleich Glow", lambda: glow_ribbon.run(U, baseline=True)),
         ("Donchian+MACD", lambda: donchian_macd.run(U)),
         ("Vergleich Donchian", lambda: donchian_macd.run(U, baseline=True)),
+        ("QS 5 Regeln", lambda: qs5.run(U, label=" (1d)")),
+        ("Weinstein", lambda: weinstein.run(U)),
+        ("Vergleich Weinstein", lambda: weinstein.run(U, baseline=True)),
+        ("ChartArt BB+RSI", lambda: chartart_bb_rsi.run(U)),
+        ("ChartArt BB+RSI Long", lambda: chartart_bb_rsi.run(U, shorts=False)),
+        ("Vergleich BB", lambda: chartart_bb_rsi.run(U, baseline=True)),
+        ("ChartArt MACD+SMA", lambda: chartart_macd_sma.run(U)),
+        ("ChartArt MACD+SMA Long", lambda: chartart_macd_sma.run(U, shorts=False)),
+        ("Vergleich MACD", lambda: chartart_macd_sma.run(U, baseline=True)),
+        ("Moving Momentum", lambda: moving_momentum.run(U)),
+        ("Moving Momentum Long", lambda: moving_momentum.run(U, shorts=False)),
+        ("Vergleich Moving Mom.", lambda: moving_momentum.run(U, baseline=True)),
     ]
 
 
