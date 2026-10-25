@@ -13,7 +13,8 @@ from dataclasses import asdict
 import pandas as pd
 
 from .engine import DEFAULT_COST, make_trade, summarize
-from .strategies import (chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
+from .strategies import (dt_stoch_rsi_macd, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
+                         chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
                          ema50_pullback, ema_rsi_engulf, fvg_orb, glow_ribbon, moving_momentum,
                          orb15, pattern_scalp, qs5, qs_ibs, squeeze_swing, weekly_breakout,
                          weinstein, williams_r)
@@ -77,6 +78,23 @@ VIDEOS = {
     "Moving Momentum (1d)": ("StockCharts ChartSchool (A. Hill)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum", "Tageskerzen seit 2005"),
     "Moving Momentum (1d, nur Long)": ("StockCharts ChartSchool (A. Hill)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum", "Tageskerzen seit 2005"),
     "Vergleich: Moving Momentum ohne Stochastik (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "TradingLab Bollinger + RSI (1d)": ("TradingLab", "pCmJ8wsAS_w", "Tageskerzen seit 2005"),
+    "TradingLab Bollinger + RSI (1d, nur Long)": ("TradingLab", "pCmJ8wsAS_w", "Tageskerzen seit 2005"),
+    "Vergleich: nur Bollinger 30 (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Data Trader Stoch+RSI+MACD (30m)": ("Data Trader", "hh3BKTFE1dc", "Forex 30 Min, 60 Tage"),
+    "Data Trader Stoch+RSI+MACD (1h)": ("Data Trader", "hh3BKTFE1dc", "Forex 1 Std, 2 Jahre"),
+    "Vergleich: MACD+RSI ohne Stochastik (30m)": ("–", "", "Forex 30 Min, 60 Tage"),
+    "Vergleich: MACD+RSI ohne Stochastik (1h)": ("–", "", "Forex 1 Std, 2 Jahre"),
+    "ChartArt Golden Cross (1d)": ("TradingView: ChartArt", "https://www.tradingview.com/script/6ZReHYKn/", "Tageskerzen seit 2005"),
+    "Vergleich: Kurs kreuzt SMA200 (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Turtles tmr0 (1d)": ("TradingView: tmr0", "https://www.tradingview.com/script/Q1O23zJP/", "Tageskerzen seit 2005"),
+    "Turtles tmr0 (1d, nur Long)": ("TradingView: tmr0", "https://www.tradingview.com/script/Q1O23zJP/", "Tageskerzen seit 2005"),
+    "QS/Connors Double 5 (1d)": ("Quantified Strategies (Connors)", "gX8FjjKR7ec", "Tageskerzen seit 2005"),
+    "QS/Connors 4 von 5 Tagen runter (1d)": ("Quantified Strategies (Connors)", "gX8FjjKR7ec", "Tageskerzen seit 2005"),
+    "QS/Connors %b 3 Tage (1d)": ("Quantified Strategies (Connors)", "gX8FjjKR7ec", "Tageskerzen seit 2005"),
+    "QS/Connors R3 (1d)": ("Quantified Strategies (Connors)", "gX8FjjKR7ec", "Tageskerzen seit 2005"),
+    "QS/Connors RSI(5) 30/50 (1d)": ("Quantified Strategies (Connors)", "gX8FjjKR7ec", "Tageskerzen seit 2005"),
+    "QS/Connors 3 Tage tiefere Hochs/Tiefs (1d)": ("Quantified Strategies (Connors)", "gX8FjjKR7ec", "Tageskerzen seit 2005"),
 }
 
 
@@ -146,6 +164,23 @@ def main():
         ("Moving Momentum", lambda: moving_momentum.run(SWING)),
         ("Moving Momentum Long", lambda: moving_momentum.run(SWING, shorts=False)),
         ("Vergleich Moving Mom.", lambda: moving_momentum.run(SWING, baseline=True)),
+        ("TL BB+RSI", lambda: tl_bb_rsi.run(SWING)),
+        ("TL BB+RSI Long", lambda: tl_bb_rsi.run(SWING, shorts=False)),
+        ("Vergleich TL BB", lambda: tl_bb_rsi.run(SWING, baseline=True)),
+        ("Golden Cross", lambda: golden_cross.run(SWING)),
+        ("Vergleich Golden", lambda: golden_cross.run(SWING, baseline=True)),
+        ("Turtles", lambda: turtles_tmr0.run(SWING)),
+        ("Turtles Long", lambda: turtles_tmr0.run(SWING, shorts=False)),
+        ("QSC double5", lambda: qs_connors6.run(SWING, "double5")),
+        ("QSC tage_runter", lambda: qs_connors6.run(SWING, "tage_runter")),
+        ("QSC prozent_b", lambda: qs_connors6.run(SWING, "prozent_b")),
+        ("QSC r3", lambda: qs_connors6.run(SWING, "r3")),
+        ("QSC rsi5", lambda: qs_connors6.run(SWING, "rsi5")),
+        ("QSC drei_tage", lambda: qs_connors6.run(SWING, "drei_tage")),
+        ("DataTrader 30m", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "30m", "60d")),
+        ("DataTrader 1h", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "1h", "730d")),
+        ("Vergleich DT 30m", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "30m", "60d", baseline=True)),
+        ("Vergleich DT 1h", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "1h", "730d", baseline=True)),
     ]
     all_trades = []
     for label, fn in jobs:

@@ -26,7 +26,8 @@ import pandas as pd
 from . import momentum_filter, robustness
 from .engine import summarize
 from .run_all import RESULTS, VIDEOS
-from .strategies import (chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
+from .strategies import (golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
+                         chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
                          ema50_pullback, ema_rsi_engulf, glow_ribbon, moving_momentum, qs5,
                          qs_ibs, squeeze_swing, weekly_breakout, weinstein)
 from .universe import BIG
@@ -68,6 +69,19 @@ def jobs_for(U):
         ("Moving Momentum", lambda: moving_momentum.run(U)),
         ("Moving Momentum Long", lambda: moving_momentum.run(U, shorts=False)),
         ("Vergleich Moving Mom.", lambda: moving_momentum.run(U, baseline=True)),
+        ("TL BB+RSI", lambda: tl_bb_rsi.run(U)),
+        ("TL BB+RSI Long", lambda: tl_bb_rsi.run(U, shorts=False)),
+        ("Vergleich TL BB", lambda: tl_bb_rsi.run(U, baseline=True)),
+        ("Golden Cross", lambda: golden_cross.run(U)),
+        ("Vergleich Golden", lambda: golden_cross.run(U, baseline=True)),
+        ("Turtles", lambda: turtles_tmr0.run(U)),
+        ("Turtles Long", lambda: turtles_tmr0.run(U, shorts=False)),
+        ("QSC double5", lambda: qs_connors6.run(U, "double5")),
+        ("QSC tage_runter", lambda: qs_connors6.run(U, "tage_runter")),
+        ("QSC prozent_b", lambda: qs_connors6.run(U, "prozent_b")),
+        ("QSC r3", lambda: qs_connors6.run(U, "r3")),
+        ("QSC rsi5", lambda: qs_connors6.run(U, "rsi5")),
+        ("QSC drei_tage", lambda: qs_connors6.run(U, "drei_tage")),
     ]
 
 
