@@ -1,46 +1,63 @@
 strategie,kanal,daten,trades,trefferquote_%,avg_R,summe_R,profit_factor,max_dd_R,avg_pct,video
-"ChartArt MACD + SMA200 (1d, nur Long)",TradingView: ChartArt,Tageskerzen seit 2005,181,54.7,20.947,3791.4,6.64,-85.4,43.537,https://www.tradingview.com/script/yMCa3XZD/
-"ChartArt Bollinger + RSI (1d, nur Long)",TradingView: ChartArt,Tageskerzen seit 2005,146,76.7,5.634,822.6,5.05,-84.8,18.333,https://www.tradingview.com/script/uCV8I4xA/
-Weinstein Stufe 2 (1w),Trade With Trend (Weinstein),Wochenkerzen seit 2005,276,48.2,0.994,274.3,4.4,-9.7,22.476,https://youtu.be/Ux_uuOj-gKs
-Vergleich: Stufe 2 ohne rel. Stärke (1w),–,Wochenkerzen seit 2005,332,44.9,0.888,295.0,4.01,-12.9,19.189,
-"Moving Momentum (1d, nur Long)",StockCharts ChartSchool (A. Hill),Tageskerzen seit 2005,585,36.1,1.17,684.4,2.99,-29.7,9.053,https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),–,Wochenkerzen seit 2005,1154,35.5,0.982,1133.3,2.67,-60.7,5.356,
-Squeeze + EMA21/34 (1w),BrandonTrades,Wochenkerzen seit 2005,575,34.6,1.156,664.4,2.51,-31.4,5.679,https://youtu.be/OKl208tuiIs
-ChartArt MACD + SMA200 (1d),TradingView: ChartArt,Tageskerzen seit 2005,352,38.6,7.999,2815.5,2.47,-203.8,13.45,https://www.tradingview.com/script/yMCa3XZD/
-Vergleich: EMA21/34 ohne Squeeze (1w),–,Wochenkerzen seit 2005,1283,30.4,1.231,1580.0,2.46,-90.0,5.923,
-"QS 3 Swing-Regeln (SPY, 1d)",Quantified Strategies,SPY Tageskerzen seit 2005,527,70.8,0.316,166.4,1.92,-17.0,0.495,https://youtu.be/lKzoUptU2io
-Wochen-Ausbruch + MACD-Ausstieg (1w),Financial Wisdom,Wochenkerzen seit 2005,807,36.6,0.488,393.5,1.88,-31.5,2.663,https://youtu.be/tPjz1esBQVc
-Vergleich: Moving Momentum ohne Stochastik (1d),–,Tageskerzen seit 2005,1393,26.1,0.576,801.9,1.84,-78.3,3.894,
-"QS 5 Regeln (SPY, 1d)",Quantified Strategies,SPY Tageskerzen seit 2005,626,73.2,0.253,158.5,1.78,-18.0,0.376,https://youtu.be/KuXV0LRfJx8
-Connors RSI(2) (1d),Connors & Alvarez (Buch 2008),Tageskerzen seit 2005,1996,69.5,0.277,553.4,1.75,-45.4,0.563,
-Moving Momentum (1d),StockCharts ChartSchool (A. Hill),Tageskerzen seit 2005,1101,27.8,0.444,488.9,1.69,-72.8,3.647,https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum
-Vergleich: EMA21/34 ohne Squeeze (1d),–,Tageskerzen seit 2005,6397,27.1,0.487,3113.2,1.5,-380.1,0.844,
-"Glow Ribbon Flip (1d, nur Long)",TradingView: blitz_locked,Tageskerzen seit 2005,2433,40.6,0.188,457.1,1.46,-44.2,1.412,https://www.tradingview.com/script/OUOx3rYT/
-EMA200 + RSI + Engulfing (1d),TradingLab,Tageskerzen seit 2005,1606,42.4,0.26,417.5,1.43,-24.6,1.26,https://youtu.be/XBcMiYK7qYY
-Squeeze + EMA21/34 (1d),BrandonTrades,Tageskerzen seit 2005,2590,29.7,0.37,958.6,1.41,-139.4,1.02,https://youtu.be/OKl208tuiIs
-QS 3 Swing-Regeln (1d),Quantified Strategies,Tageskerzen seit 2005,13505,67.1,0.169,2280.1,1.39,-125.2,0.449,https://youtu.be/lKzoUptU2io
-Vergleich: grüne Kerze > EMA200 (1d),–,Tageskerzen seit 2005,4250,40.8,0.213,906.6,1.34,-68.8,1.106,
-QS 5 Regeln (1d),Quantified Strategies,Tageskerzen seit 2005,14613,67.9,0.139,2027.7,1.33,-166.2,0.356,https://youtu.be/KuXV0LRfJx8
-Vergleich: Kauf nach rotem Tag (1d),–,Tageskerzen seit 2005,22680,67.5,0.12,2713.9,1.28,-214.1,0.287,
-Vergleich: roter Tag > SMA200 (1d),–,Tageskerzen seit 2005,19444,67.3,0.084,1640.5,1.26,-121.1,0.182,
-EMA200 + RSI + Engulfing (1h),TradingLab,"1 Std, 2 Jahre",1977,37.9,0.114,225.5,1.16,-42.6,0.243,https://youtu.be/XBcMiYK7qYY
-Vergleich: grüne Kerze > EMA200 (1h),–,"1 Std, 2 Jahre",3292,39.1,0.107,351.6,1.15,-72.2,0.265,
-Donchian 50 + MACD (1d),TradingView: LordRobrecht,Tageskerzen seit 2005,2063,37.1,0.059,120.9,1.14,-66.2,0.358,https://www.tradingview.com/script/bGjB7COd/
-Vergleich: Donchian 50 ohne MACD (1d),–,Tageskerzen seit 2005,2124,37.9,0.059,125.0,1.14,-69.6,0.372,
-EMA50 Pullback (1d),Data Trader,Tageskerzen seit 2005,1655,36.7,0.088,145.2,1.13,-49.3,0.323,https://youtu.be/7Ds9djcEKB4
-Glow Ribbon Flip (1d),TradingView: blitz_locked,Tageskerzen seit 2005,4578,34.7,0.031,140.0,1.07,-79.5,0.173,https://www.tradingview.com/script/OUOx3rYT/
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",–,Tageskerzen seit 2005,17695,30.8,0.009,159.1,1.03,-92.5,0.023,
-EMA50 Pullback (1h),Data Trader,"Forex + Aktien 1 Std, 2 Jahre",2468,33.5,-0.027,-66.2,0.96,-108.4,-0.101,https://youtu.be/7Ds9djcEKB4
-Vergleich: jede MACD-Kreuzung (1d),–,Tageskerzen seit 2005,9538,42.2,-0.048,-461.3,0.96,-893.4,-0.073,
-"Williams %R (1h, filter)",The Transparent Trader,"Forex 1 Std, 2 Jahre",959,62.0,-0.004,-3.5,0.95,-9.1,-0.008,https://youtu.be/GyikfniCLqU
-"Williams %R (1h, base)",The Transparent Trader,"Forex 1 Std, 2 Jahre",1722,61.7,-0.004,-7.2,0.94,-12.8,-0.008,https://youtu.be/GyikfniCLqU
-"Williams %R (1h, day)",The Transparent Trader,"Forex 1 Std, 2 Jahre",1354,56.1,-0.005,-6.7,0.91,-10.1,-0.01,https://youtu.be/GyikfniCLqU
-ORB 15 Min,The Moving Average,"5 Min, 60 Tage",835,44.6,-0.06,-50.1,0.84,-72.3,-0.012,https://youtu.be/jlShztsY3oA
-"Williams %R (30m, filter)",The Transparent Trader,"Forex 30 Min, 60 Tage",143,60.1,-0.007,-1.0,0.82,-2.7,-0.015,https://youtu.be/GyikfniCLqU
-Pattern Scalp (Rumers),The Rumers,"5 Min, 60 Tage",738,40.2,-0.144,-105.9,0.76,-115.8,-0.101,https://youtu.be/T0H_jpQXdVI
-Sneaky Pivot,The Rumers,"15 Min, 60 Tage",288,41.7,-0.13,-37.3,0.74,-64.6,-0.018,https://youtu.be/zspMXJVbfAY
-5-Min Range + FVG (1 Min),Casper Trading,"1 Min, ~7 Tage",111,30.6,-0.236,-26.2,0.7,-30.1,-0.006,https://youtu.be/mzFXoK2pbNE
-"Williams %R (30m, base)",The Transparent Trader,"Forex 30 Min, 60 Tage",256,55.9,-0.014,-3.6,0.64,-5.2,-0.03,https://youtu.be/GyikfniCLqU
-ORB 15 Min + Trend,The Moving Average,"5 Min, 60 Tage",409,38.6,-0.154,-63.2,0.64,-69.4,-0.146,https://youtu.be/jlShztsY3oA
-Vergleich: nur Bollinger-Kreuz (1d),–,Tageskerzen seit 2005,429,60.8,-6.782,-2909.4,0.38,-2927.1,-15.901,
-ChartArt Bollinger + RSI (1d),TradingView: ChartArt,Tageskerzen seit 2005,304,57.9,-16.426,-4993.6,0.23,-5081.8,-43.22,https://www.tradingview.com/script/uCV8I4xA/
+"ChartArt MACD + SMA200 (1d, nur Long)",TradingView: ChartArt,Tageskerzen seit 2005,181,54.1,20.888,3780.7,6.6,-85.4,43.35,https://www.tradingview.com/script/yMCa3XZD/
+"ChartArt Bollinger + RSI (1d, nur Long)",TradingView: ChartArt,Tageskerzen seit 2005,146,76.7,5.608,818.7,4.94,-84.8,18.304,https://www.tradingview.com/script/uCV8I4xA/
+ChartArt Golden Cross (1d),TradingView: ChartArt,Tageskerzen seit 2005,393,49.4,8.729,3430.5,4.42,-89.5,22.297,https://www.tradingview.com/script/6ZReHYKn/
+Weinstein Stufe 2 (1w),Trade With Trend (Weinstein),Wochenkerzen seit 2005,277,48.4,0.988,273.6,4.39,-9.7,22.303,https://youtu.be/Ux_uuOj-gKs
+Vergleich: Stufe 2 ohne rel. Stärke (1w),–,Wochenkerzen seit 2005,333,45.0,0.884,294.4,4.0,-12.9,19.054,
+"Moving Momentum (1d, nur Long)",StockCharts ChartSchool (A. Hill),Tageskerzen seit 2005,585,36.1,1.168,683.2,2.99,-29.7,9.037,https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum
+Vergleich: Kurs kreuzt SMA200 (1d),–,Tageskerzen seit 2005,2131,26.2,1.345,2866.9,2.81,-88.7,4.088,
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),–,Wochenkerzen seit 2005,1155,35.4,0.98,1132.4,2.67,-60.7,5.343,
+Squeeze + EMA21/34 (1w),BrandonTrades,Wochenkerzen seit 2005,576,34.4,1.145,659.5,2.5,-31.4,5.621,https://youtu.be/OKl208tuiIs
+ChartArt MACD + SMA200 (1d),TradingView: ChartArt,Tageskerzen seit 2005,352,38.4,7.997,2814.8,2.47,-203.8,13.406,https://www.tradingview.com/script/yMCa3XZD/
+Vergleich: EMA21/34 ohne Squeeze (1w),–,Wochenkerzen seit 2005,1283,30.5,1.23,1578.7,2.45,-90.0,5.91,
+"TradingLab Bollinger + RSI (1d, nur Long)",TradingLab,Tageskerzen seit 2005,414,72.9,0.795,329.0,2.04,-99.0,2.414,https://youtu.be/pCmJ8wsAS_w
+"QS 3 Swing-Regeln (SPY, 1d)",Quantified Strategies,SPY Tageskerzen seit 2005,528,70.8,0.318,167.8,1.93,-17.0,0.497,https://youtu.be/lKzoUptU2io
+QS/Connors %b 3 Tage (1d),Quantified Strategies (Connors),Tageskerzen seit 2005,1117,72.9,0.316,352.6,1.88,-25.1,0.715,https://youtu.be/gX8FjjKR7ec
+Wochen-Ausbruch + MACD-Ausstieg (1w),Financial Wisdom,Wochenkerzen seit 2005,808,36.5,0.488,393.9,1.88,-31.5,2.665,https://youtu.be/tPjz1esBQVc
+Vergleich: Moving Momentum ohne Stochastik (1d),–,Tageskerzen seit 2005,1393,26.1,0.576,802.8,1.84,-78.3,3.891,
+"QS 5 Regeln (SPY, 1d)",Quantified Strategies,SPY Tageskerzen seit 2005,626,73.3,0.256,160.0,1.79,-18.0,0.378,https://youtu.be/KuXV0LRfJx8
+Connors RSI(2) (1d),Connors & Alvarez (Buch 2008),Tageskerzen seit 2005,1998,69.5,0.278,555.7,1.76,-45.4,0.565,
+"Turtles tmr0 (1d, nur Long)",TradingView: tmr0,Tageskerzen seit 2005,4747,44.2,0.693,3290.6,1.68,-207.6,1.702,https://www.tradingview.com/script/Q1O23zJP/
+Moving Momentum (1d),StockCharts ChartSchool (A. Hill),Tageskerzen seit 2005,1101,27.9,0.444,488.6,1.68,-72.8,3.643,https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/moving-momentum
+QS/Connors R3 (1d),Quantified Strategies (Connors),Tageskerzen seit 2005,3603,71.3,0.27,971.7,1.64,-73.6,0.573,https://youtu.be/gX8FjjKR7ec
+QS/Connors RSI(5) 30/50 (1d),Quantified Strategies (Connors),Tageskerzen seit 2005,2826,71.6,0.294,830.9,1.6,-95.4,0.587,https://youtu.be/gX8FjjKR7ec
+QS/Connors 4 von 5 Tagen runter (1d),Quantified Strategies (Connors),Tageskerzen seit 2005,4028,69.8,0.21,843.9,1.55,-49.3,0.453,https://youtu.be/gX8FjjKR7ec
+Vergleich: EMA21/34 ohne Squeeze (1d),–,Tageskerzen seit 2005,6401,27.1,0.487,3115.0,1.5,-380.1,0.843,
+"Glow Ribbon Flip (1d, nur Long)",TradingView: blitz_locked,Tageskerzen seit 2005,2435,40.6,0.188,456.6,1.46,-44.2,1.41,https://www.tradingview.com/script/OUOx3rYT/
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),Quantified Strategies (Connors),Tageskerzen seit 2005,2636,70.4,0.18,474.3,1.46,-51.3,0.41,https://youtu.be/gX8FjjKR7ec
+EMA200 + RSI + Engulfing (1d),TradingLab,Tageskerzen seit 2005,1606,42.4,0.26,417.7,1.43,-24.6,1.255,https://youtu.be/XBcMiYK7qYY
+Squeeze + EMA21/34 (1d),BrandonTrades,Tageskerzen seit 2005,2590,29.7,0.372,962.2,1.42,-139.4,1.022,https://youtu.be/OKl208tuiIs
+QS 3 Swing-Regeln (1d),Quantified Strategies,Tageskerzen seit 2005,13521,67.1,0.169,2289.0,1.39,-125.2,0.45,https://youtu.be/lKzoUptU2io
+QS/Connors Double 5 (1d),Quantified Strategies (Connors),Tageskerzen seit 2005,6981,69.7,0.185,1292.8,1.36,-144.2,0.384,https://youtu.be/gX8FjjKR7ec
+Vergleich: grüne Kerze > EMA200 (1d),–,Tageskerzen seit 2005,4253,40.8,0.213,905.8,1.34,-68.8,1.1,
+QS 5 Regeln (1d),Quantified Strategies,Tageskerzen seit 2005,14627,67.9,0.139,2034.3,1.33,-166.2,0.357,https://youtu.be/KuXV0LRfJx8
+Vergleich: Kauf nach rotem Tag (1d),–,Tageskerzen seit 2005,22703,67.5,0.12,2721.7,1.28,-214.1,0.288,
+Vergleich: roter Tag > SMA200 (1d),–,Tageskerzen seit 2005,19462,67.3,0.085,1649.9,1.26,-121.1,0.182,
+EMA200 + RSI + Engulfing (1h),TradingLab,"1 Std, 2 Jahre",1975,38.2,0.12,236.4,1.17,-41.9,0.254,https://youtu.be/XBcMiYK7qYY
+Vergleich: grüne Kerze > EMA200 (1h),–,"1 Std, 2 Jahre",3287,39.0,0.11,361.2,1.15,-72.7,0.266,
+Vergleich: Donchian 50 ohne MACD (1d),–,Tageskerzen seit 2005,2128,38.0,0.059,125.6,1.14,-69.6,0.378,
+Turtles tmr0 (1d),TradingView: tmr0,Tageskerzen seit 2005,8724,38.8,0.158,1378.5,1.14,-634.7,0.402,https://www.tradingview.com/script/Q1O23zJP/
+Donchian 50 + MACD (1d),TradingView: LordRobrecht,Tageskerzen seit 2005,2067,37.3,0.059,121.7,1.14,-66.2,0.365,https://www.tradingview.com/script/bGjB7COd/
+EMA50 Pullback (1d),Data Trader,Tageskerzen seit 2005,1658,36.7,0.087,144.7,1.13,-49.3,0.32,https://youtu.be/7Ds9djcEKB4
+Glow Ribbon Flip (1d),TradingView: blitz_locked,Tageskerzen seit 2005,4584,34.7,0.031,141.9,1.07,-79.5,0.18,https://www.tradingview.com/script/OUOx3rYT/
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",–,Tageskerzen seit 2005,17708,30.8,0.009,163.2,1.03,-92.5,0.024,
+Vergleich: jede MACD-Kreuzung (1d),–,Tageskerzen seit 2005,9548,42.2,-0.047,-451.7,0.96,-893.4,-0.071,
+EMA50 Pullback (1h),Data Trader,"Forex + Aktien 1 Std, 2 Jahre",2475,33.5,-0.028,-68.3,0.96,-110.4,-0.097,https://youtu.be/7Ds9djcEKB4
+"Williams %R (1h, filter)",The Transparent Trader,"Forex 1 Std, 2 Jahre",962,62.0,-0.004,-3.8,0.94,-9.1,-0.009,https://youtu.be/GyikfniCLqU
+Vergleich: nur Bollinger 30 (1d),–,Tageskerzen seit 2005,3814,65.3,-0.081,-307.4,0.94,-360.5,-0.223,
+"Williams %R (1h, base)",The Transparent Trader,"Forex 1 Std, 2 Jahre",1720,61.6,-0.004,-7.7,0.93,-12.8,-0.009,https://youtu.be/GyikfniCLqU
+"Williams %R (1h, day)",The Transparent Trader,"Forex 1 Std, 2 Jahre",1358,55.9,-0.005,-7.1,0.91,-10.2,-0.011,https://youtu.be/GyikfniCLqU
+Vergleich: MACD+RSI ohne Stochastik (1h),–,"Forex 1 Std, 2 Jahre",3606,39.9,-0.098,-355.0,0.85,-366.7,-0.014,
+ORB 15 Min,The Moving Average,"5 Min, 60 Tage",832,44.0,-0.061,-51.0,0.84,-66.7,-0.05,https://youtu.be/jlShztsY3oA
+Pattern Scalp (Rumers),The Rumers,"5 Min, 60 Tage",730,41.8,-0.107,-77.8,0.82,-112.1,-0.065,https://youtu.be/T0H_jpQXdVI
+TradingLab Bollinger + RSI (1d),TradingLab,Tageskerzen seit 2005,1085,62.0,-0.31,-335.8,0.81,-357.8,-0.694,https://youtu.be/pCmJ8wsAS_w
+Vergleich: MACD+RSI ohne Stochastik (30m),–,"Forex 30 Min, 60 Tage",393,39.2,-0.134,-52.8,0.8,-57.5,-0.019,
+Data Trader Stoch+RSI+MACD (1h),Data Trader,"Forex 1 Std, 2 Jahre",1604,37.7,-0.163,-261.7,0.77,-269.9,-0.024,https://youtu.be/hh3BKTFE1dc
+Sneaky Pivot,The Rumers,"15 Min, 60 Tage",286,42.0,-0.139,-39.8,0.72,-57.6,-0.037,https://youtu.be/zspMXJVbfAY
+5-Min Range + FVG (1 Min),Casper Trading,"1 Min, ~7 Tage",119,31.1,-0.232,-27.6,0.7,-33.9,-0.006,https://youtu.be/mzFXoK2pbNE
+Data Trader Stoch+RSI+MACD (30m),Data Trader,"Forex 30 Min, 60 Tage",221,35.7,-0.218,-48.2,0.69,-58.3,-0.027,https://youtu.be/hh3BKTFE1dc
+ORB 15 Min + Trend,The Moving Average,"5 Min, 60 Tage",394,38.3,-0.154,-60.6,0.65,-67.4,-0.191,https://youtu.be/jlShztsY3oA
+"Williams %R (30m, filter)",The Transparent Trader,"Forex 30 Min, 60 Tage",139,58.3,-0.015,-2.0,0.64,-2.7,-0.03,https://youtu.be/GyikfniCLqU
+"Williams %R (30m, base)",The Transparent Trader,"Forex 30 Min, 60 Tage",246,54.5,-0.018,-4.3,0.56,-5.1,-0.037,https://youtu.be/GyikfniCLqU
+Vergleich: nur Bollinger-Kreuz (1d),–,Tageskerzen seit 2005,429,61.3,-6.746,-2893.9,0.38,-2915.0,-15.784,
+ChartArt Bollinger + RSI (1d),TradingView: ChartArt,Tageskerzen seit 2005,305,58.0,-16.318,-4977.0,0.23,-5068.8,-42.936,https://www.tradingview.com/script/uCV8I4xA/

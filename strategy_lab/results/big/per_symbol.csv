@@ -394,6 +394,205 @@ ChartArt Bollinger + RSI (1d),ZBRA,8.0,75.0,-45.131,-361.0,0.07,-383.2,-74.306
 "ChartArt Bollinger + RSI (1d, nur Long)",XYZ,3.0,66.7,2.707,8.1,3.96,-2.7,21.246
 "ChartArt Bollinger + RSI (1d, nur Long)",ZAL.DE,3.0,66.7,-1.652,-5.0,0.76,-20.4,12.313
 "ChartArt Bollinger + RSI (1d, nur Long)",ZBRA,4.0,75.0,2.278,9.1,2.48,0.0,11.014
+ChartArt Golden Cross (1d),AAPL,10.0,70.0,28.454,284.5,15.99,-11.3,70.525
+ChartArt Golden Cross (1d),ADBE,13.0,53.8,22.859,297.2,8.16,-24.0,47.959
+ChartArt Golden Cross (1d),ADS.DE,11.0,63.6,8.328,91.6,4.49,-16.8,21.379
+ChartArt Golden Cross (1d),AEE,17.0,41.2,0.706,12.0,1.32,-18.3,1.607
+ChartArt Golden Cross (1d),AFL,18.0,72.2,5.699,102.6,4.21,-18.4,10.614
+ChartArt Golden Cross (1d),AIR.DE,15.0,60.0,3.549,53.2,2.14,-26.7,10.308
+ChartArt Golden Cross (1d),AKAM,17.0,52.9,6.311,107.3,3.42,-22.9,18.018
+ChartArt Golden Cross (1d),ALGN,15.0,40.0,5.167,77.5,2.45,-26.5,16.972
+ChartArt Golden Cross (1d),ALV.DE,15.0,46.7,4.64,69.6,2.09,-43.5,8.447
+ChartArt Golden Cross (1d),AMD,13.0,61.5,20.418,265.4,10.8,-25.2,79.801
+ChartArt Golden Cross (1d),AME,13.0,61.5,7.964,103.5,3.41,-16.2,19.414
+ChartArt Golden Cross (1d),AMGN,25.0,28.0,1.006,25.1,1.38,-43.5,2.64
+ChartArt Golden Cross (1d),AMP,15.0,46.7,9.485,142.3,5.22,-14.0,19.116
+ChartArt Golden Cross (1d),ANET,8.0,62.5,16.901,135.2,8.71,-10.0,49.242
+ChartArt Golden Cross (1d),APO,12.0,41.7,4.53,54.4,2.2,-21.2,13.434
+ChartArt Golden Cross (1d),ATO,14.0,64.3,6.311,88.3,5.21,-13.6,9.953
+ChartArt Golden Cross (1d),AVY,19.0,57.9,3.708,70.5,2.51,-9.5,8.216
+ChartArt Golden Cross (1d),AWK,14.0,57.1,6.107,85.5,6.59,-13.9,11.123
+ChartArt Golden Cross (1d),AXON,18.0,44.4,7.92,142.6,4.12,-19.2,23.294
+ChartArt Golden Cross (1d),AZO,14.0,57.1,14.172,198.4,10.43,-6.0,26.08
+ChartArt Golden Cross (1d),BAC,18.0,50.0,1.528,27.5,1.35,-27.0,5.77
+ChartArt Golden Cross (1d),BAS.DE,16.0,50.0,0.974,15.6,1.3,-28.0,2.747
+ChartArt Golden Cross (1d),BAYN.DE,11.0,36.4,5.876,64.6,2.71,-32.4,10.757
+ChartArt Golden Cross (1d),BE,8.0,25.0,19.635,157.1,7.66,-23.6,90.825
+ChartArt Golden Cross (1d),BEI.DE,18.0,33.3,1.715,30.9,1.56,-33.1,4.119
+ChartArt Golden Cross (1d),BF-B,17.0,52.9,2.37,40.3,1.71,-27.8,5.438
+ChartArt Golden Cross (1d),BIIB,18.0,33.3,7.881,141.9,3.42,-37.0,23.416
+ChartArt Golden Cross (1d),BLK,18.0,38.9,5.844,105.2,3.22,-12.5,10.486
+ChartArt Golden Cross (1d),BMW.DE,17.0,52.9,1.018,17.3,1.29,-32.0,1.5
+ChartArt Golden Cross (1d),BNR.DE,14.0,35.7,-0.408,-5.7,0.9,-49.6,0.997
+ChartArt Golden Cross (1d),BNY,15.0,40.0,7.085,106.3,2.48,-33.6,13.676
+ChartArt Golden Cross (1d),BRO,12.0,83.3,10.452,125.4,18.51,-7.2,15.819
+ChartArt Golden Cross (1d),C,16.0,50.0,2.59,41.4,1.74,-25.9,4.699
+ChartArt Golden Cross (1d),CBK.DE,13.0,53.8,6.104,79.4,3.75,-25.2,15.949
+ChartArt Golden Cross (1d),CCL,19.0,36.8,-1.313,-24.9,0.56,-26.9,-1.641
+ChartArt Golden Cross (1d),CEG,2.0,50.0,30.392,60.8,33.25,-1.9,54.018
+ChartArt Golden Cross (1d),CF,15.0,53.3,10.22,153.3,8.37,-12.4,25.732
+ChartArt Golden Cross (1d),CFG,10.0,50.0,0.517,5.2,1.1,-27.5,2.607
+ChartArt Golden Cross (1d),CHD,16.0,62.5,5.919,94.7,4.92,-10.1,7.851
+ChartArt Golden Cross (1d),CINF,16.0,56.2,7.481,119.7,6.58,-10.2,12.904
+ChartArt Golden Cross (1d),CMI,13.0,61.5,9.666,125.7,4.55,-14.1,27.428
+ChartArt Golden Cross (1d),CNC,20.0,35.0,3.713,74.3,2.43,-20.2,7.67
+ChartArt Golden Cross (1d),COF,18.0,38.9,0.288,5.2,1.07,-32.0,4.219
+ChartArt Golden Cross (1d),CON.DE,13.0,46.2,3.066,39.9,1.84,-25.2,15.737
+ChartArt Golden Cross (1d),COST,15.0,60.0,11.564,173.5,8.89,-15.5,17.602
+ChartArt Golden Cross (1d),CPAY,10.0,50.0,18.065,180.6,9.8,-13.2,37.362
+ChartArt Golden Cross (1d),CSX,13.0,38.5,7.652,99.5,3.56,-23.4,18.426
+ChartArt Golden Cross (1d),CTSH,18.0,50.0,2.504,45.1,1.71,-42.3,11.001
+ChartArt Golden Cross (1d),CVS,14.0,35.7,3.474,48.6,1.84,-33.3,11.01
+ChartArt Golden Cross (1d),DASH,3.0,66.7,13.794,41.4,9.5,-4.9,48.866
+ChartArt Golden Cross (1d),DB1.DE,15.0,46.7,5.324,79.9,3.24,-18.2,5.622
+ChartArt Golden Cross (1d),DBK.DE,17.0,35.3,1.763,30.0,1.54,-49.3,2.267
+ChartArt Golden Cross (1d),DD,14.0,64.3,4.217,59.0,2.48,-15.6,12.539
+ChartArt Golden Cross (1d),DDOG,5.0,60.0,1.559,7.8,1.77,-10.1,7.54
+ChartArt Golden Cross (1d),DELL,7.0,57.1,16.645,116.5,13.21,-7.1,52.288
+ChartArt Golden Cross (1d),DGX,16.0,37.5,0.658,10.5,1.18,-29.9,1.727
+ChartArt Golden Cross (1d),DHL.DE,15.0,53.3,4.491,67.4,2.51,-21.7,11.355
+ChartArt Golden Cross (1d),DHR,17.0,64.7,5.762,98.0,3.73,-17.1,11.258
+ChartArt Golden Cross (1d),DLTR,13.0,61.5,6.248,81.2,6.98,-12.4,21.485
+ChartArt Golden Cross (1d),DPZ,14.0,50.0,11.528,161.4,7.01,-7.4,26.876
+ChartArt Golden Cross (1d),DTE.DE,19.0,31.6,0.517,9.8,1.18,-34.6,0.369
+ChartArt Golden Cross (1d),DTG.DE,5.0,40.0,-1.205,-6.0,0.34,-7.2,-3.581
+ChartArt Golden Cross (1d),DVA,18.0,38.9,2.923,52.6,1.92,-30.4,6.968
+ChartArt Golden Cross (1d),DVN,13.0,61.5,5.059,65.8,2.72,-23.9,24.864
+ChartArt Golden Cross (1d),ED,21.0,28.6,-0.545,-11.4,0.85,-45.3,-0.864
+ChartArt Golden Cross (1d),EL,16.0,56.2,7.139,114.2,4.18,-19.5,16.281
+ChartArt Golden Cross (1d),ELV,15.0,46.7,5.777,86.7,2.52,-27.8,12.458
+ChartArt Golden Cross (1d),EMR,17.0,52.9,1.939,33.0,1.56,-31.4,4.059
+ChartArt Golden Cross (1d),ENR.DE,2.0,50.0,132.224,264.4,38.88,0.0,421.981
+ChartArt Golden Cross (1d),EOAN.DE,18.0,22.2,-1.96,-35.3,0.49,-61.2,-4.53
+ChartArt Golden Cross (1d),EQIX,14.0,57.1,7.282,102.0,4.75,-7.5,18.843
+ChartArt Golden Cross (1d),EQT,14.0,57.1,4.397,61.6,3.16,-14.7,18.787
+ChartArt Golden Cross (1d),EW,14.0,50.0,9.353,130.9,5.26,-19.0,22.986
+ChartArt Golden Cross (1d),EXC,16.0,31.2,-1.32,-21.1,0.59,-33.1,-1.273
+ChartArt Golden Cross (1d),FICO,13.0,61.5,9.84,127.9,4.95,-13.4,29.232
+ChartArt Golden Cross (1d),FISV,11.0,72.7,18.52,203.7,53.57,-2.3,28.082
+ChartArt Golden Cross (1d),FITB,17.0,41.2,1.691,28.7,1.53,-25.2,9.089
+ChartArt Golden Cross (1d),FIX,18.0,44.4,7.821,140.8,4.07,-24.2,24.079
+ChartArt Golden Cross (1d),FME.DE,23.0,43.5,1.09,25.1,1.4,-38.7,1.465
+ChartArt Golden Cross (1d),FOXA,7.0,42.9,0.707,4.9,1.1,-14.4,2.057
+ChartArt Golden Cross (1d),FRE.DE,16.0,62.5,6.203,99.2,3.46,-39.1,12.547
+ChartArt Golden Cross (1d),FTV,8.0,37.5,-4.413,-35.3,0.25,-27.2,-6.614
+ChartArt Golden Cross (1d),G1A.DE,19.0,42.1,1.377,26.2,1.36,-36.5,5.409
+ChartArt Golden Cross (1d),G24.DE,7.0,57.1,8.437,59.1,4.48,-15.4,15.94
+ChartArt Golden Cross (1d),GD,12.0,50.0,8.475,101.7,4.5,-15.8,12.837
+ChartArt Golden Cross (1d),GL,14.0,50.0,3.937,55.1,2.0,-39.3,11.226
+ChartArt Golden Cross (1d),GOOG,13.0,69.2,11.699,152.1,13.54,-10.3,22.631
+ChartArt Golden Cross (1d),GOOGL,13.0,76.9,12.655,164.5,14.43,-10.3,24.199
+ChartArt Golden Cross (1d),HEI.DE,12.0,50.0,10.577,126.9,5.85,-9.2,22.618
+ChartArt Golden Cross (1d),HEN3.DE,14.0,50.0,6.459,90.4,3.24,-34.8,12.021
+ChartArt Golden Cross (1d),HNR1.DE,16.0,56.2,4.143,66.3,2.87,-10.6,9.501
+ChartArt Golden Cross (1d),HPE,11.0,45.5,0.921,10.1,1.3,-27.7,7.515
+ChartArt Golden Cross (1d),IBKR,16.0,31.2,12.487,199.8,5.62,-17.4,23.382
+ChartArt Golden Cross (1d),IBM,21.0,33.3,1.399,29.4,1.33,-67.3,1.359
+ChartArt Golden Cross (1d),ICE,11.0,54.5,4.995,54.9,5.04,-7.2,9.155
+ChartArt Golden Cross (1d),IEX,17.0,47.1,1.845,31.4,1.45,-23.8,3.983
+ChartArt Golden Cross (1d),IFF,17.0,52.9,3.268,55.5,2.54,-26.5,6.906
+ChartArt Golden Cross (1d),IFX.DE,15.0,46.7,2.575,38.6,1.82,-25.4,14.645
+ChartArt Golden Cross (1d),IR,5.0,60.0,3.607,18.0,1.92,-13.0,11.03
+ChartArt Golden Cross (1d),IRM,23.0,30.4,0.192,4.4,1.05,-42.2,2.241
+ChartArt Golden Cross (1d),ITW,17.0,35.3,2.055,34.9,1.72,-34.7,5.104
+ChartArt Golden Cross (1d),JBHT,18.0,44.4,1.001,18.0,1.42,-20.2,3.287
+ChartArt Golden Cross (1d),JNJ,20.0,25.0,1.26,25.2,1.34,-35.0,1.543
+ChartArt Golden Cross (1d),JPM,14.0,57.1,7.507,105.1,4.17,-16.5,15.292
+ChartArt Golden Cross (1d),KEYS,6.0,50.0,21.249,127.5,9.87,-14.4,47.8
+ChartArt Golden Cross (1d),KLAC,13.0,76.9,8.243,107.2,11.96,-8.6,24.836
+ChartArt Golden Cross (1d),KMI,13.0,61.5,0.051,0.7,1.01,-42.2,1.201
+ChartArt Golden Cross (1d),KO,17.0,70.6,3.956,67.3,4.79,-10.8,5.504
+ChartArt Golden Cross (1d),KVUE,2.0,50.0,1.365,2.7,3.22,0.0,3.11
+ChartArt Golden Cross (1d),LEN,13.0,61.5,3.336,43.4,2.36,-8.7,18.936
+ChartArt Golden Cross (1d),LIN,16.0,56.2,3.377,54.0,3.39,-11.4,7.104
+ChartArt Golden Cross (1d),LNT,13.0,53.8,7.016,91.2,4.08,-20.2,10.039
+ChartArt Golden Cross (1d),LYV,11.0,54.5,11.504,126.5,4.48,-18.3,27.129
+ChartArt Golden Cross (1d),MAA,12.0,50.0,4.311,51.7,2.99,-7.6,9.737
+ChartArt Golden Cross (1d),MAR,13.0,53.8,8.595,111.7,2.97,-41.2,19.119
+ChartArt Golden Cross (1d),MBG.DE,16.0,43.8,1.079,17.3,1.28,-24.9,5.74
+ChartArt Golden Cross (1d),MCD,18.0,44.4,3.396,61.1,1.96,-40.0,5.519
+ChartArt Golden Cross (1d),MDLZ,20.0,35.0,-1.418,-28.4,0.59,-33.0,-2.269
+ChartArt Golden Cross (1d),MDT,18.0,27.8,-1.151,-20.7,0.73,-36.4,-0.361
+ChartArt Golden Cross (1d),MGM,15.0,40.0,0.834,12.5,1.16,-35.4,5.964
+ChartArt Golden Cross (1d),MMM,17.0,41.2,3.686,62.7,1.92,-29.2,5.575
+ChartArt Golden Cross (1d),MO,17.0,47.1,1.878,31.9,1.33,-44.9,2.011
+ChartArt Golden Cross (1d),MOS,15.0,26.7,10.765,161.5,3.84,-30.0,32.653
+ChartArt Golden Cross (1d),MPWR,13.0,53.8,12.462,162.0,5.93,-19.6,32.791
+ChartArt Golden Cross (1d),MRK.DE,16.0,50.0,3.95,63.2,2.91,-22.3,7.761
+ChartArt Golden Cross (1d),MRVL,12.0,58.3,7.659,91.9,3.94,-12.7,30.084
+ChartArt Golden Cross (1d),MSCI,15.0,33.3,8.999,135.0,3.86,-25.6,18.721
+ChartArt Golden Cross (1d),MTB,14.0,64.3,1.535,21.5,1.49,-30.6,5.312
+ChartArt Golden Cross (1d),MTD,19.0,57.9,7.154,135.9,4.67,-11.3,15.696
+ChartArt Golden Cross (1d),MTX.DE,13.0,53.8,7.214,93.8,5.2,-11.2,18.81
+ChartArt Golden Cross (1d),MUV2.DE,18.0,27.8,1.258,22.6,1.54,-30.0,4.711
+ChartArt Golden Cross (1d),NKE,16.0,43.8,4.794,76.7,3.01,-17.0,8.527
+ChartArt Golden Cross (1d),NUE,17.0,35.3,4.836,82.2,2.73,-21.2,13.501
+ChartArt Golden Cross (1d),NVDA,10.0,80.0,53.04,530.4,90.93,-5.9,181.301
+ChartArt Golden Cross (1d),NWS,10.0,40.0,1.87,18.7,1.47,-23.0,6.992
+ChartArt Golden Cross (1d),NWSA,10.0,40.0,2.17,21.7,1.6,-15.5,7.468
+ChartArt Golden Cross (1d),O,17.0,41.2,-1.04,-17.7,0.68,-28.3,-0.225
+ChartArt Golden Cross (1d),OXY,14.0,42.9,2.393,33.5,1.81,-22.4,18.921
+ChartArt Golden Cross (1d),P,12.0,41.7,-0.214,-2.6,0.95,-26.7,2.029
+ChartArt Golden Cross (1d),PAH3.DE,11.0,36.4,-0.844,-9.3,0.81,-22.4,0.952
+ChartArt Golden Cross (1d),PCAR,19.0,47.4,2.303,43.8,1.89,-21.2,6.519
+ChartArt Golden Cross (1d),PCG,18.0,33.3,-2.593,-46.7,0.45,-65.1,-8.046
+ChartArt Golden Cross (1d),PFE,18.0,38.9,0.435,7.8,1.16,-16.4,0.699
+ChartArt Golden Cross (1d),PH,21.0,42.9,4.28,89.9,2.62,-27.7,10.493
+ChartArt Golden Cross (1d),PLD,17.0,47.1,-0.25,-4.2,0.92,-17.4,0.448
+ChartArt Golden Cross (1d),PODD,11.0,63.6,10.459,115.0,5.8,-17.4,41.3
+ChartArt Golden Cross (1d),PPG,15.0,40.0,2.884,43.3,1.92,-31.4,9.548
+ChartArt Golden Cross (1d),PSA,10.0,40.0,6.09,60.9,3.89,-12.3,15.613
+ChartArt Golden Cross (1d),PSX,11.0,36.4,5.136,56.5,4.1,-10.1,11.374
+ChartArt Golden Cross (1d),QCOM,22.0,27.3,-0.945,-20.8,0.7,-34.3,-3.663
+ChartArt Golden Cross (1d),QIA.DE,26.0,46.2,-0.159,-4.1,0.92,-26.6,-0.259
+ChartArt Golden Cross (1d),REG,16.0,43.8,0.134,2.1,1.05,-17.0,1.298
+ChartArt Golden Cross (1d),REGN,17.0,52.9,7.079,120.4,5.19,-14.5,24.005
+ChartArt Golden Cross (1d),RHM.DE,14.0,57.1,18.909,264.7,15.57,-16.1,60.419
+ChartArt Golden Cross (1d),RL,19.0,42.1,3.227,61.3,1.92,-48.9,9.311
+ChartArt Golden Cross (1d),ROL,17.0,58.8,7.037,119.6,5.16,-18.6,13.676
+ChartArt Golden Cross (1d),ROST,13.0,76.9,10.282,133.7,6.77,-16.4,25.717
+ChartArt Golden Cross (1d),RWE.DE,16.0,50.0,1.393,22.3,1.6,-19.9,4.43
+ChartArt Golden Cross (1d),SAP.DE,18.0,33.3,2.167,39.0,1.78,-28.7,4.685
+ChartArt Golden Cross (1d),SBAC,12.0,41.7,6.884,82.6,2.49,-33.1,13.901
+ChartArt Golden Cross (1d),SHL.DE,9.0,22.2,-1.599,-14.4,0.55,-16.8,-4.232
+ChartArt Golden Cross (1d),SHW,14.0,50.0,10.598,148.4,7.34,-8.7,21.934
+ChartArt Golden Cross (1d),SIE.DE,16.0,50.0,1.184,18.9,1.42,-36.3,3.39
+ChartArt Golden Cross (1d),SLB,16.0,31.2,0.414,6.6,1.15,-26.9,1.958
+ChartArt Golden Cross (1d),SNA,17.0,47.1,4.637,78.8,2.33,-44.4,8.282
+ChartArt Golden Cross (1d),SO,18.0,33.3,0.147,2.6,1.05,-23.6,0.698
+ChartArt Golden Cross (1d),STE,20.0,40.0,6.194,123.9,4.59,-12.9,8.598
+ChartArt Golden Cross (1d),SY1.DE,15.0,33.3,4.991,74.9,2.78,-22.9,13.631
+ChartArt Golden Cross (1d),SYK,12.0,58.3,9.856,118.3,5.96,-7.9,15.956
+ChartArt Golden Cross (1d),T,17.0,29.4,1.56,26.5,1.43,-42.8,1.937
+ChartArt Golden Cross (1d),TEL,16.0,50.0,4.572,73.2,2.76,-13.1,8.639
+ChartArt Golden Cross (1d),TER,20.0,40.0,4.66,93.2,3.03,-15.6,14.746
+ChartArt Golden Cross (1d),TFC,21.0,33.3,-1.747,-36.7,0.5,-34.0,-4.489
+ChartArt Golden Cross (1d),TGT,15.0,53.3,4.039,60.6,2.93,-16.2,11.856
+ChartArt Golden Cross (1d),TJX,15.0,53.3,8.112,121.7,5.39,-7.1,19.718
+ChartArt Golden Cross (1d),TPR,16.0,43.8,5.468,87.5,3.56,-28.8,14.841
+ChartArt Golden Cross (1d),TRMB,16.0,50.0,0.065,1.0,1.02,-39.0,5.37
+ChartArt Golden Cross (1d),TRV,13.0,61.5,9.723,126.4,8.98,-5.1,18.24
+ChartArt Golden Cross (1d),TSCO,14.0,50.0,8.197,114.8,5.2,-10.8,31.9
+ChartArt Golden Cross (1d),TSLA,14.0,28.6,28.613,400.6,13.8,-11.7,97.891
+ChartArt Golden Cross (1d),TSN,15.0,60.0,5.865,88.0,6.6,-5.1,11.043
+ChartArt Golden Cross (1d),TWLO,8.0,50.0,11.74,93.9,5.63,-16.4,48.93
+ChartArt Golden Cross (1d),TXT,15.0,46.7,4.769,71.5,3.98,-11.5,10.76
+ChartArt Golden Cross (1d),UAL,18.0,27.8,0.838,15.1,1.25,-20.0,2.606
+ChartArt Golden Cross (1d),UBER,5.0,60.0,9.262,46.3,4.88,-6.6,33.901
+ChartArt Golden Cross (1d),UHS,15.0,46.7,4.471,67.1,2.64,-20.8,9.415
+ChartArt Golden Cross (1d),UNP,14.0,50.0,6.696,93.7,3.92,-25.3,17.313
+ChartArt Golden Cross (1d),URI,15.0,73.3,5.499,82.5,3.14,-19.8,24.759
+ChartArt Golden Cross (1d),V,11.0,81.8,20.58,226.4,137.59,-1.1,33.902
+ChartArt Golden Cross (1d),VNA.DE,7.0,28.6,2.916,20.4,2.67,-10.0,4.859
+ChartArt Golden Cross (1d),VOW3.DE,19.0,36.8,-1.258,-23.9,0.65,-42.5,-0.198
+ChartArt Golden Cross (1d),VRSK,12.0,66.7,10.751,129.0,10.87,-8.4,16.636
+ChartArt Golden Cross (1d),VRT,3.0,100.0,34.657,104.0,inf,0.0,180.513
+ChartArt Golden Cross (1d),VST,6.0,33.3,22.335,134.0,8.32,-5.7,71.524
+ChartArt Golden Cross (1d),WY,21.0,33.3,-2.758,-57.9,0.31,-54.2,-5.271
+ChartArt Golden Cross (1d),XOM,16.0,25.0,2.571,41.1,1.75,-40.7,9.177
+ChartArt Golden Cross (1d),XYZ,11.0,27.3,10.446,114.9,3.26,-27.3,30.76
+ChartArt Golden Cross (1d),ZAL.DE,6.0,50.0,-0.242,-1.5,0.91,-8.3,-1.98
+ChartArt Golden Cross (1d),ZBRA,15.0,60.0,7.87,118.0,4.11,-11.6,19.898
 ChartArt MACD + SMA200 (1d),AAPL,17.0,47.1,12.866,218.7,4.09,-34.2,21.913
 ChartArt MACD + SMA200 (1d),ADBE,10.0,20.0,62.526,625.3,12.27,-36.5,116.824
 ChartArt MACD + SMA200 (1d),ADS.DE,9.0,66.7,13.85,124.7,6.12,-22.8,34.453
@@ -2790,6 +2989,1205 @@ QS 5 Regeln (1d),XOM,567.0,68.1,0.1,56.6,1.22,-43.0,0.355
 QS 5 Regeln (1d),XYZ,286.0,69.9,0.123,35.1,1.29,-19.6,0.499
 QS 5 Regeln (1d),ZAL.DE,297.0,65.0,-0.041,-12.1,0.93,-34.1,-0.023
 QS 5 Regeln (1d),ZBRA,559.0,64.9,0.09,50.5,1.2,-15.6,0.351
+QS/Connors %b 3 Tage (1d),AAPL,57.0,82.5,0.672,38.3,4.97,-3.6,1.948
+QS/Connors %b 3 Tage (1d),ADBE,49.0,73.5,0.596,29.2,3.52,-4.3,1.352
+QS/Connors %b 3 Tage (1d),ADS.DE,46.0,69.6,0.377,17.3,2.08,-3.7,0.733
+QS/Connors %b 3 Tage (1d),AEE,33.0,63.6,0.183,6.0,1.42,-6.3,0.252
+QS/Connors %b 3 Tage (1d),AFL,40.0,75.0,0.321,12.8,1.88,-5.7,0.609
+QS/Connors %b 3 Tage (1d),AIR.DE,51.0,74.5,0.225,11.5,1.63,-3.8,0.502
+QS/Connors %b 3 Tage (1d),AKAM,47.0,70.2,0.417,19.6,3.19,-2.4,1.063
+QS/Connors %b 3 Tage (1d),ALGN,35.0,71.4,0.398,13.9,2.75,-2.9,1.503
+QS/Connors %b 3 Tage (1d),ALV.DE,33.0,66.7,0.083,2.7,1.15,-6.0,0.147
+QS/Connors %b 3 Tage (1d),AMD,42.0,71.4,0.099,4.2,1.23,-6.8,0.495
+QS/Connors %b 3 Tage (1d),AME,54.0,70.4,0.278,15.0,1.75,-6.4,0.621
+QS/Connors %b 3 Tage (1d),AMGN,44.0,68.2,0.106,4.7,1.24,-8.5,0.249
+QS/Connors %b 3 Tage (1d),AMP,30.0,73.3,0.421,12.6,2.35,-3.6,0.811
+QS/Connors %b 3 Tage (1d),ANET,27.0,70.4,0.347,9.4,1.73,-8.7,1.463
+QS/Connors %b 3 Tage (1d),APO,26.0,88.5,0.576,15.0,4.13,-3.4,1.758
+QS/Connors %b 3 Tage (1d),ATO,51.0,68.6,-0.02,-1.0,0.96,-7.6,0.004
+QS/Connors %b 3 Tage (1d),AVY,42.0,78.6,0.218,9.2,1.57,-4.9,0.394
+QS/Connors %b 3 Tage (1d),AWK,34.0,67.6,0.14,4.8,1.3,-5.0,0.219
+QS/Connors %b 3 Tage (1d),AXON,50.0,72.0,0.043,2.2,1.08,-11.4,0.307
+QS/Connors %b 3 Tage (1d),AZO,49.0,69.4,0.356,17.4,1.89,-6.7,0.684
+QS/Connors %b 3 Tage (1d),BAC,50.0,66.0,0.385,19.2,2.18,-3.9,0.841
+QS/Connors %b 3 Tage (1d),BAS.DE,31.0,51.6,0.019,0.6,1.05,-7.5,0.008
+QS/Connors %b 3 Tage (1d),BAYN.DE,43.0,76.7,0.095,4.1,1.17,-14.6,0.377
+QS/Connors %b 3 Tage (1d),BE,11.0,72.7,0.588,6.5,7.1,-0.6,5.198
+QS/Connors %b 3 Tage (1d),BEI.DE,35.0,82.9,0.431,15.1,2.16,-8.7,0.818
+QS/Connors %b 3 Tage (1d),BF-B,38.0,63.2,-0.023,-0.9,0.96,-8.1,-0.037
+QS/Connors %b 3 Tage (1d),BIIB,33.0,72.7,0.473,15.6,2.49,-6.6,1.133
+QS/Connors %b 3 Tage (1d),BLK,57.0,71.9,0.418,23.8,2.23,-3.4,0.908
+QS/Connors %b 3 Tage (1d),BMW.DE,44.0,65.9,0.143,6.3,1.37,-7.0,0.397
+QS/Connors %b 3 Tage (1d),BNR.DE,29.0,69.0,-0.12,-3.5,0.76,-9.0,-0.129
+QS/Connors %b 3 Tage (1d),BNY,29.0,62.1,0.043,1.3,1.08,-3.7,0.212
+QS/Connors %b 3 Tage (1d),BRO,42.0,78.6,0.62,26.0,5.11,-2.3,1.073
+QS/Connors %b 3 Tage (1d),C,49.0,77.6,0.229,11.2,1.46,-7.9,0.791
+QS/Connors %b 3 Tage (1d),CBK.DE,36.0,66.7,-0.143,-5.2,0.79,-18.4,-0.708
+QS/Connors %b 3 Tage (1d),CCL,39.0,79.5,0.485,18.9,4.88,-3.4,1.763
+QS/Connors %b 3 Tage (1d),CEG,12.0,83.3,0.647,7.8,5.31,-1.6,2.568
+QS/Connors %b 3 Tage (1d),CF,41.0,65.9,0.266,10.9,1.98,-2.0,1.102
+QS/Connors %b 3 Tage (1d),CFG,27.0,70.4,0.072,2.0,1.14,-2.0,0.171
+QS/Connors %b 3 Tage (1d),CHD,49.0,67.3,0.212,10.4,1.53,-3.9,0.389
+QS/Connors %b 3 Tage (1d),CINF,34.0,67.6,0.051,1.7,1.1,-12.8,-0.065
+QS/Connors %b 3 Tage (1d),CMI,51.0,62.7,0.207,10.6,1.69,-7.0,0.723
+QS/Connors %b 3 Tage (1d),CNC,34.0,64.7,0.154,5.2,1.31,-6.1,0.27
+QS/Connors %b 3 Tage (1d),COF,46.0,80.4,0.62,28.5,4.54,-4.5,1.478
+QS/Connors %b 3 Tage (1d),CON.DE,46.0,76.1,0.423,19.5,2.48,-6.4,1.278
+QS/Connors %b 3 Tage (1d),COST,40.0,75.0,0.506,20.2,3.24,-4.0,0.881
+QS/Connors %b 3 Tage (1d),CPAY,20.0,75.0,0.679,13.6,4.17,-2.2,1.658
+QS/Connors %b 3 Tage (1d),CSX,36.0,77.8,0.318,11.4,1.76,-7.6,0.796
+QS/Connors %b 3 Tage (1d),CTSH,44.0,65.9,-0.001,-0.0,1.0,-9.7,-0.129
+QS/Connors %b 3 Tage (1d),CVS,40.0,80.0,0.524,21.0,3.03,-3.8,0.97
+QS/Connors %b 3 Tage (1d),DASH,7.0,85.7,0.35,2.4,2.57,-1.6,0.181
+QS/Connors %b 3 Tage (1d),DB1.DE,37.0,67.6,-0.156,-5.8,0.81,-20.7,-0.477
+QS/Connors %b 3 Tage (1d),DBK.DE,33.0,57.6,-0.397,-13.1,0.55,-21.7,-1.449
+QS/Connors %b 3 Tage (1d),DD,46.0,73.9,0.187,8.6,1.36,-8.8,0.293
+QS/Connors %b 3 Tage (1d),DDOG,13.0,76.9,0.68,8.8,7.25,-1.2,3.05
+QS/Connors %b 3 Tage (1d),DELL,20.0,70.0,-0.257,-5.1,0.71,-11.8,-0.652
+QS/Connors %b 3 Tage (1d),DGX,39.0,71.8,0.276,10.8,1.6,-11.8,0.688
+QS/Connors %b 3 Tage (1d),DHL.DE,33.0,57.6,0.253,8.3,1.8,-4.0,0.428
+QS/Connors %b 3 Tage (1d),DHR,44.0,75.0,0.439,19.3,2.38,-9.0,0.86
+QS/Connors %b 3 Tage (1d),DLTR,36.0,69.4,0.022,0.8,1.04,-11.1,0.317
+QS/Connors %b 3 Tage (1d),DPZ,34.0,79.4,0.539,18.3,2.57,-5.7,1.236
+QS/Connors %b 3 Tage (1d),DTE.DE,36.0,69.4,0.102,3.7,1.23,-6.7,0.33
+QS/Connors %b 3 Tage (1d),DTG.DE,5.0,80.0,0.008,0.0,1.01,0.0,-0.816
+QS/Connors %b 3 Tage (1d),DVA,40.0,67.5,0.452,18.1,2.77,-4.7,0.664
+QS/Connors %b 3 Tage (1d),DVN,30.0,73.3,0.477,14.3,3.97,-1.5,1.759
+QS/Connors %b 3 Tage (1d),ED,28.0,57.1,-0.32,-9.0,0.6,-14.6,-0.561
+QS/Connors %b 3 Tage (1d),EL,34.0,58.8,0.271,9.2,1.62,-5.0,0.781
+QS/Connors %b 3 Tage (1d),ELV,48.0,68.8,0.418,20.1,2.45,-6.0,0.754
+QS/Connors %b 3 Tage (1d),EMR,41.0,68.3,0.339,13.9,2.25,-6.2,0.683
+QS/Connors %b 3 Tage (1d),ENR.DE,5.0,80.0,0.518,2.6,4.62,-0.7,3.149
+QS/Connors %b 3 Tage (1d),EOAN.DE,44.0,77.3,0.078,3.4,1.17,-12.5,0.184
+QS/Connors %b 3 Tage (1d),EQIX,45.0,66.7,0.293,13.2,1.74,-8.6,0.784
+QS/Connors %b 3 Tage (1d),EQT,38.0,65.8,0.264,10.0,2.14,-2.7,0.928
+QS/Connors %b 3 Tage (1d),EW,37.0,67.6,0.074,2.7,1.17,-5.8,0.223
+QS/Connors %b 3 Tage (1d),EXC,40.0,72.5,0.37,14.8,2.22,-3.9,0.777
+QS/Connors %b 3 Tage (1d),FICO,45.0,66.7,0.174,7.8,1.45,-6.9,0.374
+QS/Connors %b 3 Tage (1d),FISV,35.0,82.9,0.525,18.4,4.38,-2.6,1.016
+QS/Connors %b 3 Tage (1d),FITB,40.0,65.0,0.208,8.3,1.64,-3.6,0.521
+QS/Connors %b 3 Tage (1d),FIX,48.0,79.2,0.449,21.6,2.75,-3.5,1.203
+QS/Connors %b 3 Tage (1d),FME.DE,35.0,71.4,0.068,2.4,1.17,-6.3,0.185
+QS/Connors %b 3 Tage (1d),FOXA,21.0,66.7,0.056,1.2,1.11,-5.1,0.319
+QS/Connors %b 3 Tage (1d),FRE.DE,40.0,70.0,-0.032,-1.3,0.94,-8.2,-0.083
+QS/Connors %b 3 Tage (1d),FTV,20.0,75.0,0.088,1.8,1.18,-3.4,0.321
+QS/Connors %b 3 Tage (1d),G1A.DE,46.0,80.4,0.411,18.9,2.06,-5.4,1.275
+QS/Connors %b 3 Tage (1d),G24.DE,18.0,66.7,-0.308,-5.5,0.63,-9.9,-0.595
+QS/Connors %b 3 Tage (1d),GD,42.0,73.8,0.433,18.2,2.35,-3.9,0.651
+QS/Connors %b 3 Tage (1d),GL,33.0,72.7,0.175,5.8,1.33,-12.3,0.607
+QS/Connors %b 3 Tage (1d),GOOG,44.0,72.7,0.488,21.5,3.04,-3.0,1.067
+QS/Connors %b 3 Tage (1d),GOOGL,46.0,71.7,0.497,22.9,3.14,-2.5,1.098
+QS/Connors %b 3 Tage (1d),HEI.DE,41.0,75.6,0.312,12.8,1.99,-4.8,1.091
+QS/Connors %b 3 Tage (1d),HEN3.DE,40.0,77.5,0.407,16.3,3.22,-4.0,0.784
+QS/Connors %b 3 Tage (1d),HNR1.DE,38.0,71.1,-0.212,-8.1,0.76,-26.1,-0.058
+QS/Connors %b 3 Tage (1d),HPE,19.0,57.9,-0.569,-10.8,0.5,-12.4,-0.933
+QS/Connors %b 3 Tage (1d),IBKR,37.0,75.7,0.233,8.6,1.45,-9.1,0.444
+QS/Connors %b 3 Tage (1d),IBM,35.0,68.6,-0.001,-0.0,1.0,-8.3,0.217
+QS/Connors %b 3 Tage (1d),ICE,51.0,78.4,0.407,20.7,2.2,-6.1,1.1
+QS/Connors %b 3 Tage (1d),IEX,44.0,63.6,-0.108,-4.8,0.84,-15.8,-0.104
+QS/Connors %b 3 Tage (1d),IFF,35.0,80.0,0.336,11.8,2.17,-3.7,0.592
+QS/Connors %b 3 Tage (1d),IFX.DE,56.0,75.0,0.24,13.4,1.53,-11.3,0.486
+QS/Connors %b 3 Tage (1d),IR,21.0,61.9,-0.081,-1.7,0.87,-8.4,-0.206
+QS/Connors %b 3 Tage (1d),IRM,33.0,69.7,0.01,0.3,1.02,-6.0,0.299
+QS/Connors %b 3 Tage (1d),ITW,45.0,73.3,0.16,7.2,1.36,-9.1,0.381
+QS/Connors %b 3 Tage (1d),JBHT,42.0,78.6,0.376,15.8,2.74,-2.6,0.718
+QS/Connors %b 3 Tage (1d),JNJ,45.0,60.0,0.147,6.6,1.37,-6.1,0.148
+QS/Connors %b 3 Tage (1d),JPM,53.0,75.5,0.432,22.9,2.21,-6.4,0.928
+QS/Connors %b 3 Tage (1d),KEYS,25.0,68.0,0.645,16.1,3.71,-1.8,1.423
+QS/Connors %b 3 Tage (1d),KLAC,45.0,82.2,0.557,25.1,3.16,-6.2,2.002
+QS/Connors %b 3 Tage (1d),KMI,28.0,67.9,0.281,7.9,2.04,-3.6,0.625
+QS/Connors %b 3 Tage (1d),KO,52.0,73.1,0.319,16.6,1.82,-6.4,0.537
+QS/Connors %b 3 Tage (1d),KVUE,2.0,50.0,-0.056,-0.1,0.93,0.0,0.635
+QS/Connors %b 3 Tage (1d),LEN,40.0,70.0,0.208,8.3,1.49,-4.7,0.784
+QS/Connors %b 3 Tage (1d),LIN,50.0,80.0,0.387,19.3,2.23,-7.3,0.759
+QS/Connors %b 3 Tage (1d),LNT,46.0,69.6,0.25,11.5,1.58,-10.6,0.391
+QS/Connors %b 3 Tage (1d),LYV,46.0,78.3,0.556,25.6,4.47,-2.8,1.611
+QS/Connors %b 3 Tage (1d),MAA,35.0,57.1,-0.307,-10.7,0.63,-18.3,-0.193
+QS/Connors %b 3 Tage (1d),MAR,49.0,81.6,0.547,26.8,3.01,-6.3,1.319
+QS/Connors %b 3 Tage (1d),MBG.DE,36.0,75.0,0.449,16.1,3.75,-1.7,1.052
+QS/Connors %b 3 Tage (1d),MCD,41.0,68.3,0.132,5.4,1.32,-4.3,0.254
+QS/Connors %b 3 Tage (1d),MDLZ,44.0,68.2,0.202,8.9,1.47,-14.0,0.278
+QS/Connors %b 3 Tage (1d),MDT,38.0,78.9,0.485,18.4,2.31,-6.3,0.725
+QS/Connors %b 3 Tage (1d),MGM,54.0,75.9,0.159,8.6,1.37,-11.5,0.55
+QS/Connors %b 3 Tage (1d),MMM,31.0,67.7,0.166,5.2,1.42,-4.2,0.468
+QS/Connors %b 3 Tage (1d),MO,42.0,76.2,0.327,13.7,2.14,-5.6,0.543
+QS/Connors %b 3 Tage (1d),MOS,32.0,68.8,0.109,3.5,1.24,-7.7,0.796
+QS/Connors %b 3 Tage (1d),MPWR,37.0,73.0,0.306,11.3,1.78,-8.4,1.133
+QS/Connors %b 3 Tage (1d),MRK.DE,38.0,63.2,0.123,4.7,1.29,-6.0,0.192
+QS/Connors %b 3 Tage (1d),MRVL,47.0,74.5,0.332,15.6,1.93,-4.0,0.969
+QS/Connors %b 3 Tage (1d),MSCI,37.0,86.5,0.514,19.0,2.79,-3.4,1.187
+QS/Connors %b 3 Tage (1d),MTB,35.0,71.4,0.089,3.1,1.19,-10.5,0.037
+QS/Connors %b 3 Tage (1d),MTD,41.0,65.9,0.319,13.1,1.96,-6.4,0.619
+QS/Connors %b 3 Tage (1d),MTX.DE,38.0,84.2,-0.072,-2.7,0.91,-25.0,0.177
+QS/Connors %b 3 Tage (1d),MUV2.DE,42.0,73.8,-0.396,-16.6,0.63,-27.7,-0.448
+QS/Connors %b 3 Tage (1d),NKE,41.0,82.9,0.653,26.8,3.62,-5.5,1.298
+QS/Connors %b 3 Tage (1d),NUE,38.0,65.8,-0.301,-11.4,0.61,-18.8,-0.514
+QS/Connors %b 3 Tage (1d),NVDA,47.0,74.5,0.204,9.6,1.39,-6.8,0.806
+QS/Connors %b 3 Tage (1d),NWS,19.0,63.2,0.318,6.0,2.06,-2.1,0.721
+QS/Connors %b 3 Tage (1d),NWSA,19.0,73.7,0.527,10.0,4.07,-1.8,1.144
+QS/Connors %b 3 Tage (1d),O,34.0,61.8,-0.153,-5.2,0.68,-9.9,-0.264
+QS/Connors %b 3 Tage (1d),OXY,37.0,64.9,-0.112,-4.2,0.79,-9.5,-0.113
+QS/Connors %b 3 Tage (1d),P,23.0,56.5,-0.355,-8.2,0.64,-11.9,-0.944
+QS/Connors %b 3 Tage (1d),PAH3.DE,29.0,62.1,0.397,11.5,2.75,-3.0,1.165
+QS/Connors %b 3 Tage (1d),PCAR,49.0,81.6,0.439,21.5,3.18,-3.2,1.124
+QS/Connors %b 3 Tage (1d),PCG,32.0,56.2,-0.094,-3.0,0.87,-13.9,-0.341
+QS/Connors %b 3 Tage (1d),PFE,38.0,65.8,0.322,12.3,2.0,-3.8,0.439
+QS/Connors %b 3 Tage (1d),PH,52.0,75.0,0.03,1.6,1.05,-19.2,0.465
+QS/Connors %b 3 Tage (1d),PLD,37.0,64.9,0.016,0.6,1.03,-9.4,0.066
+QS/Connors %b 3 Tage (1d),PODD,36.0,66.7,-0.078,-2.8,0.92,-21.7,-0.416
+QS/Connors %b 3 Tage (1d),PPG,38.0,81.6,0.55,20.9,4.83,-2.1,1.125
+QS/Connors %b 3 Tage (1d),PSA,53.0,71.7,0.079,4.2,1.15,-17.5,0.181
+QS/Connors %b 3 Tage (1d),PSX,34.0,73.5,0.209,7.1,1.52,-5.1,0.685
+QS/Connors %b 3 Tage (1d),QCOM,31.0,61.3,0.139,4.3,1.28,-9.0,0.283
+QS/Connors %b 3 Tage (1d),QIA.DE,48.0,60.4,0.035,1.7,1.06,-7.2,0.027
+QS/Connors %b 3 Tage (1d),REG,39.0,51.3,-0.025,-1.0,0.94,-5.0,0.066
+QS/Connors %b 3 Tage (1d),REGN,52.0,67.3,0.135,7.0,1.3,-8.2,0.543
+QS/Connors %b 3 Tage (1d),RHM.DE,47.0,78.7,0.08,3.8,1.19,-5.4,0.39
+QS/Connors %b 3 Tage (1d),RL,38.0,52.6,-0.281,-10.7,0.57,-11.9,-0.465
+QS/Connors %b 3 Tage (1d),ROL,42.0,66.7,0.196,8.2,1.48,-10.1,0.491
+QS/Connors %b 3 Tage (1d),ROST,39.0,69.2,0.059,2.3,1.11,-9.9,0.306
+QS/Connors %b 3 Tage (1d),RWE.DE,33.0,72.7,0.108,3.6,1.3,-4.7,-0.016
+QS/Connors %b 3 Tage (1d),SAP.DE,50.0,72.0,0.147,7.3,1.23,-11.6,0.025
+QS/Connors %b 3 Tage (1d),SBAC,51.0,72.5,0.257,13.1,1.7,-5.6,0.786
+QS/Connors %b 3 Tage (1d),SHL.DE,11.0,72.7,0.375,4.1,3.72,-1.0,0.594
+QS/Connors %b 3 Tage (1d),SHW,44.0,68.2,-0.034,-1.5,0.94,-18.7,-0.04
+QS/Connors %b 3 Tage (1d),SIE.DE,43.0,79.1,0.288,12.4,1.84,-8.5,0.432
+QS/Connors %b 3 Tage (1d),SLB,35.0,74.3,0.203,7.1,1.58,-5.0,0.642
+QS/Connors %b 3 Tage (1d),SNA,52.0,65.4,-0.191,-9.9,0.76,-17.2,-0.141
+QS/Connors %b 3 Tage (1d),SO,27.0,59.3,-0.253,-6.8,0.7,-14.4,-0.269
+QS/Connors %b 3 Tage (1d),STE,42.0,78.6,0.586,24.6,3.77,-2.5,0.936
+QS/Connors %b 3 Tage (1d),SY1.DE,41.0,75.6,0.494,20.3,3.17,-4.8,1.215
+QS/Connors %b 3 Tage (1d),SYK,46.0,76.1,0.393,18.1,2.65,-6.1,0.656
+QS/Connors %b 3 Tage (1d),T,29.0,75.9,0.088,2.6,1.2,-6.9,0.211
+QS/Connors %b 3 Tage (1d),TEL,43.0,58.1,-0.043,-1.8,0.93,-10.0,0.012
+QS/Connors %b 3 Tage (1d),TER,39.0,69.2,0.083,3.2,1.15,-6.4,0.306
+QS/Connors %b 3 Tage (1d),TFC,45.0,71.1,0.193,8.7,1.54,-3.8,0.585
+QS/Connors %b 3 Tage (1d),TGT,42.0,78.6,0.362,15.2,1.92,-6.1,0.779
+QS/Connors %b 3 Tage (1d),TJX,49.0,71.4,0.318,15.6,1.88,-4.0,0.556
+QS/Connors %b 3 Tage (1d),TPR,38.0,84.2,0.636,24.2,6.06,-2.3,2.109
+QS/Connors %b 3 Tage (1d),TRMB,49.0,75.5,0.339,16.6,1.74,-7.6,0.814
+QS/Connors %b 3 Tage (1d),TRV,42.0,76.2,0.443,18.6,3.3,-2.2,0.633
+QS/Connors %b 3 Tage (1d),TSCO,37.0,67.6,0.222,8.2,1.6,-3.9,0.65
+QS/Connors %b 3 Tage (1d),TSLA,26.0,73.1,0.595,15.5,2.89,-3.4,2.569
+QS/Connors %b 3 Tage (1d),TSN,37.0,59.5,-0.089,-3.3,0.85,-7.1,-0.309
+QS/Connors %b 3 Tage (1d),TWLO,12.0,83.3,0.481,5.8,2.85,-3.1,2.071
+QS/Connors %b 3 Tage (1d),TXT,53.0,67.9,0.097,5.2,1.17,-11.4,-0.048
+QS/Connors %b 3 Tage (1d),UAL,44.0,75.0,0.275,12.1,1.92,-4.7,1.019
+QS/Connors %b 3 Tage (1d),UBER,10.0,60.0,0.185,1.9,1.69,-2.2,0.762
+QS/Connors %b 3 Tage (1d),UHS,47.0,57.4,-0.125,-5.9,0.83,-16.2,-0.365
+QS/Connors %b 3 Tage (1d),UNP,51.0,66.7,0.11,5.6,1.22,-13.3,0.369
+QS/Connors %b 3 Tage (1d),URI,45.0,66.7,0.021,0.9,1.04,-5.8,0.082
+QS/Connors %b 3 Tage (1d),V,31.0,80.6,0.637,19.8,3.75,-2.9,1.446
+QS/Connors %b 3 Tage (1d),VNA.DE,23.0,56.5,-0.073,-1.7,0.83,-6.5,-0.036
+QS/Connors %b 3 Tage (1d),VOW3.DE,47.0,66.0,0.14,6.6,1.27,-6.4,0.505
+QS/Connors %b 3 Tage (1d),VRSK,36.0,61.1,-0.012,-0.4,0.98,-8.3,0.03
+QS/Connors %b 3 Tage (1d),VRT,14.0,71.4,0.314,4.4,1.72,-1.6,1.558
+QS/Connors %b 3 Tage (1d),VST,18.0,66.7,0.233,4.2,1.62,-3.9,1.378
+QS/Connors %b 3 Tage (1d),WY,30.0,66.7,-0.146,-4.4,0.73,-9.9,-0.298
+QS/Connors %b 3 Tage (1d),XOM,37.0,62.2,-0.202,-7.5,0.71,-17.7,-0.062
+QS/Connors %b 3 Tage (1d),XYZ,12.0,83.3,0.132,1.6,1.34,-4.0,0.765
+QS/Connors %b 3 Tage (1d),ZAL.DE,17.0,70.6,0.435,7.4,2.39,-4.3,1.097
+QS/Connors %b 3 Tage (1d),ZBRA,42.0,57.1,-0.189,-7.9,0.73,-11.6,-0.302
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AAPL,129.0,73.6,0.393,50.7,2.72,-7.2,1.094
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ADBE,115.0,70.4,0.249,28.6,1.77,-6.2,0.684
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ADS.DE,109.0,69.7,0.251,27.3,1.73,-6.6,0.531
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AEE,101.0,72.3,0.119,12.0,1.31,-10.1,0.23
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AFL,110.0,70.0,0.16,17.6,1.38,-14.2,0.307
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AIR.DE,118.0,76.3,0.4,47.2,2.44,-8.6,0.958
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AKAM,96.0,66.7,0.029,2.7,1.06,-14.6,0.122
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ALGN,96.0,75.0,0.246,23.6,1.64,-18.5,0.901
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ALV.DE,105.0,71.4,-0.014,-1.4,0.98,-35.6,0.144
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AMD,96.0,75.0,0.225,21.6,1.53,-18.8,1.549
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AME,133.0,64.7,0.136,18.1,1.31,-7.2,0.241
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AMGN,122.0,73.0,0.285,34.8,2.05,-7.0,0.681
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AMP,96.0,78.1,0.349,33.5,2.3,-5.5,0.756
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ANET,62.0,75.8,0.532,33.0,3.41,-2.6,1.684
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),APO,71.0,74.6,0.45,31.9,2.92,-4.6,1.228
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ATO,114.0,69.3,0.105,11.9,1.25,-11.3,0.197
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AVY,96.0,69.8,0.125,12.0,1.32,-12.4,0.28
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AWK,91.0,63.7,-0.148,-13.5,0.75,-28.3,-0.343
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AXON,96.0,66.7,0.061,5.9,1.12,-13.1,0.31
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AZO,112.0,67.0,0.125,14.0,1.3,-15.9,0.342
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BAC,95.0,73.7,0.288,27.3,1.85,-7.7,0.656
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BAS.DE,83.0,66.3,0.102,8.5,1.23,-20.5,0.048
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BAYN.DE,112.0,68.8,0.123,13.8,1.29,-14.0,0.205
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BE,36.0,66.7,0.095,3.4,1.26,-6.6,1.867
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BEI.DE,84.0,71.4,0.222,18.7,1.73,-9.3,0.387
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BF-B,90.0,71.1,0.095,8.6,1.21,-7.2,0.222
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BIIB,107.0,76.6,0.355,38.0,2.26,-8.7,0.95
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BLK,124.0,68.5,0.203,25.2,1.48,-11.8,0.561
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BMW.DE,90.0,64.4,0.093,8.4,1.22,-12.8,0.421
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BNR.DE,75.0,68.0,0.112,8.4,1.24,-9.7,0.149
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BNY,90.0,75.6,0.164,14.7,1.4,-8.4,0.266
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BRO,92.0,65.2,0.176,16.2,1.42,-8.6,0.493
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),C,88.0,68.2,-0.018,-1.6,0.97,-23.2,0.087
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CBK.DE,86.0,67.4,-0.117,-10.1,0.81,-27.6,-0.642
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CCL,93.0,68.8,0.198,18.4,1.6,-7.8,0.367
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CEG,28.0,78.6,0.458,12.8,3.19,-3.6,1.857
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CF,115.0,67.0,0.309,35.6,2.0,-5.8,1.027
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CFG,50.0,76.0,0.095,4.7,1.24,-5.6,0.316
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CHD,114.0,75.4,0.329,37.5,2.19,-5.1,0.618
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CINF,92.0,80.4,0.302,27.8,1.86,-12.1,0.632
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CMI,107.0,73.8,0.222,23.7,1.71,-9.2,0.754
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CNC,92.0,75.0,0.368,33.8,2.12,-5.5,1.083
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),COF,105.0,76.2,0.366,38.5,2.09,-7.0,0.939
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CON.DE,105.0,70.5,0.261,27.4,1.82,-6.3,0.802
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),COST,131.0,75.6,0.271,35.5,1.81,-13.4,0.496
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CPAY,66.0,72.7,0.325,21.5,2.27,-2.4,0.783
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CSX,118.0,76.3,0.285,33.6,1.86,-13.8,0.8
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CTSH,104.0,76.0,0.214,22.3,1.51,-9.3,0.455
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),CVS,103.0,79.6,0.355,36.6,2.23,-6.4,0.695
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DASH,19.0,63.2,-0.27,-5.1,0.64,-8.4,-1.384
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DB1.DE,99.0,71.7,0.01,1.0,1.02,-24.9,-0.075
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DBK.DE,75.0,69.3,-0.155,-11.6,0.77,-36.9,-0.388
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DD,97.0,68.0,0.089,8.6,1.2,-10.2,0.245
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DDOG,36.0,72.2,-0.01,-0.3,0.98,-7.3,-0.128
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DELL,46.0,82.6,0.587,27.0,3.91,-3.0,1.569
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DGX,105.0,60.0,-0.144,-15.1,0.8,-31.6,-0.134
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DHL.DE,95.0,73.7,0.413,39.2,2.85,-3.8,0.825
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DHR,129.0,69.0,0.197,25.4,1.74,-5.2,0.387
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DLTR,101.0,71.3,0.097,9.8,1.19,-23.7,0.368
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DPZ,103.0,71.8,0.376,38.7,2.47,-4.2,0.979
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DTE.DE,86.0,70.9,-0.029,-2.5,0.95,-25.4,0.032
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DTG.DE,21.0,57.1,-0.124,-2.6,0.77,-6.4,-0.733
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DVA,104.0,68.3,0.199,20.7,1.58,-8.8,0.353
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DVN,84.0,73.8,0.204,17.2,1.57,-17.3,0.94
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ED,98.0,67.3,-0.106,-10.4,0.79,-21.1,-0.272
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EL,86.0,66.3,0.192,16.5,1.51,-8.2,0.271
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ELV,104.0,71.2,0.125,13.0,1.27,-16.0,0.217
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EMR,113.0,72.6,0.27,30.5,1.84,-5.7,0.516
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ENR.DE,18.0,77.8,0.502,9.0,4.61,-1.2,1.985
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EOAN.DE,105.0,73.3,-0.06,-6.3,0.9,-29.8,-0.105
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EQIX,106.0,72.6,0.123,13.0,1.31,-14.5,0.422
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EQT,111.0,72.1,0.176,19.5,1.51,-9.0,0.619
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EW,94.0,69.1,0.031,2.9,1.06,-14.5,0.219
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),EXC,83.0,71.1,0.242,20.1,1.69,-6.2,0.467
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FICO,116.0,72.4,-0.056,-6.5,0.9,-30.9,-0.083
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FISV,102.0,71.6,0.267,27.2,1.8,-5.9,0.479
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FITB,96.0,72.9,0.312,30.0,2.07,-5.2,0.944
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FIX,104.0,76.9,0.343,35.7,2.11,-7.1,0.925
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FME.DE,89.0,62.9,-0.175,-15.6,0.72,-19.3,-0.321
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FOXA,29.0,65.5,0.163,4.7,1.36,-4.3,0.208
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FRE.DE,110.0,68.2,0.095,10.5,1.18,-24.8,0.11
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),FTV,47.0,80.9,0.225,10.6,1.61,-3.9,0.439
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),G1A.DE,109.0,74.3,0.316,34.5,1.98,-7.0,0.832
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),G24.DE,41.0,78.0,-0.019,-0.8,0.97,-19.4,-0.139
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),GD,102.0,74.5,0.272,27.8,1.86,-8.4,0.473
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),GL,104.0,78.8,0.392,40.8,2.82,-9.0,0.82
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),GOOG,139.0,73.4,0.387,53.8,2.67,-5.7,0.803
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),GOOGL,136.0,72.1,0.307,41.8,2.22,-5.7,0.664
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),HEI.DE,85.0,71.8,0.305,25.9,1.9,-9.0,0.84
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),HEN3.DE,105.0,78.1,0.182,19.1,1.5,-10.9,0.311
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),HNR1.DE,94.0,78.7,-0.032,-3.0,0.95,-30.5,0.049
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),HPE,49.0,53.1,-0.243,-11.9,0.59,-14.4,-0.565
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IBKR,74.0,70.3,0.012,0.9,1.03,-9.4,0.017
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IBM,96.0,64.6,-0.157,-15.0,0.78,-30.4,-0.186
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ICE,109.0,70.6,0.186,20.2,1.48,-6.3,0.365
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IEX,112.0,74.1,0.145,16.2,1.31,-18.8,0.39
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IFF,96.0,74.0,0.065,6.2,1.13,-24.8,0.163
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IFX.DE,121.0,73.6,0.179,21.7,1.38,-12.1,0.615
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IR,41.0,65.9,0.118,4.8,1.26,-5.8,0.344
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IRM,87.0,63.2,0.095,8.3,1.19,-13.0,0.247
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ITW,111.0,72.1,0.14,15.5,1.35,-16.7,0.332
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),JBHT,114.0,74.6,0.22,25.1,1.58,-9.9,0.466
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),JNJ,103.0,70.9,0.179,18.5,1.54,-7.8,0.215
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),JPM,105.0,70.5,0.093,9.8,1.2,-8.4,0.255
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),KEYS,58.0,69.0,0.18,10.5,1.52,-5.0,0.486
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),KLAC,106.0,67.9,0.152,16.1,1.37,-12.4,0.649
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),KMI,65.0,61.5,0.022,1.4,1.05,-12.0,0.064
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),KO,114.0,62.3,0.084,9.6,1.19,-16.2,0.198
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),KVUE,4.0,50.0,-0.231,-0.9,0.72,-1.7,-0.252
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),LEN,107.0,69.2,0.17,18.2,1.52,-8.1,0.509
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),LIN,127.0,74.8,0.349,44.3,2.07,-12.7,0.693
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),LNT,116.0,69.8,0.185,21.5,1.53,-6.8,0.274
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),LYV,86.0,72.1,0.198,17.1,1.61,-7.0,0.587
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MAA,85.0,69.4,-0.146,-12.5,0.78,-31.9,0.106
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MAR,127.0,78.0,0.32,40.7,1.97,-7.7,0.808
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MBG.DE,82.0,73.2,0.232,19.0,1.65,-12.2,0.623
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MCD,108.0,70.4,0.147,15.9,1.41,-9.7,0.338
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MDLZ,110.0,69.1,0.168,18.5,1.42,-12.9,0.224
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MDT,101.0,66.3,0.043,4.4,1.08,-20.2,0.016
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MGM,100.0,71.0,0.272,27.2,1.94,-6.9,1.098
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MMM,92.0,70.7,0.054,5.0,1.1,-10.8,0.18
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MO,98.0,66.3,0.045,4.4,1.09,-15.6,0.143
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MOS,80.0,70.0,0.051,4.0,1.11,-14.8,0.492
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MPWR,104.0,73.1,0.272,28.3,1.7,-9.2,1.137
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MRK.DE,87.0,64.4,0.135,11.7,1.34,-10.6,0.222
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MRVL,105.0,75.2,0.172,18.1,1.48,-8.1,0.511
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MSCI,86.0,74.4,0.279,24.0,1.78,-6.5,0.688
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MTB,106.0,76.4,0.363,38.5,2.32,-7.7,0.778
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MTD,114.0,71.9,0.165,18.8,1.42,-10.2,0.285
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MTX.DE,99.0,79.8,0.108,10.7,1.22,-24.6,0.46
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MUV2.DE,100.0,72.0,-0.275,-27.5,0.66,-48.6,-0.155
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),NKE,100.0,63.0,0.167,16.7,1.42,-9.1,0.318
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),NUE,94.0,71.3,0.029,2.7,1.06,-20.5,0.404
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),NVDA,114.0,70.2,0.251,28.6,1.55,-10.6,0.755
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),NWS,47.0,66.0,0.037,1.7,1.09,-4.5,0.111
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),NWSA,49.0,69.4,0.172,8.4,1.48,-4.9,0.41
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),O,81.0,67.9,0.065,5.2,1.15,-14.1,0.3
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),OXY,92.0,76.1,0.254,23.4,1.87,-12.9,1.071
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),P,50.0,64.0,-0.387,-19.4,0.54,-23.0,-0.959
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PAH3.DE,64.0,67.2,0.058,3.7,1.14,-7.5,0.067
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PCAR,109.0,69.7,0.137,14.9,1.37,-8.1,0.397
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PCG,93.0,67.7,0.156,14.5,1.42,-8.5,0.299
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PFE,85.0,64.7,0.128,10.9,1.36,-5.9,0.162
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PH,119.0,65.5,0.115,13.7,1.29,-13.9,0.368
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PLD,114.0,64.9,0.081,9.3,1.18,-14.1,0.14
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PODD,85.0,71.8,0.223,19.0,1.58,-9.6,0.596
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PPG,111.0,77.5,0.287,31.9,1.88,-7.2,0.544
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PSA,107.0,71.0,0.122,13.1,1.26,-12.7,0.315
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PSX,72.0,69.4,-0.042,-3.0,0.93,-13.8,0.076
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),Q,1.0,0.0,-1.739,-1.7,0.0,0.0,-9.793
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),QCOM,98.0,75.5,0.18,17.6,1.51,-7.9,0.571
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),QIA.DE,94.0,60.6,-0.121,-11.4,0.8,-13.6,-0.318
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),REG,106.0,64.2,0.0,0.1,1.0,-16.3,0.09
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),REGN,127.0,71.7,0.173,21.9,1.42,-15.8,0.645
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),RHM.DE,105.0,74.3,0.283,29.7,1.97,-6.9,0.799
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),RL,116.0,69.0,0.127,14.7,1.35,-8.7,0.406
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ROL,127.0,72.4,0.278,35.3,1.81,-5.9,0.588
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ROST,116.0,67.2,0.161,18.7,1.42,-7.2,0.477
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),RWE.DE,94.0,74.5,0.214,20.1,1.56,-11.4,0.493
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SAP.DE,112.0,66.1,0.088,9.9,1.17,-17.5,0.083
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SBAC,119.0,79.8,0.394,46.9,2.68,-8.2,1.135
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SHL.DE,20.0,55.0,-0.323,-6.5,0.54,-9.7,-0.477
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SHW,105.0,72.4,0.106,11.1,1.24,-13.9,0.298
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SIE.DE,95.0,76.8,0.372,35.3,2.32,-8.8,0.751
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SLB,91.0,68.1,0.161,14.6,1.4,-10.5,0.443
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SNA,124.0,76.6,0.152,18.9,1.34,-10.6,0.327
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SO,93.0,71.0,0.013,1.2,1.02,-14.9,-0.055
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),STE,116.0,71.6,0.267,31.0,1.84,-5.9,0.465
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SY1.DE,89.0,69.7,0.181,16.1,1.43,-12.3,0.475
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SYK,126.0,74.6,0.385,48.5,2.7,-5.0,0.723
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),T,78.0,70.5,0.053,4.1,1.12,-10.4,0.085
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TEL,99.0,67.7,0.106,10.5,1.22,-7.5,0.097
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TER,100.0,63.0,0.115,11.5,1.25,-7.6,0.666
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TFC,96.0,75.0,0.189,18.1,1.47,-9.8,0.387
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TGT,99.0,72.7,0.181,17.9,1.51,-7.5,0.459
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TJX,139.0,69.8,0.39,54.2,2.46,-5.5,0.754
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TPR,93.0,75.3,0.429,39.9,3.03,-2.9,1.268
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TRMB,117.0,71.8,0.307,35.9,2.04,-8.7,0.761
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TRV,118.0,71.2,0.191,22.6,1.52,-10.5,0.317
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TSCO,106.0,68.9,0.081,8.6,1.2,-11.7,0.185
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TSLA,65.0,66.2,0.133,8.7,1.26,-12.6,0.798
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TSN,99.0,69.7,0.018,1.8,1.03,-10.0,-0.035
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TWLO,34.0,67.6,0.252,8.6,1.7,-4.0,1.263
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TXT,113.0,71.7,0.059,6.6,1.13,-12.6,0.069
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),UAL,99.0,71.7,0.103,10.2,1.24,-11.0,0.595
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),UBER,26.0,80.8,0.467,12.1,4.72,-1.9,1.432
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),UHS,100.0,71.0,-0.135,-13.5,0.8,-20.2,-0.267
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),UNP,118.0,65.3,0.039,4.6,1.08,-21.8,0.171
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),URI,107.0,64.5,0.123,13.2,1.29,-7.1,0.452
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),V,91.0,75.8,0.46,41.9,3.11,-3.5,0.891
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),VNA.DE,60.0,76.7,0.37,22.2,2.43,-4.2,0.617
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),VOW3.DE,93.0,72.0,0.17,15.8,1.45,-7.3,0.4
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),VRSK,81.0,82.7,0.385,31.2,2.88,-4.7,0.702
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),VRT,34.0,76.5,0.329,11.2,2.11,-4.1,1.618
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),VST,40.0,67.5,0.186,7.4,1.55,-4.3,0.45
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),WY,97.0,68.0,0.037,3.6,1.09,-7.3,0.215
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),XOM,99.0,69.7,0.047,4.7,1.1,-10.4,0.212
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),XYZ,44.0,59.1,-0.03,-1.3,0.94,-7.2,-0.017
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ZAL.DE,38.0,60.5,-0.032,-1.2,0.93,-6.8,-0.144
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),ZBRA,102.0,65.7,-0.007,-0.7,0.99,-14.2,0.068
+QS/Connors 4 von 5 Tagen runter (1d),AAPL,209.0,72.7,0.308,64.3,2.05,-4.1,0.669
+QS/Connors 4 von 5 Tagen runter (1d),ADBE,165.0,70.3,0.355,58.7,2.08,-9.6,0.854
+QS/Connors 4 von 5 Tagen runter (1d),ADS.DE,179.0,72.6,0.366,65.6,2.15,-9.1,0.805
+QS/Connors 4 von 5 Tagen runter (1d),AEE,127.0,67.7,0.085,10.8,1.19,-11.4,0.159
+QS/Connors 4 von 5 Tagen runter (1d),AFL,149.0,69.1,0.101,15.0,1.22,-14.4,0.165
+QS/Connors 4 von 5 Tagen runter (1d),AIR.DE,168.0,67.3,0.141,23.7,1.31,-15.4,0.32
+QS/Connors 4 von 5 Tagen runter (1d),AKAM,145.0,68.3,0.045,6.5,1.09,-26.4,0.377
+QS/Connors 4 von 5 Tagen runter (1d),ALGN,154.0,70.1,0.171,26.3,1.43,-21.0,0.635
+QS/Connors 4 von 5 Tagen runter (1d),ALV.DE,158.0,72.8,0.077,12.1,1.15,-26.3,0.18
+QS/Connors 4 von 5 Tagen runter (1d),AMD,141.0,66.7,0.237,33.4,1.58,-9.1,1.096
+QS/Connors 4 von 5 Tagen runter (1d),AME,186.0,66.7,0.135,25.0,1.31,-8.9,0.256
+QS/Connors 4 von 5 Tagen runter (1d),AMGN,180.0,61.7,-0.067,-12.0,0.87,-34.2,-0.078
+QS/Connors 4 von 5 Tagen runter (1d),AMP,150.0,72.7,0.304,45.6,1.85,-7.8,0.577
+QS/Connors 4 von 5 Tagen runter (1d),ANET,86.0,67.4,0.091,7.8,1.18,-20.5,0.493
+QS/Connors 4 von 5 Tagen runter (1d),APO,92.0,76.1,0.445,41.0,3.23,-5.0,1.263
+QS/Connors 4 von 5 Tagen runter (1d),ATO,135.0,68.1,0.023,3.1,1.05,-8.5,0.032
+QS/Connors 4 von 5 Tagen runter (1d),AVY,122.0,69.7,0.097,11.9,1.21,-11.5,0.177
+QS/Connors 4 von 5 Tagen runter (1d),AWK,123.0,75.6,0.16,19.7,1.38,-14.4,0.211
+QS/Connors 4 von 5 Tagen runter (1d),AXON,140.0,63.6,-0.02,-2.9,0.96,-11.5,-0.023
+QS/Connors 4 von 5 Tagen runter (1d),AZO,186.0,68.3,0.202,37.5,1.47,-11.2,0.448
+QS/Connors 4 von 5 Tagen runter (1d),BAC,138.0,68.8,0.116,16.0,1.24,-10.9,0.241
+QS/Connors 4 von 5 Tagen runter (1d),BAS.DE,149.0,64.4,0.047,7.1,1.09,-23.1,0.015
+QS/Connors 4 von 5 Tagen runter (1d),BAYN.DE,152.0,72.4,0.168,25.6,1.37,-18.2,0.426
+QS/Connors 4 von 5 Tagen runter (1d),BE,48.0,66.7,0.106,5.1,1.24,-6.6,1.282
+QS/Connors 4 von 5 Tagen runter (1d),BEI.DE,151.0,74.2,0.35,52.8,2.16,-8.8,0.602
+QS/Connors 4 von 5 Tagen runter (1d),BF-B,146.0,68.5,0.125,18.3,1.28,-11.2,0.147
+QS/Connors 4 von 5 Tagen runter (1d),BIIB,147.0,72.8,0.321,47.2,2.01,-12.4,0.895
+QS/Connors 4 von 5 Tagen runter (1d),BLK,187.0,72.7,0.242,45.2,1.61,-12.6,0.529
+QS/Connors 4 von 5 Tagen runter (1d),BMW.DE,152.0,63.2,-0.018,-2.7,0.96,-18.8,0.026
+QS/Connors 4 von 5 Tagen runter (1d),BNR.DE,113.0,71.7,0.112,12.7,1.25,-12.3,0.182
+QS/Connors 4 von 5 Tagen runter (1d),BNY,147.0,72.8,0.207,30.5,1.55,-5.6,0.415
+QS/Connors 4 von 5 Tagen runter (1d),BRO,138.0,73.9,0.254,35.0,1.77,-8.9,0.456
+QS/Connors 4 von 5 Tagen runter (1d),C,138.0,67.4,0.077,10.6,1.17,-17.9,0.148
+QS/Connors 4 von 5 Tagen runter (1d),CBK.DE,121.0,58.7,-0.178,-21.5,0.74,-36.3,-0.874
+QS/Connors 4 von 5 Tagen runter (1d),CCL,143.0,66.4,0.226,32.2,1.6,-10.2,0.595
+QS/Connors 4 von 5 Tagen runter (1d),CEG,33.0,72.7,0.304,10.0,1.74,-5.2,1.048
+QS/Connors 4 von 5 Tagen runter (1d),CF,158.0,65.8,0.169,26.7,1.49,-7.5,0.577
+QS/Connors 4 von 5 Tagen runter (1d),CFG,77.0,72.7,-0.076,-5.9,0.88,-18.9,-0.06
+QS/Connors 4 von 5 Tagen runter (1d),CHD,162.0,74.1,0.274,44.3,1.78,-6.4,0.465
+QS/Connors 4 von 5 Tagen runter (1d),CINF,138.0,68.1,0.181,25.0,1.45,-8.5,0.317
+QS/Connors 4 von 5 Tagen runter (1d),CMI,155.0,63.9,0.177,27.4,1.42,-11.8,0.576
+QS/Connors 4 von 5 Tagen runter (1d),CNC,145.0,68.3,0.203,29.4,1.47,-13.5,0.444
+QS/Connors 4 von 5 Tagen runter (1d),COF,149.0,76.5,0.313,46.7,1.98,-11.1,0.867
+QS/Connors 4 von 5 Tagen runter (1d),CON.DE,155.0,62.6,0.127,19.8,1.31,-11.3,0.327
+QS/Connors 4 von 5 Tagen runter (1d),COST,192.0,76.6,0.394,75.7,2.5,-8.9,0.745
+QS/Connors 4 von 5 Tagen runter (1d),CPAY,107.0,76.6,0.441,47.2,2.57,-4.4,1.077
+QS/Connors 4 von 5 Tagen runter (1d),CSX,159.0,77.4,0.227,36.1,1.5,-23.5,0.509
+QS/Connors 4 von 5 Tagen runter (1d),CTSH,159.0,80.5,0.402,63.9,2.47,-6.9,0.905
+QS/Connors 4 von 5 Tagen runter (1d),CVS,147.0,72.8,0.3,44.1,1.85,-19.0,0.531
+QS/Connors 4 von 5 Tagen runter (1d),DASH,29.0,58.6,-0.284,-8.2,0.57,-8.5,-1.345
+QS/Connors 4 von 5 Tagen runter (1d),DB1.DE,162.0,69.1,-0.007,-1.2,0.99,-33.7,-0.049
+QS/Connors 4 von 5 Tagen runter (1d),DBK.DE,125.0,67.2,-0.173,-21.7,0.74,-42.8,-0.461
+QS/Connors 4 von 5 Tagen runter (1d),DD,164.0,75.6,0.198,32.5,1.52,-15.0,0.476
+QS/Connors 4 von 5 Tagen runter (1d),DDOG,49.0,69.4,-0.043,-2.1,0.92,-9.3,-0.012
+QS/Connors 4 von 5 Tagen runter (1d),DELL,74.0,75.7,0.14,10.3,1.3,-12.5,0.497
+QS/Connors 4 von 5 Tagen runter (1d),DGX,165.0,69.1,-0.001,-0.2,1.0,-26.0,0.075
+QS/Connors 4 von 5 Tagen runter (1d),DHL.DE,147.0,70.7,0.195,28.6,1.43,-18.3,0.405
+QS/Connors 4 von 5 Tagen runter (1d),DHR,186.0,73.1,0.322,59.8,2.06,-6.6,0.582
+QS/Connors 4 von 5 Tagen runter (1d),DLTR,162.0,64.8,0.115,18.7,1.24,-28.5,0.495
+QS/Connors 4 von 5 Tagen runter (1d),DPZ,149.0,74.5,0.441,65.7,2.55,-6.1,1.001
+QS/Connors 4 von 5 Tagen runter (1d),DTE.DE,127.0,68.5,-0.071,-9.1,0.89,-19.7,-0.016
+QS/Connors 4 von 5 Tagen runter (1d),DTG.DE,44.0,68.2,0.066,2.9,1.16,-11.0,0.184
+QS/Connors 4 von 5 Tagen runter (1d),DVA,165.0,71.5,0.223,36.8,1.57,-7.5,0.358
+QS/Connors 4 von 5 Tagen runter (1d),DVN,139.0,73.4,0.271,37.6,1.76,-12.1,1.039
+QS/Connors 4 von 5 Tagen runter (1d),ED,123.0,67.5,-0.064,-7.9,0.89,-33.1,-0.104
+QS/Connors 4 von 5 Tagen runter (1d),EL,154.0,69.5,0.323,49.7,1.9,-9.1,0.686
+QS/Connors 4 von 5 Tagen runter (1d),ELV,159.0,73.0,0.312,49.7,1.9,-10.3,0.638
+QS/Connors 4 von 5 Tagen runter (1d),EMR,164.0,64.6,0.179,29.4,1.48,-6.9,0.393
+QS/Connors 4 von 5 Tagen runter (1d),ENR.DE,27.0,81.5,0.66,17.8,7.58,-1.3,2.606
+QS/Connors 4 von 5 Tagen runter (1d),EOAN.DE,148.0,70.9,0.143,21.1,1.31,-16.9,0.297
+QS/Connors 4 von 5 Tagen runter (1d),EQIX,181.0,75.1,0.29,52.5,1.83,-11.6,0.858
+QS/Connors 4 von 5 Tagen runter (1d),EQT,157.0,72.6,0.248,38.9,1.75,-6.4,0.682
+QS/Connors 4 von 5 Tagen runter (1d),EW,169.0,74.0,0.129,21.7,1.27,-13.8,0.423
+QS/Connors 4 von 5 Tagen runter (1d),EXC,125.0,70.4,0.205,25.6,1.56,-7.7,0.468
+QS/Connors 4 von 5 Tagen runter (1d),FICO,161.0,67.1,0.062,10.0,1.11,-28.0,0.15
+QS/Connors 4 von 5 Tagen runter (1d),FISV,161.0,70.8,0.277,44.5,1.7,-11.7,0.498
+QS/Connors 4 von 5 Tagen runter (1d),FITB,136.0,72.8,0.289,39.3,1.93,-7.1,0.757
+QS/Connors 4 von 5 Tagen runter (1d),FIX,161.0,74.5,0.258,41.6,1.69,-9.4,0.856
+QS/Connors 4 von 5 Tagen runter (1d),FME.DE,133.0,55.6,-0.327,-43.5,0.57,-51.7,-0.612
+QS/Connors 4 von 5 Tagen runter (1d),FOXA,49.0,59.2,0.155,7.6,1.31,-8.5,0.268
+QS/Connors 4 von 5 Tagen runter (1d),FRE.DE,159.0,69.2,0.114,18.1,1.24,-12.5,0.261
+QS/Connors 4 von 5 Tagen runter (1d),FTV,64.0,67.2,-0.113,-7.2,0.83,-14.5,-0.061
+QS/Connors 4 von 5 Tagen runter (1d),G1A.DE,178.0,72.5,0.159,28.3,1.38,-19.5,0.437
+QS/Connors 4 von 5 Tagen runter (1d),G24.DE,64.0,62.5,-0.196,-12.6,0.76,-25.0,-0.335
+QS/Connors 4 von 5 Tagen runter (1d),GD,164.0,72.6,0.359,58.8,2.21,-6.6,0.575
+QS/Connors 4 von 5 Tagen runter (1d),GL,150.0,76.0,0.271,40.6,1.89,-7.2,0.539
+QS/Connors 4 von 5 Tagen runter (1d),GOOG,185.0,72.4,0.349,64.6,2.24,-8.0,0.648
+QS/Connors 4 von 5 Tagen runter (1d),GOOGL,182.0,74.7,0.33,60.1,2.13,-8.0,0.615
+QS/Connors 4 von 5 Tagen runter (1d),HEI.DE,162.0,72.8,0.185,30.0,1.47,-17.2,0.599
+QS/Connors 4 von 5 Tagen runter (1d),HEN3.DE,150.0,70.0,0.191,28.6,1.51,-9.5,0.383
+QS/Connors 4 von 5 Tagen runter (1d),HNR1.DE,174.0,73.0,0.098,17.0,1.2,-42.5,0.261
+QS/Connors 4 von 5 Tagen runter (1d),HPE,59.0,50.8,-0.54,-31.9,0.43,-34.7,-1.184
+QS/Connors 4 von 5 Tagen runter (1d),IBKR,131.0,68.7,0.103,13.5,1.22,-16.6,0.307
+QS/Connors 4 von 5 Tagen runter (1d),IBM,149.0,67.1,-0.033,-4.9,0.94,-26.8,0.002
+QS/Connors 4 von 5 Tagen runter (1d),ICE,179.0,65.9,0.098,17.5,1.22,-12.5,0.283
+QS/Connors 4 von 5 Tagen runter (1d),IEX,167.0,69.5,0.049,8.3,1.1,-10.9,0.051
+QS/Connors 4 von 5 Tagen runter (1d),IFF,143.0,71.3,0.113,16.2,1.27,-16.1,0.288
+QS/Connors 4 von 5 Tagen runter (1d),IFX.DE,185.0,69.7,0.162,29.9,1.34,-17.8,0.472
+QS/Connors 4 von 5 Tagen runter (1d),IR,62.0,66.1,-0.124,-7.7,0.82,-13.8,-0.393
+QS/Connors 4 von 5 Tagen runter (1d),IRM,133.0,67.7,-0.173,-23.0,0.76,-36.3,-0.088
+QS/Connors 4 von 5 Tagen runter (1d),ITW,164.0,63.4,0.089,14.5,1.21,-13.7,0.235
+QS/Connors 4 von 5 Tagen runter (1d),JBHT,172.0,71.5,0.2,34.4,1.56,-7.2,0.461
+QS/Connors 4 von 5 Tagen runter (1d),JNJ,155.0,67.7,0.045,7.0,1.1,-16.9,0.026
+QS/Connors 4 von 5 Tagen runter (1d),JPM,168.0,72.6,0.233,39.1,1.59,-9.4,0.441
+QS/Connors 4 von 5 Tagen runter (1d),KEYS,100.0,74.0,0.381,38.1,2.28,-6.2,0.91
+QS/Connors 4 von 5 Tagen runter (1d),KLAC,178.0,75.3,0.313,55.7,1.82,-11.3,1.02
+QS/Connors 4 von 5 Tagen runter (1d),KMI,104.0,70.2,0.26,27.1,1.8,-9.5,0.56
+QS/Connors 4 von 5 Tagen runter (1d),KO,156.0,68.6,0.049,7.7,1.11,-23.3,0.089
+QS/Connors 4 von 5 Tagen runter (1d),KVUE,8.0,25.0,-0.966,-7.7,0.16,-6.1,-1.923
+QS/Connors 4 von 5 Tagen runter (1d),LEN,148.0,69.6,0.161,23.8,1.39,-12.1,0.559
+QS/Connors 4 von 5 Tagen runter (1d),LIN,181.0,72.4,0.309,55.8,2.06,-7.9,0.583
+QS/Connors 4 von 5 Tagen runter (1d),LNT,172.0,73.8,0.282,48.5,1.9,-6.2,0.466
+QS/Connors 4 von 5 Tagen runter (1d),LYV,148.0,66.2,0.123,18.2,1.31,-13.8,0.277
+QS/Connors 4 von 5 Tagen runter (1d),MAA,147.0,72.8,0.105,15.4,1.21,-16.2,0.269
+QS/Connors 4 von 5 Tagen runter (1d),MAR,183.0,69.4,0.268,49.1,1.79,-7.4,0.587
+QS/Connors 4 von 5 Tagen runter (1d),MBG.DE,145.0,71.7,0.326,47.3,2.05,-5.8,0.9
+QS/Connors 4 von 5 Tagen runter (1d),MCD,170.0,70.0,0.214,36.3,1.55,-6.5,0.414
+QS/Connors 4 von 5 Tagen runter (1d),MDLZ,148.0,66.2,0.13,19.3,1.31,-14.1,0.18
+QS/Connors 4 von 5 Tagen runter (1d),MDT,135.0,71.9,0.184,24.8,1.44,-9.3,0.305
+QS/Connors 4 von 5 Tagen runter (1d),MGM,152.0,65.1,0.126,19.2,1.29,-13.3,0.446
+QS/Connors 4 von 5 Tagen runter (1d),MMM,138.0,72.5,0.322,44.4,1.99,-9.5,0.611
+QS/Connors 4 von 5 Tagen runter (1d),MO,145.0,64.1,0.004,0.6,1.01,-26.6,0.009
+QS/Connors 4 von 5 Tagen runter (1d),MOS,135.0,68.1,0.068,9.2,1.15,-21.2,0.416
+QS/Connors 4 von 5 Tagen runter (1d),MPWR,165.0,69.7,0.217,35.8,1.56,-11.6,0.939
+QS/Connors 4 von 5 Tagen runter (1d),MRK.DE,135.0,69.6,0.142,19.2,1.3,-12.8,0.329
+QS/Connors 4 von 5 Tagen runter (1d),MRVL,153.0,69.9,0.254,38.9,1.76,-8.1,0.915
+QS/Connors 4 von 5 Tagen runter (1d),MSCI,149.0,75.8,0.31,46.1,1.95,-8.8,0.875
+QS/Connors 4 von 5 Tagen runter (1d),MTB,154.0,67.5,0.176,27.1,1.46,-10.9,0.403
+QS/Connors 4 von 5 Tagen runter (1d),MTD,158.0,69.0,0.123,19.4,1.3,-16.8,0.273
+QS/Connors 4 von 5 Tagen runter (1d),MTX.DE,149.0,65.8,0.019,2.8,1.03,-29.8,0.113
+QS/Connors 4 von 5 Tagen runter (1d),MUV2.DE,155.0,65.8,-0.183,-28.3,0.74,-48.4,-0.216
+QS/Connors 4 von 5 Tagen runter (1d),NKE,159.0,66.7,0.146,23.2,1.34,-14.8,0.231
+QS/Connors 4 von 5 Tagen runter (1d),NUE,152.0,68.4,-0.01,-1.5,0.98,-29.5,0.189
+QS/Connors 4 von 5 Tagen runter (1d),NVDA,180.0,71.1,0.41,73.9,2.21,-8.2,1.535
+QS/Connors 4 von 5 Tagen runter (1d),NWS,71.0,62.0,-0.02,-1.4,0.96,-12.5,-0.068
+QS/Connors 4 von 5 Tagen runter (1d),NWSA,73.0,61.6,-0.011,-0.8,0.98,-14.0,-0.048
+QS/Connors 4 von 5 Tagen runter (1d),O,133.0,65.4,-0.032,-4.3,0.94,-26.7,0.102
+QS/Connors 4 von 5 Tagen runter (1d),OXY,126.0,68.3,0.107,13.5,1.21,-11.9,0.558
+QS/Connors 4 von 5 Tagen runter (1d),P,84.0,61.9,-0.044,-3.7,0.93,-12.5,-0.018
+QS/Connors 4 von 5 Tagen runter (1d),PAH3.DE,106.0,58.5,-0.101,-10.7,0.81,-26.2,-0.162
+QS/Connors 4 von 5 Tagen runter (1d),PCAR,160.0,67.5,0.152,24.3,1.47,-10.9,0.409
+QS/Connors 4 von 5 Tagen runter (1d),PCG,126.0,65.1,0.061,7.7,1.13,-12.1,0.14
+QS/Connors 4 von 5 Tagen runter (1d),PFE,143.0,65.7,0.111,15.9,1.32,-11.2,0.11
+QS/Connors 4 von 5 Tagen runter (1d),PH,181.0,67.4,0.07,12.6,1.16,-32.2,0.196
+QS/Connors 4 von 5 Tagen runter (1d),PLD,172.0,65.7,0.076,13.0,1.16,-16.4,0.137
+QS/Connors 4 von 5 Tagen runter (1d),PODD,133.0,69.2,0.088,11.7,1.17,-22.1,0.197
+QS/Connors 4 von 5 Tagen runter (1d),PPG,148.0,75.7,0.347,51.4,2.3,-7.7,0.652
+QS/Connors 4 von 5 Tagen runter (1d),PSA,167.0,71.9,0.097,16.1,1.19,-31.5,0.293
+QS/Connors 4 von 5 Tagen runter (1d),PSX,90.0,61.1,-0.184,-16.6,0.72,-29.5,-0.34
+QS/Connors 4 von 5 Tagen runter (1d),Q,1.0,0.0,-0.756,-0.8,0.0,0.0,-4.439
+QS/Connors 4 von 5 Tagen runter (1d),QCOM,144.0,71.5,0.225,32.4,1.59,-9.6,0.637
+QS/Connors 4 von 5 Tagen runter (1d),QIA.DE,147.0,58.5,-0.125,-18.4,0.8,-28.7,-0.222
+QS/Connors 4 von 5 Tagen runter (1d),REG,139.0,65.5,-0.05,-6.9,0.91,-20.0,-0.091
+QS/Connors 4 von 5 Tagen runter (1d),REGN,170.0,65.9,0.091,15.5,1.19,-21.6,0.388
+QS/Connors 4 von 5 Tagen runter (1d),RHM.DE,168.0,72.0,0.24,40.3,1.65,-8.9,0.695
+QS/Connors 4 von 5 Tagen runter (1d),RL,158.0,68.4,0.068,10.8,1.15,-12.0,0.221
+QS/Connors 4 von 5 Tagen runter (1d),ROL,180.0,71.7,0.272,48.9,1.83,-5.4,0.552
+QS/Connors 4 von 5 Tagen runter (1d),ROST,176.0,72.7,0.228,40.1,1.66,-7.6,0.543
+QS/Connors 4 von 5 Tagen runter (1d),RWE.DE,137.0,68.6,0.005,0.7,1.01,-22.8,-0.031
+QS/Connors 4 von 5 Tagen runter (1d),SAP.DE,166.0,66.9,-0.008,-1.4,0.99,-31.4,0.016
+QS/Connors 4 von 5 Tagen runter (1d),SBAC,164.0,71.3,0.195,32.0,1.5,-8.1,0.526
+QS/Connors 4 von 5 Tagen runter (1d),SHL.DE,43.0,74.4,0.192,8.2,1.44,-5.7,0.454
+QS/Connors 4 von 5 Tagen runter (1d),SHW,169.0,72.2,0.283,47.9,1.86,-8.9,0.518
+QS/Connors 4 von 5 Tagen runter (1d),SIE.DE,150.0,72.7,0.141,21.2,1.35,-13.6,0.211
+QS/Connors 4 von 5 Tagen runter (1d),SLB,158.0,73.4,0.184,29.0,1.48,-11.8,0.54
+QS/Connors 4 von 5 Tagen runter (1d),SNA,182.0,72.5,0.237,43.0,1.55,-9.5,0.459
+QS/Connors 4 von 5 Tagen runter (1d),SO,151.0,74.2,0.124,18.7,1.28,-12.2,0.169
+QS/Connors 4 von 5 Tagen runter (1d),STE,171.0,71.3,0.264,45.2,1.84,-8.6,0.408
+QS/Connors 4 von 5 Tagen runter (1d),SY1.DE,137.0,65.7,0.097,13.3,1.22,-19.0,0.28
+QS/Connors 4 von 5 Tagen runter (1d),SYK,168.0,74.4,0.341,57.3,2.05,-8.1,0.64
+QS/Connors 4 von 5 Tagen runter (1d),T,119.0,66.4,0.182,21.7,1.44,-6.8,0.335
+QS/Connors 4 von 5 Tagen runter (1d),TEL,150.0,68.0,0.107,16.1,1.23,-8.4,0.168
+QS/Connors 4 von 5 Tagen runter (1d),TER,146.0,70.5,0.204,29.8,1.47,-12.7,0.87
+QS/Connors 4 von 5 Tagen runter (1d),TFC,126.0,65.1,0.111,14.0,1.24,-11.7,0.314
+QS/Connors 4 von 5 Tagen runter (1d),TGT,144.0,74.3,0.266,38.3,1.77,-7.6,0.541
+QS/Connors 4 von 5 Tagen runter (1d),TJX,189.0,69.8,0.33,62.4,2.08,-7.5,0.74
+QS/Connors 4 von 5 Tagen runter (1d),TPR,159.0,79.2,0.49,78.0,3.54,-5.9,1.378
+QS/Connors 4 von 5 Tagen runter (1d),TRMB,159.0,69.8,0.249,39.6,1.66,-10.7,0.58
+QS/Connors 4 von 5 Tagen runter (1d),TRV,159.0,69.8,0.274,43.5,1.85,-5.8,0.518
+QS/Connors 4 von 5 Tagen runter (1d),TSCO,151.0,70.9,0.163,24.7,1.46,-9.3,0.486
+QS/Connors 4 von 5 Tagen runter (1d),TSLA,111.0,64.9,0.146,16.2,1.32,-13.3,0.424
+QS/Connors 4 von 5 Tagen runter (1d),TSN,139.0,70.5,0.215,29.9,1.48,-10.5,0.371
+QS/Connors 4 von 5 Tagen runter (1d),TWLO,62.0,72.6,0.252,15.6,1.55,-12.9,1.629
+QS/Connors 4 von 5 Tagen runter (1d),TXT,164.0,68.9,0.193,31.6,1.45,-13.6,0.48
+QS/Connors 4 von 5 Tagen runter (1d),UAL,127.0,69.3,0.107,13.5,1.24,-11.5,0.506
+QS/Connors 4 von 5 Tagen runter (1d),UBER,44.0,61.4,0.131,5.8,1.39,-5.6,0.407
+QS/Connors 4 von 5 Tagen runter (1d),UHS,154.0,68.8,-0.1,-15.4,0.85,-22.1,-0.153
+QS/Connors 4 von 5 Tagen runter (1d),UNP,186.0,69.9,0.147,27.4,1.35,-28.7,0.395
+QS/Connors 4 von 5 Tagen runter (1d),URI,156.0,63.5,0.072,11.3,1.16,-10.9,0.312
+QS/Connors 4 von 5 Tagen runter (1d),V,139.0,78.4,0.471,65.4,2.95,-3.7,0.981
+QS/Connors 4 von 5 Tagen runter (1d),VNA.DE,73.0,61.6,0.046,3.4,1.1,-7.7,0.15
+QS/Connors 4 von 5 Tagen runter (1d),VOW3.DE,159.0,66.7,0.009,1.4,1.02,-13.6,0.084
+QS/Connors 4 von 5 Tagen runter (1d),VRSK,121.0,72.7,0.174,21.1,1.44,-7.8,0.355
+QS/Connors 4 von 5 Tagen runter (1d),VRT,56.0,67.9,0.242,13.6,1.89,-3.4,0.961
+QS/Connors 4 von 5 Tagen runter (1d),VST,64.0,65.6,0.182,11.6,1.5,-9.5,0.408
+QS/Connors 4 von 5 Tagen runter (1d),WY,140.0,70.0,0.194,27.2,1.45,-8.4,0.515
+QS/Connors 4 von 5 Tagen runter (1d),XOM,134.0,72.4,0.166,22.3,1.4,-19.4,0.467
+QS/Connors 4 von 5 Tagen runter (1d),XYZ,72.0,69.4,0.273,19.6,1.89,-6.4,0.982
+QS/Connors 4 von 5 Tagen runter (1d),ZAL.DE,80.0,63.8,-0.05,-4.0,0.92,-14.0,-0.044
+QS/Connors 4 von 5 Tagen runter (1d),ZBRA,141.0,66.7,0.101,14.2,1.23,-10.0,0.344
+QS/Connors Double 5 (1d),AAPL,307.0,68.1,0.246,75.5,1.48,-16.5,0.419
+QS/Connors Double 5 (1d),ADBE,295.0,71.5,0.35,103.2,1.87,-9.2,0.75
+QS/Connors Double 5 (1d),ADS.DE,300.0,69.0,0.308,92.5,1.66,-16.5,0.654
+QS/Connors Double 5 (1d),AEE,298.0,72.8,0.195,58.1,1.43,-22.3,0.303
+QS/Connors Double 5 (1d),AFL,315.0,72.7,0.348,109.5,1.88,-13.5,0.599
+QS/Connors Double 5 (1d),AIR.DE,288.0,71.5,0.358,103.1,1.86,-14.4,0.782
+QS/Connors Double 5 (1d),AKAM,246.0,67.5,0.082,20.3,1.15,-25.2,0.486
+QS/Connors Double 5 (1d),ALGN,270.0,71.9,0.21,56.7,1.4,-25.5,0.667
+QS/Connors Double 5 (1d),ALV.DE,296.0,71.3,0.007,2.0,1.01,-48.3,0.087
+QS/Connors Double 5 (1d),AMD,250.0,71.2,0.194,48.5,1.36,-17.0,1.034
+QS/Connors Double 5 (1d),AME,341.0,71.0,0.274,93.4,1.72,-15.9,0.488
+QS/Connors Double 5 (1d),AMGN,270.0,63.7,0.021,5.8,1.04,-38.1,0.104
+QS/Connors Double 5 (1d),AMP,259.0,76.1,0.348,90.2,1.75,-23.9,0.764
+QS/Connors Double 5 (1d),ANET,159.0,71.7,0.264,41.9,1.46,-20.5,0.862
+QS/Connors Double 5 (1d),APO,192.0,68.8,0.278,53.4,1.65,-12.4,0.699
+QS/Connors Double 5 (1d),ATO,305.0,69.8,0.152,46.2,1.32,-12.1,0.255
+QS/Connors Double 5 (1d),AVY,269.0,70.6,0.159,42.9,1.29,-18.8,0.292
+QS/Connors Double 5 (1d),AWK,248.0,71.8,0.204,50.5,1.43,-18.5,0.326
+QS/Connors Double 5 (1d),AXON,256.0,65.6,0.065,16.6,1.11,-17.8,0.202
+QS/Connors Double 5 (1d),AZO,331.0,70.1,0.221,73.1,1.44,-16.4,0.478
+QS/Connors Double 5 (1d),BAC,244.0,66.0,-0.05,-12.1,0.93,-28.6,-0.043
+QS/Connors Double 5 (1d),BAS.DE,244.0,66.0,0.067,16.3,1.12,-25.1,0.15
+QS/Connors Double 5 (1d),BAYN.DE,251.0,66.1,0.46,115.5,1.92,-19.8,0.514
+QS/Connors Double 5 (1d),BE,85.0,72.9,0.204,17.3,1.4,-12.5,1.627
+QS/Connors Double 5 (1d),BEI.DE,271.0,70.5,0.147,39.8,1.3,-23.9,0.239
+QS/Connors Double 5 (1d),BF-B,255.0,70.6,0.139,35.4,1.27,-15.8,0.32
+QS/Connors Double 5 (1d),BIIB,238.0,68.1,0.169,40.2,1.34,-20.7,0.468
+QS/Connors Double 5 (1d),BLK,313.0,70.6,0.213,66.7,1.43,-22.0,0.501
+QS/Connors Double 5 (1d),BMW.DE,229.0,63.8,0.066,15.2,1.12,-12.6,0.202
+QS/Connors Double 5 (1d),BNR.DE,192.0,67.7,0.119,22.9,1.23,-20.8,0.232
+QS/Connors Double 5 (1d),BNY,283.0,72.4,0.184,51.9,1.35,-26.7,0.325
+QS/Connors Double 5 (1d),BRO,278.0,71.9,0.292,81.1,1.71,-13.1,0.436
+QS/Connors Double 5 (1d),C,237.0,65.8,-0.138,-32.6,0.81,-49.9,-0.27
+QS/Connors Double 5 (1d),CBK.DE,220.0,65.9,0.059,13.1,1.1,-36.9,0.067
+QS/Connors Double 5 (1d),CCL,228.0,68.4,0.076,17.3,1.14,-19.1,0.131
+QS/Connors Double 5 (1d),CEG,53.0,71.7,0.223,11.8,1.41,-6.7,0.73
+QS/Connors Double 5 (1d),CF,257.0,65.4,0.227,58.2,1.46,-15.9,0.839
+QS/Connors Double 5 (1d),CFG,134.0,71.6,-0.004,-0.6,0.99,-34.3,0.104
+QS/Connors Double 5 (1d),CHD,315.0,72.1,0.297,93.5,1.78,-9.9,0.519
+QS/Connors Double 5 (1d),CINF,279.0,72.0,0.229,63.9,1.5,-17.5,0.467
+QS/Connors Double 5 (1d),CMI,278.0,70.1,0.247,68.7,1.52,-10.6,0.629
+QS/Connors Double 5 (1d),CNC,267.0,76.4,0.228,61.0,1.51,-23.8,0.55
+QS/Connors Double 5 (1d),COF,257.0,66.9,0.077,19.9,1.13,-33.0,0.336
+QS/Connors Double 5 (1d),CON.DE,272.0,71.3,0.083,22.4,1.14,-59.2,0.504
+QS/Connors Double 5 (1d),COST,323.0,70.3,0.246,79.5,1.56,-12.4,0.435
+QS/Connors Double 5 (1d),CPAY,198.0,77.8,0.42,83.1,2.06,-15.9,0.983
+QS/Connors Double 5 (1d),CSX,308.0,70.8,0.326,100.4,1.75,-18.1,0.731
+QS/Connors Double 5 (1d),CTSH,270.0,74.1,0.177,47.7,1.34,-25.6,0.477
+QS/Connors Double 5 (1d),CVS,274.0,70.1,0.155,42.5,1.32,-30.1,0.274
+QS/Connors Double 5 (1d),DASH,58.0,72.4,0.109,6.3,1.21,-11.0,0.189
+QS/Connors Double 5 (1d),DB1.DE,280.0,65.7,0.147,41.3,1.28,-33.9,0.226
+QS/Connors Double 5 (1d),DBK.DE,220.0,65.5,-0.022,-4.8,0.97,-40.4,-0.045
+QS/Connors Double 5 (1d),DD,248.0,69.4,0.143,35.4,1.26,-15.8,0.292
+QS/Connors Double 5 (1d),DDOG,80.0,71.2,0.221,17.7,1.43,-7.0,0.679
+QS/Connors Double 5 (1d),DELL,130.0,73.1,0.312,40.6,1.55,-19.0,1.067
+QS/Connors Double 5 (1d),DGX,303.0,70.3,0.091,27.5,1.17,-24.1,0.236
+QS/Connors Double 5 (1d),DHL.DE,286.0,71.3,0.243,69.4,1.51,-25.4,0.46
+QS/Connors Double 5 (1d),DHR,327.0,70.0,0.281,92.0,1.72,-10.6,0.47
+QS/Connors Double 5 (1d),DLTR,276.0,71.4,0.038,10.5,1.06,-54.2,0.374
+QS/Connors Double 5 (1d),DPZ,294.0,73.1,0.3,88.3,1.69,-20.8,0.555
+QS/Connors Double 5 (1d),DTE.DE,233.0,69.5,0.042,9.8,1.06,-30.9,0.065
+QS/Connors Double 5 (1d),DTG.DE,63.0,66.7,0.079,5.0,1.14,-12.4,0.351
+QS/Connors Double 5 (1d),DVA,277.0,74.4,0.2,55.5,1.42,-26.1,0.465
+QS/Connors Double 5 (1d),DVN,220.0,66.8,0.134,29.5,1.27,-27.7,0.673
+QS/Connors Double 5 (1d),ED,252.0,67.1,-0.069,-17.4,0.89,-44.0,-0.13
+QS/Connors Double 5 (1d),EL,278.0,70.9,0.191,53.1,1.31,-20.4,0.365
+QS/Connors Double 5 (1d),ELV,267.0,69.3,0.086,22.9,1.15,-24.7,0.16
+QS/Connors Double 5 (1d),EMR,308.0,73.4,0.258,79.4,1.66,-9.1,0.526
+QS/Connors Double 5 (1d),ENR.DE,62.0,77.4,0.73,45.3,5.31,-2.2,2.996
+QS/Connors Double 5 (1d),EOAN.DE,247.0,68.4,-0.012,-3.0,0.98,-53.8,0.016
+QS/Connors Double 5 (1d),EQIX,311.0,70.7,0.314,97.7,1.8,-12.0,0.807
+QS/Connors Double 5 (1d),EQT,258.0,71.3,0.257,66.3,1.66,-8.2,0.724
+QS/Connors Double 5 (1d),EW,286.0,71.3,0.085,24.3,1.14,-26.1,0.337
+QS/Connors Double 5 (1d),EXC,247.0,69.2,0.116,28.6,1.23,-21.8,0.234
+QS/Connors Double 5 (1d),FICO,302.0,69.5,0.223,67.4,1.45,-37.4,0.534
+QS/Connors Double 5 (1d),FISV,306.0,76.1,0.34,103.9,1.83,-21.7,0.598
+QS/Connors Double 5 (1d),FITB,249.0,71.5,0.195,48.6,1.42,-17.4,0.675
+QS/Connors Double 5 (1d),FIX,338.0,76.6,0.47,158.8,2.37,-14.3,1.47
+QS/Connors Double 5 (1d),FME.DE,254.0,61.8,-0.038,-9.6,0.94,-37.2,-0.056
+QS/Connors Double 5 (1d),FOXA,81.0,63.0,-0.184,-14.9,0.76,-16.2,-0.534
+QS/Connors Double 5 (1d),FRE.DE,285.0,70.2,0.224,63.8,1.46,-34.1,0.416
+QS/Connors Double 5 (1d),FTV,124.0,64.5,0.065,8.0,1.11,-18.8,0.126
+QS/Connors Double 5 (1d),G1A.DE,290.0,72.4,0.155,44.9,1.3,-24.2,0.367
+QS/Connors Double 5 (1d),G24.DE,130.0,70.0,0.198,25.8,1.4,-9.9,0.267
+QS/Connors Double 5 (1d),GD,321.0,72.3,0.406,130.4,2.25,-7.9,0.673
+QS/Connors Double 5 (1d),GL,318.0,78.3,0.327,103.9,1.87,-31.0,0.634
+QS/Connors Double 5 (1d),GOOG,327.0,71.9,0.253,82.6,1.51,-16.9,0.483
+QS/Connors Double 5 (1d),GOOGL,327.0,71.6,0.237,77.6,1.49,-16.9,0.471
+QS/Connors Double 5 (1d),HEI.DE,278.0,68.7,0.212,59.0,1.52,-14.3,0.594
+QS/Connors Double 5 (1d),HEN3.DE,259.0,68.3,0.145,37.5,1.31,-25.7,0.303
+QS/Connors Double 5 (1d),HNR1.DE,309.0,70.2,0.109,33.5,1.2,-37.2,0.236
+QS/Connors Double 5 (1d),HPE,126.0,57.9,-0.134,-16.9,0.82,-28.7,-0.138
+QS/Connors Double 5 (1d),IBKR,215.0,69.8,0.097,21.0,1.16,-20.4,0.176
+QS/Connors Double 5 (1d),IBM,260.0,68.8,-0.005,-1.2,0.99,-27.2,-0.022
+QS/Connors Double 5 (1d),ICE,297.0,70.7,0.231,68.5,1.55,-7.8,0.563
+QS/Connors Double 5 (1d),IEX,320.0,66.9,0.126,40.3,1.24,-25.6,0.224
+QS/Connors Double 5 (1d),IFF,251.0,68.9,0.09,22.7,1.15,-40.5,0.238
+QS/Connors Double 5 (1d),IFX.DE,279.0,68.8,0.087,24.3,1.13,-24.3,0.262
+QS/Connors Double 5 (1d),IR,106.0,68.9,-0.014,-1.5,0.98,-17.4,-0.132
+QS/Connors Double 5 (1d),IRM,221.0,62.4,-0.203,-44.9,0.76,-57.3,-0.331
+QS/Connors Double 5 (1d),ITW,299.0,69.6,0.169,50.6,1.36,-19.2,0.351
+QS/Connors Double 5 (1d),JBHT,299.0,69.2,0.222,66.4,1.51,-18.2,0.565
+QS/Connors Double 5 (1d),JNJ,272.0,70.2,0.07,19.0,1.14,-16.2,0.105
+QS/Connors Double 5 (1d),JPM,280.0,68.6,0.114,32.0,1.2,-27.5,0.292
+QS/Connors Double 5 (1d),KEYS,159.0,66.0,0.089,14.1,1.17,-24.3,0.29
+QS/Connors Double 5 (1d),KLAC,294.0,71.4,0.302,88.7,1.7,-12.2,0.853
+QS/Connors Double 5 (1d),KMI,166.0,68.7,0.071,11.8,1.13,-29.4,0.17
+QS/Connors Double 5 (1d),KO,293.0,70.6,0.176,51.7,1.35,-16.7,0.275
+QS/Connors Double 5 (1d),KVUE,25.0,72.0,0.144,3.6,1.21,-5.4,0.439
+QS/Connors Double 5 (1d),LEN,269.0,69.1,0.158,42.5,1.31,-17.0,0.521
+QS/Connors Double 5 (1d),LIN,350.0,72.0,0.32,112.2,1.86,-12.5,0.639
+QS/Connors Double 5 (1d),LNT,295.0,71.5,0.122,35.9,1.27,-25.2,0.172
+QS/Connors Double 5 (1d),LYV,260.0,68.5,0.232,60.4,1.49,-19.2,0.601
+QS/Connors Double 5 (1d),MAA,266.0,71.8,0.125,33.3,1.24,-18.6,0.315
+QS/Connors Double 5 (1d),MAR,287.0,71.4,0.195,55.9,1.39,-26.7,0.359
+QS/Connors Double 5 (1d),MBG.DE,236.0,66.9,0.117,27.7,1.25,-14.8,0.304
+QS/Connors Double 5 (1d),MCD,316.0,73.4,0.322,101.8,1.85,-10.3,0.535
+QS/Connors Double 5 (1d),MDLZ,288.0,69.4,0.24,69.1,1.52,-18.2,0.365
+QS/Connors Double 5 (1d),MDT,270.0,67.0,0.127,34.4,1.25,-16.4,0.163
+QS/Connors Double 5 (1d),MGM,251.0,67.7,0.004,0.9,1.01,-29.0,-0.018
+QS/Connors Double 5 (1d),MMM,255.0,71.0,0.279,71.2,1.65,-14.2,0.479
+QS/Connors Double 5 (1d),MO,273.0,69.2,0.067,18.3,1.12,-26.6,0.106
+QS/Connors Double 5 (1d),MOS,211.0,67.8,0.103,21.7,1.18,-15.7,0.738
+QS/Connors Double 5 (1d),MPWR,300.0,75.0,0.278,83.5,1.57,-15.4,0.981
+QS/Connors Double 5 (1d),MRK.DE,255.0,71.0,0.16,40.7,1.3,-20.0,0.282
+QS/Connors Double 5 (1d),MRVL,273.0,71.1,0.334,91.2,1.84,-9.8,1.274
+QS/Connors Double 5 (1d),MSCI,259.0,72.6,0.385,99.6,1.98,-13.9,0.978
+QS/Connors Double 5 (1d),MTB,275.0,66.9,0.096,26.4,1.18,-30.7,0.216
+QS/Connors Double 5 (1d),MTD,291.0,70.4,0.204,59.4,1.44,-26.5,0.427
+QS/Connors Double 5 (1d),MTX.DE,277.0,68.6,0.13,35.9,1.24,-27.5,0.338
+QS/Connors Double 5 (1d),MUV2.DE,279.0,67.7,0.051,14.3,1.09,-28.7,0.095
+QS/Connors Double 5 (1d),NKE,277.0,72.6,0.313,86.8,1.72,-13.6,0.557
+QS/Connors Double 5 (1d),NUE,246.0,68.3,0.088,21.7,1.16,-20.2,0.363
+QS/Connors Double 5 (1d),NVDA,316.0,72.8,0.412,130.3,2.01,-11.2,1.403
+QS/Connors Double 5 (1d),NWS,130.0,63.1,-0.089,-11.6,0.86,-22.6,-0.255
+QS/Connors Double 5 (1d),NWSA,133.0,65.4,-0.002,-0.3,1.0,-19.7,-0.048
+QS/Connors Double 5 (1d),O,227.0,64.8,-0.133,-30.2,0.81,-50.7,-0.174
+QS/Connors Double 5 (1d),OXY,224.0,69.6,0.172,38.5,1.31,-26.5,0.789
+QS/Connors Double 5 (1d),P,119.0,63.0,-0.362,-43.1,0.63,-43.3,-1.143
+QS/Connors Double 5 (1d),PAH3.DE,149.0,56.4,-0.149,-22.3,0.76,-25.6,-0.338
+QS/Connors Double 5 (1d),PCAR,286.0,67.8,0.108,30.9,1.23,-16.8,0.251
+QS/Connors Double 5 (1d),PCG,248.0,72.6,0.156,38.7,1.33,-14.9,0.141
+QS/Connors Double 5 (1d),PFE,245.0,68.2,0.026,6.4,1.05,-29.7,-0.001
+QS/Connors Double 5 (1d),PH,315.0,72.1,0.232,73.0,1.48,-33.1,0.495
+QS/Connors Double 5 (1d),PLD,310.0,69.7,0.219,67.8,1.47,-14.3,0.393
+QS/Connors Double 5 (1d),PODD,243.0,73.7,0.282,68.4,1.61,-17.5,1.085
+QS/Connors Double 5 (1d),PPG,275.0,68.4,0.191,52.6,1.39,-15.4,0.375
+QS/Connors Double 5 (1d),PSA,275.0,72.7,0.07,19.2,1.12,-40.0,0.235
+QS/Connors Double 5 (1d),PSX,163.0,62.6,-0.118,-19.2,0.83,-41.2,-0.107
+QS/Connors Double 5 (1d),Q,1.0,0.0,-1.832,-1.8,0.0,0.0,-9.833
+QS/Connors Double 5 (1d),QCOM,239.0,68.6,0.111,26.4,1.2,-26.3,0.262
+QS/Connors Double 5 (1d),QIA.DE,252.0,65.5,-0.128,-32.3,0.82,-55.2,-0.239
+QS/Connors Double 5 (1d),REG,245.0,63.7,0.0,0.1,1.0,-26.9,-0.002
+QS/Connors Double 5 (1d),REGN,294.0,70.4,0.179,52.5,1.39,-21.9,0.62
+QS/Connors Double 5 (1d),RHM.DE,284.0,70.1,0.283,80.4,1.67,-13.9,0.867
+QS/Connors Double 5 (1d),RL,261.0,70.5,0.189,49.2,1.38,-16.3,0.569
+QS/Connors Double 5 (1d),ROL,345.0,71.0,0.238,82.1,1.57,-16.8,0.505
+QS/Connors Double 5 (1d),ROST,334.0,77.5,0.346,115.6,1.87,-28.2,0.826
+QS/Connors Double 5 (1d),RWE.DE,237.0,70.0,0.066,15.6,1.11,-22.2,0.199
+QS/Connors Double 5 (1d),SAP.DE,270.0,64.8,-0.044,-12.0,0.93,-51.1,-0.137
+QS/Connors Double 5 (1d),SBAC,292.0,69.2,0.222,64.8,1.52,-13.2,0.697
+QS/Connors Double 5 (1d),SHL.DE,66.0,54.5,-0.131,-8.6,0.82,-18.0,-0.12
+QS/Connors Double 5 (1d),SHW,310.0,72.9,0.353,109.6,1.9,-20.6,0.67
+QS/Connors Double 5 (1d),SIE.DE,303.0,70.0,0.173,52.5,1.31,-26.3,0.39
+QS/Connors Double 5 (1d),SLB,228.0,65.8,0.129,29.5,1.23,-29.9,0.227
+QS/Connors Double 5 (1d),SNA,304.0,69.7,0.233,70.8,1.47,-14.4,0.4
+QS/Connors Double 5 (1d),SO,283.0,73.5,0.147,41.5,1.28,-19.6,0.179
+QS/Connors Double 5 (1d),STE,299.0,67.9,0.181,54.1,1.42,-13.2,0.264
+QS/Connors Double 5 (1d),SY1.DE,249.0,69.9,0.199,49.6,1.46,-26.0,0.527
+QS/Connors Double 5 (1d),SYK,306.0,68.6,0.26,79.6,1.6,-23.1,0.432
+QS/Connors Double 5 (1d),T,224.0,68.8,0.141,31.6,1.3,-16.7,0.301
+QS/Connors Double 5 (1d),TEL,245.0,66.5,0.112,27.4,1.21,-14.5,0.171
+QS/Connors Double 5 (1d),TER,271.0,70.8,0.1,27.1,1.17,-16.8,0.319
+QS/Connors Double 5 (1d),TFC,238.0,67.2,-0.033,-8.0,0.95,-23.8,-0.053
+QS/Connors Double 5 (1d),TGT,245.0,65.3,0.158,38.8,1.33,-17.3,0.39
+QS/Connors Double 5 (1d),TJX,347.0,74.1,0.363,125.9,2.05,-11.2,0.688
+QS/Connors Double 5 (1d),TPR,249.0,69.1,0.31,77.3,1.67,-22.2,0.862
+QS/Connors Double 5 (1d),TRMB,269.0,68.8,0.058,15.5,1.1,-29.0,0.153
+QS/Connors Double 5 (1d),TRV,304.0,72.7,0.299,90.8,1.69,-10.9,0.56
+QS/Connors Double 5 (1d),TSCO,275.0,71.6,0.265,72.8,1.66,-11.0,0.653
+QS/Connors Double 5 (1d),TSLA,187.0,67.9,0.173,32.4,1.31,-21.9,0.763
+QS/Connors Double 5 (1d),TSN,243.0,68.7,0.053,12.9,1.09,-22.0,0.118
+QS/Connors Double 5 (1d),TWLO,113.0,69.0,0.272,30.7,1.58,-13.0,1.511
+QS/Connors Double 5 (1d),TXT,266.0,66.5,0.069,18.3,1.12,-39.7,0.258
+QS/Connors Double 5 (1d),UAL,226.0,65.0,-0.034,-7.7,0.95,-22.9,-0.001
+QS/Connors Double 5 (1d),UBER,77.0,59.7,0.134,10.4,1.29,-9.5,0.406
+QS/Connors Double 5 (1d),UHS,272.0,69.1,-0.011,-3.1,0.98,-26.6,-0.013
+QS/Connors Double 5 (1d),UNP,346.0,74.3,0.314,108.7,1.77,-9.9,0.674
+QS/Connors Double 5 (1d),URI,269.0,65.8,0.002,0.6,1.0,-49.0,0.293
+QS/Connors Double 5 (1d),V,274.0,75.9,0.431,118.1,2.32,-11.3,0.751
+QS/Connors Double 5 (1d),VNA.DE,152.0,68.4,0.15,22.8,1.29,-11.9,0.3
+QS/Connors Double 5 (1d),VOW3.DE,260.0,66.9,0.105,27.2,1.18,-19.8,0.306
+QS/Connors Double 5 (1d),VRSK,238.0,73.9,0.269,64.1,1.6,-17.6,0.495
+QS/Connors Double 5 (1d),VRT,121.0,76.0,0.435,52.6,2.27,-11.1,1.66
+QS/Connors Double 5 (1d),VST,114.0,71.9,0.18,20.6,1.38,-24.4,0.658
+QS/Connors Double 5 (1d),WY,234.0,68.4,0.085,19.8,1.15,-26.4,0.279
+QS/Connors Double 5 (1d),XOM,240.0,68.3,0.061,14.6,1.11,-15.7,0.167
+QS/Connors Double 5 (1d),XYZ,119.0,68.1,0.22,26.2,1.41,-12.0,0.83
+QS/Connors Double 5 (1d),ZAL.DE,129.0,67.4,-0.038,-4.9,0.95,-18.0,-0.028
+QS/Connors Double 5 (1d),ZBRA,250.0,64.8,0.118,29.5,1.21,-17.3,0.335
+QS/Connors R3 (1d),AAPL,176.0,69.9,0.346,61.0,1.85,-13.1,0.743
+QS/Connors R3 (1d),ADBE,139.0,74.8,0.479,66.6,2.63,-6.5,1.116
+QS/Connors R3 (1d),ADS.DE,155.0,71.0,0.399,61.8,2.1,-6.7,0.873
+QS/Connors R3 (1d),AEE,129.0,71.3,0.09,11.6,1.18,-13.9,0.174
+QS/Connors R3 (1d),AFL,135.0,72.6,0.197,26.6,1.46,-10.4,0.375
+QS/Connors R3 (1d),AIR.DE,151.0,72.8,0.235,35.5,1.48,-26.9,0.557
+QS/Connors R3 (1d),AKAM,128.0,72.7,0.273,35.0,1.72,-10.8,1.044
+QS/Connors R3 (1d),ALGN,145.0,73.8,0.483,70.0,2.26,-19.1,1.701
+QS/Connors R3 (1d),ALV.DE,141.0,70.9,-0.064,-9.0,0.92,-42.9,0.071
+QS/Connors R3 (1d),AMD,127.0,72.4,0.311,39.4,1.67,-10.9,1.429
+QS/Connors R3 (1d),AME,175.0,72.6,0.377,65.9,2.09,-14.0,0.679
+QS/Connors R3 (1d),AMGN,147.0,66.7,0.106,15.6,1.25,-22.0,0.289
+QS/Connors R3 (1d),AMP,121.0,74.4,0.255,30.9,1.49,-16.4,0.481
+QS/Connors R3 (1d),ANET,77.0,67.5,0.245,18.8,1.44,-11.5,0.801
+QS/Connors R3 (1d),APO,90.0,71.1,0.401,36.1,2.49,-6.0,1.083
+QS/Connors R3 (1d),ATO,140.0,68.6,0.07,9.8,1.14,-11.1,0.138
+QS/Connors R3 (1d),AVY,108.0,67.6,0.123,13.2,1.23,-12.5,0.295
+QS/Connors R3 (1d),AWK,119.0,71.4,0.121,14.4,1.23,-17.5,0.194
+QS/Connors R3 (1d),AXON,121.0,63.6,-0.038,-4.6,0.94,-16.2,-0.318
+QS/Connors R3 (1d),AZO,163.0,68.7,0.228,37.1,1.5,-13.0,0.51
+QS/Connors R3 (1d),BAC,131.0,68.7,0.11,14.5,1.19,-29.7,0.234
+QS/Connors R3 (1d),BAS.DE,132.0,68.9,0.082,10.8,1.16,-23.5,0.124
+QS/Connors R3 (1d),BAYN.DE,132.0,68.9,0.185,24.5,1.39,-13.0,0.367
+QS/Connors R3 (1d),BE,46.0,69.6,0.097,4.4,1.17,-14.1,1.805
+QS/Connors R3 (1d),BEI.DE,134.0,73.1,0.269,36.1,1.69,-7.6,0.451
+QS/Connors R3 (1d),BF-B,120.0,70.0,0.137,16.5,1.25,-12.5,0.314
+QS/Connors R3 (1d),BIIB,124.0,65.3,0.182,22.5,1.45,-18.1,0.53
+QS/Connors R3 (1d),BLK,159.0,70.4,0.244,38.8,1.55,-11.2,0.574
+QS/Connors R3 (1d),BMW.DE,133.0,63.9,0.045,6.0,1.1,-10.1,0.192
+QS/Connors R3 (1d),BNR.DE,97.0,69.1,0.047,4.5,1.1,-15.8,0.026
+QS/Connors R3 (1d),BNY,120.0,72.5,0.179,21.5,1.45,-5.5,0.374
+QS/Connors R3 (1d),BRO,144.0,75.0,0.288,41.5,1.78,-16.6,0.447
+QS/Connors R3 (1d),C,128.0,71.1,0.027,3.5,1.04,-39.5,0.196
+QS/Connors R3 (1d),CBK.DE,109.0,67.0,-0.065,-7.1,0.89,-30.0,-0.474
+QS/Connors R3 (1d),CCL,120.0,68.3,0.225,27.0,1.5,-7.9,0.726
+QS/Connors R3 (1d),CEG,29.0,79.3,0.389,11.3,2.26,-4.0,1.084
+QS/Connors R3 (1d),CF,141.0,61.0,0.131,18.5,1.29,-8.8,0.68
+QS/Connors R3 (1d),CFG,68.0,69.1,-0.055,-3.8,0.92,-13.7,-0.013
+QS/Connors R3 (1d),CHD,155.0,76.1,0.411,63.6,2.46,-6.9,0.697
+QS/Connors R3 (1d),CINF,137.0,71.5,0.269,36.9,1.67,-8.3,0.512
+QS/Connors R3 (1d),CMI,141.0,64.5,0.246,34.7,1.61,-12.5,0.695
+QS/Connors R3 (1d),CNC,124.0,68.5,0.159,19.7,1.32,-17.8,0.33
+QS/Connors R3 (1d),COF,136.0,72.8,0.191,25.9,1.42,-24.0,0.659
+QS/Connors R3 (1d),CON.DE,144.0,73.6,0.281,40.4,1.59,-10.0,0.746
+QS/Connors R3 (1d),COST,175.0,76.6,0.393,68.8,2.2,-10.6,0.744
+QS/Connors R3 (1d),CPAY,87.0,74.7,0.454,39.5,2.82,-5.7,1.13
+QS/Connors R3 (1d),CSX,152.0,73.7,0.228,34.6,1.51,-22.1,0.56
+QS/Connors R3 (1d),CTSH,151.0,79.5,0.304,45.9,1.75,-9.6,0.721
+QS/Connors R3 (1d),CVS,130.0,71.5,0.29,37.6,1.74,-15.5,0.521
+QS/Connors R3 (1d),DASH,22.0,59.1,0.061,1.3,1.11,-5.8,-0.053
+QS/Connors R3 (1d),DB1.DE,152.0,75.0,0.303,46.0,1.71,-21.5,0.614
+QS/Connors R3 (1d),DBK.DE,102.0,61.8,-0.306,-31.2,0.62,-42.5,-0.833
+QS/Connors R3 (1d),DD,142.0,69.7,0.182,25.8,1.41,-12.1,0.441
+QS/Connors R3 (1d),DDOG,39.0,71.8,0.188,7.3,1.35,-5.5,0.476
+QS/Connors R3 (1d),DELL,66.0,74.2,0.314,20.7,1.57,-8.6,0.768
+QS/Connors R3 (1d),DGX,151.0,65.6,-0.087,-13.2,0.87,-26.8,-0.057
+QS/Connors R3 (1d),DHL.DE,141.0,70.9,0.236,33.3,1.46,-26.1,0.503
+QS/Connors R3 (1d),DHR,158.0,69.6,0.266,42.0,1.73,-7.3,0.488
+QS/Connors R3 (1d),DLTR,136.0,72.1,-0.028,-3.9,0.96,-49.9,0.326
+QS/Connors R3 (1d),DPZ,131.0,76.3,0.438,57.3,2.3,-9.7,1.029
+QS/Connors R3 (1d),DTE.DE,111.0,65.8,-0.027,-3.0,0.95,-9.4,0.007
+QS/Connors R3 (1d),DTG.DE,36.0,72.2,0.228,8.2,1.63,-4.6,0.554
+QS/Connors R3 (1d),DVA,149.0,65.8,0.18,26.9,1.39,-9.8,0.339
+QS/Connors R3 (1d),DVN,127.0,75.6,0.242,30.7,1.54,-18.0,1.068
+QS/Connors R3 (1d),ED,118.0,68.6,0.007,0.8,1.01,-26.9,-0.056
+QS/Connors R3 (1d),EL,138.0,73.9,0.302,41.7,1.61,-19.1,0.557
+QS/Connors R3 (1d),ELV,139.0,77.0,0.366,50.9,2.02,-14.3,0.761
+QS/Connors R3 (1d),EMR,142.0,69.7,0.289,41.1,1.76,-11.3,0.63
+QS/Connors R3 (1d),ENR.DE,22.0,81.8,0.733,16.1,8.01,-1.2,2.81
+QS/Connors R3 (1d),EOAN.DE,135.0,72.6,0.099,13.4,1.2,-17.9,0.2
+QS/Connors R3 (1d),EQIX,162.0,70.4,0.336,54.4,1.93,-7.4,0.877
+QS/Connors R3 (1d),EQT,140.0,71.4,0.323,45.2,1.97,-8.0,0.711
+QS/Connors R3 (1d),EW,137.0,72.3,0.129,17.7,1.26,-12.7,0.41
+QS/Connors R3 (1d),EXC,124.0,70.2,0.156,19.4,1.32,-21.3,0.281
+QS/Connors R3 (1d),FICO,142.0,66.9,0.031,4.5,1.05,-32.5,0.127
+QS/Connors R3 (1d),FISV,134.0,71.6,0.276,37.0,1.69,-11.8,0.527
+QS/Connors R3 (1d),FITB,117.0,75.2,0.175,20.4,1.36,-12.0,0.539
+QS/Connors R3 (1d),FIX,142.0,72.5,0.477,67.7,2.33,-8.5,1.6
+QS/Connors R3 (1d),FME.DE,116.0,56.0,-0.18,-20.9,0.69,-22.7,-0.326
+QS/Connors R3 (1d),FOXA,49.0,73.5,0.394,19.3,2.22,-6.5,0.935
+QS/Connors R3 (1d),FRE.DE,144.0,72.9,0.086,12.4,1.15,-27.4,0.211
+QS/Connors R3 (1d),FTV,60.0,65.0,-0.041,-2.5,0.93,-10.4,0.043
+QS/Connors R3 (1d),G1A.DE,155.0,71.6,0.182,28.2,1.42,-15.0,0.439
+QS/Connors R3 (1d),G24.DE,58.0,63.8,0.123,7.1,1.23,-11.8,0.073
+QS/Connors R3 (1d),GD,141.0,75.2,0.446,62.9,2.51,-5.0,0.76
+QS/Connors R3 (1d),GL,148.0,76.4,0.173,25.6,1.37,-24.3,0.403
+QS/Connors R3 (1d),GOOG,179.0,74.9,0.435,77.8,2.65,-7.0,0.885
+QS/Connors R3 (1d),GOOGL,183.0,74.3,0.434,79.5,2.56,-7.0,0.884
+QS/Connors R3 (1d),HEI.DE,134.0,72.4,0.25,33.5,1.64,-18.5,0.768
+QS/Connors R3 (1d),HEN3.DE,138.0,70.3,0.252,34.8,1.67,-9.1,0.48
+QS/Connors R3 (1d),HNR1.DE,146.0,73.3,0.201,29.3,1.51,-13.2,0.351
+QS/Connors R3 (1d),HPE,62.0,66.1,-0.092,-5.7,0.87,-19.1,-0.069
+QS/Connors R3 (1d),IBKR,111.0,74.8,0.132,14.6,1.27,-16.4,0.408
+QS/Connors R3 (1d),IBM,134.0,70.9,0.082,11.0,1.15,-22.0,0.067
+QS/Connors R3 (1d),ICE,163.0,70.6,0.203,33.2,1.51,-8.0,0.456
+QS/Connors R3 (1d),IEX,148.0,73.6,0.13,19.2,1.28,-12.1,0.259
+QS/Connors R3 (1d),IFF,123.0,68.3,0.129,15.8,1.28,-12.8,0.324
+QS/Connors R3 (1d),IFX.DE,152.0,65.8,-0.03,-4.5,0.96,-34.7,-0.108
+QS/Connors R3 (1d),IR,62.0,72.6,0.041,2.6,1.06,-16.1,0.068
+QS/Connors R3 (1d),IRM,115.0,67.0,-0.063,-7.2,0.93,-26.1,0.129
+QS/Connors R3 (1d),ITW,155.0,68.4,0.161,25.0,1.37,-14.7,0.434
+QS/Connors R3 (1d),JBHT,158.0,77.2,0.323,51.1,2.06,-7.8,0.863
+QS/Connors R3 (1d),JNJ,141.0,66.7,0.13,18.3,1.31,-9.6,0.115
+QS/Connors R3 (1d),JPM,141.0,70.9,0.087,12.3,1.16,-16.2,0.277
+QS/Connors R3 (1d),KEYS,83.0,68.7,0.151,12.5,1.28,-16.0,0.283
+QS/Connors R3 (1d),KLAC,141.0,74.5,0.39,54.9,2.08,-7.4,1.108
+QS/Connors R3 (1d),KMI,85.0,67.1,-0.005,-0.4,0.99,-24.4,-0.034
+QS/Connors R3 (1d),KO,149.0,68.5,0.275,40.9,1.74,-13.4,0.382
+QS/Connors R3 (1d),KVUE,10.0,60.0,-0.338,-3.4,0.63,-5.3,-0.465
+QS/Connors R3 (1d),LEN,149.0,70.5,0.29,43.2,1.87,-10.1,0.957
+QS/Connors R3 (1d),LIN,161.0,74.5,0.396,63.8,2.68,-5.1,0.814
+QS/Connors R3 (1d),LNT,160.0,70.6,0.18,28.8,1.49,-8.6,0.299
+QS/Connors R3 (1d),LYV,133.0,66.2,0.304,40.4,1.8,-9.7,0.774
+QS/Connors R3 (1d),MAA,132.0,73.5,0.107,14.2,1.19,-24.9,0.441
+QS/Connors R3 (1d),MAR,158.0,75.3,0.333,52.7,1.92,-7.0,0.71
+QS/Connors R3 (1d),MBG.DE,116.0,69.8,0.313,36.3,1.92,-8.0,0.816
+QS/Connors R3 (1d),MCD,151.0,68.2,0.247,37.4,1.59,-6.8,0.455
+QS/Connors R3 (1d),MDLZ,124.0,63.7,0.205,25.4,1.53,-14.5,0.27
+QS/Connors R3 (1d),MDT,131.0,74.8,0.149,19.6,1.29,-13.6,0.154
+QS/Connors R3 (1d),MGM,125.0,64.8,0.086,10.7,1.19,-13.2,0.432
+QS/Connors R3 (1d),MMM,121.0,70.2,0.22,26.6,1.52,-13.0,0.379
+QS/Connors R3 (1d),MO,126.0,69.8,0.167,21.0,1.39,-12.8,0.32
+QS/Connors R3 (1d),MOS,111.0,69.4,0.159,17.7,1.33,-10.0,0.766
+QS/Connors R3 (1d),MPWR,141.0,72.3,0.159,22.4,1.3,-11.1,0.58
+QS/Connors R3 (1d),MRK.DE,121.0,65.3,0.142,17.2,1.29,-17.4,0.308
+QS/Connors R3 (1d),MRVL,142.0,73.2,0.32,45.4,1.9,-8.8,1.14
+QS/Connors R3 (1d),MSCI,122.0,73.0,0.314,38.3,1.98,-8.4,0.845
+QS/Connors R3 (1d),MTB,140.0,71.4,0.381,53.3,2.22,-7.4,0.794
+QS/Connors R3 (1d),MTD,146.0,71.2,0.21,30.7,1.45,-21.9,0.503
+QS/Connors R3 (1d),MTX.DE,133.0,72.9,0.232,30.8,1.48,-26.9,0.729
+QS/Connors R3 (1d),MUV2.DE,133.0,70.7,0.053,7.0,1.1,-20.7,0.119
+QS/Connors R3 (1d),NKE,143.0,67.8,0.246,35.2,1.51,-11.9,0.445
+QS/Connors R3 (1d),NUE,129.0,69.8,0.145,18.7,1.3,-13.6,0.444
+QS/Connors R3 (1d),NVDA,157.0,70.7,0.322,50.6,1.72,-12.1,1.127
+QS/Connors R3 (1d),NWS,63.0,65.1,-0.056,-3.5,0.92,-20.6,-0.214
+QS/Connors R3 (1d),NWSA,59.0,61.0,-0.089,-5.3,0.86,-15.0,-0.28
+QS/Connors R3 (1d),O,122.0,65.6,-0.005,-0.7,0.99,-28.8,0.076
+QS/Connors R3 (1d),OXY,123.0,71.5,0.259,31.9,1.7,-9.3,0.862
+QS/Connors R3 (1d),P,66.0,65.2,-0.309,-20.4,0.68,-25.4,-0.866
+QS/Connors R3 (1d),PAH3.DE,90.0,55.6,-0.216,-19.4,0.66,-25.1,-0.484
+QS/Connors R3 (1d),PCAR,145.0,74.5,0.309,44.9,2.11,-6.9,0.755
+QS/Connors R3 (1d),PCG,125.0,67.2,0.052,6.5,1.1,-19.0,0.008
+QS/Connors R3 (1d),PFE,122.0,62.3,0.153,18.6,1.38,-8.0,0.214
+QS/Connors R3 (1d),PH,166.0,75.3,0.28,46.4,1.67,-29.5,0.724
+QS/Connors R3 (1d),PLD,152.0,70.4,0.197,30.0,1.44,-16.2,0.431
+QS/Connors R3 (1d),PODD,133.0,68.4,0.043,5.8,1.07,-26.6,0.305
+QS/Connors R3 (1d),PPG,137.0,77.4,0.231,31.7,1.49,-14.9,0.541
+QS/Connors R3 (1d),PSA,154.0,70.8,0.053,8.2,1.09,-28.6,0.257
+QS/Connors R3 (1d),PSX,84.0,54.8,-0.179,-15.0,0.72,-23.3,-0.382
+QS/Connors R3 (1d),Q,1.0,0.0,-1.832,-1.8,0.0,0.0,-9.833
+QS/Connors R3 (1d),QCOM,122.0,67.2,0.09,11.0,1.17,-15.0,0.116
+QS/Connors R3 (1d),QIA.DE,139.0,61.2,-0.058,-8.1,0.9,-24.7,-0.096
+QS/Connors R3 (1d),REG,135.0,65.2,0.059,8.0,1.12,-17.1,0.148
+QS/Connors R3 (1d),REGN,159.0,69.2,0.256,40.7,1.55,-16.6,1.092
+QS/Connors R3 (1d),RHM.DE,157.0,70.7,0.27,42.5,1.63,-8.4,0.745
+QS/Connors R3 (1d),RL,139.0,73.4,0.193,26.8,1.39,-14.4,0.743
+QS/Connors R3 (1d),ROL,156.0,70.5,0.215,33.6,1.62,-6.8,0.494
+QS/Connors R3 (1d),ROST,161.0,73.9,0.183,29.4,1.38,-25.9,0.535
+QS/Connors R3 (1d),RWE.DE,135.0,68.9,0.121,16.3,1.23,-16.9,0.308
+QS/Connors R3 (1d),SAP.DE,158.0,63.9,-0.002,-0.2,1.0,-29.5,-0.065
+QS/Connors R3 (1d),SBAC,151.0,67.5,0.273,41.3,1.78,-7.1,0.818
+QS/Connors R3 (1d),SHL.DE,35.0,82.9,0.503,17.6,3.1,-2.4,1.045
+QS/Connors R3 (1d),SHW,145.0,72.4,0.281,40.7,1.73,-11.5,0.564
+QS/Connors R3 (1d),SIE.DE,147.0,72.1,0.258,37.9,1.54,-15.9,0.463
+QS/Connors R3 (1d),SLB,126.0,71.4,0.253,31.9,1.62,-6.5,0.8
+QS/Connors R3 (1d),SNA,169.0,74.0,0.468,79.1,2.38,-9.8,0.943
+QS/Connors R3 (1d),SO,138.0,73.2,0.067,9.2,1.12,-15.9,0.008
+QS/Connors R3 (1d),STE,140.0,71.4,0.244,34.1,1.76,-11.2,0.349
+QS/Connors R3 (1d),SY1.DE,130.0,71.5,0.204,26.5,1.49,-18.0,0.59
+QS/Connors R3 (1d),SYK,154.0,73.4,0.252,38.8,1.58,-18.9,0.461
+QS/Connors R3 (1d),T,114.0,70.2,0.217,24.8,1.6,-5.8,0.417
+QS/Connors R3 (1d),TEL,122.0,64.8,0.186,22.6,1.38,-7.5,0.484
+QS/Connors R3 (1d),TER,123.0,69.1,0.128,15.7,1.22,-11.9,0.611
+QS/Connors R3 (1d),TFC,128.0,64.1,-0.045,-5.8,0.93,-15.5,-0.002
+QS/Connors R3 (1d),TGT,125.0,70.4,0.233,29.1,1.56,-8.9,0.596
+QS/Connors R3 (1d),TJX,165.0,72.1,0.357,58.9,2.06,-10.6,0.77
+QS/Connors R3 (1d),TPR,133.0,81.2,0.566,75.3,3.94,-6.1,1.592
+QS/Connors R3 (1d),TRMB,146.0,71.2,0.174,25.5,1.31,-25.8,0.376
+QS/Connors R3 (1d),TRV,137.0,73.0,0.212,29.1,1.56,-10.1,0.432
+QS/Connors R3 (1d),TSCO,141.0,77.3,0.334,47.1,1.97,-7.0,0.915
+QS/Connors R3 (1d),TSLA,96.0,69.8,0.268,25.7,1.59,-10.7,1.155
+QS/Connors R3 (1d),TSN,116.0,69.0,0.155,18.0,1.35,-9.1,0.402
+QS/Connors R3 (1d),TWLO,51.0,64.7,0.241,12.3,1.47,-11.1,1.5
+QS/Connors R3 (1d),TXT,143.0,68.5,0.189,27.0,1.37,-26.6,0.48
+QS/Connors R3 (1d),UAL,131.0,68.7,0.16,21.0,1.37,-7.4,0.732
+QS/Connors R3 (1d),UBER,41.0,63.4,0.398,16.3,2.57,-4.0,1.306
+QS/Connors R3 (1d),UHS,145.0,69.0,-0.084,-12.2,0.89,-22.8,-0.186
+QS/Connors R3 (1d),UNP,165.0,68.5,0.135,22.3,1.28,-24.5,0.389
+QS/Connors R3 (1d),URI,149.0,65.1,0.147,21.9,1.28,-13.0,0.588
+QS/Connors R3 (1d),V,119.0,78.2,0.564,67.2,3.47,-4.6,1.122
+QS/Connors R3 (1d),VNA.DE,73.0,68.5,0.276,20.1,1.63,-5.3,0.688
+QS/Connors R3 (1d),VOW3.DE,144.0,64.6,0.018,2.6,1.03,-12.6,0.107
+QS/Connors R3 (1d),VRSK,108.0,73.1,0.235,25.3,1.52,-7.4,0.477
+QS/Connors R3 (1d),VRT,49.0,71.4,0.339,16.6,2.09,-3.3,1.569
+QS/Connors R3 (1d),VST,58.0,74.1,0.308,17.9,1.88,-6.4,0.757
+QS/Connors R3 (1d),WY,115.0,71.3,0.207,23.8,1.44,-7.2,0.487
+QS/Connors R3 (1d),XOM,127.0,68.5,0.157,20.0,1.29,-17.0,0.465
+QS/Connors R3 (1d),XYZ,60.0,73.3,0.271,16.2,1.56,-11.6,1.215
+QS/Connors R3 (1d),ZAL.DE,67.0,64.2,-0.188,-12.6,0.78,-24.7,-0.707
+QS/Connors R3 (1d),ZBRA,133.0,69.2,0.077,10.3,1.13,-15.9,0.327
+QS/Connors RSI(5) 30/50 (1d),AAPL,134.0,71.6,0.209,28.0,1.42,-17.0,0.442
+QS/Connors RSI(5) 30/50 (1d),ADBE,111.0,74.8,0.463,51.4,2.27,-8.8,1.054
+QS/Connors RSI(5) 30/50 (1d),ADS.DE,119.0,68.1,0.347,41.3,1.88,-6.8,0.835
+QS/Connors RSI(5) 30/50 (1d),AEE,116.0,75.0,0.27,31.4,1.55,-12.6,0.434
+QS/Connors RSI(5) 30/50 (1d),AFL,120.0,74.2,0.427,51.2,2.04,-7.7,0.753
+QS/Connors RSI(5) 30/50 (1d),AIR.DE,129.0,78.3,0.453,58.4,1.93,-21.8,1.047
+QS/Connors RSI(5) 30/50 (1d),AKAM,101.0,71.3,0.259,26.2,1.61,-9.9,1.173
+QS/Connors RSI(5) 30/50 (1d),ALGN,113.0,83.2,0.414,46.8,1.75,-24.7,1.519
+QS/Connors RSI(5) 30/50 (1d),ALV.DE,120.0,67.5,0.038,4.6,1.05,-25.2,0.024
+QS/Connors RSI(5) 30/50 (1d),AMD,98.0,67.3,0.126,12.4,1.21,-23.3,0.929
+QS/Connors RSI(5) 30/50 (1d),AME,147.0,73.5,0.332,48.7,1.81,-14.1,0.63
+QS/Connors RSI(5) 30/50 (1d),AMGN,123.0,65.9,0.13,16.0,1.26,-20.3,0.337
+QS/Connors RSI(5) 30/50 (1d),AMP,100.0,72.0,0.346,34.6,1.62,-18.3,0.784
+QS/Connors RSI(5) 30/50 (1d),ANET,67.0,77.6,0.576,38.6,2.2,-11.4,2.092
+QS/Connors RSI(5) 30/50 (1d),APO,69.0,66.7,0.225,15.5,1.48,-7.6,0.753
+QS/Connors RSI(5) 30/50 (1d),ATO,115.0,67.0,0.08,9.2,1.14,-9.2,0.144
+QS/Connors RSI(5) 30/50 (1d),AVY,95.0,71.6,0.36,34.2,1.84,-7.6,0.635
+QS/Connors RSI(5) 30/50 (1d),AWK,95.0,75.8,0.314,29.8,1.66,-16.0,0.57
+QS/Connors RSI(5) 30/50 (1d),AXON,110.0,70.9,0.248,27.2,1.49,-13.7,0.781
+QS/Connors RSI(5) 30/50 (1d),AZO,127.0,72.4,0.311,39.4,1.67,-13.8,0.684
+QS/Connors RSI(5) 30/50 (1d),BAC,104.0,67.3,-0.023,-2.4,0.97,-36.4,0.035
+QS/Connors RSI(5) 30/50 (1d),BAS.DE,100.0,67.0,-0.018,-1.8,0.97,-26.8,-0.079
+QS/Connors RSI(5) 30/50 (1d),BAYN.DE,96.0,69.8,0.129,12.4,1.23,-26.5,0.355
+QS/Connors RSI(5) 30/50 (1d),BE,36.0,69.4,0.134,4.8,1.24,-6.3,2.0
+QS/Connors RSI(5) 30/50 (1d),BEI.DE,101.0,73.3,0.399,40.3,2.1,-6.0,0.625
+QS/Connors RSI(5) 30/50 (1d),BF-B,95.0,68.4,0.154,14.6,1.28,-14.1,0.379
+QS/Connors RSI(5) 30/50 (1d),BIIB,93.0,71.0,0.22,20.5,1.45,-11.4,0.747
+QS/Connors RSI(5) 30/50 (1d),BLK,128.0,74.2,0.365,46.7,1.72,-21.2,0.821
+QS/Connors RSI(5) 30/50 (1d),BMW.DE,107.0,72.0,0.305,32.6,1.8,-5.9,0.803
+QS/Connors RSI(5) 30/50 (1d),BNR.DE,81.0,71.6,0.165,13.3,1.27,-18.3,0.277
+QS/Connors RSI(5) 30/50 (1d),BNY,105.0,70.5,0.345,36.2,1.74,-7.4,0.732
+QS/Connors RSI(5) 30/50 (1d),BRO,103.0,74.8,0.324,33.4,1.62,-12.2,0.568
+QS/Connors RSI(5) 30/50 (1d),C,108.0,70.4,-0.091,-9.8,0.89,-28.3,-0.138
+QS/Connors RSI(5) 30/50 (1d),CBK.DE,96.0,67.7,0.18,17.3,1.32,-17.7,0.332
+QS/Connors RSI(5) 30/50 (1d),CCL,95.0,72.6,0.21,19.9,1.38,-8.9,0.589
+QS/Connors RSI(5) 30/50 (1d),CEG,22.0,63.6,0.164,3.6,1.33,-6.3,0.443
+QS/Connors RSI(5) 30/50 (1d),CF,108.0,75.0,0.34,36.7,1.95,-9.3,1.619
+QS/Connors RSI(5) 30/50 (1d),CFG,54.0,72.2,-0.041,-2.2,0.94,-12.9,0.102
+QS/Connors RSI(5) 30/50 (1d),CHD,117.0,71.8,0.374,43.7,2.0,-6.1,0.706
+QS/Connors RSI(5) 30/50 (1d),CINF,100.0,70.0,0.179,17.9,1.33,-9.2,0.348
+QS/Connors RSI(5) 30/50 (1d),CMI,120.0,78.3,0.372,44.6,1.85,-8.7,1.163
+QS/Connors RSI(5) 30/50 (1d),CNC,104.0,75.0,0.467,48.6,2.06,-11.2,1.201
+QS/Connors RSI(5) 30/50 (1d),COF,97.0,66.0,0.132,12.8,1.25,-19.0,0.436
+QS/Connors RSI(5) 30/50 (1d),CON.DE,116.0,79.3,0.007,0.8,1.01,-60.8,1.018
+QS/Connors RSI(5) 30/50 (1d),COST,119.0,74.8,0.342,40.7,1.84,-15.8,0.629
+QS/Connors RSI(5) 30/50 (1d),CPAY,77.0,68.8,0.33,25.4,1.72,-13.7,0.808
+QS/Connors RSI(5) 30/50 (1d),CSX,111.0,73.9,0.27,30.0,1.54,-16.6,0.778
+QS/Connors RSI(5) 30/50 (1d),CTSH,103.0,71.8,0.185,19.1,1.3,-12.5,0.264
+QS/Connors RSI(5) 30/50 (1d),CVS,115.0,73.0,0.466,53.6,2.26,-10.3,0.858
+QS/Connors RSI(5) 30/50 (1d),DASH,21.0,66.7,0.26,5.5,1.45,-6.0,0.695
+QS/Connors RSI(5) 30/50 (1d),DB1.DE,120.0,70.0,0.256,30.7,1.48,-28.1,0.346
+QS/Connors RSI(5) 30/50 (1d),DBK.DE,87.0,64.4,-0.154,-13.4,0.81,-26.5,-0.554
+QS/Connors RSI(5) 30/50 (1d),DD,110.0,74.5,0.324,35.6,1.77,-13.1,0.801
+QS/Connors RSI(5) 30/50 (1d),DDOG,36.0,61.1,0.125,4.5,1.21,-12.0,1.009
+QS/Connors RSI(5) 30/50 (1d),DELL,46.0,67.4,0.144,6.6,1.18,-14.0,0.176
+QS/Connors RSI(5) 30/50 (1d),DGX,124.0,71.8,0.037,4.6,1.05,-26.4,0.176
+QS/Connors RSI(5) 30/50 (1d),DHL.DE,115.0,78.3,0.435,50.0,1.92,-20.4,0.853
+QS/Connors RSI(5) 30/50 (1d),DHR,139.0,79.1,0.485,67.4,2.35,-6.5,0.784
+QS/Connors RSI(5) 30/50 (1d),DLTR,97.0,68.0,0.142,13.8,1.2,-37.2,0.864
+QS/Connors RSI(5) 30/50 (1d),DPZ,110.0,72.7,0.404,44.4,1.79,-18.3,0.965
+QS/Connors RSI(5) 30/50 (1d),DTE.DE,90.0,56.7,-0.065,-5.8,0.92,-14.1,-0.194
+QS/Connors RSI(5) 30/50 (1d),DTG.DE,27.0,63.0,0.263,7.1,1.56,-4.7,0.98
+QS/Connors RSI(5) 30/50 (1d),DVA,111.0,68.5,0.271,30.1,1.53,-11.8,0.49
+QS/Connors RSI(5) 30/50 (1d),DVN,96.0,74.0,0.348,33.4,1.86,-8.9,1.442
+QS/Connors RSI(5) 30/50 (1d),ED,88.0,59.1,-0.243,-21.4,0.68,-36.3,-0.403
+QS/Connors RSI(5) 30/50 (1d),EL,112.0,75.0,0.151,17.0,1.24,-20.0,0.142
+QS/Connors RSI(5) 30/50 (1d),ELV,108.0,73.1,0.315,34.0,1.66,-13.9,0.677
+QS/Connors RSI(5) 30/50 (1d),EMR,119.0,70.6,0.237,28.2,1.44,-22.7,0.48
+QS/Connors RSI(5) 30/50 (1d),ENR.DE,21.0,81.0,0.768,16.1,7.06,-1.3,3.122
+QS/Connors RSI(5) 30/50 (1d),EOAN.DE,106.0,67.0,0.122,12.9,1.21,-25.1,0.25
+QS/Connors RSI(5) 30/50 (1d),EQIX,128.0,73.4,0.433,55.4,2.18,-6.7,1.076
+QS/Connors RSI(5) 30/50 (1d),EQT,100.0,71.0,0.511,51.1,2.74,-6.1,1.732
+QS/Connors RSI(5) 30/50 (1d),EW,119.0,72.3,0.305,36.3,1.57,-19.1,0.669
+QS/Connors RSI(5) 30/50 (1d),EXC,98.0,71.4,0.236,23.1,1.47,-10.9,0.495
+QS/Connors RSI(5) 30/50 (1d),FICO,129.0,71.3,0.274,35.4,1.56,-10.8,0.687
+QS/Connors RSI(5) 30/50 (1d),FISV,126.0,78.6,0.478,60.3,2.45,-19.1,0.792
+QS/Connors RSI(5) 30/50 (1d),FITB,95.0,74.7,0.346,32.8,1.82,-6.8,1.064
+QS/Connors RSI(5) 30/50 (1d),FIX,126.0,80.2,0.423,53.3,1.99,-16.8,1.336
+QS/Connors RSI(5) 30/50 (1d),FME.DE,79.0,70.9,-0.158,-12.5,0.79,-32.3,-0.269
+QS/Connors RSI(5) 30/50 (1d),FOXA,35.0,68.6,-0.057,-2.0,0.94,-14.1,-0.332
+QS/Connors RSI(5) 30/50 (1d),FRE.DE,111.0,73.0,0.304,33.7,1.6,-25.6,0.581
+QS/Connors RSI(5) 30/50 (1d),FTV,57.0,75.4,0.268,15.3,1.52,-12.2,0.659
+QS/Connors RSI(5) 30/50 (1d),G1A.DE,110.0,73.6,0.216,23.7,1.37,-27.9,0.526
+QS/Connors RSI(5) 30/50 (1d),G24.DE,52.0,80.8,0.185,9.6,1.29,-16.9,0.339
+QS/Connors RSI(5) 30/50 (1d),GD,118.0,76.3,0.448,52.9,2.34,-6.8,0.761
+QS/Connors RSI(5) 30/50 (1d),GL,115.0,80.0,0.186,21.4,1.29,-46.0,0.523
+QS/Connors RSI(5) 30/50 (1d),GOOG,128.0,72.7,0.276,35.3,1.54,-15.6,0.494
+QS/Connors RSI(5) 30/50 (1d),GOOGL,128.0,73.4,0.32,40.9,1.67,-14.7,0.548
+QS/Connors RSI(5) 30/50 (1d),HEI.DE,109.0,75.2,0.365,39.8,1.8,-14.8,0.745
+QS/Connors RSI(5) 30/50 (1d),HEN3.DE,116.0,79.3,0.414,48.0,2.21,-10.2,0.755
+QS/Connors RSI(5) 30/50 (1d),HNR1.DE,115.0,73.9,0.225,25.8,1.45,-19.2,0.518
+QS/Connors RSI(5) 30/50 (1d),HPE,54.0,66.7,0.06,3.2,1.1,-10.1,0.19
+QS/Connors RSI(5) 30/50 (1d),IBKR,72.0,63.9,-0.033,-2.4,0.95,-13.5,-0.025
+QS/Connors RSI(5) 30/50 (1d),IBM,98.0,69.4,0.015,1.5,1.03,-29.3,0.085
+QS/Connors RSI(5) 30/50 (1d),ICE,113.0,66.4,0.004,0.5,1.01,-20.4,0.042
+QS/Connors RSI(5) 30/50 (1d),IEX,122.0,73.0,0.02,2.4,1.03,-23.7,0.124
+QS/Connors RSI(5) 30/50 (1d),IFF,100.0,76.0,0.312,31.2,1.62,-10.8,0.666
+QS/Connors RSI(5) 30/50 (1d),IFX.DE,125.0,67.2,0.191,23.9,1.33,-20.5,0.594
+QS/Connors RSI(5) 30/50 (1d),IR,48.0,66.7,-0.051,-2.4,0.93,-16.8,-0.247
+QS/Connors RSI(5) 30/50 (1d),IRM,98.0,68.4,0.073,7.2,1.1,-19.0,0.388
+QS/Connors RSI(5) 30/50 (1d),ITW,131.0,74.8,0.435,57.0,2.25,-11.3,0.829
+QS/Connors RSI(5) 30/50 (1d),JBHT,123.0,72.4,0.258,31.8,1.64,-11.1,0.672
+QS/Connors RSI(5) 30/50 (1d),JNJ,117.0,72.6,0.165,19.4,1.34,-15.4,0.289
+QS/Connors RSI(5) 30/50 (1d),JPM,117.0,70.9,0.215,25.2,1.4,-18.4,0.459
+QS/Connors RSI(5) 30/50 (1d),KEYS,67.0,77.6,0.582,39.0,2.55,-6.9,1.341
+QS/Connors RSI(5) 30/50 (1d),KLAC,122.0,77.0,0.471,57.5,2.42,-8.0,1.435
+QS/Connors RSI(5) 30/50 (1d),KMI,74.0,66.2,0.115,8.5,1.21,-23.5,0.281
+QS/Connors RSI(5) 30/50 (1d),KO,113.0,69.0,0.331,37.4,1.79,-4.8,0.461
+QS/Connors RSI(5) 30/50 (1d),KVUE,6.0,66.7,-0.473,-2.8,0.52,-4.5,-0.971
+QS/Connors RSI(5) 30/50 (1d),LEN,101.0,70.3,0.26,26.2,1.67,-9.9,0.942
+QS/Connors RSI(5) 30/50 (1d),LIN,134.0,77.6,0.453,60.6,2.47,-6.1,0.846
+QS/Connors RSI(5) 30/50 (1d),LNT,116.0,72.4,0.292,33.9,1.67,-8.2,0.495
+QS/Connors RSI(5) 30/50 (1d),LYV,101.0,66.3,0.214,21.6,1.43,-7.7,0.494
+QS/Connors RSI(5) 30/50 (1d),MAA,108.0,74.1,0.268,29.0,1.55,-12.1,0.747
+QS/Connors RSI(5) 30/50 (1d),MAR,123.0,74.8,0.456,56.0,2.3,-7.6,1.124
+QS/Connors RSI(5) 30/50 (1d),MBG.DE,104.0,73.1,0.331,34.4,1.74,-12.1,0.98
+QS/Connors RSI(5) 30/50 (1d),MCD,119.0,73.1,0.443,52.7,2.3,-7.0,0.766
+QS/Connors RSI(5) 30/50 (1d),MDLZ,106.0,73.6,0.381,40.3,2.09,-6.0,0.594
+QS/Connors RSI(5) 30/50 (1d),MDT,113.0,67.3,0.088,10.0,1.14,-16.4,0.066
+QS/Connors RSI(5) 30/50 (1d),MGM,111.0,72.1,-0.118,-13.1,0.85,-28.0,0.067
+QS/Connors RSI(5) 30/50 (1d),MMM,97.0,73.2,0.304,29.5,1.68,-9.6,0.475
+QS/Connors RSI(5) 30/50 (1d),MO,103.0,64.1,0.106,10.9,1.2,-19.2,0.287
+QS/Connors RSI(5) 30/50 (1d),MOS,79.0,64.6,0.042,3.3,1.07,-14.0,0.936
+QS/Connors RSI(5) 30/50 (1d),MPWR,114.0,71.9,0.2,22.8,1.36,-9.3,0.746
+QS/Connors RSI(5) 30/50 (1d),MRK.DE,89.0,62.9,-0.161,-14.3,0.78,-31.6,-0.361
+QS/Connors RSI(5) 30/50 (1d),MRVL,107.0,70.1,0.229,24.5,1.54,-12.4,0.551
+QS/Connors RSI(5) 30/50 (1d),MSCI,97.0,75.3,0.424,41.1,2.21,-7.0,1.106
+QS/Connors RSI(5) 30/50 (1d),MTB,111.0,78.4,0.203,22.5,1.36,-21.0,0.435
+QS/Connors RSI(5) 30/50 (1d),MTD,122.0,74.6,0.283,34.6,1.54,-14.1,0.721
+QS/Connors RSI(5) 30/50 (1d),MTX.DE,118.0,80.5,0.344,40.6,1.7,-24.2,0.907
+QS/Connors RSI(5) 30/50 (1d),MUV2.DE,112.0,68.8,-0.14,-15.7,0.84,-33.6,-0.032
+QS/Connors RSI(5) 30/50 (1d),NKE,110.0,75.5,0.407,44.7,1.82,-8.1,0.749
+QS/Connors RSI(5) 30/50 (1d),NUE,102.0,69.6,0.078,8.0,1.14,-13.2,0.474
+QS/Connors RSI(5) 30/50 (1d),NVDA,128.0,75.8,0.424,54.2,2.02,-12.4,1.409
+QS/Connors RSI(5) 30/50 (1d),NWS,54.0,64.8,-0.103,-5.6,0.86,-19.0,-0.387
+QS/Connors RSI(5) 30/50 (1d),NWSA,53.0,62.3,-0.037,-2.0,0.95,-13.7,-0.134
+QS/Connors RSI(5) 30/50 (1d),O,87.0,62.1,-0.255,-22.2,0.7,-51.0,-0.082
+QS/Connors RSI(5) 30/50 (1d),OXY,90.0,66.7,0.141,12.7,1.25,-16.3,0.926
+QS/Connors RSI(5) 30/50 (1d),P,49.0,61.2,-0.583,-28.6,0.49,-38.2,-1.788
+QS/Connors RSI(5) 30/50 (1d),PAH3.DE,71.0,64.8,0.166,11.8,1.42,-5.0,0.409
+QS/Connors RSI(5) 30/50 (1d),PCAR,121.0,72.7,0.307,37.2,1.81,-10.7,0.717
+QS/Connors RSI(5) 30/50 (1d),PCG,106.0,69.8,0.157,16.6,1.29,-10.5,-0.061
+QS/Connors RSI(5) 30/50 (1d),PFE,83.0,59.0,-0.049,-4.1,0.92,-11.8,-0.094
+QS/Connors RSI(5) 30/50 (1d),PH,126.0,76.2,0.206,25.9,1.38,-23.5,0.599
+QS/Connors RSI(5) 30/50 (1d),PLD,124.0,76.6,0.28,34.7,1.58,-14.6,0.739
+QS/Connors RSI(5) 30/50 (1d),PODD,101.0,70.3,0.258,26.1,1.43,-21.1,0.848
+QS/Connors RSI(5) 30/50 (1d),PPG,106.0,69.8,0.198,20.9,1.4,-13.2,0.471
+QS/Connors RSI(5) 30/50 (1d),PSA,108.0,73.1,0.083,9.0,1.13,-19.3,0.35
+QS/Connors RSI(5) 30/50 (1d),PSX,64.0,51.6,-0.294,-18.8,0.63,-26.8,-0.557
+QS/Connors RSI(5) 30/50 (1d),Q,1.0,0.0,-0.376,-0.4,0.0,0.0,-2.21
+QS/Connors RSI(5) 30/50 (1d),QCOM,100.0,73.0,0.086,8.6,1.12,-11.5,0.193
+QS/Connors RSI(5) 30/50 (1d),QIA.DE,114.0,62.3,-0.119,-13.5,0.83,-17.8,-0.257
+QS/Connors RSI(5) 30/50 (1d),REG,95.0,63.2,-0.02,-1.9,0.97,-20.6,0.016
+QS/Connors RSI(5) 30/50 (1d),REGN,119.0,75.6,0.418,49.7,1.94,-12.9,1.648
+QS/Connors RSI(5) 30/50 (1d),RHM.DE,113.0,76.1,0.367,41.5,1.89,-9.1,1.285
+QS/Connors RSI(5) 30/50 (1d),RL,102.0,70.6,0.245,25.0,1.48,-11.6,0.973
+QS/Connors RSI(5) 30/50 (1d),ROL,128.0,75.0,0.314,40.2,1.81,-15.6,0.655
+QS/Connors RSI(5) 30/50 (1d),ROST,120.0,74.2,0.269,32.2,1.54,-18.1,0.771
+QS/Connors RSI(5) 30/50 (1d),RWE.DE,98.0,71.4,0.07,6.8,1.11,-16.9,0.25
+QS/Connors RSI(5) 30/50 (1d),SAP.DE,116.0,66.4,-0.017,-2.0,0.98,-30.2,-0.188
+QS/Connors RSI(5) 30/50 (1d),SBAC,125.0,77.6,0.434,54.2,2.45,-8.0,1.381
+QS/Connors RSI(5) 30/50 (1d),SHL.DE,24.0,62.5,-0.099,-2.4,0.81,-5.6,-0.32
+QS/Connors RSI(5) 30/50 (1d),SHW,109.0,74.3,0.33,36.0,1.72,-13.6,0.617
+QS/Connors RSI(5) 30/50 (1d),SIE.DE,122.0,77.9,0.331,40.3,1.65,-18.8,0.75
+QS/Connors RSI(5) 30/50 (1d),SLB,98.0,65.3,0.148,14.5,1.29,-9.6,0.422
+QS/Connors RSI(5) 30/50 (1d),SNA,128.0,77.3,0.365,46.7,1.69,-15.7,0.716
+QS/Connors RSI(5) 30/50 (1d),SO,100.0,68.0,0.065,6.5,1.1,-14.0,0.062
+QS/Connors RSI(5) 30/50 (1d),STE,126.0,73.8,0.395,49.8,2.07,-7.6,0.717
+QS/Connors RSI(5) 30/50 (1d),SY1.DE,104.0,76.9,0.345,35.8,1.65,-17.2,1.043
+QS/Connors RSI(5) 30/50 (1d),SYK,125.0,72.8,0.367,45.9,2.14,-7.8,0.601
+QS/Connors RSI(5) 30/50 (1d),T,77.0,68.8,0.172,13.3,1.33,-11.0,0.372
+QS/Connors RSI(5) 30/50 (1d),TEL,111.0,75.7,0.403,44.7,2.01,-7.4,0.899
+QS/Connors RSI(5) 30/50 (1d),TER,106.0,69.8,0.201,21.3,1.32,-9.8,1.06
+QS/Connors RSI(5) 30/50 (1d),TFC,104.0,69.2,0.087,9.0,1.14,-14.2,0.301
+QS/Connors RSI(5) 30/50 (1d),TGT,105.0,76.2,0.315,33.1,1.88,-13.8,0.823
+QS/Connors RSI(5) 30/50 (1d),TJX,118.0,72.9,0.435,51.4,2.38,-5.1,0.806
+QS/Connors RSI(5) 30/50 (1d),TPR,101.0,77.2,0.528,53.3,2.51,-12.8,1.676
+QS/Connors RSI(5) 30/50 (1d),TRMB,105.0,72.4,0.197,20.7,1.32,-22.9,0.583
+QS/Connors RSI(5) 30/50 (1d),TRV,123.0,69.9,0.413,50.8,2.26,-7.7,0.763
+QS/Connors RSI(5) 30/50 (1d),TSCO,111.0,75.7,0.358,39.7,1.99,-6.2,0.958
+QS/Connors RSI(5) 30/50 (1d),TSLA,75.0,70.7,0.347,26.0,1.62,-9.3,1.813
+QS/Connors RSI(5) 30/50 (1d),TSN,90.0,65.6,-0.017,-1.6,0.98,-20.8,-0.042
+QS/Connors RSI(5) 30/50 (1d),TWLO,47.0,76.6,0.337,15.9,1.84,-4.7,1.667
+QS/Connors RSI(5) 30/50 (1d),TXT,136.0,80.1,0.536,72.9,2.42,-15.6,1.381
+QS/Connors RSI(5) 30/50 (1d),UAL,91.0,62.6,-0.112,-10.2,0.85,-26.4,0.105
+QS/Connors RSI(5) 30/50 (1d),UBER,31.0,80.6,0.49,15.2,3.93,-1.7,1.714
+QS/Connors RSI(5) 30/50 (1d),UHS,103.0,68.9,-0.074,-7.7,0.91,-21.1,-0.114
+QS/Connors RSI(5) 30/50 (1d),UNP,130.0,74.6,0.378,49.2,1.91,-17.4,0.863
+QS/Connors RSI(5) 30/50 (1d),URI,106.0,66.0,0.005,0.5,1.01,-19.0,0.259
+QS/Connors RSI(5) 30/50 (1d),V,102.0,81.4,0.642,65.5,3.36,-8.6,1.241
+QS/Connors RSI(5) 30/50 (1d),VNA.DE,65.0,64.6,0.314,20.4,1.71,-5.4,0.721
+QS/Connors RSI(5) 30/50 (1d),VOW3.DE,106.0,62.3,0.037,3.9,1.06,-12.3,0.168
+QS/Connors RSI(5) 30/50 (1d),VRSK,93.0,76.3,0.362,33.7,1.73,-8.7,0.611
+QS/Connors RSI(5) 30/50 (1d),VRT,40.0,72.5,0.483,19.3,2.69,-2.8,2.156
+QS/Connors RSI(5) 30/50 (1d),VST,42.0,78.6,0.451,18.9,2.44,-4.0,1.8
+QS/Connors RSI(5) 30/50 (1d),WY,85.0,70.6,0.184,15.6,1.38,-5.7,0.451
+QS/Connors RSI(5) 30/50 (1d),XOM,92.0,67.4,-0.024,-2.2,0.96,-18.4,0.189
+QS/Connors RSI(5) 30/50 (1d),XYZ,48.0,77.1,0.348,16.7,1.68,-7.8,1.44
+QS/Connors RSI(5) 30/50 (1d),ZAL.DE,56.0,66.1,-0.018,-1.0,0.97,-12.0,-0.014
+QS/Connors RSI(5) 30/50 (1d),ZBRA,116.0,70.7,0.211,24.4,1.36,-10.9,0.594
 Squeeze + EMA21/34 (1d),AAPL,50.0,58.0,2.019,100.9,4.77,-6.1,5.103
 Squeeze + EMA21/34 (1d),ADBE,98.0,31.6,0.268,26.3,1.3,-28.5,0.246
 Squeeze + EMA21/34 (1d),ADS.DE,102.0,30.4,0.541,55.2,1.57,-19.3,1.284
@@ -3189,6 +4587,805 @@ Squeeze + EMA21/34 (1w),XOM,36.0,19.4,-0.11,-4.0,0.89,-18.6,-1.046
 Squeeze + EMA21/34 (1w),XYZ,10.0,30.0,5.208,52.1,6.19,-9.2,34.719
 Squeeze + EMA21/34 (1w),ZAL.DE,5.0,60.0,1.333,6.7,6.06,-1.3,7.68
 Squeeze + EMA21/34 (1w),ZBRA,15.0,46.7,2.289,34.3,4.61,-5.4,8.828
+TradingLab Bollinger + RSI (1d),AAPL,47.0,51.1,-1.907,-89.6,0.33,-98.1,-3.616
+TradingLab Bollinger + RSI (1d),ADBE,38.0,55.3,0.157,5.9,1.1,-18.3,0.884
+TradingLab Bollinger + RSI (1d),ADS.DE,49.0,65.3,0.131,6.4,1.1,-34.6,0.543
+TradingLab Bollinger + RSI (1d),AEE,35.0,68.6,0.839,29.4,2.36,-6.0,1.269
+TradingLab Bollinger + RSI (1d),AFL,42.0,71.4,0.44,18.5,1.53,-14.1,1.012
+TradingLab Bollinger + RSI (1d),AIR.DE,43.0,67.4,0.278,12.0,1.22,-27.6,0.727
+TradingLab Bollinger + RSI (1d),AKAM,50.0,58.0,0.007,0.4,1.01,-48.0,-0.479
+TradingLab Bollinger + RSI (1d),ALGN,51.0,64.7,-1.197,-61.0,0.49,-80.6,-2.756
+TradingLab Bollinger + RSI (1d),ALV.DE,47.0,59.6,0.331,15.6,1.37,-9.5,0.069
+TradingLab Bollinger + RSI (1d),AMD,52.0,51.9,-1.407,-73.1,0.48,-81.5,-4.874
+TradingLab Bollinger + RSI (1d),AME,37.0,56.8,0.453,16.7,1.41,-25.7,1.556
+TradingLab Bollinger + RSI (1d),AMGN,43.0,65.1,-0.052,-2.3,0.96,-21.5,0.032
+TradingLab Bollinger + RSI (1d),AMP,33.0,72.7,0.477,15.8,1.39,-12.9,1.58
+TradingLab Bollinger + RSI (1d),ANET,25.0,60.0,0.502,12.6,1.41,-9.4,2.241
+TradingLab Bollinger + RSI (1d),APO,40.0,67.5,0.478,19.1,1.49,-12.9,2.603
+TradingLab Bollinger + RSI (1d),ATO,42.0,73.8,0.631,26.5,1.75,-10.2,1.896
+TradingLab Bollinger + RSI (1d),AVY,38.0,50.0,-0.407,-15.5,0.71,-29.1,-1.184
+TradingLab Bollinger + RSI (1d),AWK,34.0,67.6,1.029,35.0,3.34,-3.5,2.343
+TradingLab Bollinger + RSI (1d),AXON,58.0,60.3,-0.516,-29.9,0.71,-47.8,0.507
+TradingLab Bollinger + RSI (1d),AZO,40.0,65.0,0.053,2.1,1.04,-27.4,0.095
+TradingLab Bollinger + RSI (1d),BAC,50.0,62.0,0.297,14.8,1.25,-15.3,1.49
+TradingLab Bollinger + RSI (1d),BAS.DE,42.0,59.5,-0.248,-10.4,0.82,-32.5,-0.538
+TradingLab Bollinger + RSI (1d),BAYN.DE,36.0,52.8,-0.832,-30.0,0.47,-31.6,-1.872
+TradingLab Bollinger + RSI (1d),BE,20.0,55.0,-2.499,-50.0,0.29,-52.7,-10.867
+TradingLab Bollinger + RSI (1d),BEI.DE,41.0,61.0,0.443,18.2,1.56,-6.6,0.781
+TradingLab Bollinger + RSI (1d),BF-B,41.0,68.3,1.003,41.1,2.35,-6.2,2.587
+TradingLab Bollinger + RSI (1d),BIIB,46.0,67.4,0.238,10.9,1.16,-42.8,1.727
+TradingLab Bollinger + RSI (1d),BLK,44.0,56.8,-0.137,-6.0,0.9,-19.7,0.792
+TradingLab Bollinger + RSI (1d),BMW.DE,46.0,65.2,0.084,3.9,1.06,-21.1,1.182
+TradingLab Bollinger + RSI (1d),BNR.DE,27.0,59.3,-0.611,-16.5,0.67,-28.5,-0.33
+TradingLab Bollinger + RSI (1d),BNY,44.0,68.2,0.2,8.8,1.17,-24.0,1.231
+TradingLab Bollinger + RSI (1d),BRO,43.0,48.8,-0.633,-27.2,0.6,-35.4,-0.483
+TradingLab Bollinger + RSI (1d),C,54.0,64.8,0.026,1.4,1.02,-18.4,0.052
+TradingLab Bollinger + RSI (1d),CBK.DE,52.0,51.9,-0.493,-25.6,0.69,-28.6,-2.373
+TradingLab Bollinger + RSI (1d),CCL,39.0,64.1,0.095,3.7,1.07,-23.6,-0.518
+TradingLab Bollinger + RSI (1d),CEG,11.0,54.5,-0.622,-6.8,0.64,-16.4,0.392
+TradingLab Bollinger + RSI (1d),CF,40.0,57.5,-0.933,-37.3,0.59,-54.9,-1.321
+TradingLab Bollinger + RSI (1d),CFG,24.0,58.3,-0.314,-7.5,0.79,-13.8,-0.127
+TradingLab Bollinger + RSI (1d),CHD,38.0,60.5,-0.447,-17.0,0.72,-30.8,-0.305
+TradingLab Bollinger + RSI (1d),CINF,34.0,55.9,0.423,14.4,1.4,-9.7,1.451
+TradingLab Bollinger + RSI (1d),CMI,45.0,64.4,0.606,27.3,1.86,-12.7,1.176
+TradingLab Bollinger + RSI (1d),CNC,38.0,63.2,-0.024,-0.9,0.99,-23.8,-0.432
+TradingLab Bollinger + RSI (1d),COF,39.0,61.5,0.366,14.3,1.35,-14.1,0.543
+TradingLab Bollinger + RSI (1d),CON.DE,45.0,68.9,0.146,6.6,1.11,-16.3,0.206
+TradingLab Bollinger + RSI (1d),COST,48.0,58.3,0.097,4.7,1.08,-23.9,0.818
+TradingLab Bollinger + RSI (1d),CPAY,31.0,67.7,-0.38,-11.8,0.81,-41.0,-0.348
+TradingLab Bollinger + RSI (1d),CSX,33.0,60.6,-0.001,-0.0,1.0,-12.0,0.52
+TradingLab Bollinger + RSI (1d),CTSH,44.0,70.5,0.359,15.8,1.43,-16.7,1.768
+TradingLab Bollinger + RSI (1d),CVS,42.0,52.4,-0.194,-8.2,0.85,-20.4,0.189
+TradingLab Bollinger + RSI (1d),DASH,9.0,33.3,-0.93,-8.4,0.4,-11.4,-2.362
+TradingLab Bollinger + RSI (1d),DB1.DE,42.0,64.3,-0.286,-12.0,0.81,-19.8,0.172
+TradingLab Bollinger + RSI (1d),DBK.DE,45.0,64.4,0.087,3.9,1.07,-16.8,1.261
+TradingLab Bollinger + RSI (1d),DD,42.0,69.0,0.842,35.4,2.16,-9.4,1.252
+TradingLab Bollinger + RSI (1d),DDOG,16.0,62.5,-0.032,-0.5,0.98,-8.3,-0.836
+TradingLab Bollinger + RSI (1d),DELL,27.0,66.7,-0.791,-21.3,0.62,-30.9,-2.514
+TradingLab Bollinger + RSI (1d),DGX,46.0,78.3,1.104,50.8,3.29,-12.6,2.749
+TradingLab Bollinger + RSI (1d),DHL.DE,50.0,60.0,0.483,24.1,1.54,-15.4,1.115
+TradingLab Bollinger + RSI (1d),DHR,39.0,66.7,0.959,37.4,3.24,-5.5,1.9
+TradingLab Bollinger + RSI (1d),DLTR,41.0,56.1,-0.892,-36.6,0.47,-43.7,-1.685
+TradingLab Bollinger + RSI (1d),DPZ,43.0,65.1,-0.479,-20.6,0.69,-34.9,-1.869
+TradingLab Bollinger + RSI (1d),DTE.DE,52.0,67.3,0.501,26.0,1.48,-18.8,1.057
+TradingLab Bollinger + RSI (1d),DTG.DE,13.0,69.2,1.325,17.2,8.84,-1.2,4.424
+TradingLab Bollinger + RSI (1d),DVA,49.0,53.1,0.208,10.2,1.2,-15.5,0.916
+TradingLab Bollinger + RSI (1d),DVN,36.0,58.3,-0.487,-17.5,0.74,-39.8,-0.339
+TradingLab Bollinger + RSI (1d),ED,39.0,71.8,0.591,23.1,1.85,-6.2,1.31
+TradingLab Bollinger + RSI (1d),EL,44.0,61.4,-0.113,-5.0,0.91,-14.6,-0.324
+TradingLab Bollinger + RSI (1d),ELV,37.0,54.1,-0.498,-18.4,0.7,-26.0,-0.364
+TradingLab Bollinger + RSI (1d),EMR,33.0,75.8,0.436,14.4,1.42,-12.8,1.685
+TradingLab Bollinger + RSI (1d),ENR.DE,13.0,53.8,-2.9,-37.7,0.27,-43.1,-8.866
+TradingLab Bollinger + RSI (1d),EOAN.DE,43.0,60.5,-0.246,-10.6,0.8,-20.5,-0.11
+TradingLab Bollinger + RSI (1d),EQIX,41.0,56.1,0.636,26.1,1.7,-16.8,2.501
+TradingLab Bollinger + RSI (1d),EQT,37.0,62.2,-0.068,-2.5,0.94,-17.6,-0.171
+TradingLab Bollinger + RSI (1d),EW,50.0,66.0,0.304,15.2,1.25,-32.2,1.308
+TradingLab Bollinger + RSI (1d),EXC,33.0,60.6,0.055,1.8,1.05,-14.2,0.085
+TradingLab Bollinger + RSI (1d),FICO,47.0,57.4,-0.164,-7.7,0.9,-31.2,1.169
+TradingLab Bollinger + RSI (1d),FISV,30.0,53.3,-0.705,-21.2,0.55,-29.7,-1.91
+TradingLab Bollinger + RSI (1d),FITB,35.0,60.0,-0.025,-0.9,0.98,-15.4,-1.361
+TradingLab Bollinger + RSI (1d),FIX,45.0,57.8,0.181,8.2,1.16,-16.3,0.205
+TradingLab Bollinger + RSI (1d),FME.DE,47.0,76.6,0.936,44.0,2.34,-16.6,1.907
+TradingLab Bollinger + RSI (1d),FOXA,15.0,60.0,-0.014,-0.2,0.99,-14.3,0.572
+TradingLab Bollinger + RSI (1d),FRE.DE,39.0,48.7,-0.516,-20.1,0.67,-22.9,-0.866
+TradingLab Bollinger + RSI (1d),FTV,19.0,63.2,-0.023,-0.4,0.98,-11.3,0.514
+TradingLab Bollinger + RSI (1d),G1A.DE,43.0,58.1,0.481,20.7,1.52,-12.4,0.891
+TradingLab Bollinger + RSI (1d),G24.DE,25.0,48.0,-0.04,-1.0,0.97,-16.0,0.56
+TradingLab Bollinger + RSI (1d),GD,34.0,73.5,0.799,27.2,1.87,-7.1,1.461
+TradingLab Bollinger + RSI (1d),GL,30.0,66.7,-0.589,-17.7,0.59,-26.3,-0.483
+TradingLab Bollinger + RSI (1d),GOOG,50.0,62.0,0.036,1.8,1.02,-28.5,-0.135
+TradingLab Bollinger + RSI (1d),GOOGL,50.0,62.0,0.084,4.2,1.05,-28.5,-0.027
+TradingLab Bollinger + RSI (1d),HEI.DE,40.0,60.0,-0.876,-35.0,0.6,-38.7,-2.778
+TradingLab Bollinger + RSI (1d),HEN3.DE,40.0,57.5,-0.004,-0.2,1.0,-15.6,0.068
+TradingLab Bollinger + RSI (1d),HNR1.DE,45.0,77.8,0.786,35.4,1.66,-28.8,1.958
+TradingLab Bollinger + RSI (1d),HPE,23.0,69.6,-0.058,-1.3,0.96,-17.8,-0.564
+TradingLab Bollinger + RSI (1d),IBKR,28.0,57.1,-1.94,-54.3,0.36,-69.9,-2.025
+TradingLab Bollinger + RSI (1d),IBM,51.0,66.7,0.689,35.2,1.73,-16.6,1.817
+TradingLab Bollinger + RSI (1d),ICE,36.0,58.3,-1.144,-41.2,0.54,-49.7,-3.983
+TradingLab Bollinger + RSI (1d),IEX,35.0,54.3,-0.237,-8.3,0.8,-20.5,-0.644
+TradingLab Bollinger + RSI (1d),IFF,43.0,74.4,0.899,38.7,2.31,-10.0,2.383
+TradingLab Bollinger + RSI (1d),IFX.DE,42.0,66.7,-0.164,-6.9,0.89,-34.3,-3.591
+TradingLab Bollinger + RSI (1d),IR,15.0,66.7,0.437,6.6,1.52,-6.3,1.954
+TradingLab Bollinger + RSI (1d),IRM,49.0,63.3,0.182,8.9,1.15,-17.1,0.765
+TradingLab Bollinger + RSI (1d),ITW,48.0,83.3,1.395,66.9,4.61,-8.3,2.707
+TradingLab Bollinger + RSI (1d),JBHT,38.0,71.1,0.7,26.6,2.13,-7.0,1.981
+TradingLab Bollinger + RSI (1d),JNJ,46.0,63.0,-0.132,-6.1,0.89,-22.6,0.377
+TradingLab Bollinger + RSI (1d),JPM,41.0,70.7,0.413,16.9,1.5,-8.2,2.195
+TradingLab Bollinger + RSI (1d),KEYS,22.0,59.1,-0.562,-12.4,0.68,-19.0,-1.327
+TradingLab Bollinger + RSI (1d),KLAC,43.0,65.1,1.133,48.7,3.94,-3.4,3.248
+TradingLab Bollinger + RSI (1d),KMI,31.0,74.2,0.242,7.5,1.14,-25.2,0.692
+TradingLab Bollinger + RSI (1d),KO,38.0,68.4,0.999,38.0,2.68,-9.7,2.12
+TradingLab Bollinger + RSI (1d),KVUE,6.0,50.0,-0.219,-1.3,0.78,-3.8,-1.958
+TradingLab Bollinger + RSI (1d),LEN,30.0,60.0,0.234,7.0,1.29,-6.2,4.8
+TradingLab Bollinger + RSI (1d),LIN,28.0,67.9,0.568,15.9,1.64,-11.7,1.625
+TradingLab Bollinger + RSI (1d),LNT,39.0,69.2,0.44,17.2,1.57,-7.4,1.012
+TradingLab Bollinger + RSI (1d),LYV,45.0,55.6,-0.508,-22.9,0.7,-35.2,-0.943
+TradingLab Bollinger + RSI (1d),MAA,38.0,73.7,0.805,30.6,2.06,-11.3,1.606
+TradingLab Bollinger + RSI (1d),MAR,42.0,61.9,-0.209,-8.8,0.87,-33.4,-0.191
+TradingLab Bollinger + RSI (1d),MBG.DE,55.0,61.8,0.069,3.8,1.05,-15.3,0.618
+TradingLab Bollinger + RSI (1d),MCD,34.0,70.6,-0.084,-2.9,0.93,-29.7,0.401
+TradingLab Bollinger + RSI (1d),MDLZ,39.0,74.4,0.983,38.3,2.52,-6.8,2.07
+TradingLab Bollinger + RSI (1d),MDT,48.0,62.5,0.62,29.8,1.83,-9.3,0.741
+TradingLab Bollinger + RSI (1d),MGM,39.0,53.8,-0.298,-11.6,0.84,-23.7,0.392
+TradingLab Bollinger + RSI (1d),MMM,45.0,62.2,0.106,4.8,1.08,-15.5,0.726
+TradingLab Bollinger + RSI (1d),MO,50.0,64.0,0.441,22.0,1.54,-16.5,0.53
+TradingLab Bollinger + RSI (1d),MOS,42.0,57.1,0.413,17.3,1.45,-14.7,1.022
+TradingLab Bollinger + RSI (1d),MPWR,41.0,68.3,0.416,17.1,1.48,-7.5,2.505
+TradingLab Bollinger + RSI (1d),MRK.DE,41.0,68.3,0.359,14.7,1.34,-16.9,1.157
+TradingLab Bollinger + RSI (1d),MRVL,37.0,56.8,-0.563,-20.8,0.67,-28.7,-3.116
+TradingLab Bollinger + RSI (1d),MSCI,34.0,64.7,0.332,11.3,1.28,-17.5,0.89
+TradingLab Bollinger + RSI (1d),MTB,34.0,67.6,0.288,9.8,1.26,-9.5,1.415
+TradingLab Bollinger + RSI (1d),MTD,48.0,60.4,0.248,11.9,1.24,-22.9,1.631
+TradingLab Bollinger + RSI (1d),MTX.DE,38.0,50.0,-0.545,-20.7,0.67,-34.6,-0.218
+TradingLab Bollinger + RSI (1d),MUV2.DE,48.0,62.5,0.502,24.1,1.55,-15.8,0.995
+TradingLab Bollinger + RSI (1d),NKE,43.0,62.8,0.247,10.6,1.2,-14.3,0.749
+TradingLab Bollinger + RSI (1d),NUE,34.0,67.6,-0.538,-18.3,0.73,-39.1,-0.908
+TradingLab Bollinger + RSI (1d),NVDA,42.0,38.1,-2.626,-110.3,0.23,-112.5,-8.746
+TradingLab Bollinger + RSI (1d),NWS,27.0,66.7,0.068,1.8,1.07,-15.1,0.125
+TradingLab Bollinger + RSI (1d),NWSA,26.0,61.5,0.45,11.7,1.5,-17.0,0.93
+TradingLab Bollinger + RSI (1d),O,40.0,70.0,0.723,28.9,1.98,-16.7,1.965
+TradingLab Bollinger + RSI (1d),OXY,38.0,73.7,0.336,12.8,1.26,-31.5,1.103
+TradingLab Bollinger + RSI (1d),P,30.0,66.7,0.364,10.9,1.31,-14.5,1.879
+TradingLab Bollinger + RSI (1d),PAH3.DE,33.0,54.5,-1.18,-38.9,0.5,-65.8,-2.769
+TradingLab Bollinger + RSI (1d),PCAR,29.0,62.1,0.008,0.2,1.01,-8.8,0.394
+TradingLab Bollinger + RSI (1d),PCG,34.0,58.8,-0.643,-21.9,0.63,-45.3,0.468
+TradingLab Bollinger + RSI (1d),PFE,41.0,75.6,0.741,30.4,1.84,-17.3,2.352
+TradingLab Bollinger + RSI (1d),PH,43.0,74.4,0.8,34.4,1.98,-11.0,2.372
+TradingLab Bollinger + RSI (1d),PLD,47.0,63.8,0.825,38.8,2.15,-15.2,2.132
+TradingLab Bollinger + RSI (1d),PODD,45.0,73.3,0.499,22.5,1.5,-13.9,2.288
+TradingLab Bollinger + RSI (1d),PPG,29.0,62.1,0.261,7.6,1.25,-16.0,1.121
+TradingLab Bollinger + RSI (1d),PSA,44.0,59.1,0.685,30.2,1.77,-10.3,1.678
+TradingLab Bollinger + RSI (1d),PSX,30.0,46.7,-1.19,-35.7,0.38,-33.2,-2.202
+TradingLab Bollinger + RSI (1d),Q,1.0,100.0,3.82,3.8,inf,0.0,15.609
+TradingLab Bollinger + RSI (1d),QCOM,42.0,50.0,-0.245,-10.3,0.83,-17.7,-0.977
+TradingLab Bollinger + RSI (1d),QIA.DE,50.0,62.0,0.605,30.2,1.68,-10.6,1.348
+TradingLab Bollinger + RSI (1d),REG,39.0,71.8,0.394,15.4,1.37,-19.2,1.165
+TradingLab Bollinger + RSI (1d),REGN,51.0,52.9,-0.841,-42.9,0.57,-48.4,-1.585
+TradingLab Bollinger + RSI (1d),RHM.DE,44.0,59.1,-2.814,-123.8,0.31,-135.9,-5.092
+TradingLab Bollinger + RSI (1d),RL,49.0,61.2,0.334,16.3,1.45,-9.3,1.032
+TradingLab Bollinger + RSI (1d),ROL,43.0,74.4,1.189,51.1,2.64,-11.6,2.981
+TradingLab Bollinger + RSI (1d),ROST,40.0,60.0,0.495,19.8,1.63,-13.0,1.372
+TradingLab Bollinger + RSI (1d),RWE.DE,49.0,55.1,-0.408,-20.0,0.72,-22.1,-0.372
+TradingLab Bollinger + RSI (1d),SAP.DE,39.0,51.3,-0.135,-5.3,0.88,-28.9,-0.29
+TradingLab Bollinger + RSI (1d),SBAC,40.0,60.0,0.219,8.8,1.17,-16.9,0.957
+TradingLab Bollinger + RSI (1d),SHL.DE,14.0,71.4,0.753,10.5,2.31,-8.0,1.916
+TradingLab Bollinger + RSI (1d),SHW,31.0,51.6,-0.432,-13.4,0.75,-32.2,0.691
+TradingLab Bollinger + RSI (1d),SIE.DE,40.0,62.5,0.122,4.9,1.12,-12.8,0.043
+TradingLab Bollinger + RSI (1d),SLB,48.0,66.7,0.303,14.5,1.24,-27.1,1.835
+TradingLab Bollinger + RSI (1d),SNA,32.0,59.4,-0.002,-0.1,1.0,-24.2,0.035
+TradingLab Bollinger + RSI (1d),SO,39.0,74.4,1.026,40.0,3.46,-10.2,1.481
+TradingLab Bollinger + RSI (1d),STE,44.0,77.3,1.273,56.0,3.75,-10.7,3.768
+TradingLab Bollinger + RSI (1d),SY1.DE,35.0,65.7,0.536,18.8,1.68,-14.2,1.737
+TradingLab Bollinger + RSI (1d),SYK,43.0,76.7,0.809,34.8,2.15,-8.0,1.315
+TradingLab Bollinger + RSI (1d),T,45.0,68.9,0.783,35.2,2.44,-8.5,1.312
+TradingLab Bollinger + RSI (1d),TEL,34.0,67.6,0.24,8.2,1.16,-12.5,-0.108
+TradingLab Bollinger + RSI (1d),TER,37.0,56.8,0.142,5.3,1.11,-22.3,0.239
+TradingLab Bollinger + RSI (1d),TFC,38.0,73.7,0.861,32.7,2.25,-8.6,1.591
+TradingLab Bollinger + RSI (1d),TGT,46.0,60.9,0.502,23.1,1.54,-12.0,1.272
+TradingLab Bollinger + RSI (1d),TJX,27.0,51.9,0.163,4.4,1.16,-12.8,0.331
+TradingLab Bollinger + RSI (1d),TPR,44.0,52.3,-0.234,-10.3,0.83,-31.5,-0.329
+TradingLab Bollinger + RSI (1d),TRMB,49.0,49.0,0.135,6.6,1.14,-19.7,0.393
+TradingLab Bollinger + RSI (1d),TRV,34.0,61.8,0.039,1.3,1.03,-12.7,0.324
+TradingLab Bollinger + RSI (1d),TSCO,43.0,65.1,0.54,23.2,1.59,-7.4,2.001
+TradingLab Bollinger + RSI (1d),TSLA,38.0,65.8,-3.008,-114.3,0.31,-125.1,-8.453
+TradingLab Bollinger + RSI (1d),TSN,45.0,60.0,-0.067,-3.0,0.95,-32.5,0.411
+TradingLab Bollinger + RSI (1d),TWLO,24.0,62.5,0.02,0.5,1.01,-14.2,0.627
+TradingLab Bollinger + RSI (1d),TXT,41.0,53.7,-0.534,-21.9,0.7,-41.3,-2.031
+TradingLab Bollinger + RSI (1d),UAL,44.0,50.0,-1.193,-52.5,0.46,-55.3,-3.682
+TradingLab Bollinger + RSI (1d),UBER,12.0,58.3,0.007,0.1,1.01,-10.2,2.127
+TradingLab Bollinger + RSI (1d),UHS,45.0,51.1,-0.614,-27.6,0.64,-22.1,-1.695
+TradingLab Bollinger + RSI (1d),UNP,38.0,68.4,1.069,40.6,2.75,-9.3,2.233
+TradingLab Bollinger + RSI (1d),URI,46.0,63.0,-0.569,-26.2,0.7,-37.4,-0.216
+TradingLab Bollinger + RSI (1d),V,30.0,66.7,0.802,24.1,2.04,-7.2,1.991
+TradingLab Bollinger + RSI (1d),VNA.DE,29.0,82.8,0.818,23.7,1.91,-21.8,2.255
+TradingLab Bollinger + RSI (1d),VOW3.DE,54.0,61.1,-0.844,-45.6,0.61,-65.3,-1.947
+TradingLab Bollinger + RSI (1d),VRSK,36.0,66.7,0.473,17.0,1.53,-8.7,1.38
+TradingLab Bollinger + RSI (1d),VRT,19.0,42.1,-5.141,-97.7,0.14,-104.1,-6.69
+TradingLab Bollinger + RSI (1d),VST,20.0,70.0,0.112,2.2,1.05,-34.3,1.836
+TradingLab Bollinger + RSI (1d),WY,41.0,63.4,-0.124,-5.1,0.91,-21.0,0.233
+TradingLab Bollinger + RSI (1d),XOM,35.0,71.4,-0.354,-12.4,0.83,-21.2,0.527
+TradingLab Bollinger + RSI (1d),XYZ,25.0,56.0,-0.472,-11.8,0.71,-25.3,-1.91
+TradingLab Bollinger + RSI (1d),ZAL.DE,31.0,64.5,0.606,18.8,1.76,-7.7,1.892
+TradingLab Bollinger + RSI (1d),ZBRA,45.0,55.6,-0.127,-5.7,0.89,-10.5,-0.451
+"TradingLab Bollinger + RSI (1d, nur Long)",AAPL,12.0,75.0,1.07,12.8,3.15,-4.6,1.624
+"TradingLab Bollinger + RSI (1d, nur Long)",ADBE,18.0,61.1,1.062,19.1,2.21,-8.2,2.888
+"TradingLab Bollinger + RSI (1d, nur Long)",ADS.DE,20.0,60.0,-0.123,-2.5,0.91,-15.1,0.013
+"TradingLab Bollinger + RSI (1d, nur Long)",AEE,17.0,64.7,0.661,11.2,1.92,-8.6,0.956
+"TradingLab Bollinger + RSI (1d, nur Long)",AFL,18.0,72.2,0.077,1.4,1.08,-13.7,-0.078
+"TradingLab Bollinger + RSI (1d, nur Long)",AIR.DE,13.0,61.5,-0.378,-4.9,0.79,-18.4,-0.393
+"TradingLab Bollinger + RSI (1d, nur Long)",AKAM,23.0,65.2,0.813,18.7,2.39,-7.0,1.112
+"TradingLab Bollinger + RSI (1d, nur Long)",ALGN,19.0,57.9,0.031,0.6,1.03,-7.7,-0.169
+"TradingLab Bollinger + RSI (1d, nur Long)",ALV.DE,20.0,80.0,0.523,10.5,1.57,-8.8,0.094
+"TradingLab Bollinger + RSI (1d, nur Long)",AMD,16.0,62.5,-0.09,-1.4,0.94,-19.5,3.767
+"TradingLab Bollinger + RSI (1d, nur Long)",AME,11.0,54.5,0.727,8.0,1.75,-10.4,2.518
+"TradingLab Bollinger + RSI (1d, nur Long)",AMGN,14.0,71.4,0.506,7.1,1.81,-3.5,1.194
+"TradingLab Bollinger + RSI (1d, nur Long)",AMP,15.0,80.0,1.005,15.1,2.31,-7.4,2.046
+"TradingLab Bollinger + RSI (1d, nur Long)",ANET,5.0,80.0,1.944,9.7,6.6,-1.7,9.92
+"TradingLab Bollinger + RSI (1d, nur Long)",APO,16.0,87.5,1.794,28.7,11.99,-2.5,7.397
+"TradingLab Bollinger + RSI (1d, nur Long)",ATO,20.0,95.0,1.929,38.6,23.4,-1.7,4.6
+"TradingLab Bollinger + RSI (1d, nur Long)",AVY,18.0,66.7,0.525,9.4,1.68,-5.8,0.085
+"TradingLab Bollinger + RSI (1d, nur Long)",AWK,13.0,76.9,1.643,21.4,9.32,-1.7,4.555
+"TradingLab Bollinger + RSI (1d, nur Long)",AXON,22.0,81.8,1.261,27.7,4.42,-4.8,9.844
+"TradingLab Bollinger + RSI (1d, nur Long)",AZO,15.0,80.0,1.059,15.9,6.37,-2.4,2.468
+"TradingLab Bollinger + RSI (1d, nur Long)",BAC,26.0,69.2,0.573,14.9,1.53,-9.1,2.93
+"TradingLab Bollinger + RSI (1d, nur Long)",BAS.DE,17.0,52.9,-1.41,-24.0,0.32,-30.9,-3.336
+"TradingLab Bollinger + RSI (1d, nur Long)",BAYN.DE,19.0,47.4,-1.164,-22.1,0.3,-23.3,-2.651
+"TradingLab Bollinger + RSI (1d, nur Long)",BE,7.0,57.1,-0.908,-6.4,0.48,-7.8,2.477
+"TradingLab Bollinger + RSI (1d, nur Long)",BEI.DE,19.0,73.7,1.174,22.3,3.62,-3.4,2.094
+"TradingLab Bollinger + RSI (1d, nur Long)",BF-B,17.0,76.5,1.133,19.3,2.5,-3.5,3.75
+"TradingLab Bollinger + RSI (1d, nur Long)",BIIB,17.0,64.7,1.338,22.7,2.79,-5.7,4.752
+"TradingLab Bollinger + RSI (1d, nur Long)",BLK,18.0,77.8,1.505,27.1,5.46,-3.5,4.789
+"TradingLab Bollinger + RSI (1d, nur Long)",BMW.DE,20.0,70.0,0.656,13.1,1.64,-13.4,3.57
+"TradingLab Bollinger + RSI (1d, nur Long)",BNR.DE,14.0,78.6,0.332,4.6,1.27,-15.4,1.839
+"TradingLab Bollinger + RSI (1d, nur Long)",BNY,16.0,81.2,0.57,9.1,1.59,-13.6,3.721
+"TradingLab Bollinger + RSI (1d, nur Long)",BRO,14.0,78.6,1.216,17.0,5.75,-1.9,3.019
+"TradingLab Bollinger + RSI (1d, nur Long)",C,29.0,65.5,-0.04,-1.2,0.96,-16.4,0.598
+"TradingLab Bollinger + RSI (1d, nur Long)",CBK.DE,23.0,43.5,-0.978,-22.5,0.46,-37.8,-6.201
+"TradingLab Bollinger + RSI (1d, nur Long)",CCL,19.0,68.4,0.31,5.9,1.23,-15.4,-0.977
+"TradingLab Bollinger + RSI (1d, nur Long)",CEG,3.0,100.0,2.077,6.2,inf,0.0,12.042
+"TradingLab Bollinger + RSI (1d, nur Long)",CF,11.0,54.5,-0.592,-6.5,0.63,-10.4,1.359
+"TradingLab Bollinger + RSI (1d, nur Long)",CFG,9.0,44.4,-1.569,-14.1,0.43,-20.2,-3.836
+"TradingLab Bollinger + RSI (1d, nur Long)",CHD,12.0,91.7,2.151,25.8,8.03,-3.7,4.264
+"TradingLab Bollinger + RSI (1d, nur Long)",CINF,13.0,84.6,1.683,21.9,3.97,-4.5,4.646
+"TradingLab Bollinger + RSI (1d, nur Long)",CMI,22.0,68.2,0.869,19.1,2.67,-5.3,1.819
+"TradingLab Bollinger + RSI (1d, nur Long)",CNC,14.0,64.3,0.499,7.0,1.6,-6.9,1.331
+"TradingLab Bollinger + RSI (1d, nur Long)",COF,17.0,58.8,0.056,0.9,1.05,-14.1,-0.844
+"TradingLab Bollinger + RSI (1d, nur Long)",CON.DE,17.0,64.7,-0.649,-11.0,0.68,-27.8,-2.759
+"TradingLab Bollinger + RSI (1d, nur Long)",COST,13.0,76.9,1.883,24.5,6.57,-2.0,4.959
+"TradingLab Bollinger + RSI (1d, nur Long)",CPAY,14.0,71.4,1.273,17.8,3.19,-5.0,4.017
+"TradingLab Bollinger + RSI (1d, nur Long)",CSX,14.0,71.4,0.49,6.9,1.8,-5.3,1.873
+"TradingLab Bollinger + RSI (1d, nur Long)",CTSH,18.0,77.8,1.196,21.5,7.12,-1.1,4.948
+"TradingLab Bollinger + RSI (1d, nur Long)",CVS,18.0,61.1,0.339,6.1,1.32,-16.0,1.911
+"TradingLab Bollinger + RSI (1d, nur Long)",DASH,3.0,33.3,-0.259,-0.8,0.74,-2.5,-1.055
+"TradingLab Bollinger + RSI (1d, nur Long)",DB1.DE,14.0,78.6,1.304,18.3,6.64,-2.3,4.226
+"TradingLab Bollinger + RSI (1d, nur Long)",DBK.DE,20.0,60.0,-0.242,-4.8,0.83,-14.4,1.446
+"TradingLab Bollinger + RSI (1d, nur Long)",DD,19.0,63.2,0.624,11.8,1.67,-9.4,0.73
+"TradingLab Bollinger + RSI (1d, nur Long)",DDOG,3.0,66.7,0.781,2.3,1.71,-3.3,4.657
+"TradingLab Bollinger + RSI (1d, nur Long)",DELL,11.0,81.8,1.86,20.5,24.62,-0.6,8.272
+"TradingLab Bollinger + RSI (1d, nur Long)",DGX,17.0,70.6,0.662,11.3,1.79,-13.7,2.811
+"TradingLab Bollinger + RSI (1d, nur Long)",DHL.DE,23.0,60.9,0.069,1.6,1.07,-9.1,0.509
+"TradingLab Bollinger + RSI (1d, nur Long)",DHR,16.0,68.8,1.113,17.8,7.26,-1.4,2.444
+"TradingLab Bollinger + RSI (1d, nur Long)",DLTR,19.0,63.2,-0.488,-9.3,0.61,-13.2,-0.891
+"TradingLab Bollinger + RSI (1d, nur Long)",DPZ,12.0,66.7,-0.219,-2.6,0.81,-9.1,-3.109
+"TradingLab Bollinger + RSI (1d, nur Long)",DTE.DE,22.0,77.3,1.237,27.2,3.23,-7.8,2.576
+"TradingLab Bollinger + RSI (1d, nur Long)",DTG.DE,5.0,100.0,2.289,11.4,inf,0.0,7.703
+"TradingLab Bollinger + RSI (1d, nur Long)",DVA,20.0,60.0,0.846,16.9,2.81,-8.6,3.943
+"TradingLab Bollinger + RSI (1d, nur Long)",DVN,14.0,42.9,-1.22,-17.1,0.48,-30.3,-2.719
+"TradingLab Bollinger + RSI (1d, nur Long)",ED,15.0,80.0,1.029,15.4,2.48,-5.4,2.452
+"TradingLab Bollinger + RSI (1d, nur Long)",EL,22.0,54.5,-0.159,-3.5,0.86,-13.1,-0.638
+"TradingLab Bollinger + RSI (1d, nur Long)",ELV,15.0,66.7,-0.428,-6.4,0.77,-14.2,0.605
+"TradingLab Bollinger + RSI (1d, nur Long)",EMR,14.0,71.4,-0.045,-0.6,0.97,-16.2,1.112
+"TradingLab Bollinger + RSI (1d, nur Long)",ENR.DE,7.0,71.4,0.936,6.6,2.15,-4.8,5.642
+"TradingLab Bollinger + RSI (1d, nur Long)",EOAN.DE,19.0,52.6,-0.775,-14.7,0.51,-21.2,-1.129
+"TradingLab Bollinger + RSI (1d, nur Long)",EQIX,18.0,72.2,1.645,29.6,6.86,-1.6,7.456
+"TradingLab Bollinger + RSI (1d, nur Long)",EQT,15.0,53.3,0.084,1.3,1.08,-11.0,-1.266
+"TradingLab Bollinger + RSI (1d, nur Long)",EW,20.0,85.0,1.392,27.8,5.21,-3.2,4.917
+"TradingLab Bollinger + RSI (1d, nur Long)",EXC,17.0,70.6,0.658,11.2,1.83,-5.3,1.253
+"TradingLab Bollinger + RSI (1d, nur Long)",FICO,22.0,63.6,0.821,18.1,1.83,-7.2,5.462
+"TradingLab Bollinger + RSI (1d, nur Long)",FISV,8.0,62.5,-1.446,-11.6,0.37,-13.8,-6.817
+"TradingLab Bollinger + RSI (1d, nur Long)",FITB,19.0,63.2,-0.179,-3.4,0.87,-14.6,-3.666
+"TradingLab Bollinger + RSI (1d, nur Long)",FIX,10.0,50.0,-0.145,-1.4,0.86,-5.2,-1.986
+"TradingLab Bollinger + RSI (1d, nur Long)",FME.DE,20.0,80.0,0.211,4.2,1.19,-21.7,0.773
+"TradingLab Bollinger + RSI (1d, nur Long)",FOXA,5.0,60.0,-0.801,-4.0,0.57,-3.4,-1.747
+"TradingLab Bollinger + RSI (1d, nur Long)",FRE.DE,16.0,62.5,0.644,10.3,1.67,-6.4,1.469
+"TradingLab Bollinger + RSI (1d, nur Long)",FTV,10.0,60.0,-0.154,-1.5,0.9,-7.4,0.711
+"TradingLab Bollinger + RSI (1d, nur Long)",G1A.DE,17.0,64.7,0.485,8.2,1.69,-5.7,1.072
+"TradingLab Bollinger + RSI (1d, nur Long)",G24.DE,8.0,37.5,-0.148,-1.2,0.87,-6.1,0.706
+"TradingLab Bollinger + RSI (1d, nur Long)",GD,14.0,78.6,0.827,11.6,2.04,-6.0,1.388
+"TradingLab Bollinger + RSI (1d, nur Long)",GL,13.0,84.6,-0.362,-4.7,0.75,-13.9,0.644
+"TradingLab Bollinger + RSI (1d, nur Long)",GOOG,14.0,71.4,1.063,14.9,2.07,-7.3,1.709
+"TradingLab Bollinger + RSI (1d, nur Long)",GOOGL,14.0,64.3,1.05,14.7,2.06,-7.3,1.725
+"TradingLab Bollinger + RSI (1d, nur Long)",HEI.DE,16.0,62.5,-1.021,-16.3,0.55,-28.7,-3.558
+"TradingLab Bollinger + RSI (1d, nur Long)",HEN3.DE,16.0,68.8,0.292,4.7,1.32,-6.2,0.963
+"TradingLab Bollinger + RSI (1d, nur Long)",HNR1.DE,17.0,88.2,1.625,27.6,4.55,-5.8,4.156
+"TradingLab Bollinger + RSI (1d, nur Long)",HPE,11.0,63.6,0.431,4.7,1.31,-10.4,2.105
+"TradingLab Bollinger + RSI (1d, nur Long)",IBKR,11.0,81.8,1.744,19.2,8.57,-2.5,7.105
+"TradingLab Bollinger + RSI (1d, nur Long)",IBM,20.0,65.0,0.714,14.3,1.82,-5.1,2.575
+"TradingLab Bollinger + RSI (1d, nur Long)",ICE,13.0,69.2,0.319,4.1,1.25,-6.7,-0.243
+"TradingLab Bollinger + RSI (1d, nur Long)",IEX,15.0,66.7,-0.025,-0.4,0.98,-10.5,-0.396
+"TradingLab Bollinger + RSI (1d, nur Long)",IFF,17.0,64.7,0.938,15.9,3.43,-3.7,2.914
+"TradingLab Bollinger + RSI (1d, nur Long)",IFX.DE,16.0,62.5,0.718,11.5,2.0,-6.3,0.557
+"TradingLab Bollinger + RSI (1d, nur Long)",IR,5.0,80.0,1.12,5.6,2.45,-3.9,4.749
+"TradingLab Bollinger + RSI (1d, nur Long)",IRM,18.0,61.1,0.452,8.1,1.6,-8.9,1.089
+"TradingLab Bollinger + RSI (1d, nur Long)",ITW,21.0,90.5,1.855,39.0,7.64,-4.6,3.974
+"TradingLab Bollinger + RSI (1d, nur Long)",JBHT,14.0,64.3,0.861,12.1,2.92,-2.6,2.891
+"TradingLab Bollinger + RSI (1d, nur Long)",JNJ,18.0,72.2,0.712,12.8,2.32,-2.7,1.789
+"TradingLab Bollinger + RSI (1d, nur Long)",JPM,15.0,80.0,1.078,16.2,2.88,-6.6,5.61
+"TradingLab Bollinger + RSI (1d, nur Long)",KEYS,8.0,62.5,0.31,2.5,1.23,-5.8,1.375
+"TradingLab Bollinger + RSI (1d, nur Long)",KLAC,11.0,72.7,1.491,16.4,5.43,-3.4,4.036
+"TradingLab Bollinger + RSI (1d, nur Long)",KMI,14.0,71.4,-0.638,-8.9,0.73,-25.2,-1.599
+"TradingLab Bollinger + RSI (1d, nur Long)",KO,14.0,85.7,1.971,27.6,10.23,-3.0,4.962
+"TradingLab Bollinger + RSI (1d, nur Long)",KVUE,3.0,0.0,-1.949,-5.8,0.0,-3.8,-6.775
+"TradingLab Bollinger + RSI (1d, nur Long)",LEN,13.0,53.8,0.265,3.4,1.39,-3.9,10.653
+"TradingLab Bollinger + RSI (1d, nur Long)",LIN,11.0,81.8,1.226,13.5,3.32,-3.6,4.383
+"TradingLab Bollinger + RSI (1d, nur Long)",LNT,17.0,70.6,1.097,18.6,5.01,-2.3,2.183
+"TradingLab Bollinger + RSI (1d, nur Long)",LYV,17.0,64.7,0.636,10.8,1.64,-9.6,1.925
+"TradingLab Bollinger + RSI (1d, nur Long)",MAA,17.0,82.4,1.543,26.2,6.92,-3.7,3.35
+"TradingLab Bollinger + RSI (1d, nur Long)",MAR,14.0,71.4,0.813,11.4,1.86,-7.6,1.835
+"TradingLab Bollinger + RSI (1d, nur Long)",MBG.DE,25.0,68.0,0.043,1.1,1.03,-16.0,0.705
+"TradingLab Bollinger + RSI (1d, nur Long)",MCD,15.0,80.0,0.765,11.5,2.52,-4.2,1.465
+"TradingLab Bollinger + RSI (1d, nur Long)",MDLZ,19.0,89.5,1.874,35.6,7.09,-4.6,3.989
+"TradingLab Bollinger + RSI (1d, nur Long)",MDT,19.0,57.9,-0.164,-3.1,0.86,-10.6,-1.077
+"TradingLab Bollinger + RSI (1d, nur Long)",MGM,13.0,38.5,-1.928,-25.1,0.29,-28.3,-6.177
+"TradingLab Bollinger + RSI (1d, nur Long)",MMM,24.0,79.2,0.779,18.7,2.17,-8.1,1.978
+"TradingLab Bollinger + RSI (1d, nur Long)",MO,16.0,68.8,0.67,10.7,1.79,-10.9,0.374
+"TradingLab Bollinger + RSI (1d, nur Long)",MOS,20.0,50.0,0.316,6.3,1.43,-8.3,1.2
+"TradingLab Bollinger + RSI (1d, nur Long)",MPWR,14.0,71.4,1.11,15.5,3.26,-4.6,6.756
+"TradingLab Bollinger + RSI (1d, nur Long)",MRK.DE,17.0,70.6,0.925,15.7,3.84,-3.0,2.749
+"TradingLab Bollinger + RSI (1d, nur Long)",MRVL,11.0,63.6,-0.296,-3.3,0.83,-9.6,-2.09
+"TradingLab Bollinger + RSI (1d, nur Long)",MSCI,12.0,75.0,1.362,16.3,3.76,-0.9,2.827
+"TradingLab Bollinger + RSI (1d, nur Long)",MTB,18.0,72.2,0.467,8.4,1.52,-11.3,1.797
+"TradingLab Bollinger + RSI (1d, nur Long)",MTD,19.0,73.7,1.254,23.8,4.95,-4.3,4.199
+"TradingLab Bollinger + RSI (1d, nur Long)",MTX.DE,13.0,61.5,-0.184,-2.4,0.88,-16.9,2.806
+"TradingLab Bollinger + RSI (1d, nur Long)",MUV2.DE,19.0,63.2,0.534,10.1,1.62,-10.4,1.241
+"TradingLab Bollinger + RSI (1d, nur Long)",NKE,21.0,66.7,0.943,19.8,2.66,-6.4,2.119
+"TradingLab Bollinger + RSI (1d, nur Long)",NUE,15.0,73.3,0.678,10.2,1.63,-13.0,3.447
+"TradingLab Bollinger + RSI (1d, nur Long)",NVDA,10.0,30.0,-0.758,-7.6,0.54,-7.9,-4.741
+"TradingLab Bollinger + RSI (1d, nur Long)",NWS,13.0,76.9,0.508,6.6,1.72,-6.1,1.305
+"TradingLab Bollinger + RSI (1d, nur Long)",NWSA,14.0,71.4,0.99,13.9,2.66,-5.5,2.666
+"TradingLab Bollinger + RSI (1d, nur Long)",O,19.0,73.7,1.056,20.1,3.08,-9.6,2.899
+"TradingLab Bollinger + RSI (1d, nur Long)",OXY,19.0,78.9,0.327,6.2,1.3,-19.7,1.147
+"TradingLab Bollinger + RSI (1d, nur Long)",P,12.0,66.7,0.247,3.0,1.22,-7.1,1.611
+"TradingLab Bollinger + RSI (1d, nur Long)",PAH3.DE,19.0,63.2,0.232,4.4,1.21,-13.7,-0.066
+"TradingLab Bollinger + RSI (1d, nur Long)",PCAR,11.0,54.5,-0.393,-4.3,0.64,-7.4,-0.101
+"TradingLab Bollinger + RSI (1d, nur Long)",PCG,17.0,58.8,-1.272,-21.6,0.51,-40.1,-0.062
+"TradingLab Bollinger + RSI (1d, nur Long)",PFE,20.0,85.0,1.455,29.1,5.18,-5.4,3.729
+"TradingLab Bollinger + RSI (1d, nur Long)",PH,17.0,82.4,1.708,29.0,11.3,-1.2,4.695
+"TradingLab Bollinger + RSI (1d, nur Long)",PLD,19.0,63.2,1.073,20.4,3.53,-5.5,3.503
+"TradingLab Bollinger + RSI (1d, nur Long)",PODD,20.0,85.0,0.728,14.6,1.52,-16.3,4.292
+"TradingLab Bollinger + RSI (1d, nur Long)",PPG,14.0,64.3,-0.232,-3.2,0.84,-14.8,0.751
+"TradingLab Bollinger + RSI (1d, nur Long)",PSA,17.0,64.7,1.591,27.1,4.83,-2.8,4.07
+"TradingLab Bollinger + RSI (1d, nur Long)",PSX,8.0,50.0,-2.762,-22.1,0.15,-25.7,-4.257
+"TradingLab Bollinger + RSI (1d, nur Long)",QCOM,18.0,55.6,0.31,5.6,1.33,-9.4,0.73
+"TradingLab Bollinger + RSI (1d, nur Long)",QIA.DE,24.0,66.7,0.482,11.6,1.43,-7.7,1.532
+"TradingLab Bollinger + RSI (1d, nur Long)",REG,13.0,76.9,0.428,5.6,1.38,-11.8,1.309
+"TradingLab Bollinger + RSI (1d, nur Long)",REGN,18.0,61.1,0.174,3.1,1.15,-10.5,2.475
+"TradingLab Bollinger + RSI (1d, nur Long)",RHM.DE,20.0,70.0,0.238,4.8,1.18,-14.7,0.942
+"TradingLab Bollinger + RSI (1d, nur Long)",RL,21.0,61.9,0.745,15.6,2.46,-4.1,2.013
+"TradingLab Bollinger + RSI (1d, nur Long)",ROL,12.0,91.7,1.867,22.4,14.95,-1.6,6.202
+"TradingLab Bollinger + RSI (1d, nur Long)",ROST,15.0,73.3,1.488,22.3,9.93,-2.3,3.912
+"TradingLab Bollinger + RSI (1d, nur Long)",RWE.DE,21.0,61.9,-0.671,-14.1,0.62,-24.7,-0.473
+"TradingLab Bollinger + RSI (1d, nur Long)",SAP.DE,10.0,50.0,0.316,3.2,1.71,-3.1,0.574
+"TradingLab Bollinger + RSI (1d, nur Long)",SBAC,13.0,61.5,1.329,17.3,3.08,-4.9,4.672
+"TradingLab Bollinger + RSI (1d, nur Long)",SHL.DE,7.0,85.7,1.358,9.5,18.36,-0.5,3.485
+"TradingLab Bollinger + RSI (1d, nur Long)",SHW,13.0,84.6,1.481,19.3,3.61,-6.1,5.759
+"TradingLab Bollinger + RSI (1d, nur Long)",SIE.DE,14.0,50.0,-0.648,-9.1,0.55,-15.3,-1.22
+"TradingLab Bollinger + RSI (1d, nur Long)",SLB,20.0,75.0,0.174,3.5,1.11,-23.6,1.704
+"TradingLab Bollinger + RSI (1d, nur Long)",SNA,13.0,61.5,0.627,8.1,1.57,-6.7,1.743
+"TradingLab Bollinger + RSI (1d, nur Long)",SO,16.0,68.8,0.745,11.9,2.35,-5.8,1.531
+"TradingLab Bollinger + RSI (1d, nur Long)",STE,15.0,93.3,2.135,32.0,44.0,-0.7,6.947
+"TradingLab Bollinger + RSI (1d, nur Long)",SY1.DE,15.0,53.3,0.027,0.4,1.03,-12.5,1.387
+"TradingLab Bollinger + RSI (1d, nur Long)",SYK,16.0,81.2,0.826,13.2,1.95,-7.8,1.601
+"TradingLab Bollinger + RSI (1d, nur Long)",T,23.0,69.6,0.78,17.9,2.23,-10.7,1.552
+"TradingLab Bollinger + RSI (1d, nur Long)",TEL,17.0,52.9,-0.217,-3.7,0.86,-12.5,-1.048
+"TradingLab Bollinger + RSI (1d, nur Long)",TER,16.0,68.8,0.966,15.5,2.5,-8.1,2.496
+"TradingLab Bollinger + RSI (1d, nur Long)",TFC,22.0,77.3,0.685,15.1,1.81,-14.0,1.474
+"TradingLab Bollinger + RSI (1d, nur Long)",TGT,19.0,52.6,0.704,13.4,2.19,-4.8,1.921
+"TradingLab Bollinger + RSI (1d, nur Long)",TJX,9.0,66.7,0.437,3.9,1.55,-2.7,0.869
+"TradingLab Bollinger + RSI (1d, nur Long)",TPR,19.0,63.2,0.177,3.4,1.16,-12.0,2.205
+"TradingLab Bollinger + RSI (1d, nur Long)",TRMB,22.0,50.0,0.478,10.5,1.83,-2.9,1.498
+"TradingLab Bollinger + RSI (1d, nur Long)",TRV,8.0,75.0,0.345,2.8,1.3,-5.4,0.686
+"TradingLab Bollinger + RSI (1d, nur Long)",TSCO,16.0,81.2,1.509,24.1,4.01,-5.2,6.184
+"TradingLab Bollinger + RSI (1d, nur Long)",TSLA,12.0,91.7,1.674,20.1,4.62,-5.5,12.391
+"TradingLab Bollinger + RSI (1d, nur Long)",TSN,18.0,61.1,0.452,8.1,1.63,-5.0,2.769
+"TradingLab Bollinger + RSI (1d, nur Long)",TWLO,8.0,75.0,1.065,8.5,3.45,-3.3,6.156
+"TradingLab Bollinger + RSI (1d, nur Long)",TXT,19.0,57.9,-0.409,-7.8,0.77,-18.6,-2.736
+"TradingLab Bollinger + RSI (1d, nur Long)",UAL,19.0,57.9,-0.287,-5.4,0.83,-18.2,0.413
+"TradingLab Bollinger + RSI (1d, nur Long)",UBER,4.0,100.0,2.04,8.2,inf,0.0,14.023
+"TradingLab Bollinger + RSI (1d, nur Long)",UHS,19.0,57.9,-0.232,-4.4,0.83,-13.5,-0.684
+"TradingLab Bollinger + RSI (1d, nur Long)",UNP,15.0,80.0,1.789,26.8,5.48,-4.4,3.988
+"TradingLab Bollinger + RSI (1d, nur Long)",URI,22.0,77.3,0.968,21.3,2.46,-10.0,7.524
+"TradingLab Bollinger + RSI (1d, nur Long)",V,6.0,83.3,1.929,11.6,6.49,0.0,5.159
+"TradingLab Bollinger + RSI (1d, nur Long)",VNA.DE,14.0,85.7,1.696,23.7,7.96,-3.3,4.349
+"TradingLab Bollinger + RSI (1d, nur Long)",VOW3.DE,22.0,68.2,-0.095,-2.1,0.94,-27.0,-1.054
+"TradingLab Bollinger + RSI (1d, nur Long)",VRSK,16.0,75.0,1.498,24.0,4.54,-4.1,3.599
+"TradingLab Bollinger + RSI (1d, nur Long)",VRT,4.0,25.0,-0.562,-2.2,0.29,-0.8,-1.744
+"TradingLab Bollinger + RSI (1d, nur Long)",VST,3.0,33.3,-0.588,-1.8,0.6,-2.4,-1.481
+"TradingLab Bollinger + RSI (1d, nur Long)",WY,22.0,59.1,-0.554,-12.2,0.65,-19.7,-0.215
+"TradingLab Bollinger + RSI (1d, nur Long)",XOM,17.0,82.4,0.265,4.5,1.2,-21.2,1.139
+"TradingLab Bollinger + RSI (1d, nur Long)",XYZ,8.0,62.5,-0.708,-5.7,0.56,-12.8,-3.066
+"TradingLab Bollinger + RSI (1d, nur Long)",ZAL.DE,13.0,76.9,0.691,9.0,2.19,-7.5,4.565
+"TradingLab Bollinger + RSI (1d, nur Long)",ZBRA,18.0,61.1,-0.041,-0.7,0.97,-8.3,-0.155
+Turtles tmr0 (1d),AAPL,301.0,44.5,0.96,289.0,1.83,-32.1,2.113
+Turtles tmr0 (1d),ADBE,360.0,35.3,-0.204,-73.6,0.84,-87.1,-0.629
+Turtles tmr0 (1d),ADS.DE,353.0,37.4,-0.076,-26.8,0.94,-69.6,-0.273
+Turtles tmr0 (1d),AEE,364.0,32.1,-0.304,-110.7,0.73,-116.3,-0.644
+Turtles tmr0 (1d),AFL,366.0,35.0,-0.289,-105.9,0.77,-137.1,-0.302
+Turtles tmr0 (1d),AIR.DE,359.0,34.5,-0.139,-49.9,0.89,-92.8,-0.657
+Turtles tmr0 (1d),AKAM,356.0,37.9,-0.116,-41.4,0.91,-127.3,-0.355
+Turtles tmr0 (1d),ALGN,348.0,38.8,0.366,127.4,1.29,-112.3,1.378
+Turtles tmr0 (1d),ALV.DE,362.0,35.6,-0.089,-32.2,0.92,-55.8,-0.162
+Turtles tmr0 (1d),AMD,329.0,41.3,0.678,223.1,1.57,-45.4,2.464
+Turtles tmr0 (1d),AME,361.0,37.7,-0.16,-57.9,0.86,-103.2,-0.547
+Turtles tmr0 (1d),AMGN,350.0,36.3,0.07,24.6,1.06,-54.2,-0.181
+Turtles tmr0 (1d),AMP,329.0,42.2,0.211,69.5,1.19,-40.6,0.518
+Turtles tmr0 (1d),ANET,206.0,39.8,-0.157,-32.4,0.88,-64.2,-1.199
+Turtles tmr0 (1d),APO,237.0,44.3,0.358,84.7,1.38,-21.3,1.098
+Turtles tmr0 (1d),ATO,378.0,34.1,-0.316,-119.5,0.72,-147.3,-0.749
+Turtles tmr0 (1d),AVY,346.0,37.6,-0.039,-13.4,0.97,-71.5,-0.067
+Turtles tmr0 (1d),AWK,307.0,35.2,-0.17,-52.1,0.85,-67.5,-0.511
+Turtles tmr0 (1d),AXON,330.0,44.8,0.706,233.0,1.65,-30.7,2.138
+Turtles tmr0 (1d),AZO,353.0,39.4,0.062,21.9,1.05,-53.5,-0.122
+Turtles tmr0 (1d),BAC,341.0,40.5,0.047,16.0,1.04,-62.8,0.26
+Turtles tmr0 (1d),BAS.DE,350.0,37.1,0.135,47.1,1.13,-67.9,0.147
+Turtles tmr0 (1d),BAYN.DE,370.0,37.6,-0.156,-57.9,0.87,-106.7,-0.374
+Turtles tmr0 (1d),BE,126.0,42.9,1.435,180.8,2.61,-21.6,7.852
+Turtles tmr0 (1d),BEI.DE,384.0,32.3,-0.493,-189.4,0.63,-206.1,-1.139
+Turtles tmr0 (1d),BF-B,348.0,36.2,-0.108,-37.6,0.9,-97.3,-0.441
+Turtles tmr0 (1d),BIIB,361.0,34.1,-0.226,-81.7,0.83,-173.1,-1.181
+Turtles tmr0 (1d),BLK,337.0,42.4,0.305,102.9,1.3,-35.1,0.162
+Turtles tmr0 (1d),BMW.DE,377.0,35.3,-0.272,-102.6,0.78,-132.3,-0.902
+Turtles tmr0 (1d),BNR.DE,256.0,36.7,-0.028,-7.0,0.98,-59.3,-0.186
+Turtles tmr0 (1d),BNY,361.0,35.2,-0.161,-58.1,0.87,-100.2,-0.743
+Turtles tmr0 (1d),BRO,353.0,36.3,0.033,11.6,1.03,-102.6,-0.128
+Turtles tmr0 (1d),C,346.0,39.6,0.088,30.6,1.08,-79.2,0.364
+Turtles tmr0 (1d),CBK.DE,336.0,39.3,0.352,118.3,1.32,-57.1,1.314
+Turtles tmr0 (1d),CCL,348.0,37.4,-0.106,-37.0,0.91,-99.7,-0.67
+Turtles tmr0 (1d),CEG,73.0,37.0,0.5,36.5,1.43,-14.7,0.56
+Turtles tmr0 (1d),CF,327.0,38.2,0.354,115.8,1.33,-82.1,1.007
+Turtles tmr0 (1d),CFG,192.0,38.0,0.426,81.8,1.45,-29.5,0.647
+Turtles tmr0 (1d),CHD,368.0,36.4,-0.036,-13.2,0.97,-51.5,-0.079
+Turtles tmr0 (1d),CINF,355.0,37.2,-0.093,-33.0,0.92,-61.6,-0.17
+Turtles tmr0 (1d),CMI,358.0,41.6,0.241,86.1,1.22,-48.5,0.322
+Turtles tmr0 (1d),CNC,361.0,35.7,-0.1,-36.1,0.91,-106.5,-0.428
+Turtles tmr0 (1d),COF,358.0,36.9,-0.275,-98.4,0.78,-116.7,-0.407
+Turtles tmr0 (1d),CON.DE,375.0,37.1,-0.093,-35.0,0.92,-137.7,-0.165
+Turtles tmr0 (1d),COST,351.0,39.6,-0.007,-2.3,0.99,-44.5,-0.06
+Turtles tmr0 (1d),CPAY,255.0,37.6,0.206,52.6,1.18,-64.6,0.214
+Turtles tmr0 (1d),CSX,357.0,37.5,0.044,15.7,1.04,-63.0,-0.083
+Turtles tmr0 (1d),CTSH,367.0,40.9,0.044,16.0,1.04,-69.4,0.192
+Turtles tmr0 (1d),CVS,364.0,39.6,-0.148,-54.0,0.88,-95.9,-0.486
+Turtles tmr0 (1d),DASH,84.0,44.0,0.212,17.8,1.18,-18.6,0.479
+Turtles tmr0 (1d),DB1.DE,354.0,34.5,-0.169,-60.0,0.87,-176.6,-0.456
+Turtles tmr0 (1d),DBK.DE,354.0,40.7,0.113,40.0,1.1,-65.7,0.14
+Turtles tmr0 (1d),DD,357.0,35.9,-0.14,-50.1,0.88,-90.0,0.245
+Turtles tmr0 (1d),DDOG,111.0,44.1,0.495,54.9,1.47,-43.5,1.862
+Turtles tmr0 (1d),DELL,160.0,40.0,0.493,78.9,1.41,-43.9,2.201
+Turtles tmr0 (1d),DGX,375.0,35.2,-0.332,-124.4,0.72,-138.0,-0.71
+Turtles tmr0 (1d),DHL.DE,350.0,40.6,0.152,53.3,1.14,-44.0,0.479
+Turtles tmr0 (1d),DHR,394.0,32.0,-0.456,-179.5,0.65,-183.5,-0.983
+Turtles tmr0 (1d),DLTR,349.0,38.1,0.057,19.9,1.05,-59.8,-0.035
+Turtles tmr0 (1d),DPZ,347.0,36.3,0.116,40.3,1.1,-65.1,0.344
+Turtles tmr0 (1d),DTE.DE,374.0,37.4,-0.222,-83.0,0.82,-118.0,-0.565
+Turtles tmr0 (1d),DTG.DE,75.0,44.0,0.472,35.4,1.47,-18.0,0.527
+Turtles tmr0 (1d),DVA,377.0,34.7,-0.222,-83.8,0.82,-110.1,-0.691
+Turtles tmr0 (1d),DVN,365.0,36.4,-0.016,-5.7,0.99,-82.4,-0.491
+Turtles tmr0 (1d),ED,354.0,37.3,-0.047,-16.5,0.95,-71.5,-0.211
+Turtles tmr0 (1d),EL,344.0,38.4,0.14,48.1,1.11,-70.6,0.335
+Turtles tmr0 (1d),ELV,355.0,38.0,-0.013,-4.7,0.99,-73.6,-0.043
+Turtles tmr0 (1d),EMR,362.0,38.4,-0.085,-30.8,0.92,-74.8,-0.177
+Turtles tmr0 (1d),ENR.DE,89.0,39.3,1.176,104.7,2.06,-27.7,4.138
+Turtles tmr0 (1d),EOAN.DE,355.0,39.4,0.081,28.7,1.07,-49.6,-0.075
+Turtles tmr0 (1d),EQIX,374.0,35.6,-0.257,-96.1,0.78,-117.2,-0.809
+Turtles tmr0 (1d),EQT,365.0,35.9,-0.302,-110.2,0.75,-143.4,-1.219
+Turtles tmr0 (1d),EW,377.0,36.3,-0.387,-145.9,0.72,-146.9,-1.095
+Turtles tmr0 (1d),EXC,362.0,31.5,-0.245,-88.7,0.79,-106.7,-0.688
+Turtles tmr0 (1d),FICO,361.0,45.2,0.282,101.9,1.26,-50.6,0.898
+Turtles tmr0 (1d),FISV,381.0,34.9,-0.222,-84.4,0.81,-140.1,-0.491
+Turtles tmr0 (1d),FITB,363.0,39.1,-0.004,-1.6,1.0,-62.1,0.62
+Turtles tmr0 (1d),FIX,355.0,36.9,0.213,75.5,1.19,-72.8,0.808
+Turtles tmr0 (1d),FME.DE,383.0,34.7,-0.411,-157.5,0.68,-179.7,-0.885
+Turtles tmr0 (1d),FOXA,119.0,37.8,-0.071,-8.4,0.94,-48.0,-0.645
+Turtles tmr0 (1d),FRE.DE,370.0,35.7,-0.262,-96.8,0.79,-130.3,-0.482
+Turtles tmr0 (1d),FTV,164.0,36.6,-0.069,-11.2,0.94,-53.8,-0.26
+Turtles tmr0 (1d),G1A.DE,355.0,41.7,0.013,4.5,1.01,-103.0,-0.25
+Turtles tmr0 (1d),G24.DE,179.0,32.4,-0.097,-17.3,0.92,-71.1,-0.517
+Turtles tmr0 (1d),GD,368.0,37.5,-0.182,-67.2,0.84,-98.1,-0.144
+Turtles tmr0 (1d),GL,371.0,34.8,-0.142,-52.7,0.88,-82.0,-0.422
+Turtles tmr0 (1d),GOOG,333.0,41.4,0.47,156.4,1.42,-51.7,0.814
+Turtles tmr0 (1d),GOOGL,339.0,41.3,0.402,136.1,1.35,-56.5,0.691
+Turtles tmr0 (1d),HEI.DE,341.0,41.1,0.489,166.8,1.44,-57.2,1.059
+Turtles tmr0 (1d),HEN3.DE,372.0,36.3,-0.16,-59.5,0.87,-102.9,-0.273
+Turtles tmr0 (1d),HNR1.DE,382.0,31.4,-0.544,-207.8,0.6,-220.3,-1.313
+Turtles tmr0 (1d),HPE,186.0,38.2,-0.202,-37.6,0.85,-85.7,-0.566
+Turtles tmr0 (1d),IBKR,311.0,37.9,0.178,55.4,1.16,-76.3,-0.095
+Turtles tmr0 (1d),IBM,360.0,40.8,0.048,17.3,1.04,-87.2,-0.265
+Turtles tmr0 (1d),ICE,346.0,32.1,-0.186,-64.5,0.85,-164.3,-0.77
+Turtles tmr0 (1d),IEX,351.0,37.3,-0.051,-18.0,0.95,-61.4,-0.33
+Turtles tmr0 (1d),IFF,369.0,33.3,-0.253,-93.4,0.78,-126.6,-0.633
+Turtles tmr0 (1d),IFX.DE,360.0,36.9,0.047,17.0,1.04,-115.8,1.003
+Turtles tmr0 (1d),IR,145.0,37.9,0.04,5.8,1.03,-39.6,0.052
+Turtles tmr0 (1d),IRM,359.0,39.6,-0.059,-21.3,0.95,-104.3,-0.076
+Turtles tmr0 (1d),ITW,383.0,36.0,-0.219,-83.8,0.8,-129.7,-0.22
+Turtles tmr0 (1d),JBHT,359.0,35.7,-0.272,-97.6,0.76,-129.8,-0.748
+Turtles tmr0 (1d),JNJ,364.0,37.1,-0.041,-14.9,0.96,-123.4,-0.172
+Turtles tmr0 (1d),JPM,350.0,35.4,-0.113,-39.4,0.9,-87.6,-0.618
+Turtles tmr0 (1d),KEYS,195.0,35.4,0.097,19.0,1.08,-56.1,0.198
+Turtles tmr0 (1d),KLAC,378.0,36.8,-0.203,-76.6,0.84,-97.3,-0.772
+Turtles tmr0 (1d),KMI,244.0,35.7,-0.1,-24.4,0.91,-49.6,-0.311
+Turtles tmr0 (1d),KO,360.0,36.7,-0.316,-113.7,0.75,-153.3,-0.441
+Turtles tmr0 (1d),KVUE,54.0,38.9,-0.131,-7.1,0.89,-25.1,-0.157
+Turtles tmr0 (1d),LEN,356.0,33.1,-0.237,-84.4,0.79,-100.6,-1.172
+Turtles tmr0 (1d),LIN,374.0,34.0,-0.353,-132.1,0.69,-154.8,-0.749
+Turtles tmr0 (1d),LNT,366.0,35.8,-0.149,-54.6,0.86,-94.4,-0.377
+Turtles tmr0 (1d),LYV,343.0,37.3,0.075,25.6,1.06,-101.6,0.383
+Turtles tmr0 (1d),MAA,356.0,36.0,-0.155,-55.0,0.86,-101.4,-0.569
+Turtles tmr0 (1d),MAR,355.0,34.9,-0.102,-36.1,0.92,-66.1,-0.547
+Turtles tmr0 (1d),MBG.DE,358.0,39.9,0.275,98.5,1.27,-31.4,0.315
+Turtles tmr0 (1d),MCD,338.0,35.5,0.077,26.0,1.07,-53.4,-0.015
+Turtles tmr0 (1d),MDLZ,366.0,38.3,-0.264,-96.6,0.74,-103.8,-0.491
+Turtles tmr0 (1d),MDT,332.0,42.2,0.105,34.7,1.1,-51.1,0.121
+Turtles tmr0 (1d),MGM,356.0,37.1,-0.149,-53.0,0.89,-161.5,-0.635
+Turtles tmr0 (1d),MMM,368.0,37.2,-0.185,-68.1,0.85,-114.1,-0.358
+Turtles tmr0 (1d),MO,356.0,38.8,0.154,54.8,1.14,-64.1,0.257
+Turtles tmr0 (1d),MOS,347.0,39.2,0.08,27.9,1.07,-76.4,0.441
+Turtles tmr0 (1d),MPWR,362.0,37.8,0.035,12.8,1.03,-98.0,0.143
+Turtles tmr0 (1d),MRK.DE,357.0,36.7,-0.139,-49.5,0.88,-75.6,-0.394
+Turtles tmr0 (1d),MRVL,335.0,40.9,0.191,64.1,1.16,-42.9,0.966
+Turtles tmr0 (1d),MSCI,309.0,35.3,-0.215,-66.4,0.83,-84.0,-0.658
+Turtles tmr0 (1d),MTB,369.0,30.4,-0.292,-107.9,0.76,-158.2,-0.987
+Turtles tmr0 (1d),MTD,329.0,43.5,0.527,173.2,1.52,-52.9,1.051
+Turtles tmr0 (1d),MTX.DE,356.0,36.2,-0.17,-60.7,0.86,-83.9,-0.875
+Turtles tmr0 (1d),MUV2.DE,381.0,33.3,-0.274,-104.4,0.77,-121.7,-0.715
+Turtles tmr0 (1d),NKE,343.0,38.8,-0.154,-53.0,0.88,-90.2,-0.5
+Turtles tmr0 (1d),NUE,349.0,36.1,-0.08,-27.9,0.93,-107.1,-0.511
+Turtles tmr0 (1d),NVDA,330.0,39.4,0.721,238.0,1.63,-80.4,2.342
+Turtles tmr0 (1d),NWS,230.0,37.8,-0.149,-34.3,0.87,-49.4,-0.424
+Turtles tmr0 (1d),NWSA,224.0,37.5,-0.019,-4.3,0.98,-37.2,-0.034
+Turtles tmr0 (1d),O,346.0,35.8,-0.211,-73.0,0.82,-83.6,-0.626
+Turtles tmr0 (1d),OXY,353.0,37.1,0.025,8.9,1.02,-70.8,-0.072
+Turtles tmr0 (1d),P,189.0,37.6,-0.115,-21.8,0.9,-62.1,-0.793
+Turtles tmr0 (1d),PAH3.DE,273.0,39.6,0.205,55.9,1.17,-69.8,-0.093
+Turtles tmr0 (1d),PCAR,365.0,34.2,-0.188,-68.8,0.83,-93.4,-0.674
+Turtles tmr0 (1d),PCG,367.0,35.7,-0.236,-86.6,0.81,-131.3,-0.003
+Turtles tmr0 (1d),PFE,334.0,40.4,0.057,19.2,1.05,-54.3,-0.05
+Turtles tmr0 (1d),PH,370.0,36.5,-0.09,-33.3,0.93,-107.5,-0.161
+Turtles tmr0 (1d),PLD,366.0,36.9,-0.198,-72.4,0.83,-100.9,-0.676
+Turtles tmr0 (1d),PODD,322.0,39.8,0.135,43.3,1.13,-50.1,0.54
+Turtles tmr0 (1d),PPG,354.0,37.6,-0.093,-32.8,0.92,-75.1,-0.253
+Turtles tmr0 (1d),PSA,360.0,36.4,-0.187,-67.2,0.83,-100.3,-1.03
+Turtles tmr0 (1d),PSX,235.0,34.9,0.195,45.8,1.17,-70.9,0.218
+Turtles tmr0 (1d),Q,16.0,31.2,-0.477,-7.6,0.44,-11.0,-2.6
+Turtles tmr0 (1d),QCOM,339.0,42.2,0.241,81.8,1.22,-75.9,0.779
+Turtles tmr0 (1d),QIA.DE,381.0,36.2,-0.28,-106.8,0.76,-145.6,-0.738
+Turtles tmr0 (1d),REG,331.0,39.6,0.121,39.9,1.13,-43.1,-0.227
+Turtles tmr0 (1d),REGN,350.0,37.7,0.254,89.0,1.22,-53.6,0.324
+Turtles tmr0 (1d),RHM.DE,340.0,38.5,0.696,236.6,1.6,-33.6,1.293
+Turtles tmr0 (1d),RL,359.0,31.8,-0.148,-53.2,0.88,-92.1,-0.898
+Turtles tmr0 (1d),ROL,394.0,30.2,-0.478,-188.5,0.62,-215.9,-1.518
+Turtles tmr0 (1d),ROST,348.0,39.9,0.135,47.1,1.12,-80.7,0.053
+Turtles tmr0 (1d),RWE.DE,353.0,40.5,0.331,117.0,1.31,-88.6,0.323
+Turtles tmr0 (1d),SAP.DE,369.0,37.7,-0.09,-33.3,0.93,-95.4,-0.121
+Turtles tmr0 (1d),SBAC,337.0,38.0,0.088,29.5,1.08,-38.6,-0.26
+Turtles tmr0 (1d),SHL.DE,142.0,38.0,-0.393,-55.7,0.72,-80.1,-0.69
+Turtles tmr0 (1d),SHW,351.0,38.7,-0.051,-18.1,0.96,-74.0,-0.26
+Turtles tmr0 (1d),SIE.DE,379.0,34.3,-0.227,-85.9,0.82,-102.3,-0.565
+Turtles tmr0 (1d),SLB,343.0,38.2,0.233,79.8,1.22,-53.4,0.336
+Turtles tmr0 (1d),SNA,361.0,34.1,-0.425,-153.4,0.69,-165.2,-0.732
+Turtles tmr0 (1d),SO,356.0,39.6,-0.04,-14.3,0.96,-48.8,-0.075
+Turtles tmr0 (1d),STE,379.0,36.7,-0.372,-140.9,0.68,-150.5,-0.964
+Turtles tmr0 (1d),SY1.DE,324.0,39.2,0.018,5.8,1.02,-72.9,-0.47
+Turtles tmr0 (1d),SYK,353.0,32.9,-0.463,-163.5,0.67,-185.8,-0.83
+Turtles tmr0 (1d),T,370.0,33.5,-0.325,-120.1,0.73,-152.9,-0.529
+Turtles tmr0 (1d),TEL,337.0,32.3,-0.245,-82.7,0.81,-111.4,-0.416
+Turtles tmr0 (1d),TER,355.0,38.3,0.273,97.0,1.25,-101.8,0.918
+Turtles tmr0 (1d),TFC,352.0,39.5,-0.108,-37.9,0.9,-61.3,-0.404
+Turtles tmr0 (1d),TGT,369.0,36.0,-0.103,-38.1,0.91,-92.8,-0.211
+Turtles tmr0 (1d),TJX,373.0,32.7,-0.273,-101.8,0.78,-115.9,-0.676
+Turtles tmr0 (1d),TPR,346.0,40.5,0.267,92.4,1.24,-48.8,0.766
+Turtles tmr0 (1d),TRMB,341.0,43.1,0.267,90.9,1.26,-34.5,0.542
+Turtles tmr0 (1d),TRV,365.0,33.7,-0.223,-81.3,0.81,-105.1,-0.684
+Turtles tmr0 (1d),TSCO,353.0,38.5,-0.079,-28.0,0.93,-72.6,-0.237
+Turtles tmr0 (1d),TSLA,239.0,34.7,0.976,233.1,1.86,-55.1,3.403
+Turtles tmr0 (1d),TSN,332.0,36.7,0.242,80.3,1.21,-68.6,0.719
+Turtles tmr0 (1d),TWLO,161.0,38.5,0.425,68.5,1.35,-45.4,1.079
+Turtles tmr0 (1d),TXT,365.0,32.6,-0.177,-64.5,0.86,-127.4,-0.035
+Turtles tmr0 (1d),UAL,314.0,36.9,0.247,77.7,1.2,-73.9,0.133
+Turtles tmr0 (1d),UBER,125.0,34.4,-0.287,-35.8,0.76,-48.9,-1.476
+Turtles tmr0 (1d),UHS,377.0,39.0,0.083,31.2,1.08,-90.9,0.155
+Turtles tmr0 (1d),UNP,375.0,33.1,-0.398,-149.4,0.68,-163.5,-1.082
+Turtles tmr0 (1d),URI,336.0,43.5,0.461,154.8,1.41,-30.8,2.117
+Turtles tmr0 (1d),V,299.0,34.8,-0.191,-57.2,0.84,-87.3,-0.826
+Turtles tmr0 (1d),VNA.DE,204.0,41.7,0.154,31.4,1.16,-37.5,0.099
+Turtles tmr0 (1d),VOW3.DE,349.0,39.8,0.34,118.8,1.31,-111.2,0.559
+Turtles tmr0 (1d),VRSK,282.0,34.0,-0.309,-87.3,0.76,-117.4,-0.671
+Turtles tmr0 (1d),VRT,116.0,46.6,2.006,232.7,3.36,-16.0,4.4
+Turtles tmr0 (1d),VST,168.0,28.6,-0.138,-23.2,0.9,-97.1,-1.075
+Turtles tmr0 (1d),WY,343.0,37.6,0.066,22.6,1.06,-66.8,0.158
+Turtles tmr0 (1d),XOM,350.0,34.3,0.067,23.3,1.06,-70.4,-0.197
+Turtles tmr0 (1d),XYZ,159.0,44.0,0.574,91.3,1.55,-25.4,2.417
+Turtles tmr0 (1d),ZAL.DE,194.0,44.8,0.196,38.0,1.2,-31.2,1.051
+Turtles tmr0 (1d),ZBRA,363.0,41.9,0.206,74.9,1.19,-47.9,0.337
+"Turtles tmr0 (1d, nur Long)",AAPL,174.0,58.0,2.224,387.0,3.76,-14.7,5.175
+"Turtles tmr0 (1d, nur Long)",ADBE,198.0,39.9,0.215,42.6,1.18,-54.0,0.45
+"Turtles tmr0 (1d, nur Long)",ADS.DE,192.0,41.7,0.171,32.7,1.17,-40.3,0.281
+"Turtles tmr0 (1d, nur Long)",AEE,195.0,36.9,-0.101,-19.7,0.9,-44.7,-0.321
+"Turtles tmr0 (1d, nur Long)",AFL,209.0,41.1,-0.072,-15.0,0.94,-50.0,0.355
+"Turtles tmr0 (1d, nur Long)",AIR.DE,198.0,41.4,0.171,33.8,1.16,-36.1,0.284
+"Turtles tmr0 (1d, nur Long)",AKAM,194.0,40.7,0.265,51.5,1.22,-54.1,0.872
+"Turtles tmr0 (1d, nur Long)",ALGN,193.0,42.0,0.765,147.6,1.64,-50.7,2.79
+"Turtles tmr0 (1d, nur Long)",ALV.DE,203.0,39.9,0.274,55.6,1.27,-16.8,0.575
+"Turtles tmr0 (1d, nur Long)",AMD,167.0,45.5,1.397,233.3,2.17,-35.4,5.69
+"Turtles tmr0 (1d, nur Long)",AME,214.0,43.9,0.252,54.0,1.26,-52.0,0.305
+"Turtles tmr0 (1d, nur Long)",AMGN,184.0,42.9,0.532,97.9,1.54,-29.0,0.826
+"Turtles tmr0 (1d, nur Long)",AMP,183.0,50.8,0.693,126.8,1.76,-28.3,1.646
+"Turtles tmr0 (1d, nur Long)",ANET,114.0,48.2,0.735,83.8,1.65,-22.4,1.865
+"Turtles tmr0 (1d, nur Long)",APO,132.0,48.5,0.629,83.1,1.67,-17.1,1.971
+"Turtles tmr0 (1d, nur Long)",ATO,213.0,39.4,0.057,12.2,1.06,-45.9,-0.102
+"Turtles tmr0 (1d, nur Long)",AVY,186.0,39.2,0.267,49.7,1.22,-40.1,0.516
+"Turtles tmr0 (1d, nur Long)",AWK,168.0,45.2,0.41,68.9,1.42,-38.0,0.508
+"Turtles tmr0 (1d, nur Long)",AXON,165.0,48.5,1.704,281.1,2.62,-22.7,5.192
+"Turtles tmr0 (1d, nur Long)",AZO,197.0,49.7,0.765,150.8,1.88,-19.5,1.593
+"Turtles tmr0 (1d, nur Long)",BAC,181.0,46.4,0.264,47.9,1.24,-33.6,0.692
+"Turtles tmr0 (1d, nur Long)",BAS.DE,191.0,40.3,0.162,31.0,1.17,-42.2,0.435
+"Turtles tmr0 (1d, nur Long)",BAYN.DE,199.0,38.7,-0.098,-19.4,0.92,-84.2,-0.118
+"Turtles tmr0 (1d, nur Long)",BE,62.0,45.2,2.63,163.1,3.7,-16.8,16.107
+"Turtles tmr0 (1d, nur Long)",BEI.DE,208.0,35.1,-0.272,-56.6,0.79,-83.9,-0.696
+"Turtles tmr0 (1d, nur Long)",BF-B,186.0,40.9,0.254,47.2,1.26,-39.2,0.134
+"Turtles tmr0 (1d, nur Long)",BIIB,198.0,34.3,0.123,24.4,1.1,-85.7,-0.352
+"Turtles tmr0 (1d, nur Long)",BLK,187.0,48.1,0.788,147.4,1.9,-17.5,1.254
+"Turtles tmr0 (1d, nur Long)",BMW.DE,206.0,32.5,-0.348,-71.6,0.74,-85.5,-0.999
+"Turtles tmr0 (1d, nur Long)",BNR.DE,135.0,39.3,0.223,30.1,1.2,-43.9,0.528
+"Turtles tmr0 (1d, nur Long)",BNY,195.0,43.6,0.136,26.4,1.12,-59.1,-0.053
+"Turtles tmr0 (1d, nur Long)",BRO,197.0,42.1,0.49,96.6,1.45,-61.7,0.651
+"Turtles tmr0 (1d, nur Long)",C,183.0,41.5,0.135,24.7,1.13,-55.5,0.222
+"Turtles tmr0 (1d, nur Long)",CBK.DE,173.0,42.2,0.444,76.9,1.42,-44.4,1.48
+"Turtles tmr0 (1d, nur Long)",CCL,178.0,38.2,-0.081,-14.4,0.93,-54.9,-0.395
+"Turtles tmr0 (1d, nur Long)",CEG,38.0,50.0,1.923,73.1,3.01,-11.5,4.792
+"Turtles tmr0 (1d, nur Long)",CF,177.0,45.8,1.033,182.8,2.07,-30.5,3.363
+"Turtles tmr0 (1d, nur Long)",CFG,104.0,42.3,0.549,57.1,1.64,-23.9,1.231
+"Turtles tmr0 (1d, nur Long)",CHD,208.0,45.2,0.617,128.4,1.66,-26.0,1.059
+"Turtles tmr0 (1d, nur Long)",CINF,195.0,44.1,0.24,46.8,1.23,-30.4,0.467
+"Turtles tmr0 (1d, nur Long)",CMI,200.0,49.0,0.666,133.2,1.69,-24.3,1.484
+"Turtles tmr0 (1d, nur Long)",CNC,196.0,40.3,0.256,50.2,1.25,-35.0,0.641
+"Turtles tmr0 (1d, nur Long)",COF,193.0,38.9,-0.117,-22.5,0.9,-50.8,0.305
+"Turtles tmr0 (1d, nur Long)",CON.DE,204.0,40.7,0.069,14.1,1.07,-89.9,0.076
+"Turtles tmr0 (1d, nur Long)",COST,200.0,47.0,0.57,113.9,1.55,-19.3,0.946
+"Turtles tmr0 (1d, nur Long)",CPAY,141.0,41.8,0.833,117.5,1.79,-38.6,1.844
+"Turtles tmr0 (1d, nur Long)",CSX,204.0,43.6,0.457,93.3,1.48,-28.4,0.884
+"Turtles tmr0 (1d, nur Long)",CTSH,208.0,48.1,0.316,65.8,1.31,-28.3,1.048
+"Turtles tmr0 (1d, nur Long)",CVS,198.0,43.4,0.151,30.0,1.14,-57.3,0.225
+"Turtles tmr0 (1d, nur Long)",DASH,43.0,58.1,1.027,44.2,2.15,-18.5,3.345
+"Turtles tmr0 (1d, nur Long)",DB1.DE,193.0,42.5,0.472,91.2,1.38,-51.6,1.01
+"Turtles tmr0 (1d, nur Long)",DBK.DE,182.0,39.6,0.153,27.8,1.15,-35.1,0.663
+"Turtles tmr0 (1d, nur Long)",DD,192.0,38.5,-0.092,-17.7,0.92,-44.4,0.57
+"Turtles tmr0 (1d, nur Long)",DDOG,55.0,56.4,1.741,95.7,2.99,-9.1,8.057
+"Turtles tmr0 (1d, nur Long)",DELL,92.0,51.1,1.565,144.0,2.42,-23.1,5.917
+"Turtles tmr0 (1d, nur Long)",DGX,203.0,42.4,-0.085,-17.2,0.91,-48.6,-0.146
+"Turtles tmr0 (1d, nur Long)",DHL.DE,192.0,43.2,0.272,52.2,1.25,-29.9,0.755
+"Turtles tmr0 (1d, nur Long)",DHR,220.0,40.9,-0.032,-7.1,0.97,-48.1,-0.127
+"Turtles tmr0 (1d, nur Long)",DLTR,186.0,41.4,0.5,93.0,1.44,-31.1,1.322
+"Turtles tmr0 (1d, nur Long)",DPZ,194.0,45.4,0.713,138.3,1.74,-24.1,1.739
+"Turtles tmr0 (1d, nur Long)",DTE.DE,191.0,39.8,-0.051,-9.7,0.96,-67.1,-0.154
+"Turtles tmr0 (1d, nur Long)",DTG.DE,38.0,50.0,0.953,36.2,1.87,-11.1,1.235
+"Turtles tmr0 (1d, nur Long)",DVA,213.0,38.5,-0.008,-1.8,0.99,-64.1,-0.089
+"Turtles tmr0 (1d, nur Long)",DVN,189.0,39.7,0.124,23.5,1.11,-41.6,0.299
+"Turtles tmr0 (1d, nur Long)",ED,182.0,45.1,0.343,62.4,1.37,-22.0,0.491
+"Turtles tmr0 (1d, nur Long)",EL,193.0,42.0,0.478,92.2,1.43,-40.0,0.913
+"Turtles tmr0 (1d, nur Long)",ELV,199.0,43.7,0.224,44.6,1.22,-46.8,0.514
+"Turtles tmr0 (1d, nur Long)",EMR,200.0,42.5,0.108,21.7,1.12,-25.4,0.317
+"Turtles tmr0 (1d, nur Long)",ENR.DE,44.0,45.5,2.488,109.5,3.26,-17.9,10.118
+"Turtles tmr0 (1d, nur Long)",EOAN.DE,182.0,43.4,0.236,43.0,1.23,-63.3,0.193
+"Turtles tmr0 (1d, nur Long)",EQIX,205.0,40.0,0.187,38.3,1.18,-31.7,0.525
+"Turtles tmr0 (1d, nur Long)",EQT,189.0,37.6,-0.09,-17.0,0.92,-59.8,-0.425
+"Turtles tmr0 (1d, nur Long)",EW,212.0,45.8,0.134,28.3,1.11,-62.1,0.316
+"Turtles tmr0 (1d, nur Long)",EXC,190.0,31.1,-0.142,-26.9,0.88,-74.8,-0.598
+"Turtles tmr0 (1d, nur Long)",FICO,211.0,50.2,0.682,143.8,1.7,-27.7,1.971
+"Turtles tmr0 (1d, nur Long)",FISV,219.0,42.0,0.242,53.1,1.24,-44.2,0.285
+"Turtles tmr0 (1d, nur Long)",FITB,190.0,40.5,0.083,15.8,1.08,-52.9,1.081
+"Turtles tmr0 (1d, nur Long)",FIX,195.0,45.1,0.91,177.5,1.91,-45.1,3.284
+"Turtles tmr0 (1d, nur Long)",FME.DE,198.0,39.4,-0.266,-52.6,0.79,-87.9,-0.496
+"Turtles tmr0 (1d, nur Long)",FOXA,69.0,39.1,-0.088,-6.1,0.94,-36.1,-0.747
+"Turtles tmr0 (1d, nur Long)",FRE.DE,209.0,40.2,-0.024,-5.0,0.98,-76.1,-0.019
+"Turtles tmr0 (1d, nur Long)",FTV,93.0,39.8,-0.116,-10.8,0.91,-38.9,-0.385
+"Turtles tmr0 (1d, nur Long)",G1A.DE,192.0,48.4,0.337,64.7,1.38,-33.6,0.781
+"Turtles tmr0 (1d, nur Long)",G24.DE,100.0,39.0,0.161,16.1,1.15,-45.5,0.294
+"Turtles tmr0 (1d, nur Long)",GD,208.0,45.2,0.102,21.3,1.1,-41.1,0.389
+"Turtles tmr0 (1d, nur Long)",GL,214.0,41.6,0.13,27.9,1.13,-48.1,0.043
+"Turtles tmr0 (1d, nur Long)",GOOG,188.0,51.1,1.294,243.2,2.46,-19.7,2.527
+"Turtles tmr0 (1d, nur Long)",GOOGL,194.0,49.5,1.162,225.3,2.24,-22.0,2.318
+"Turtles tmr0 (1d, nur Long)",HEI.DE,187.0,43.9,0.689,128.9,1.64,-32.7,1.454
+"Turtles tmr0 (1d, nur Long)",HEN3.DE,210.0,39.0,-0.072,-15.0,0.94,-103.5,-0.062
+"Turtles tmr0 (1d, nur Long)",HNR1.DE,212.0,36.3,-0.087,-18.4,0.93,-67.9,-0.426
+"Turtles tmr0 (1d, nur Long)",HPE,97.0,43.3,0.23,22.3,1.2,-44.5,1.564
+"Turtles tmr0 (1d, nur Long)",IBKR,169.0,42.0,0.855,144.5,1.8,-51.0,1.443
+"Turtles tmr0 (1d, nur Long)",IBM,194.0,44.3,0.099,19.2,1.08,-81.3,-0.078
+"Turtles tmr0 (1d, nur Long)",ICE,189.0,40.2,0.404,76.4,1.39,-42.3,1.278
+"Turtles tmr0 (1d, nur Long)",IEX,199.0,47.2,0.306,60.9,1.34,-36.2,0.532
+"Turtles tmr0 (1d, nur Long)",IFF,205.0,33.2,-0.174,-35.6,0.85,-76.3,-0.574
+"Turtles tmr0 (1d, nur Long)",IFX.DE,193.0,40.4,0.406,78.3,1.37,-51.4,2.749
+"Turtles tmr0 (1d, nur Long)",IR,81.0,42.0,0.556,45.0,1.56,-23.5,1.452
+"Turtles tmr0 (1d, nur Long)",IRM,188.0,45.2,0.342,64.2,1.33,-40.3,1.037
+"Turtles tmr0 (1d, nur Long)",ITW,205.0,42.9,0.221,45.3,1.24,-31.5,0.591
+"Turtles tmr0 (1d, nur Long)",JBHT,188.0,38.8,-0.016,-3.0,0.98,-36.1,0.028
+"Turtles tmr0 (1d, nur Long)",JNJ,188.0,44.7,0.576,108.3,1.6,-35.1,0.732
+"Turtles tmr0 (1d, nur Long)",JPM,186.0,42.5,0.517,96.1,1.53,-28.5,0.932
+"Turtles tmr0 (1d, nur Long)",KEYS,112.0,36.6,0.432,48.3,1.37,-42.1,1.258
+"Turtles tmr0 (1d, nur Long)",KLAC,202.0,44.1,0.331,66.9,1.3,-31.3,0.974
+"Turtles tmr0 (1d, nur Long)",KMI,134.0,36.6,-0.143,-19.2,0.87,-65.2,-0.436
+"Turtles tmr0 (1d, nur Long)",KO,196.0,43.4,0.104,20.4,1.09,-52.5,0.177
+"Turtles tmr0 (1d, nur Long)",KVUE,27.0,44.4,-0.13,-3.5,0.87,-15.9,-0.204
+"Turtles tmr0 (1d, nur Long)",LEN,181.0,36.5,-0.116,-20.9,0.89,-37.4,-0.551
+"Turtles tmr0 (1d, nur Long)",LIN,219.0,41.6,-0.058,-12.8,0.94,-58.5,-0.085
+"Turtles tmr0 (1d, nur Long)",LNT,209.0,41.6,0.144,30.1,1.15,-39.2,0.044
+"Turtles tmr0 (1d, nur Long)",LYV,193.0,43.5,0.597,115.2,1.58,-37.7,1.459
+"Turtles tmr0 (1d, nur Long)",MAA,189.0,41.8,0.073,13.8,1.07,-41.1,0.047
+"Turtles tmr0 (1d, nur Long)",MAR,199.0,40.7,0.376,74.9,1.33,-36.0,0.34
+"Turtles tmr0 (1d, nur Long)",MBG.DE,183.0,40.4,0.411,75.2,1.42,-25.8,0.722
+"Turtles tmr0 (1d, nur Long)",MCD,181.0,44.8,0.673,121.7,1.73,-23.5,0.972
+"Turtles tmr0 (1d, nur Long)",MDLZ,196.0,40.3,-0.062,-12.1,0.94,-36.0,-0.088
+"Turtles tmr0 (1d, nur Long)",MDT,187.0,47.1,0.143,26.8,1.15,-29.4,0.137
+"Turtles tmr0 (1d, nur Long)",MGM,182.0,40.7,0.056,10.2,1.04,-87.4,0.201
+"Turtles tmr0 (1d, nur Long)",MMM,202.0,40.1,-0.011,-2.1,0.99,-67.1,-0.045
+"Turtles tmr0 (1d, nur Long)",MO,198.0,46.5,0.392,77.6,1.42,-34.5,0.44
+"Turtles tmr0 (1d, nur Long)",MOS,182.0,36.8,0.043,7.7,1.04,-80.7,0.806
+"Turtles tmr0 (1d, nur Long)",MPWR,204.0,45.1,0.666,135.9,1.73,-25.4,2.841
+"Turtles tmr0 (1d, nur Long)",MRK.DE,191.0,42.4,0.298,56.8,1.28,-40.9,0.606
+"Turtles tmr0 (1d, nur Long)",MRVL,170.0,46.5,0.795,135.2,1.78,-26.5,3.602
+"Turtles tmr0 (1d, nur Long)",MSCI,176.0,46.6,0.436,76.7,1.45,-38.3,0.971
+"Turtles tmr0 (1d, nur Long)",MTB,202.0,33.2,-0.13,-26.2,0.88,-68.2,-0.388
+"Turtles tmr0 (1d, nur Long)",MTD,190.0,48.9,1.188,225.8,2.31,-23.0,2.434
+"Turtles tmr0 (1d, nur Long)",MTX.DE,201.0,42.8,0.291,58.4,1.27,-28.7,0.288
+"Turtles tmr0 (1d, nur Long)",MUV2.DE,213.0,38.5,0.042,8.9,1.04,-35.3,-0.056
+"Turtles tmr0 (1d, nur Long)",NKE,181.0,42.5,0.201,36.4,1.17,-60.1,0.255
+"Turtles tmr0 (1d, nur Long)",NUE,182.0,41.2,0.285,51.8,1.25,-52.4,1.033
+"Turtles tmr0 (1d, nur Long)",NVDA,189.0,46.6,1.713,323.8,2.78,-31.3,5.838
+"Turtles tmr0 (1d, nur Long)",NWS,119.0,42.0,0.136,16.1,1.12,-25.2,0.241
+"Turtles tmr0 (1d, nur Long)",NWSA,114.0,41.2,0.216,24.6,1.19,-25.1,0.509
+"Turtles tmr0 (1d, nur Long)",O,188.0,39.9,-0.051,-9.5,0.95,-45.0,-0.169
+"Turtles tmr0 (1d, nur Long)",OXY,184.0,37.0,0.175,32.1,1.16,-42.2,0.504
+"Turtles tmr0 (1d, nur Long)",P,100.0,47.0,0.466,46.6,1.47,-26.2,1.455
+"Turtles tmr0 (1d, nur Long)",PAH3.DE,138.0,34.8,0.307,42.3,1.23,-57.4,0.274
+"Turtles tmr0 (1d, nur Long)",PCAR,189.0,41.3,0.164,30.9,1.16,-29.6,0.244
+"Turtles tmr0 (1d, nur Long)",PCG,196.0,37.8,-0.299,-58.6,0.77,-88.3,-0.418
+"Turtles tmr0 (1d, nur Long)",PFE,163.0,39.9,0.278,45.4,1.27,-34.5,0.293
+"Turtles tmr0 (1d, nur Long)",PH,203.0,45.8,0.459,93.1,1.45,-23.1,1.244
+"Turtles tmr0 (1d, nur Long)",PLD,206.0,40.8,0.067,13.8,1.07,-31.3,-0.181
+"Turtles tmr0 (1d, nur Long)",PODD,180.0,46.7,0.353,63.5,1.39,-20.0,1.442
+"Turtles tmr0 (1d, nur Long)",PPG,188.0,42.0,0.115,21.6,1.12,-57.6,0.372
+"Turtles tmr0 (1d, nur Long)",PSA,199.0,42.7,0.161,32.0,1.16,-33.5,-0.259
+"Turtles tmr0 (1d, nur Long)",PSX,131.0,42.7,0.578,75.7,1.62,-40.0,1.74
+"Turtles tmr0 (1d, nur Long)",Q,8.0,25.0,-0.805,-6.4,0.37,-9.3,-4.097
+"Turtles tmr0 (1d, nur Long)",QCOM,176.0,44.3,0.579,101.9,1.56,-41.0,1.721
+"Turtles tmr0 (1d, nur Long)",QIA.DE,206.0,40.3,-0.009,-1.9,0.99,-52.0,-0.017
+"Turtles tmr0 (1d, nur Long)",REG,174.0,41.4,0.392,68.2,1.43,-24.5,0.207
+"Turtles tmr0 (1d, nur Long)",REGN,183.0,45.4,1.123,205.6,2.21,-23.7,3.37
+"Turtles tmr0 (1d, nur Long)",RHM.DE,187.0,42.8,1.448,270.8,2.32,-33.1,2.94
+"Turtles tmr0 (1d, nur Long)",RL,193.0,35.8,0.207,40.0,1.18,-55.4,0.499
+"Turtles tmr0 (1d, nur Long)",ROL,220.0,37.7,0.075,16.6,1.07,-38.2,-0.258
+"Turtles tmr0 (1d, nur Long)",ROST,194.0,45.9,0.713,138.4,1.71,-48.6,1.52
+"Turtles tmr0 (1d, nur Long)",RWE.DE,180.0,43.3,0.521,93.8,1.51,-37.1,0.78
+"Turtles tmr0 (1d, nur Long)",SAP.DE,206.0,41.7,0.26,53.6,1.22,-33.0,0.584
+"Turtles tmr0 (1d, nur Long)",SBAC,184.0,44.6,0.673,123.9,1.78,-24.4,1.283
+"Turtles tmr0 (1d, nur Long)",SHL.DE,73.0,37.0,-0.224,-16.3,0.85,-47.9,-0.285
+"Turtles tmr0 (1d, nur Long)",SHW,186.0,48.9,0.719,133.8,1.69,-24.2,1.477
+"Turtles tmr0 (1d, nur Long)",SIE.DE,211.0,36.0,-0.119,-25.1,0.9,-59.0,-0.131
+"Turtles tmr0 (1d, nur Long)",SLB,176.0,40.3,0.541,95.2,1.58,-29.6,1.49
+"Turtles tmr0 (1d, nur Long)",SNA,202.0,43.6,0.137,27.6,1.13,-26.8,0.397
+"Turtles tmr0 (1d, nur Long)",SO,188.0,47.3,0.354,66.5,1.41,-18.3,0.547
+"Turtles tmr0 (1d, nur Long)",STE,207.0,40.6,0.016,3.2,1.01,-45.6,-0.122
+"Turtles tmr0 (1d, nur Long)",SY1.DE,174.0,46.0,0.423,73.6,1.49,-21.5,0.545
+"Turtles tmr0 (1d, nur Long)",SYK,202.0,39.1,-0.144,-29.0,0.88,-63.2,-0.252
+"Turtles tmr0 (1d, nur Long)",T,196.0,33.2,-0.253,-49.6,0.78,-78.1,-0.476
+"Turtles tmr0 (1d, nur Long)",TEL,185.0,38.4,0.075,13.8,1.07,-31.1,0.362
+"Turtles tmr0 (1d, nur Long)",TER,201.0,38.3,0.549,110.4,1.48,-56.3,1.813
+"Turtles tmr0 (1d, nur Long)",TFC,187.0,46.0,-0.055,-10.2,0.94,-30.9,-0.277
+"Turtles tmr0 (1d, nur Long)",TGT,192.0,41.1,0.131,25.2,1.12,-36.2,0.557
+"Turtles tmr0 (1d, nur Long)",TJX,214.0,40.2,0.259,55.5,1.26,-36.9,0.425
+"Turtles tmr0 (1d, nur Long)",TPR,180.0,40.6,0.598,107.7,1.52,-55.8,2.071
+"Turtles tmr0 (1d, nur Long)",TRMB,185.0,47.6,0.622,115.0,1.63,-17.2,1.606
+"Turtles tmr0 (1d, nur Long)",TRV,199.0,42.2,0.283,56.3,1.27,-41.4,0.246
+"Turtles tmr0 (1d, nur Long)",TSCO,191.0,45.5,0.225,43.0,1.23,-32.4,0.806
+"Turtles tmr0 (1d, nur Long)",TSLA,124.0,41.1,2.488,308.5,3.33,-34.3,10.097
+"Turtles tmr0 (1d, nur Long)",TSN,168.0,41.7,0.675,113.4,1.58,-40.7,1.667
+"Turtles tmr0 (1d, nur Long)",TWLO,83.0,43.4,1.438,119.4,2.3,-19.6,5.384
+"Turtles tmr0 (1d, nur Long)",TXT,196.0,37.8,0.035,6.9,1.03,-45.3,0.526
+"Turtles tmr0 (1d, nur Long)",UAL,161.0,37.9,0.495,79.6,1.38,-45.0,1.7
+"Turtles tmr0 (1d, nur Long)",UBER,61.0,37.7,0.275,16.8,1.27,-18.4,0.66
+"Turtles tmr0 (1d, nur Long)",UHS,201.0,43.3,0.353,70.9,1.37,-37.5,0.997
+"Turtles tmr0 (1d, nur Long)",UNP,209.0,40.7,0.145,30.2,1.15,-25.2,0.139
+"Turtles tmr0 (1d, nur Long)",URI,188.0,47.3,0.998,187.6,1.96,-30.4,4.248
+"Turtles tmr0 (1d, nur Long)",V,171.0,49.1,0.63,107.7,1.71,-21.0,0.945
+"Turtles tmr0 (1d, nur Long)",VNA.DE,103.0,48.5,0.566,58.3,1.63,-21.5,0.78
+"Turtles tmr0 (1d, nur Long)",VOW3.DE,176.0,45.5,0.921,162.1,1.91,-74.8,1.941
+"Turtles tmr0 (1d, nur Long)",VRSK,159.0,39.6,0.236,37.5,1.22,-41.4,0.442
+"Turtles tmr0 (1d, nur Long)",VRT,69.0,56.5,3.488,240.7,5.66,-11.3,8.576
+"Turtles tmr0 (1d, nur Long)",VST,88.0,35.2,0.802,70.5,1.69,-43.5,2.012
+"Turtles tmr0 (1d, nur Long)",WY,176.0,36.9,-0.133,-23.4,0.89,-77.2,-0.29
+"Turtles tmr0 (1d, nur Long)",XOM,184.0,37.5,0.39,71.9,1.37,-28.3,0.701
+"Turtles tmr0 (1d, nur Long)",XYZ,82.0,54.9,1.415,116.1,2.66,-14.0,6.199
+"Turtles tmr0 (1d, nur Long)",ZAL.DE,95.0,47.4,0.446,42.3,1.48,-16.0,2.248
+"Turtles tmr0 (1d, nur Long)",ZBRA,202.0,45.0,0.386,77.9,1.4,-43.0,0.873
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),AAPL,42.0,61.9,2.249,94.5,7.52,-3.0,12.581
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),ADBE,42.0,35.7,0.544,22.8,2.07,-5.0,3.97
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),ADS.DE,41.0,43.9,0.979,40.1,3.01,-5.7,3.904
@@ -4387,6 +6584,205 @@ Vergleich: Kauf nach rotem Tag (1d),XOM,911.0,68.2,0.096,87.8,1.22,-36.2,0.262
 Vergleich: Kauf nach rotem Tag (1d),XYZ,425.0,65.4,0.046,19.7,1.1,-38.6,0.066
 Vergleich: Kauf nach rotem Tag (1d),ZAL.DE,457.0,62.6,-0.026,-11.7,0.96,-45.6,0.001
 Vergleich: Kauf nach rotem Tag (1d),ZBRA,835.0,66.0,0.1,83.2,1.22,-28.1,0.334
+Vergleich: Kurs kreuzt SMA200 (1d),AAPL,42.0,45.2,5.45,228.9,11.26,-5.0,15.344
+Vergleich: Kurs kreuzt SMA200 (1d),ADBE,82.0,31.7,1.469,120.5,3.05,-20.6,3.723
+Vergleich: Kurs kreuzt SMA200 (1d),ADS.DE,71.0,25.4,1.522,108.1,3.25,-10.1,3.836
+Vergleich: Kurs kreuzt SMA200 (1d),AEE,109.0,22.9,0.155,16.9,1.25,-19.7,0.21
+Vergleich: Kurs kreuzt SMA200 (1d),AFL,103.0,33.0,0.899,92.6,2.7,-11.3,1.583
+Vergleich: Kurs kreuzt SMA200 (1d),AIR.DE,100.0,24.0,0.613,61.3,1.79,-26.8,1.398
+Vergleich: Kurs kreuzt SMA200 (1d),AKAM,79.0,25.3,1.302,102.9,2.34,-20.1,4.355
+Vergleich: Kurs kreuzt SMA200 (1d),ALGN,67.0,22.4,1.929,129.3,2.83,-20.7,9.957
+Vergleich: Kurs kreuzt SMA200 (1d),ALV.DE,76.0,32.9,0.682,51.8,1.96,-12.8,1.296
+Vergleich: Kurs kreuzt SMA200 (1d),AMD,66.0,25.8,3.576,236.0,5.73,-14.8,17.36
+Vergleich: Kurs kreuzt SMA200 (1d),AME,87.0,27.6,1.366,118.8,3.28,-14.7,3.144
+Vergleich: Kurs kreuzt SMA200 (1d),AMGN,133.0,31.6,0.276,36.7,1.4,-30.3,0.3
+Vergleich: Kurs kreuzt SMA200 (1d),AMP,95.0,27.4,0.865,82.2,2.17,-14.8,2.456
+Vergleich: Kurs kreuzt SMA200 (1d),ANET,38.0,15.8,4.173,158.6,5.29,-15.6,12.886
+Vergleich: Kurs kreuzt SMA200 (1d),APO,65.0,23.1,1.385,90.0,3.27,-10.0,3.603
+Vergleich: Kurs kreuzt SMA200 (1d),ATO,124.0,23.4,0.334,41.5,1.54,-22.1,0.368
+Vergleich: Kurs kreuzt SMA200 (1d),AVY,98.0,26.5,0.405,39.7,1.56,-15.1,1.149
+Vergleich: Kurs kreuzt SMA200 (1d),AWK,78.0,23.1,0.707,55.2,2.13,-22.2,1.263
+Vergleich: Kurs kreuzt SMA200 (1d),AXON,75.0,21.3,2.292,171.9,3.44,-18.4,7.144
+Vergleich: Kurs kreuzt SMA200 (1d),AZO,77.0,29.9,1.546,119.0,3.18,-11.2,3.601
+Vergleich: Kurs kreuzt SMA200 (1d),BAC,77.0,19.5,0.747,57.5,1.88,-19.5,2.013
+Vergleich: Kurs kreuzt SMA200 (1d),BAS.DE,87.0,27.6,0.33,28.7,1.42,-38.5,0.683
+Vergleich: Kurs kreuzt SMA200 (1d),BAYN.DE,71.0,29.6,0.689,49.0,1.88,-31.1,1.804
+Vergleich: Kurs kreuzt SMA200 (1d),BE,30.0,23.3,4.452,133.6,5.5,-22.0,28.497
+Vergleich: Kurs kreuzt SMA200 (1d),BEI.DE,102.0,25.5,0.271,27.7,1.35,-21.4,0.529
+Vergleich: Kurs kreuzt SMA200 (1d),BF-B,102.0,23.5,0.617,63.0,1.86,-24.2,0.734
+Vergleich: Kurs kreuzt SMA200 (1d),BIIB,81.0,18.5,1.069,86.6,2.06,-42.2,2.168
+Vergleich: Kurs kreuzt SMA200 (1d),BLK,77.0,36.4,1.605,123.6,3.43,-9.7,3.276
+Vergleich: Kurs kreuzt SMA200 (1d),BMW.DE,89.0,25.8,0.254,22.6,1.39,-17.7,0.789
+Vergleich: Kurs kreuzt SMA200 (1d),BNR.DE,51.0,21.6,0.158,8.1,1.13,-28.9,0.978
+Vergleich: Kurs kreuzt SMA200 (1d),BNY,106.0,16.0,0.23,24.3,1.26,-36.2,0.433
+Vergleich: Kurs kreuzt SMA200 (1d),BRO,82.0,26.8,1.877,153.9,3.85,-24.0,2.446
+Vergleich: Kurs kreuzt SMA200 (1d),C,81.0,27.2,0.617,50.0,1.74,-14.1,1.496
+Vergleich: Kurs kreuzt SMA200 (1d),CBK.DE,89.0,24.7,0.245,21.8,1.35,-30.6,0.89
+Vergleich: Kurs kreuzt SMA200 (1d),CCL,100.0,27.0,-0.207,-20.7,0.77,-38.3,-0.469
+Vergleich: Kurs kreuzt SMA200 (1d),CEG,11.0,18.2,7.113,78.2,11.78,-5.0,14.861
+Vergleich: Kurs kreuzt SMA200 (1d),CF,69.0,30.4,4.253,293.5,7.72,-13.7,12.495
+Vergleich: Kurs kreuzt SMA200 (1d),CFG,34.0,20.6,1.491,50.7,3.23,-10.0,4.184
+Vergleich: Kurs kreuzt SMA200 (1d),CHD,109.0,25.7,0.514,56.0,1.69,-23.4,0.735
+Vergleich: Kurs kreuzt SMA200 (1d),CINF,115.0,20.9,0.156,18.0,1.22,-21.7,0.605
+Vergleich: Kurs kreuzt SMA200 (1d),CMI,73.0,31.5,2.235,163.2,4.36,-13.8,6.015
+Vergleich: Kurs kreuzt SMA200 (1d),CNC,116.0,19.0,0.379,43.9,1.47,-38.9,0.895
+Vergleich: Kurs kreuzt SMA200 (1d),COF,103.0,25.2,0.272,28.0,1.37,-20.2,1.215
+Vergleich: Kurs kreuzt SMA200 (1d),CON.DE,69.0,27.5,0.813,56.1,2.12,-11.7,3.183
+Vergleich: Kurs kreuzt SMA200 (1d),COST,106.0,27.4,1.318,139.7,3.25,-10.3,1.97
+Vergleich: Kurs kreuzt SMA200 (1d),CPAY,50.0,22.0,2.494,124.7,3.31,-18.4,5.568
+Vergleich: Kurs kreuzt SMA200 (1d),CSX,104.0,20.2,0.728,75.8,1.97,-31.6,2.092
+Vergleich: Kurs kreuzt SMA200 (1d),CTSH,83.0,25.3,0.794,65.9,1.88,-16.6,3.182
+Vergleich: Kurs kreuzt SMA200 (1d),CVS,75.0,20.0,1.096,82.2,2.59,-17.8,1.398
+Vergleich: Kurs kreuzt SMA200 (1d),DASH,19.0,15.8,1.371,26.1,3.06,-6.0,5.757
+Vergleich: Kurs kreuzt SMA200 (1d),DB1.DE,98.0,22.4,0.389,38.1,1.5,-27.0,0.143
+Vergleich: Kurs kreuzt SMA200 (1d),DBK.DE,90.0,24.4,0.401,36.1,1.64,-31.5,1.012
+Vergleich: Kurs kreuzt SMA200 (1d),DD,83.0,20.5,0.432,35.8,1.48,-22.1,1.317
+Vergleich: Kurs kreuzt SMA200 (1d),DDOG,20.0,30.0,1.075,21.5,3.27,-4.8,4.879
+Vergleich: Kurs kreuzt SMA200 (1d),DELL,26.0,34.6,4.299,111.8,8.66,-5.6,15.978
+Vergleich: Kurs kreuzt SMA200 (1d),DGX,87.0,21.8,0.164,14.2,1.22,-22.4,0.546
+Vergleich: Kurs kreuzt SMA200 (1d),DHL.DE,64.0,28.1,1.744,111.6,3.09,-16.4,3.87
+Vergleich: Kurs kreuzt SMA200 (1d),DHR,87.0,33.3,1.282,111.5,3.64,-12.9,2.953
+Vergleich: Kurs kreuzt SMA200 (1d),DLTR,71.0,25.4,1.341,95.2,2.75,-14.1,4.934
+Vergleich: Kurs kreuzt SMA200 (1d),DPZ,59.0,25.4,2.328,137.3,3.59,-17.0,6.722
+Vergleich: Kurs kreuzt SMA200 (1d),DTE.DE,127.0,15.0,-0.195,-24.8,0.76,-44.5,-0.526
+Vergleich: Kurs kreuzt SMA200 (1d),DTG.DE,20.0,25.0,0.064,1.3,1.08,-10.6,-0.078
+Vergleich: Kurs kreuzt SMA200 (1d),DVA,78.0,21.8,0.357,27.9,1.36,-26.6,1.673
+Vergleich: Kurs kreuzt SMA200 (1d),DVN,89.0,23.6,0.553,49.2,1.72,-20.3,3.045
+Vergleich: Kurs kreuzt SMA200 (1d),ED,127.0,20.5,-0.04,-5.1,0.94,-28.0,-0.228
+Vergleich: Kurs kreuzt SMA200 (1d),EL,88.0,23.9,1.171,103.0,2.51,-18.3,2.463
+Vergleich: Kurs kreuzt SMA200 (1d),ELV,88.0,20.5,0.554,48.7,1.68,-16.4,1.47
+Vergleich: Kurs kreuzt SMA200 (1d),EMR,111.0,27.9,0.211,23.4,1.29,-16.2,0.493
+Vergleich: Kurs kreuzt SMA200 (1d),ENR.DE,7.0,14.3,35.621,249.3,47.04,-3.7,123.301
+Vergleich: Kurs kreuzt SMA200 (1d),EOAN.DE,91.0,25.3,-0.182,-16.6,0.79,-62.2,-0.459
+Vergleich: Kurs kreuzt SMA200 (1d),EQIX,85.0,30.6,0.545,46.3,1.61,-24.1,2.51
+Vergleich: Kurs kreuzt SMA200 (1d),EQT,75.0,24.0,0.861,64.6,2.4,-23.3,2.89
+Vergleich: Kurs kreuzt SMA200 (1d),EW,78.0,28.2,1.647,128.5,2.87,-19.8,3.744
+Vergleich: Kurs kreuzt SMA200 (1d),EXC,91.0,18.7,-0.07,-6.4,0.92,-33.2,0.1
+Vergleich: Kurs kreuzt SMA200 (1d),FICO,88.0,27.3,1.415,124.5,2.97,-15.6,4.496
+Vergleich: Kurs kreuzt SMA200 (1d),FISV,67.0,19.4,2.43,162.8,4.31,-19.6,4.335
+Vergleich: Kurs kreuzt SMA200 (1d),FITB,90.0,22.2,0.486,43.8,1.72,-18.8,1.932
+Vergleich: Kurs kreuzt SMA200 (1d),FIX,79.0,29.1,2.227,175.9,3.78,-32.8,7.702
+Vergleich: Kurs kreuzt SMA200 (1d),FME.DE,144.0,16.0,-0.249,-35.9,0.71,-61.2,-0.728
+Vergleich: Kurs kreuzt SMA200 (1d),FOXA,29.0,24.1,1.074,31.1,2.15,-12.6,1.967
+Vergleich: Kurs kreuzt SMA200 (1d),FRE.DE,93.0,22.6,0.886,82.4,2.21,-28.7,1.567
+Vergleich: Kurs kreuzt SMA200 (1d),FTV,47.0,36.2,-0.295,-13.9,0.66,-22.8,-0.559
+Vergleich: Kurs kreuzt SMA200 (1d),G1A.DE,79.0,30.4,1.018,80.4,2.42,-17.8,2.591
+Vergleich: Kurs kreuzt SMA200 (1d),G24.DE,46.0,23.9,0.502,23.1,1.7,-15.0,1.221
+Vergleich: Kurs kreuzt SMA200 (1d),GD,90.0,32.2,0.978,88.0,2.4,-13.2,1.776
+Vergleich: Kurs kreuzt SMA200 (1d),GL,94.0,29.8,0.827,77.7,2.16,-18.2,1.582
+Vergleich: Kurs kreuzt SMA200 (1d),GOOG,67.0,35.8,2.405,161.1,5.67,-5.3,5.861
+Vergleich: Kurs kreuzt SMA200 (1d),GOOGL,72.0,30.6,2.136,153.8,5.1,-8.4,5.104
+Vergleich: Kurs kreuzt SMA200 (1d),HEI.DE,66.0,27.3,1.299,85.7,2.67,-23.4,3.229
+Vergleich: Kurs kreuzt SMA200 (1d),HEN3.DE,83.0,36.1,0.899,74.7,2.45,-21.3,1.996
+Vergleich: Kurs kreuzt SMA200 (1d),HNR1.DE,113.0,28.3,0.361,40.8,1.54,-12.1,0.601
+Vergleich: Kurs kreuzt SMA200 (1d),HPE,55.0,20.0,0.269,14.8,1.32,-28.2,1.91
+Vergleich: Kurs kreuzt SMA200 (1d),IBKR,70.0,18.6,1.797,125.8,3.34,-24.2,3.704
+Vergleich: Kurs kreuzt SMA200 (1d),IBM,115.0,18.3,0.064,7.4,1.06,-75.5,-0.13
+Vergleich: Kurs kreuzt SMA200 (1d),ICE,92.0,33.7,0.736,67.7,2.17,-9.1,1.162
+Vergleich: Kurs kreuzt SMA200 (1d),IEX,87.0,26.4,1.128,98.1,2.76,-14.0,2.417
+Vergleich: Kurs kreuzt SMA200 (1d),IFF,83.0,22.9,0.292,24.2,1.27,-43.4,0.605
+Vergleich: Kurs kreuzt SMA200 (1d),IFX.DE,96.0,22.9,0.5,48.0,1.63,-21.8,2.753
+Vergleich: Kurs kreuzt SMA200 (1d),IR,32.0,31.2,1.116,35.7,3.15,-9.1,3.367
+Vergleich: Kurs kreuzt SMA200 (1d),IRM,95.0,21.1,0.355,33.7,1.36,-36.3,0.95
+Vergleich: Kurs kreuzt SMA200 (1d),ITW,102.0,25.5,0.404,41.3,1.62,-20.5,1.247
+Vergleich: Kurs kreuzt SMA200 (1d),JBHT,104.0,25.0,0.36,37.5,1.57,-14.6,0.927
+Vergleich: Kurs kreuzt SMA200 (1d),JNJ,106.0,25.5,0.473,50.1,1.72,-25.5,0.702
+Vergleich: Kurs kreuzt SMA200 (1d),JPM,87.0,28.7,0.982,85.4,2.24,-18.4,1.692
+Vergleich: Kurs kreuzt SMA200 (1d),KEYS,48.0,25.0,1.777,85.3,3.41,-21.9,4.639
+Vergleich: Kurs kreuzt SMA200 (1d),KLAC,87.0,28.7,1.168,101.6,2.85,-7.3,3.962
+Vergleich: Kurs kreuzt SMA200 (1d),KMI,79.0,19.0,0.07,5.5,1.09,-27.8,0.218
+Vergleich: Kurs kreuzt SMA200 (1d),KO,99.0,25.3,0.64,63.4,1.99,-16.7,0.778
+Vergleich: Kurs kreuzt SMA200 (1d),KVUE,13.0,38.5,-0.122,-1.6,0.73,-5.3,-0.233
+Vergleich: Kurs kreuzt SMA200 (1d),LEN,72.0,20.8,0.503,36.2,1.55,-15.9,2.207
+Vergleich: Kurs kreuzt SMA200 (1d),LIN,99.0,29.3,0.685,67.8,2.2,-13.0,1.54
+Vergleich: Kurs kreuzt SMA200 (1d),LNT,105.0,18.1,0.449,47.2,1.64,-30.7,0.637
+Vergleich: Kurs kreuzt SMA200 (1d),LYV,79.0,25.3,1.216,96.0,2.41,-22.9,2.988
+Vergleich: Kurs kreuzt SMA200 (1d),MAA,79.0,26.6,0.829,65.5,2.46,-8.3,1.8
+Vergleich: Kurs kreuzt SMA200 (1d),MAR,77.0,28.6,1.772,136.5,3.45,-14.3,3.721
+Vergleich: Kurs kreuzt SMA200 (1d),MBG.DE,76.0,26.3,0.896,68.1,2.38,-14.3,2.498
+Vergleich: Kurs kreuzt SMA200 (1d),MCD,110.0,22.7,0.739,81.3,2.12,-15.6,1.097
+Vergleich: Kurs kreuzt SMA200 (1d),MDLZ,143.0,17.5,-0.401,-57.4,0.51,-63.7,-0.73
+Vergleich: Kurs kreuzt SMA200 (1d),MDT,76.0,21.1,0.192,14.6,1.21,-27.6,0.507
+Vergleich: Kurs kreuzt SMA200 (1d),MGM,72.0,23.6,0.765,55.1,1.9,-25.2,2.561
+Vergleich: Kurs kreuzt SMA200 (1d),MMM,63.0,28.6,1.196,75.3,2.38,-14.6,2.316
+Vergleich: Kurs kreuzt SMA200 (1d),MO,70.0,25.7,0.263,18.4,1.21,-41.2,0.282
+Vergleich: Kurs kreuzt SMA200 (1d),MOS,66.0,25.8,2.861,188.8,4.81,-12.1,10.048
+Vergleich: Kurs kreuzt SMA200 (1d),MPWR,72.0,33.3,1.786,128.6,4.32,-13.0,6.717
+Vergleich: Kurs kreuzt SMA200 (1d),MRK.DE,85.0,24.7,0.487,41.4,1.6,-23.8,1.131
+Vergleich: Kurs kreuzt SMA200 (1d),MRVL,74.0,17.6,0.954,70.6,2.2,-14.1,4.344
+Vergleich: Kurs kreuzt SMA200 (1d),MSCI,75.0,30.7,1.169,87.7,2.49,-20.7,3.199
+Vergleich: Kurs kreuzt SMA200 (1d),MTB,96.0,25.0,0.194,18.6,1.24,-23.7,0.391
+Vergleich: Kurs kreuzt SMA200 (1d),MTD,81.0,25.9,1.587,128.6,3.43,-10.8,4.366
+Vergleich: Kurs kreuzt SMA200 (1d),MTX.DE,99.0,20.2,0.815,80.7,2.11,-20.9,2.172
+Vergleich: Kurs kreuzt SMA200 (1d),MUV2.DE,127.0,24.4,0.183,23.2,1.26,-25.1,0.389
+Vergleich: Kurs kreuzt SMA200 (1d),NKE,86.0,25.6,0.773,66.5,1.96,-15.5,1.159
+Vergleich: Kurs kreuzt SMA200 (1d),NUE,120.0,25.0,0.524,62.9,1.87,-28.4,1.399
+Vergleich: Kurs kreuzt SMA200 (1d),NVDA,45.0,33.3,8.809,396.4,13.82,-8.4,40.242
+Vergleich: Kurs kreuzt SMA200 (1d),NWS,65.0,16.9,0.155,10.0,1.2,-20.5,0.756
+Vergleich: Kurs kreuzt SMA200 (1d),NWSA,49.0,18.4,0.339,16.6,1.45,-16.9,1.485
+Vergleich: Kurs kreuzt SMA200 (1d),O,155.0,15.5,-0.043,-6.7,0.93,-30.3,-0.361
+Vergleich: Kurs kreuzt SMA200 (1d),OXY,100.0,24.0,0.355,35.5,1.46,-24.8,1.422
+Vergleich: Kurs kreuzt SMA200 (1d),P,50.0,28.0,0.322,16.1,1.35,-16.0,1.508
+Vergleich: Kurs kreuzt SMA200 (1d),PAH3.DE,74.0,17.6,0.134,9.9,1.18,-26.6,0.503
+Vergleich: Kurs kreuzt SMA200 (1d),PCAR,136.0,22.1,0.071,9.6,1.09,-24.2,0.193
+Vergleich: Kurs kreuzt SMA200 (1d),PCG,119.0,19.3,-0.361,-43.0,0.58,-56.4,-1.251
+Vergleich: Kurs kreuzt SMA200 (1d),PFE,92.0,26.1,0.025,2.3,1.03,-16.8,-0.019
+Vergleich: Kurs kreuzt SMA200 (1d),PH,94.0,23.4,0.913,85.9,2.14,-19.3,2.669
+Vergleich: Kurs kreuzt SMA200 (1d),PLD,90.0,26.7,0.645,58.0,2.02,-13.4,1.294
+Vergleich: Kurs kreuzt SMA200 (1d),PODD,56.0,25.0,1.327,74.3,2.83,-13.1,5.714
+Vergleich: Kurs kreuzt SMA200 (1d),PPG,101.0,24.8,0.528,53.4,1.82,-14.6,1.392
+Vergleich: Kurs kreuzt SMA200 (1d),PSA,82.0,23.2,0.639,52.4,2.03,-16.2,1.32
+Vergleich: Kurs kreuzt SMA200 (1d),PSX,55.0,21.8,1.222,67.2,2.59,-17.5,2.594
+Vergleich: Kurs kreuzt SMA200 (1d),QCOM,94.0,25.5,-0.006,-0.6,0.99,-15.3,-0.019
+Vergleich: Kurs kreuzt SMA200 (1d),QIA.DE,134.0,22.4,-0.194,-26.0,0.75,-50.4,-0.488
+Vergleich: Kurs kreuzt SMA200 (1d),REG,121.0,22.3,0.062,7.5,1.09,-24.3,-0.12
+Vergleich: Kurs kreuzt SMA200 (1d),REGN,77.0,24.7,2.209,170.1,4.63,-18.4,7.982
+Vergleich: Kurs kreuzt SMA200 (1d),RHM.DE,87.0,23.0,2.04,177.4,3.68,-22.0,4.991
+Vergleich: Kurs kreuzt SMA200 (1d),RL,85.0,25.9,0.459,39.0,1.52,-28.5,1.899
+Vergleich: Kurs kreuzt SMA200 (1d),ROL,112.0,22.3,0.815,91.3,2.3,-22.1,1.066
+Vergleich: Kurs kreuzt SMA200 (1d),ROST,76.0,34.2,1.488,113.1,3.76,-7.3,3.849
+Vergleich: Kurs kreuzt SMA200 (1d),RWE.DE,84.0,26.2,0.304,25.5,1.45,-17.9,0.688
+Vergleich: Kurs kreuzt SMA200 (1d),SAP.DE,83.0,31.3,0.768,63.8,1.93,-25.0,1.871
+Vergleich: Kurs kreuzt SMA200 (1d),SBAC,81.0,25.9,0.987,79.9,2.61,-14.2,2.204
+Vergleich: Kurs kreuzt SMA200 (1d),SHL.DE,45.0,15.6,-0.24,-10.8,0.73,-28.8,-0.504
+Vergleich: Kurs kreuzt SMA200 (1d),SHW,109.0,27.5,0.777,84.7,2.18,-13.7,1.614
+Vergleich: Kurs kreuzt SMA200 (1d),SIE.DE,73.0,27.4,0.728,53.1,2.01,-16.6,2.319
+Vergleich: Kurs kreuzt SMA200 (1d),SLB,89.0,25.8,0.569,50.6,1.88,-12.1,1.473
+Vergleich: Kurs kreuzt SMA200 (1d),SNA,96.0,24.0,0.651,62.5,1.84,-31.7,1.369
+Vergleich: Kurs kreuzt SMA200 (1d),SO,126.0,23.0,-0.076,-9.6,0.89,-23.5,-0.117
+Vergleich: Kurs kreuzt SMA200 (1d),STE,134.0,23.9,0.14,18.7,1.21,-27.6,0.019
+Vergleich: Kurs kreuzt SMA200 (1d),SY1.DE,78.0,20.5,0.697,54.3,1.88,-19.7,1.979
+Vergleich: Kurs kreuzt SMA200 (1d),SYK,80.0,30.0,0.924,73.9,2.35,-9.3,1.848
+Vergleich: Kurs kreuzt SMA200 (1d),T,110.0,25.5,0.28,30.8,1.4,-36.3,0.312
+Vergleich: Kurs kreuzt SMA200 (1d),TEL,84.0,27.4,0.845,71.0,2.22,-14.4,2.241
+Vergleich: Kurs kreuzt SMA200 (1d),TER,96.0,27.1,0.94,90.3,2.21,-28.8,3.66
+Vergleich: Kurs kreuzt SMA200 (1d),TFC,126.0,27.8,-0.148,-18.7,0.79,-33.4,-0.355
+Vergleich: Kurs kreuzt SMA200 (1d),TGT,90.0,17.8,0.327,29.4,1.36,-24.4,1.319
+Vergleich: Kurs kreuzt SMA200 (1d),TJX,110.0,28.2,0.831,91.4,2.35,-13.2,1.743
+Vergleich: Kurs kreuzt SMA200 (1d),TPR,75.0,26.7,1.19,89.2,2.36,-23.9,4.766
+Vergleich: Kurs kreuzt SMA200 (1d),TRMB,80.0,25.0,0.701,56.1,1.99,-12.5,2.988
+Vergleich: Kurs kreuzt SMA200 (1d),TRV,93.0,30.1,0.992,92.3,2.27,-20.0,1.333
+Vergleich: Kurs kreuzt SMA200 (1d),TSCO,70.0,21.4,1.095,76.7,2.55,-20.6,4.435
+Vergleich: Kurs kreuzt SMA200 (1d),TSLA,83.0,18.1,2.272,188.6,3.94,-18.6,13.214
+Vergleich: Kurs kreuzt SMA200 (1d),TSN,81.0,19.8,0.497,40.2,1.51,-16.0,1.461
+Vergleich: Kurs kreuzt SMA200 (1d),TWLO,33.0,33.3,3.111,102.7,4.53,-9.9,14.387
+Vergleich: Kurs kreuzt SMA200 (1d),TXT,84.0,25.0,0.663,55.7,2.01,-16.2,1.744
+Vergleich: Kurs kreuzt SMA200 (1d),UAL,93.0,24.7,0.383,35.6,1.53,-20.1,1.654
+Vergleich: Kurs kreuzt SMA200 (1d),UBER,33.0,24.2,0.903,29.8,2.37,-7.7,3.425
+Vergleich: Kurs kreuzt SMA200 (1d),UHS,76.0,25.0,0.74,56.2,1.82,-33.0,2.102
+Vergleich: Kurs kreuzt SMA200 (1d),UNP,72.0,34.7,1.513,108.9,3.15,-15.8,3.883
+Vergleich: Kurs kreuzt SMA200 (1d),URI,78.0,34.6,1.266,98.7,2.7,-9.9,6.49
+Vergleich: Kurs kreuzt SMA200 (1d),V,86.0,29.1,1.805,155.3,3.71,-13.1,3.199
+Vergleich: Kurs kreuzt SMA200 (1d),VNA.DE,57.0,21.1,-0.051,-2.9,0.93,-12.7,0.066
+Vergleich: Kurs kreuzt SMA200 (1d),VOW3.DE,98.0,26.5,0.862,84.5,2.3,-14.0,2.178
+Vergleich: Kurs kreuzt SMA200 (1d),VRSK,54.0,35.2,1.59,85.9,3.41,-10.7,2.96
+Vergleich: Kurs kreuzt SMA200 (1d),VRT,13.0,46.2,9.148,118.9,23.71,-3.3,49.449
+Vergleich: Kurs kreuzt SMA200 (1d),VST,46.0,17.4,2.826,130.0,5.21,-16.4,7.258
+Vergleich: Kurs kreuzt SMA200 (1d),WY,105.0,19.0,-0.12,-12.6,0.83,-25.4,-0.106
+Vergleich: Kurs kreuzt SMA200 (1d),XOM,100.0,26.0,0.443,44.3,1.62,-31.1,1.072
+Vergleich: Kurs kreuzt SMA200 (1d),XYZ,28.0,25.0,5.395,151.1,5.83,-22.7,17.937
+Vergleich: Kurs kreuzt SMA200 (1d),ZAL.DE,35.0,37.1,0.694,24.3,2.55,-4.8,3.146
+Vergleich: Kurs kreuzt SMA200 (1d),ZBRA,60.0,26.7,1.643,98.6,2.85,-18.1,5.185
 Vergleich: Moving Momentum ohne Stochastik (1d),AAPL,37.0,43.2,1.454,53.8,3.46,-4.7,11.241
 Vergleich: Moving Momentum ohne Stochastik (1d),ADBE,51.0,27.5,0.509,26.0,1.68,-18.2,2.485
 Vergleich: Moving Momentum ohne Stochastik (1d),ADS.DE,55.0,21.8,0.212,11.6,1.3,-9.0,1.484
@@ -5184,6 +7580,206 @@ Vergleich: jede MACD-Kreuzung (1d),XOM,378.0,39.9,0.001,0.4,1.0,-49.9,-0.188
 Vergleich: jede MACD-Kreuzung (1d),XYZ,185.0,43.2,0.127,23.5,1.13,-29.5,0.313
 Vergleich: jede MACD-Kreuzung (1d),ZAL.DE,201.0,38.3,-0.187,-37.6,0.85,-74.4,-0.521
 Vergleich: jede MACD-Kreuzung (1d),ZBRA,391.0,45.5,-0.076,-29.8,0.93,-45.3,-0.315
+Vergleich: nur Bollinger 30 (1d),AAPL,139.0,59.7,-0.841,-116.9,0.58,-123.6,-1.979
+Vergleich: nur Bollinger 30 (1d),ADBE,163.0,68.7,0.36,58.7,1.41,-18.1,1.096
+Vergleich: nur Bollinger 30 (1d),ADS.DE,148.0,64.2,0.055,8.1,1.05,-46.0,-0.005
+Vergleich: nur Bollinger 30 (1d),AEE,158.0,64.6,0.16,25.2,1.19,-26.2,0.355
+Vergleich: nur Bollinger 30 (1d),AFL,163.0,67.5,0.385,62.8,1.42,-25.0,0.649
+Vergleich: nur Bollinger 30 (1d),AIR.DE,152.0,66.4,-0.107,-16.3,0.91,-38.8,-0.118
+Vergleich: nur Bollinger 30 (1d),AKAM,153.0,64.7,0.197,30.1,1.17,-31.7,0.91
+Vergleich: nur Bollinger 30 (1d),ALGN,144.0,62.5,-0.641,-92.4,0.65,-114.6,-2.213
+Vergleich: nur Bollinger 30 (1d),ALV.DE,152.0,65.1,0.119,18.0,1.11,-24.3,0.064
+Vergleich: nur Bollinger 30 (1d),AMD,155.0,63.2,-0.682,-105.7,0.64,-106.5,-2.8
+Vergleich: nur Bollinger 30 (1d),AME,147.0,68.7,0.129,19.0,1.13,-33.5,0.625
+Vergleich: nur Bollinger 30 (1d),AMGN,140.0,58.6,-0.155,-21.7,0.87,-34.3,-0.238
+Vergleich: nur Bollinger 30 (1d),AMP,150.0,64.7,0.043,6.4,1.04,-25.2,0.284
+Vergleich: nur Bollinger 30 (1d),ANET,82.0,65.9,-0.098,-8.0,0.92,-27.6,0.04
+Vergleich: nur Bollinger 30 (1d),APO,104.0,60.6,-0.327,-34.0,0.74,-36.9,-0.764
+Vergleich: nur Bollinger 30 (1d),ATO,160.0,70.0,0.302,48.3,1.35,-21.6,0.652
+Vergleich: nur Bollinger 30 (1d),AVY,146.0,66.4,0.157,22.9,1.15,-28.8,0.076
+Vergleich: nur Bollinger 30 (1d),AWK,131.0,67.2,0.197,25.8,1.23,-19.1,0.806
+Vergleich: nur Bollinger 30 (1d),AXON,142.0,59.9,-0.747,-106.1,0.57,-117.4,-2.726
+Vergleich: nur Bollinger 30 (1d),AZO,152.0,64.5,0.123,18.8,1.11,-35.1,0.584
+Vergleich: nur Bollinger 30 (1d),BAC,152.0,63.2,-0.176,-26.7,0.86,-34.2,-0.531
+Vergleich: nur Bollinger 30 (1d),BAS.DE,156.0,66.7,0.041,6.4,1.04,-45.6,0.291
+Vergleich: nur Bollinger 30 (1d),BAYN.DE,159.0,64.2,0.178,28.3,1.18,-17.3,0.466
+Vergleich: nur Bollinger 30 (1d),BE,56.0,60.7,-1.57,-87.9,0.39,-95.8,-7.873
+Vergleich: nur Bollinger 30 (1d),BEI.DE,154.0,68.2,0.252,38.9,1.28,-13.3,0.65
+Vergleich: nur Bollinger 30 (1d),BF-B,152.0,67.1,0.176,26.7,1.18,-22.5,0.654
+Vergleich: nur Bollinger 30 (1d),BIIB,150.0,69.3,0.335,50.3,1.33,-52.6,1.665
+Vergleich: nur Bollinger 30 (1d),BLK,148.0,61.5,-0.232,-34.3,0.81,-47.6,-0.17
+Vergleich: nur Bollinger 30 (1d),BMW.DE,149.0,65.1,0.071,10.6,1.06,-23.1,0.649
+Vergleich: nur Bollinger 30 (1d),BNR.DE,110.0,60.9,0.011,1.3,1.01,-51.3,0.42
+Vergleich: nur Bollinger 30 (1d),BNY,149.0,64.4,0.18,26.8,1.17,-32.8,1.259
+Vergleich: nur Bollinger 30 (1d),BRO,159.0,66.7,0.134,21.2,1.12,-29.2,0.46
+Vergleich: nur Bollinger 30 (1d),C,146.0,63.7,-0.225,-32.8,0.82,-42.1,-0.075
+Vergleich: nur Bollinger 30 (1d),CBK.DE,140.0,55.7,-0.472,-66.1,0.69,-69.8,-1.749
+Vergleich: nur Bollinger 30 (1d),CCL,155.0,67.7,0.164,25.5,1.17,-45.6,0.739
+Vergleich: nur Bollinger 30 (1d),CEG,28.0,60.7,-0.779,-21.8,0.63,-41.3,-1.659
+Vergleich: nur Bollinger 30 (1d),CF,140.0,66.4,-0.157,-22.0,0.87,-52.2,-0.414
+Vergleich: nur Bollinger 30 (1d),CFG,80.0,63.8,-0.348,-27.8,0.74,-35.2,-0.504
+Vergleich: nur Bollinger 30 (1d),CHD,144.0,66.7,-0.131,-18.9,0.89,-40.2,-0.016
+Vergleich: nur Bollinger 30 (1d),CINF,165.0,66.7,0.21,34.6,1.23,-24.9,0.563
+Vergleich: nur Bollinger 30 (1d),CMI,147.0,64.6,0.011,1.6,1.01,-30.5,0.031
+Vergleich: nur Bollinger 30 (1d),CNC,142.0,69.0,0.068,9.6,1.06,-30.4,0.515
+Vergleich: nur Bollinger 30 (1d),COF,160.0,70.0,0.332,53.2,1.36,-21.4,1.044
+Vergleich: nur Bollinger 30 (1d),CON.DE,161.0,71.4,0.067,10.7,1.06,-55.7,0.584
+Vergleich: nur Bollinger 30 (1d),COST,150.0,63.3,-0.036,-5.4,0.97,-56.1,0.108
+Vergleich: nur Bollinger 30 (1d),CPAY,107.0,75.7,0.125,13.3,1.1,-45.9,0.684
+Vergleich: nur Bollinger 30 (1d),CSX,150.0,65.3,0.116,17.4,1.11,-18.6,0.4
+Vergleich: nur Bollinger 30 (1d),CTSH,159.0,62.3,0.064,10.2,1.06,-27.3,0.678
+Vergleich: nur Bollinger 30 (1d),CVS,149.0,65.8,0.149,22.3,1.14,-17.2,0.478
+Vergleich: nur Bollinger 30 (1d),DASH,34.0,52.9,-0.748,-25.4,0.55,-35.5,-2.563
+Vergleich: nur Bollinger 30 (1d),DB1.DE,161.0,72.7,0.151,24.3,1.14,-34.1,0.609
+Vergleich: nur Bollinger 30 (1d),DBK.DE,150.0,64.0,-0.045,-6.7,0.96,-49.1,-0.032
+Vergleich: nur Bollinger 30 (1d),DD,165.0,66.7,0.514,84.8,1.63,-23.5,0.645
+Vergleich: nur Bollinger 30 (1d),DDOG,54.0,70.4,0.349,18.9,1.28,-20.3,2.812
+Vergleich: nur Bollinger 30 (1d),DELL,67.0,62.7,-0.75,-50.2,0.6,-54.6,-3.226
+Vergleich: nur Bollinger 30 (1d),DGX,162.0,67.3,0.369,59.7,1.44,-16.8,0.806
+Vergleich: nur Bollinger 30 (1d),DHL.DE,151.0,58.3,-0.251,-37.9,0.8,-50.9,-0.666
+Vergleich: nur Bollinger 30 (1d),DHR,166.0,70.5,0.488,81.0,1.57,-25.8,1.125
+Vergleich: nur Bollinger 30 (1d),DLTR,147.0,64.6,-0.257,-37.8,0.82,-53.4,-0.406
+Vergleich: nur Bollinger 30 (1d),DPZ,139.0,56.1,-0.529,-73.6,0.64,-86.3,-1.088
+Vergleich: nur Bollinger 30 (1d),DTE.DE,153.0,60.8,0.099,15.1,1.09,-25.9,0.306
+Vergleich: nur Bollinger 30 (1d),DTG.DE,38.0,63.2,0.315,12.0,1.36,-7.6,0.94
+Vergleich: nur Bollinger 30 (1d),DVA,157.0,69.4,0.444,69.8,1.44,-23.9,1.227
+Vergleich: nur Bollinger 30 (1d),DVN,153.0,64.7,-0.059,-9.0,0.95,-65.4,0.269
+Vergleich: nur Bollinger 30 (1d),ED,156.0,63.5,0.113,17.6,1.12,-22.9,0.33
+Vergleich: nur Bollinger 30 (1d),EL,155.0,67.1,0.199,30.9,1.18,-35.9,0.585
+Vergleich: nur Bollinger 30 (1d),ELV,162.0,71.0,0.267,43.2,1.25,-39.1,0.645
+Vergleich: nur Bollinger 30 (1d),EMR,149.0,63.8,0.159,23.7,1.17,-30.5,0.408
+Vergleich: nur Bollinger 30 (1d),ENR.DE,39.0,66.7,-1.055,-41.1,0.56,-62.2,-3.461
+Vergleich: nur Bollinger 30 (1d),EOAN.DE,142.0,59.2,-0.322,-45.7,0.74,-57.2,-0.522
+Vergleich: nur Bollinger 30 (1d),EQIX,167.0,68.3,0.348,58.1,1.39,-22.9,1.205
+Vergleich: nur Bollinger 30 (1d),EQT,163.0,69.9,0.345,56.2,1.4,-17.8,1.391
+Vergleich: nur Bollinger 30 (1d),EW,160.0,73.8,0.21,33.5,1.19,-39.0,0.884
+Vergleich: nur Bollinger 30 (1d),EXC,159.0,69.2,0.378,60.2,1.5,-24.7,0.873
+Vergleich: nur Bollinger 30 (1d),FICO,141.0,55.3,-0.334,-47.1,0.77,-72.4,-1.022
+Vergleich: nur Bollinger 30 (1d),FISV,154.0,66.2,-0.023,-3.5,0.98,-49.4,0.011
+Vergleich: nur Bollinger 30 (1d),FITB,160.0,64.4,-0.042,-6.7,0.96,-31.3,-0.506
+Vergleich: nur Bollinger 30 (1d),FIX,159.0,66.0,0.148,23.5,1.14,-46.9,0.461
+Vergleich: nur Bollinger 30 (1d),FME.DE,156.0,62.8,0.303,47.2,1.36,-35.8,0.637
+Vergleich: nur Bollinger 30 (1d),FOXA,53.0,66.0,-0.014,-0.7,0.99,-24.7,0.339
+Vergleich: nur Bollinger 30 (1d),FRE.DE,158.0,65.8,0.234,36.9,1.23,-29.4,0.48
+Vergleich: nur Bollinger 30 (1d),FTV,76.0,67.1,0.289,22.0,1.28,-20.8,0.726
+Vergleich: nur Bollinger 30 (1d),G1A.DE,158.0,61.4,0.012,1.9,1.01,-21.6,0.172
+Vergleich: nur Bollinger 30 (1d),G24.DE,82.0,69.5,0.33,27.1,1.33,-19.9,0.94
+Vergleich: nur Bollinger 30 (1d),GD,161.0,67.7,0.248,40.0,1.26,-24.1,0.478
+Vergleich: nur Bollinger 30 (1d),GL,159.0,66.7,0.201,31.9,1.21,-20.9,0.593
+Vergleich: nur Bollinger 30 (1d),GOOG,140.0,59.3,-0.593,-83.0,0.65,-93.3,-1.017
+Vergleich: nur Bollinger 30 (1d),GOOGL,140.0,58.6,-0.619,-86.7,0.63,-97.5,-1.044
+Vergleich: nur Bollinger 30 (1d),HEI.DE,142.0,59.9,-0.421,-59.7,0.73,-63.7,-1.171
+Vergleich: nur Bollinger 30 (1d),HEN3.DE,159.0,66.7,0.106,16.9,1.1,-29.0,0.201
+Vergleich: nur Bollinger 30 (1d),HNR1.DE,158.0,67.1,0.275,43.5,1.29,-40.4,0.785
+Vergleich: nur Bollinger 30 (1d),HPE,75.0,64.0,-0.024,-1.8,0.98,-22.7,0.106
+Vergleich: nur Bollinger 30 (1d),IBKR,135.0,64.4,-0.173,-23.4,0.86,-60.5,0.23
+Vergleich: nur Bollinger 30 (1d),IBM,158.0,65.2,0.127,20.1,1.11,-36.3,0.656
+Vergleich: nur Bollinger 30 (1d),ICE,142.0,63.4,-0.131,-18.6,0.89,-41.4,0.129
+Vergleich: nur Bollinger 30 (1d),IEX,142.0,62.0,0.005,0.7,1.0,-21.7,0.225
+Vergleich: nur Bollinger 30 (1d),IFF,152.0,66.4,0.26,39.5,1.29,-20.9,0.689
+Vergleich: nur Bollinger 30 (1d),IFX.DE,161.0,67.7,0.028,4.4,1.02,-58.7,-0.796
+Vergleich: nur Bollinger 30 (1d),IR,65.0,61.5,0.153,9.9,1.15,-14.3,0.286
+Vergleich: nur Bollinger 30 (1d),IRM,138.0,61.6,-0.118,-16.3,0.9,-39.9,-0.275
+Vergleich: nur Bollinger 30 (1d),ITW,154.0,66.9,0.365,56.1,1.53,-11.1,0.58
+Vergleich: nur Bollinger 30 (1d),JBHT,160.0,69.4,0.475,75.9,1.65,-25.2,1.503
+Vergleich: nur Bollinger 30 (1d),JNJ,160.0,64.4,0.047,7.6,1.04,-32.8,0.199
+Vergleich: nur Bollinger 30 (1d),JPM,160.0,70.0,0.333,53.3,1.36,-18.5,1.252
+Vergleich: nur Bollinger 30 (1d),KEYS,94.0,72.3,0.468,44.0,1.49,-15.2,1.028
+Vergleich: nur Bollinger 30 (1d),KLAC,162.0,64.2,0.338,54.8,1.39,-16.5,1.317
+Vergleich: nur Bollinger 30 (1d),KMI,108.0,68.5,0.068,7.4,1.06,-27.8,0.281
+Vergleich: nur Bollinger 30 (1d),KO,170.0,69.4,0.511,86.9,1.71,-16.2,0.809
+Vergleich: nur Bollinger 30 (1d),KVUE,20.0,50.0,-0.007,-0.1,0.99,-6.9,-0.608
+Vergleich: nur Bollinger 30 (1d),LEN,148.0,64.2,0.119,17.7,1.12,-35.5,0.732
+Vergleich: nur Bollinger 30 (1d),LIN,151.0,70.9,0.451,68.1,1.54,-15.9,1.096
+Vergleich: nur Bollinger 30 (1d),LNT,148.0,61.5,0.025,3.7,1.03,-22.0,0.161
+Vergleich: nur Bollinger 30 (1d),LYV,137.0,62.8,-0.261,-35.7,0.81,-63.4,-0.921
+Vergleich: nur Bollinger 30 (1d),MAA,150.0,69.3,0.311,46.7,1.4,-19.9,1.125
+Vergleich: nur Bollinger 30 (1d),MAR,153.0,65.4,0.007,1.1,1.01,-51.1,0.297
+Vergleich: nur Bollinger 30 (1d),MBG.DE,145.0,57.2,-0.255,-37.0,0.8,-49.1,-0.219
+Vergleich: nur Bollinger 30 (1d),MCD,142.0,64.8,0.023,3.3,1.02,-42.9,0.15
+Vergleich: nur Bollinger 30 (1d),MDLZ,161.0,67.7,0.544,87.5,1.8,-18.9,0.964
+Vergleich: nur Bollinger 30 (1d),MDT,149.0,66.4,0.115,17.1,1.1,-31.2,0.325
+Vergleich: nur Bollinger 30 (1d),MGM,145.0,66.9,0.025,3.7,1.02,-53.1,-0.171
+Vergleich: nur Bollinger 30 (1d),MMM,156.0,64.1,0.108,16.9,1.1,-40.9,0.225
+Vergleich: nur Bollinger 30 (1d),MO,142.0,63.4,0.158,22.4,1.16,-36.6,0.388
+Vergleich: nur Bollinger 30 (1d),MOS,148.0,63.5,-0.027,-4.0,0.98,-42.8,-0.057
+Vergleich: nur Bollinger 30 (1d),MPWR,147.0,64.6,0.011,1.6,1.01,-33.6,0.082
+Vergleich: nur Bollinger 30 (1d),MRK.DE,156.0,66.0,0.118,18.5,1.11,-30.8,0.282
+Vergleich: nur Bollinger 30 (1d),MRVL,152.0,65.8,-0.084,-12.8,0.93,-38.1,-0.044
+Vergleich: nur Bollinger 30 (1d),MSCI,125.0,64.8,0.033,4.1,1.03,-49.5,0.328
+Vergleich: nur Bollinger 30 (1d),MTB,155.0,68.4,0.266,41.2,1.29,-22.5,1.315
+Vergleich: nur Bollinger 30 (1d),MTD,153.0,64.7,-0.213,-32.5,0.83,-62.0,-0.229
+Vergleich: nur Bollinger 30 (1d),MTX.DE,154.0,65.6,0.113,17.3,1.1,-54.7,0.535
+Vergleich: nur Bollinger 30 (1d),MUV2.DE,159.0,69.2,0.216,34.4,1.23,-27.8,0.635
+Vergleich: nur Bollinger 30 (1d),NKE,151.0,65.6,0.265,40.0,1.28,-26.5,0.708
+Vergleich: nur Bollinger 30 (1d),NUE,147.0,68.7,0.02,2.9,1.02,-55.7,0.722
+Vergleich: nur Bollinger 30 (1d),NVDA,141.0,58.2,-0.858,-120.9,0.58,-142.8,-2.264
+Vergleich: nur Bollinger 30 (1d),NWS,97.0,63.9,0.157,15.2,1.15,-26.0,0.379
+Vergleich: nur Bollinger 30 (1d),NWSA,97.0,68.0,0.197,19.1,1.2,-33.5,0.427
+Vergleich: nur Bollinger 30 (1d),O,156.0,69.2,0.3,46.8,1.36,-15.7,1.221
+Vergleich: nur Bollinger 30 (1d),OXY,148.0,67.6,0.062,9.2,1.06,-60.4,0.429
+Vergleich: nur Bollinger 30 (1d),P,75.0,68.0,-0.043,-3.2,0.97,-28.7,0.092
+Vergleich: nur Bollinger 30 (1d),PAH3.DE,113.0,63.7,-0.33,-37.3,0.77,-69.2,-0.448
+Vergleich: nur Bollinger 30 (1d),PCAR,164.0,69.5,0.355,58.2,1.46,-13.0,1.016
+Vergleich: nur Bollinger 30 (1d),PCG,155.0,70.3,0.164,25.4,1.17,-51.1,0.028
+Vergleich: nur Bollinger 30 (1d),PFE,147.0,61.9,-0.044,-6.4,0.96,-44.6,0.098
+Vergleich: nur Bollinger 30 (1d),PH,157.0,63.1,0.038,6.0,1.04,-22.4,0.091
+Vergleich: nur Bollinger 30 (1d),PLD,139.0,64.7,0.101,14.1,1.11,-22.4,0.097
+Vergleich: nur Bollinger 30 (1d),PODD,134.0,61.2,-0.069,-9.3,0.93,-25.7,-0.621
+Vergleich: nur Bollinger 30 (1d),PPG,155.0,67.1,0.283,43.9,1.35,-29.4,0.714
+Vergleich: nur Bollinger 30 (1d),PSA,165.0,74.5,0.466,76.9,1.61,-14.2,1.562
+Vergleich: nur Bollinger 30 (1d),PSX,102.0,59.8,-0.241,-24.6,0.82,-61.6,-0.203
+Vergleich: nur Bollinger 30 (1d),Q,6.0,50.0,-0.279,-1.7,0.72,-2.0,-1.744
+Vergleich: nur Bollinger 30 (1d),QCOM,156.0,67.3,0.113,17.7,1.1,-36.1,0.366
+Vergleich: nur Bollinger 30 (1d),QIA.DE,161.0,65.2,0.206,33.2,1.24,-15.9,0.625
+Vergleich: nur Bollinger 30 (1d),REG,157.0,70.1,0.267,41.9,1.31,-24.2,0.906
+Vergleich: nur Bollinger 30 (1d),REGN,148.0,65.5,-0.287,-42.5,0.8,-49.6,-0.39
+Vergleich: nur Bollinger 30 (1d),RHM.DE,139.0,62.6,-1.119,-155.6,0.49,-160.5,-2.083
+Vergleich: nur Bollinger 30 (1d),RL,158.0,65.2,0.115,18.2,1.1,-32.7,0.841
+Vergleich: nur Bollinger 30 (1d),ROL,161.0,78.9,0.616,99.2,1.87,-16.5,1.685
+Vergleich: nur Bollinger 30 (1d),ROST,148.0,64.9,-0.238,-35.2,0.82,-51.4,-0.267
+Vergleich: nur Bollinger 30 (1d),RWE.DE,146.0,60.3,-0.332,-48.5,0.76,-71.3,-0.493
+Vergleich: nur Bollinger 30 (1d),SAP.DE,146.0,61.0,-0.11,-16.0,0.91,-50.6,-0.329
+Vergleich: nur Bollinger 30 (1d),SBAC,143.0,62.9,0.024,3.4,1.02,-36.2,0.809
+Vergleich: nur Bollinger 30 (1d),SHL.DE,61.0,68.9,0.537,32.8,1.65,-19.5,1.08
+Vergleich: nur Bollinger 30 (1d),SHW,145.0,64.8,-0.019,-2.8,0.98,-62.5,0.207
+Vergleich: nur Bollinger 30 (1d),SIE.DE,156.0,69.2,0.16,24.9,1.15,-39.8,0.592
+Vergleich: nur Bollinger 30 (1d),SLB,141.0,61.0,-0.289,-40.7,0.77,-55.3,-0.297
+Vergleich: nur Bollinger 30 (1d),SNA,149.0,69.8,0.5,74.5,1.51,-37.9,0.976
+Vergleich: nur Bollinger 30 (1d),SO,156.0,60.3,0.072,11.2,1.08,-20.6,0.087
+Vergleich: nur Bollinger 30 (1d),STE,160.0,66.9,0.423,67.7,1.62,-15.2,1.205
+Vergleich: nur Bollinger 30 (1d),SY1.DE,142.0,64.8,0.053,7.5,1.05,-38.2,0.449
+Vergleich: nur Bollinger 30 (1d),SYK,165.0,72.1,0.434,71.6,1.52,-33.3,0.857
+Vergleich: nur Bollinger 30 (1d),T,152.0,66.4,0.313,47.6,1.34,-21.2,0.486
+Vergleich: nur Bollinger 30 (1d),TEL,133.0,67.7,0.186,24.7,1.18,-27.1,0.096
+Vergleich: nur Bollinger 30 (1d),TER,136.0,55.9,-0.426,-58.0,0.69,-73.3,-1.149
+Vergleich: nur Bollinger 30 (1d),TFC,156.0,69.9,0.331,51.6,1.41,-16.0,0.628
+Vergleich: nur Bollinger 30 (1d),TGT,155.0,66.5,0.037,5.8,1.04,-44.2,0.17
+Vergleich: nur Bollinger 30 (1d),TJX,157.0,68.2,0.323,50.8,1.35,-21.7,0.708
+Vergleich: nur Bollinger 30 (1d),TPR,147.0,63.9,-0.237,-34.8,0.83,-59.0,-0.664
+Vergleich: nur Bollinger 30 (1d),TRMB,149.0,63.8,0.116,17.3,1.1,-39.9,0.449
+Vergleich: nur Bollinger 30 (1d),TRV,161.0,73.9,0.356,57.4,1.4,-17.3,1.216
+Vergleich: nur Bollinger 30 (1d),TSCO,140.0,62.9,-0.004,-0.5,1.0,-42.5,0.037
+Vergleich: nur Bollinger 30 (1d),TSLA,104.0,61.5,-1.272,-132.2,0.47,-147.8,-4.302
+Vergleich: nur Bollinger 30 (1d),TSN,143.0,62.2,-0.299,-42.7,0.78,-82.4,-0.735
+Vergleich: nur Bollinger 30 (1d),TWLO,70.0,70.0,-0.152,-10.6,0.9,-29.8,-0.109
+Vergleich: nur Bollinger 30 (1d),TXT,161.0,69.6,0.196,31.5,1.18,-41.3,-0.002
+Vergleich: nur Bollinger 30 (1d),UAL,139.0,66.2,-0.431,-60.0,0.73,-72.0,-1.288
+Vergleich: nur Bollinger 30 (1d),UBER,55.0,74.5,0.536,29.5,1.58,-15.2,2.563
+Vergleich: nur Bollinger 30 (1d),UHS,154.0,65.6,-0.093,-14.3,0.92,-43.6,-0.186
+Vergleich: nur Bollinger 30 (1d),UNP,159.0,69.8,0.457,72.6,1.55,-13.9,1.144
+Vergleich: nur Bollinger 30 (1d),URI,145.0,62.1,-0.256,-37.1,0.83,-68.1,-1.352
+Vergleich: nur Bollinger 30 (1d),V,131.0,67.2,0.382,50.1,1.48,-20.2,1.194
+Vergleich: nur Bollinger 30 (1d),VNA.DE,95.0,66.3,0.279,26.5,1.32,-25.4,0.823
+Vergleich: nur Bollinger 30 (1d),VOW3.DE,141.0,61.0,-0.654,-92.3,0.63,-117.5,-1.39
+Vergleich: nur Bollinger 30 (1d),VRSK,115.0,67.0,0.37,42.5,1.39,-30.4,0.737
+Vergleich: nur Bollinger 30 (1d),VRT,56.0,64.3,-1.819,-101.9,0.36,-116.1,-3.279
+Vergleich: nur Bollinger 30 (1d),VST,66.0,69.7,-0.099,-6.6,0.94,-61.8,0.359
+Vergleich: nur Bollinger 30 (1d),WY,160.0,70.0,0.233,37.2,1.23,-19.3,0.77
+Vergleich: nur Bollinger 30 (1d),XOM,152.0,71.1,0.05,7.6,1.04,-44.7,0.448
+Vergleich: nur Bollinger 30 (1d),XYZ,73.0,57.5,-0.601,-43.9,0.61,-52.4,-2.295
+Vergleich: nur Bollinger 30 (1d),ZAL.DE,81.0,55.6,-0.193,-15.6,0.84,-37.2,-1.174
+Vergleich: nur Bollinger 30 (1d),ZBRA,151.0,62.3,-0.095,-14.3,0.93,-30.4,0.063
 Vergleich: nur Bollinger-Kreuz (1d),AAPL,13.0,38.5,-21.27,-276.5,0.1,-214.3,-44.74
 Vergleich: nur Bollinger-Kreuz (1d),ADBE,13.0,61.5,-23.595,-306.7,0.14,-339.5,-35.023
 Vergleich: nur Bollinger-Kreuz (1d),ADS.DE,12.0,33.3,-10.418,-125.0,0.23,-125.9,-25.731

@@ -30,3 +30,8 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-10-18 | TradingView | yMCa3XZD | ChartArt – MACD + SMA 200 Strategy | getestet, PF 2,47 (L/S) / 6,64 nur Long (26); 2,22 / 5,41 (200); Vergleich 0,96 / 0,93; nicht robust, kein Stop |
 | 2026-10-18 | StockCharts ChartSchool | moving-momentum | Arthur Hill – Moving Momentum | getestet, PF 1,69 (L/S) / 2,99 nur Long (26); 1,24 / 2,06 (200); Vergleich 1,84 / 1,27; nicht robust |
 | 2026-10-18 | Buch/Fachaufsatz | quant/strategies.py | Clenow, Antonacci, Frazzini/Pedersen, Moskowitz/Ooi/Pedersen, Gatev u. a. (9 Quant-Strategien) | getestet 15.–16.10. (Abschnitt „Hedgefonds- und Quant-Strategien“), mit Stichtag keine robust |
+| 2026-10-25 | YouTube | pCmJ8wsAS_w | TradingLab – Bollinger Band + RSI Trading Strategy | getestet, PF 0,81 L/S, 2,04 nur Long (26) / 1,03 / 1,59 (200); Vergleich ohne RSI 0,94 / 1,04; nicht robust, kein Stop |
+| 2026-10-25 | YouTube | hh3BKTFE1dc | Data Trader – Stochastic + RSI + MACD (Forex) | getestet, PF 0,69 (30 Min) / 0,77 (1 Std); Vergleich ohne Stochastik 0,80 / 0,85 |
+| 2026-10-25 | YouTube | gX8FjjKR7ec | Quantified Strategies – 6 Larry-Connors-Strategien | getestet, PF (26 / 200): %b 1,88 / 1,51, R3 1,64 / 1,43, RSI(5) 1,60 / 1,46, 4v5 1,55 / 1,38, 3 Tage 1,46 / 1,41, Double 5 1,36 / 1,34; alle robust (200), kein Stop |
+| 2026-10-25 | TradingView | 6ZReHYKn | ChartArt – Golden Cross, SMA 200 Long Only | getestet, PF 4,42 / 2,86; Vergleich Kurs-SMA200-Kreuz 2,81 / 2,13; nicht robust, kein Stop |
+| 2026-10-25 | TradingView | Q1O23zJP | tmr0 – 20 years old Turtles strategy | getestet, PF 1,14 / 0,99 (L/S), 1,68 / 1,34 nur Long; nicht robust, kein Stop |

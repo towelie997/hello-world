@@ -1,53 +1,53 @@
 strategy,symbol,trades,trefferquote_%,avg_R,summe_R,profit_factor,max_dd_R,avg_pct
-5-Min Range + FVG (1 Min),AAOI,8.0,50.0,0.478,3.8,1.94,-2.0,0.273
-5-Min Range + FVG (1 Min),AAPL,6.0,16.7,-0.602,-3.6,0.34,-4.2,-0.326
-5-Min Range + FVG (1 Min),AMD,7.0,28.6,-0.33,-2.3,0.63,-4.2,0.142
-5-Min Range + FVG (1 Min),AMZN,7.0,28.6,-0.251,-1.8,0.68,-4.4,-0.094
-5-Min Range + FVG (1 Min),ES=F,6.0,16.7,-0.819,-4.9,0.24,-5.0,-0.073
-5-Min Range + FVG (1 Min),GGLL,7.0,28.6,-0.255,-1.8,0.69,-4.7,-0.018
-5-Min Range + FVG (1 Min),GOOGL,7.0,42.9,0.235,1.6,1.39,-4.3,0.136
-5-Min Range + FVG (1 Min),IWM,7.0,0.0,-1.2,-8.4,0.0,-7.3,-0.147
-5-Min Range + FVG (1 Min),META,7.0,57.1,0.674,4.7,2.49,-2.1,0.447
-5-Min Range + FVG (1 Min),MSFT,6.0,33.3,-0.078,-0.5,0.89,-2.2,0.082
-5-Min Range + FVG (1 Min),NQ=F,6.0,50.0,0.199,1.2,1.34,-1.2,0.052
-5-Min Range + FVG (1 Min),NVDA,8.0,25.0,-0.318,-2.5,0.6,-4.2,-0.197
-5-Min Range + FVG (1 Min),QQQ,8.0,25.0,-0.509,-4.1,0.42,-4.8,-0.049
-5-Min Range + FVG (1 Min),SPY,8.0,25.0,-0.604,-4.8,0.38,-6.1,-0.06
-5-Min Range + FVG (1 Min),TSLA,7.0,14.3,-0.632,-4.4,0.3,-3.4,-0.31
-5-Min Range + FVG (1 Min),YM=F,6.0,50.0,0.257,1.5,1.45,-3.4,0.017
-ChartArt Bollinger + RSI (1d),AAPL,9.0,33.3,-50.396,-453.6,0.05,-388.3,-97.543
-ChartArt Bollinger + RSI (1d),AMD,9.0,44.4,-105.231,-947.1,0.04,-976.7,-517.047
-ChartArt Bollinger + RSI (1d),AMZN,7.0,42.9,-118.781,-831.5,0.03,-832.0,-321.551
-ChartArt Bollinger + RSI (1d),BA,13.0,53.8,-12.161,-158.1,0.13,-143.9,-18.5
-ChartArt Bollinger + RSI (1d),C,16.0,68.8,0.814,13.0,1.12,-76.1,4.077
-ChartArt Bollinger + RSI (1d),DIA,13.0,53.8,-3.921,-51.0,0.56,-60.6,3.611
-ChartArt Bollinger + RSI (1d),DIS,11.0,63.6,-2.212,-24.3,0.72,-55.0,1.396
-ChartArt Bollinger + RSI (1d),F,14.0,64.3,2.566,35.9,2.05,-18.9,3.062
-ChartArt Bollinger + RSI (1d),GLD,7.0,42.9,-32.396,-226.8,0.13,-184.8,-36.635
-ChartArt Bollinger + RSI (1d),GOOGL,11.0,72.7,-4.836,-53.2,0.64,-120.1,0.898
-ChartArt Bollinger + RSI (1d),INTC,17.0,70.6,4.677,79.5,3.17,-14.7,11.422
-ChartArt Bollinger + RSI (1d),IWM,11.0,36.4,-8.623,-94.9,0.21,-79.1,-10.648
-ChartArt Bollinger + RSI (1d),JNJ,15.0,73.3,-2.187,-32.8,0.61,-48.4,0.209
-ChartArt Bollinger + RSI (1d),JPM,14.0,64.3,0.973,13.6,1.14,-65.6,10.432
-ChartArt Bollinger + RSI (1d),KO,14.0,64.3,-1.521,-21.3,0.72,-49.7,-2.102
-ChartArt Bollinger + RSI (1d),META,9.0,77.8,-5.621,-50.6,0.47,-36.9,-13.863
-ChartArt Bollinger + RSI (1d),MSFT,11.0,63.6,-29.544,-325.0,0.19,-392.8,-47.217
-ChartArt Bollinger + RSI (1d),NVDA,9.0,33.3,-155.614,-1400.5,0.01,-1369.4,-396.538
-ChartArt Bollinger + RSI (1d),PFE,12.0,58.3,0.2,2.4,1.05,-25.6,1.059
-ChartArt Bollinger + RSI (1d),QQQ,15.0,60.0,-7.363,-110.4,0.37,-139.0,-0.564
-ChartArt Bollinger + RSI (1d),SPY,13.0,53.8,-1.869,-24.3,0.75,-52.5,7.853
-ChartArt Bollinger + RSI (1d),T,13.0,46.2,-1.88,-24.4,0.66,-50.2,-4.244
-ChartArt Bollinger + RSI (1d),TSLA,8.0,75.0,-30.722,-245.8,0.21,-132.0,-125.096
-ChartArt Bollinger + RSI (1d),VZ,10.0,50.0,-1.975,-19.8,0.65,-39.1,-3.781
-ChartArt Bollinger + RSI (1d),WMT,12.0,58.3,-6.807,-81.7,0.35,-86.5,-7.701
-ChartArt Bollinger + RSI (1d),XOM,11.0,45.5,3.529,38.8,2.32,-8.9,5.08
+5-Min Range + FVG (1 Min),AAOI,8.0,50.0,0.305,2.4,1.6,-3.1,0.157
+5-Min Range + FVG (1 Min),AAPL,8.0,25.0,-0.589,-4.7,0.29,-5.5,-0.179
+5-Min Range + FVG (1 Min),AMD,8.0,0.0,-1.163,-9.3,0.0,-8.3,-0.727
+5-Min Range + FVG (1 Min),AMZN,7.0,28.6,-0.239,-1.7,0.7,-2.2,0.055
+5-Min Range + FVG (1 Min),ES=F,6.0,0.0,-1.219,-7.3,0.0,-6.1,-0.125
+5-Min Range + FVG (1 Min),GGLL,8.0,50.0,0.341,2.7,1.53,-4.1,0.402
+5-Min Range + FVG (1 Min),GOOGL,6.0,66.7,0.972,5.8,3.77,-1.1,0.389
+5-Min Range + FVG (1 Min),IWM,8.0,25.0,-0.376,-3.0,0.55,-3.7,-0.069
+5-Min Range + FVG (1 Min),META,8.0,62.5,0.609,4.9,2.57,-2.1,0.213
+5-Min Range + FVG (1 Min),MSFT,8.0,62.5,0.717,5.7,2.79,-1.1,0.338
+5-Min Range + FVG (1 Min),NQ=F,6.0,33.3,-0.154,-0.9,0.8,-3.6,-0.033
+5-Min Range + FVG (1 Min),NVDA,8.0,0.0,-1.055,-8.4,0.0,-7.3,-0.416
+5-Min Range + FVG (1 Min),QQQ,8.0,25.0,-0.401,-3.2,0.54,-3.6,-0.103
+5-Min Range + FVG (1 Min),SPY,8.0,0.0,-1.249,-10.0,0.0,-8.6,-0.11
+5-Min Range + FVG (1 Min),TSLA,8.0,50.0,0.446,3.6,1.85,-2.1,0.204
+5-Min Range + FVG (1 Min),YM=F,6.0,16.7,-0.704,-4.2,0.31,-3.8,-0.032
+ChartArt Bollinger + RSI (1d),AAPL,9.0,33.3,-50.567,-455.1,0.05,-389.9,-97.794
+ChartArt Bollinger + RSI (1d),AMD,9.0,44.4,-105.044,-945.4,0.04,-975.1,-516.25
+ChartArt Bollinger + RSI (1d),AMZN,7.0,42.9,-118.738,-831.2,0.03,-832.0,-321.443
+ChartArt Bollinger + RSI (1d),BA,13.0,53.8,-12.135,-157.8,0.14,-143.9,-18.429
+ChartArt Bollinger + RSI (1d),C,16.0,68.8,1.02,16.3,1.15,-72.7,4.512
+ChartArt Bollinger + RSI (1d),DIA,13.0,53.8,-3.953,-51.4,0.55,-60.6,3.578
+ChartArt Bollinger + RSI (1d),DIS,11.0,63.6,-2.17,-23.9,0.73,-54.5,1.52
+ChartArt Bollinger + RSI (1d),F,14.0,64.3,2.729,38.2,2.11,-18.9,3.493
+ChartArt Bollinger + RSI (1d),GLD,7.0,42.9,-30.908,-216.4,0.14,-174.4,-34.974
+ChartArt Bollinger + RSI (1d),GOOGL,11.0,72.7,-4.652,-51.2,0.65,-120.1,1.376
+ChartArt Bollinger + RSI (1d),INTC,17.0,70.6,4.732,80.4,3.26,-13.8,11.806
+ChartArt Bollinger + RSI (1d),IWM,11.0,36.4,-8.788,-96.7,0.21,-81.0,-10.896
+ChartArt Bollinger + RSI (1d),JNJ,15.0,73.3,-2.415,-36.2,0.59,-51.8,-0.126
+ChartArt Bollinger + RSI (1d),JPM,14.0,64.3,1.197,16.8,1.18,-62.5,10.775
+ChartArt Bollinger + RSI (1d),KO,14.0,64.3,-1.435,-20.1,0.74,-49.7,-1.981
+ChartArt Bollinger + RSI (1d),META,9.0,77.8,-5.307,-47.8,0.5,-36.9,-12.84
+ChartArt Bollinger + RSI (1d),MSFT,12.0,66.7,-27.057,-324.7,0.19,-392.8,-43.226
+ChartArt Bollinger + RSI (1d),NVDA,9.0,33.3,-155.534,-1399.8,0.01,-1368.7,-396.337
+ChartArt Bollinger + RSI (1d),PFE,12.0,58.3,0.139,1.7,1.03,-26.3,0.919
+ChartArt Bollinger + RSI (1d),QQQ,15.0,60.0,-7.341,-110.1,0.37,-139.0,-0.514
+ChartArt Bollinger + RSI (1d),SPY,13.0,53.8,-1.836,-23.9,0.75,-52.5,7.887
+ChartArt Bollinger + RSI (1d),T,13.0,46.2,-2.295,-29.8,0.62,-50.2,-5.034
+ChartArt Bollinger + RSI (1d),TSLA,8.0,75.0,-30.562,-244.5,0.21,-132.0,-124.457
+ChartArt Bollinger + RSI (1d),VZ,10.0,50.0,-1.99,-19.9,0.65,-39.1,-3.814
+ChartArt Bollinger + RSI (1d),WMT,12.0,58.3,-6.898,-82.8,0.34,-87.6,-7.875
+ChartArt Bollinger + RSI (1d),XOM,11.0,45.5,3.461,38.1,2.26,-8.9,4.835
 "ChartArt Bollinger + RSI (1d, nur Long)",AAPL,4.0,75.0,4.957,19.8,9.82,-2.2,22.787
 "ChartArt Bollinger + RSI (1d, nur Long)",AMD,4.0,50.0,0.767,3.1,1.4,-7.6,5.06
 "ChartArt Bollinger + RSI (1d, nur Long)",AMZN,3.0,66.7,5.842,17.5,5.11,-4.3,32.446
 "ChartArt Bollinger + RSI (1d, nur Long)",BA,6.0,66.7,-0.667,-4.0,0.8,-7.8,-2.971
 "ChartArt Bollinger + RSI (1d, nur Long)",C,8.0,75.0,3.003,24.0,1.63,-30.0,12.553
 "ChartArt Bollinger + RSI (1d, nur Long)",DIA,6.0,83.3,6.572,39.4,14.41,0.0,19.239
-"ChartArt Bollinger + RSI (1d, nur Long)",DIS,6.0,83.3,6.883,41.3,6.41,-7.6,18.192
+"ChartArt Bollinger + RSI (1d, nur Long)",DIS,6.0,83.3,6.961,41.8,6.83,-7.2,18.418
 "ChartArt Bollinger + RSI (1d, nur Long)",F,7.0,57.1,2.051,14.4,1.89,-5.5,11.87
 "ChartArt Bollinger + RSI (1d, nur Long)",GLD,3.0,66.7,7.459,22.4,3.41,-9.3,11.055
 "ChartArt Bollinger + RSI (1d, nur Long)",GOOGL,5.0,100.0,15.978,79.9,inf,0.0,54.455
@@ -57,70 +57,96 @@ ChartArt Bollinger + RSI (1d),XOM,11.0,45.5,3.529,38.8,2.32,-8.9,5.08
 "ChartArt Bollinger + RSI (1d, nur Long)",JPM,7.0,85.7,9.787,68.5,32.23,-2.2,33.129
 "ChartArt Bollinger + RSI (1d, nur Long)",KO,7.0,85.7,5.97,41.8,17.49,-2.5,10.57
 "ChartArt Bollinger + RSI (1d, nur Long)",META,4.0,100.0,7.651,30.6,inf,0.0,35.728
-"ChartArt Bollinger + RSI (1d, nur Long)",MSFT,6.0,83.3,9.471,56.8,41.06,-1.4,22.664
+"ChartArt Bollinger + RSI (1d, nur Long)",MSFT,6.0,83.3,9.465,56.8,41.03,-1.4,22.649
 "ChartArt Bollinger + RSI (1d, nur Long)",NVDA,4.0,50.0,1.373,5.5,1.83,-1.1,9.58
 "ChartArt Bollinger + RSI (1d, nur Long)",PFE,6.0,66.7,1.576,9.5,1.4,-17.2,6.624
 "ChartArt Bollinger + RSI (1d, nur Long)",QQQ,7.0,85.7,7.591,53.1,16.16,-3.5,23.673
 "ChartArt Bollinger + RSI (1d, nur Long)",SPY,6.0,83.3,7.829,47.0,18.68,0.0,26.374
-"ChartArt Bollinger + RSI (1d, nur Long)",T,7.0,42.9,1.488,10.4,1.96,-6.4,0.184
-"ChartArt Bollinger + RSI (1d, nur Long)",TSLA,4.0,100.0,12.698,50.8,inf,0.0,70.364
-"ChartArt Bollinger + RSI (1d, nur Long)",VZ,5.0,60.0,1.657,8.3,1.49,-12.7,1.272
+"ChartArt Bollinger + RSI (1d, nur Long)",T,7.0,42.9,0.719,5.0,1.31,-8.5,-1.282
+"ChartArt Bollinger + RSI (1d, nur Long)",TSLA,4.0,100.0,13.017,52.1,inf,0.0,71.642
+"ChartArt Bollinger + RSI (1d, nur Long)",VZ,5.0,60.0,1.627,8.1,1.48,-12.7,1.207
 "ChartArt Bollinger + RSI (1d, nur Long)",WMT,6.0,100.0,5.474,32.8,inf,0.0,14.342
 "ChartArt Bollinger + RSI (1d, nur Long)",XOM,5.0,60.0,7.993,40.0,9.68,-1.7,16.989
-ChartArt MACD + SMA200 (1d),AAPL,17.0,47.1,12.866,218.7,4.09,-34.2,21.913
-ChartArt MACD + SMA200 (1d),AMD,15.0,46.7,-4.436,-66.5,0.6,-90.1,-11.993
-ChartArt MACD + SMA200 (1d),AMZN,18.0,22.2,2.002,36.0,1.24,-94.7,-9.736
-ChartArt MACD + SMA200 (1d),BA,8.0,62.5,32.978,263.8,20.45,-7.7,54.188
-ChartArt MACD + SMA200 (1d),C,17.0,29.4,2.518,42.8,1.46,-47.5,5.297
-ChartArt MACD + SMA200 (1d),DIA,5.0,40.0,44.298,221.5,6.33,-6.3,40.753
-ChartArt MACD + SMA200 (1d),DIS,16.0,31.2,3.14,50.2,1.55,-39.1,5.862
-ChartArt MACD + SMA200 (1d),F,14.0,50.0,-2.677,-37.5,0.54,-66.5,-3.477
-ChartArt MACD + SMA200 (1d),GLD,10.0,50.0,18.475,184.7,6.34,-13.5,19.752
-ChartArt MACD + SMA200 (1d),GOOGL,15.0,53.3,5.511,82.7,1.95,-44.2,7.131
-ChartArt MACD + SMA200 (1d),INTC,14.0,50.0,1.878,26.3,1.41,-21.9,10.695
-ChartArt MACD + SMA200 (1d),IWM,13.0,30.8,-2.366,-30.8,0.68,-44.7,-7.816
-ChartArt MACD + SMA200 (1d),JNJ,17.0,23.5,0.564,9.6,1.12,-37.7,0.115
-ChartArt MACD + SMA200 (1d),JPM,14.0,28.6,5.203,72.8,2.08,-32.4,5.509
-ChartArt MACD + SMA200 (1d),KO,11.0,54.5,7.575,83.3,4.25,-13.1,8.372
-ChartArt MACD + SMA200 (1d),META,8.0,62.5,20.472,163.8,10.48,-9.5,66.344
-ChartArt MACD + SMA200 (1d),MSFT,18.0,27.8,4.398,79.2,1.62,-98.4,8.758
-ChartArt MACD + SMA200 (1d),NVDA,15.0,46.7,37.599,564.0,8.87,-35.2,70.387
-ChartArt MACD + SMA200 (1d),PFE,13.0,23.1,0.835,10.8,1.16,-39.8,-3.811
-ChartArt MACD + SMA200 (1d),QQQ,11.0,54.5,21.914,241.1,8.76,-13.9,32.824
-ChartArt MACD + SMA200 (1d),SPY,7.0,42.9,25.499,178.5,5.17,-5.5,25.922
-ChartArt MACD + SMA200 (1d),T,23.0,26.1,-3.689,-84.8,0.32,-99.9,-5.219
-ChartArt MACD + SMA200 (1d),TSLA,12.0,33.3,27.581,331.0,4.21,-63.1,78.915
-ChartArt MACD + SMA200 (1d),VZ,16.0,31.2,0.28,4.5,1.07,-44.3,-0.187
-ChartArt MACD + SMA200 (1d),WMT,8.0,62.5,20.11,160.9,28.08,-4.6,35.473
-ChartArt MACD + SMA200 (1d),XOM,17.0,35.3,0.525,8.9,1.1,-66.7,4.471
-"ChartArt MACD + SMA200 (1d, nur Long)",AAPL,9.0,88.9,31.764,285.9,80.06,-3.6,66.056
-"ChartArt MACD + SMA200 (1d, nur Long)",AMD,8.0,62.5,6.688,53.5,2.87,-25.7,38.183
-"ChartArt MACD + SMA200 (1d, nur Long)",AMZN,9.0,44.4,18.161,163.4,7.57,-8.8,32.312
+ChartArt Golden Cross (1d),AAPL,10.0,70.0,28.454,284.5,15.99,-11.3,70.525
+ChartArt Golden Cross (1d),AMD,13.0,61.5,20.418,265.4,10.8,-25.2,79.801
+ChartArt Golden Cross (1d),AMZN,14.0,57.1,12.428,174.0,5.85,-9.0,29.271
+ChartArt Golden Cross (1d),BA,18.0,38.9,6.558,118.1,3.38,-23.5,8.915
+ChartArt Golden Cross (1d),C,16.0,50.0,2.59,41.4,1.74,-25.9,4.699
+ChartArt Golden Cross (1d),DIA,13.0,69.2,8.274,107.6,3.85,-24.8,9.924
+ChartArt Golden Cross (1d),DIS,17.0,47.1,5.32,90.4,2.71,-19.3,11.848
+ChartArt Golden Cross (1d),F,18.0,22.2,0.166,3.0,1.04,-39.8,6.231
+ChartArt Golden Cross (1d),GLD,13.0,46.2,12.247,159.2,5.13,-26.2,15.322
+ChartArt Golden Cross (1d),GOOGL,13.0,76.9,12.655,164.5,14.43,-10.3,24.199
+ChartArt Golden Cross (1d),INTC,21.0,47.6,3.402,71.4,2.78,-12.7,12.987
+ChartArt Golden Cross (1d),IWM,15.0,60.0,2.443,36.6,1.65,-33.6,4.446
+ChartArt Golden Cross (1d),JNJ,20.0,25.0,1.26,25.2,1.34,-35.0,1.543
+ChartArt Golden Cross (1d),JPM,14.0,57.1,7.507,105.1,4.17,-16.5,15.292
+ChartArt Golden Cross (1d),KO,17.0,70.6,3.956,67.3,4.79,-10.8,5.504
+ChartArt Golden Cross (1d),META,8.0,50.0,17.979,143.8,8.38,-12.0,58.848
+ChartArt Golden Cross (1d),MSFT,16.0,56.2,10.591,169.5,6.06,-10.4,17.969
+ChartArt Golden Cross (1d),NVDA,10.0,80.0,53.04,530.4,90.93,-5.9,181.301
+ChartArt Golden Cross (1d),PFE,18.0,38.9,0.435,7.8,1.16,-16.4,0.699
+ChartArt Golden Cross (1d),QQQ,14.0,71.4,14.017,196.2,16.98,-8.0,21.259
+ChartArt Golden Cross (1d),SPY,10.0,80.0,14.33,143.3,12.99,-8.8,17.841
+ChartArt Golden Cross (1d),T,17.0,29.4,1.56,26.5,1.43,-42.8,1.937
+ChartArt Golden Cross (1d),TSLA,14.0,28.6,28.613,400.6,13.8,-11.7,97.891
+ChartArt Golden Cross (1d),VZ,19.0,36.8,-0.323,-6.1,0.87,-27.4,-0.204
+ChartArt Golden Cross (1d),WMT,19.0,47.4,3.341,63.5,2.43,-18.2,7.044
+ChartArt Golden Cross (1d),XOM,16.0,25.0,2.571,41.1,1.75,-40.7,9.177
+ChartArt MACD + SMA200 (1d),AAPL,17.0,47.1,12.918,219.6,4.1,-34.2,22.014
+ChartArt MACD + SMA200 (1d),AMD,15.0,46.7,-4.468,-67.0,0.59,-90.1,-12.173
+ChartArt MACD + SMA200 (1d),AMZN,18.0,22.2,1.964,35.4,1.23,-94.7,-9.819
+ChartArt MACD + SMA200 (1d),BA,8.0,62.5,33.023,264.2,21.01,-7.4,54.315
+ChartArt MACD + SMA200 (1d),C,17.0,29.4,2.298,39.1,1.42,-47.5,4.882
+ChartArt MACD + SMA200 (1d),DIA,5.0,40.0,44.577,222.9,6.37,-6.3,41.009
+ChartArt MACD + SMA200 (1d),DIS,16.0,31.2,3.092,49.5,1.54,-39.8,5.742
+ChartArt MACD + SMA200 (1d),F,14.0,42.9,-2.903,-40.6,0.51,-66.5,-3.967
+ChartArt MACD + SMA200 (1d),GLD,10.0,60.0,18.715,187.1,6.47,-13.5,20.158
+ChartArt MACD + SMA200 (1d),GOOGL,15.0,53.3,5.271,79.1,1.9,-44.2,6.539
+ChartArt MACD + SMA200 (1d),INTC,14.0,50.0,1.724,24.1,1.38,-21.9,9.983
+ChartArt MACD + SMA200 (1d),IWM,13.0,30.8,-2.277,-29.6,0.7,-44.7,-7.65
+ChartArt MACD + SMA200 (1d),JNJ,17.0,23.5,0.778,13.2,1.16,-37.7,0.409
+ChartArt MACD + SMA200 (1d),JPM,14.0,28.6,4.987,69.8,2.04,-32.4,5.102
+ChartArt MACD + SMA200 (1d),KO,11.0,54.5,7.511,82.6,4.22,-13.1,8.224
+ChartArt MACD + SMA200 (1d),META,8.0,62.5,20.931,167.4,13.31,-9.5,67.726
+ChartArt MACD + SMA200 (1d),MSFT,18.0,27.8,4.375,78.8,1.61,-98.4,8.708
+ChartArt MACD + SMA200 (1d),NVDA,15.0,46.7,37.545,563.2,8.86,-35.2,70.252
+ChartArt MACD + SMA200 (1d),PFE,13.0,23.1,0.767,10.0,1.14,-39.8,-3.95
+ChartArt MACD + SMA200 (1d),QQQ,11.0,54.5,21.808,239.9,8.73,-13.9,32.674
+ChartArt MACD + SMA200 (1d),SPY,7.0,42.9,25.395,177.8,5.15,-5.5,25.808
+ChartArt MACD + SMA200 (1d),T,23.0,26.1,-3.419,-78.6,0.37,-99.9,-4.758
+ChartArt MACD + SMA200 (1d),TSLA,12.0,25.0,27.495,329.9,4.2,-63.1,78.522
+ChartArt MACD + SMA200 (1d),VZ,16.0,31.2,0.271,4.3,1.07,-44.3,-0.204
+ChartArt MACD + SMA200 (1d),WMT,8.0,62.5,20.271,162.2,28.3,-4.6,35.78
+ChartArt MACD + SMA200 (1d),XOM,17.0,35.3,0.63,10.7,1.12,-66.7,4.679
+"ChartArt MACD + SMA200 (1d, nur Long)",AAPL,9.0,88.9,31.863,286.8,80.3,-3.6,66.247
+"ChartArt MACD + SMA200 (1d, nur Long)",AMD,8.0,62.5,6.628,53.0,2.86,-25.7,37.844
+"ChartArt MACD + SMA200 (1d, nur Long)",AMZN,9.0,44.4,18.086,162.8,7.55,-8.8,32.146
 "ChartArt MACD + SMA200 (1d, nur Long)",BA,4.0,75.0,61.755,247.0,39.71,-6.4,96.48
-"ChartArt MACD + SMA200 (1d, nur Long)",C,9.0,33.3,4.818,43.4,1.8,-23.1,10.382
-"ChartArt MACD + SMA200 (1d, nur Long)",DIA,3.0,66.7,76.838,230.5,8.09,0.0,76.953
+"ChartArt MACD + SMA200 (1d, nur Long)",C,9.0,33.3,4.401,39.6,1.73,-23.1,9.598
+"ChartArt MACD + SMA200 (1d, nur Long)",DIA,3.0,66.7,77.304,231.9,8.13,0.0,77.379
 "ChartArt MACD + SMA200 (1d, nur Long)",DIS,8.0,37.5,10.305,82.4,3.29,-20.6,20.387
-"ChartArt MACD + SMA200 (1d, nur Long)",F,7.0,42.9,-4.914,-34.4,0.37,-47.1,0.481
+"ChartArt MACD + SMA200 (1d, nur Long)",F,7.0,28.6,-5.367,-37.6,0.34,-47.1,-0.499
 "ChartArt MACD + SMA200 (1d, nur Long)",GLD,5.0,80.0,39.68,198.4,38.15,-5.3,45.682
-"ChartArt MACD + SMA200 (1d, nur Long)",GOOGL,8.0,87.5,19.238,153.9,11.12,-15.2,36.144
-"ChartArt MACD + SMA200 (1d, nur Long)",INTC,7.0,57.1,7.429,52.0,2.92,-17.4,29.851
-"ChartArt MACD + SMA200 (1d, nur Long)",IWM,7.0,57.1,2.825,19.8,1.42,-16.7,6.887
-"ChartArt MACD + SMA200 (1d, nur Long)",JNJ,9.0,44.4,6.779,61.0,2.96,-17.4,9.006
-"ChartArt MACD + SMA200 (1d, nur Long)",JPM,7.0,57.1,16.686,116.8,6.02,-11.9,27.491
-"ChartArt MACD + SMA200 (1d, nur Long)",KO,6.0,83.3,17.643,105.9,35.41,-3.1,21.323
+"ChartArt MACD + SMA200 (1d, nur Long)",GOOGL,8.0,87.5,18.788,150.3,10.88,-15.2,35.035
+"ChartArt MACD + SMA200 (1d, nur Long)",INTC,7.0,57.1,7.122,49.9,2.84,-17.4,28.427
+"ChartArt MACD + SMA200 (1d, nur Long)",IWM,7.0,57.1,2.99,20.9,1.45,-16.7,7.195
+"ChartArt MACD + SMA200 (1d, nur Long)",JNJ,9.0,44.4,7.183,64.6,3.08,-17.4,9.561
+"ChartArt MACD + SMA200 (1d, nur Long)",JPM,7.0,57.1,16.253,113.8,5.89,-11.9,26.678
+"ChartArt MACD + SMA200 (1d, nur Long)",KO,6.0,83.3,17.524,105.1,35.18,-3.1,21.051
 "ChartArt MACD + SMA200 (1d, nur Long)",META,4.0,100.0,45.208,180.8,inf,0.0,142.457
-"ChartArt MACD + SMA200 (1d, nur Long)",MSFT,9.0,44.4,18.705,168.3,5.45,-21.9,39.001
-"ChartArt MACD + SMA200 (1d, nur Long)",NVDA,8.0,75.0,77.145,617.2,45.22,-14.0,171.736
+"ChartArt MACD + SMA200 (1d, nur Long)",MSFT,9.0,44.4,18.659,167.9,5.44,-21.9,38.9
+"ChartArt MACD + SMA200 (1d, nur Long)",NVDA,8.0,75.0,77.044,616.4,45.16,-14.0,171.482
 "ChartArt MACD + SMA200 (1d, nur Long)",PFE,6.0,16.7,3.566,21.4,1.84,-14.2,4.331
-"ChartArt MACD + SMA200 (1d, nur Long)",QQQ,6.0,66.7,43.373,260.2,72.83,-2.0,67.082
-"ChartArt MACD + SMA200 (1d, nur Long)",SPY,4.0,75.0,47.413,189.7,6.99,0.0,55.288
+"ChartArt MACD + SMA200 (1d, nur Long)",QQQ,6.0,66.7,43.178,259.1,72.51,-2.0,66.805
+"ChartArt MACD + SMA200 (1d, nur Long)",SPY,4.0,75.0,47.231,188.9,6.97,0.0,55.089
 "ChartArt MACD + SMA200 (1d, nur Long)",T,11.0,18.2,-2.183,-24.0,0.54,-52.5,-3.272
 "ChartArt MACD + SMA200 (1d, nur Long)",TSLA,6.0,50.0,66.42,398.5,12.5,-19.0,214.386
-"ChartArt MACD + SMA200 (1d, nur Long)",VZ,8.0,25.0,1.64,13.1,1.57,-23.2,3.312
-"ChartArt MACD + SMA200 (1d, nur Long)",WMT,4.0,75.0,39.571,158.3,284.31,0.0,72.316
-"ChartArt MACD + SMA200 (1d, nur Long)",XOM,9.0,44.4,3.151,28.4,1.5,-50.5,14.014
+"ChartArt MACD + SMA200 (1d, nur Long)",VZ,8.0,25.0,1.623,13.0,1.56,-23.3,3.277
+"ChartArt MACD + SMA200 (1d, nur Long)",WMT,4.0,75.0,39.894,159.6,286.62,0.0,72.93
+"ChartArt MACD + SMA200 (1d, nur Long)",XOM,9.0,44.4,3.348,30.1,1.53,-50.5,14.407
 Connors RSI(2) (1d),AAPL,107.0,70.1,0.44,47.1,2.69,-6.0,1.171
-Connors RSI(2) (1d),AMD,64.0,57.8,0.101,6.5,1.27,-9.5,0.27
+Connors RSI(2) (1d),AMD,65.0,58.5,0.113,7.3,1.3,-9.5,0.335
 Connors RSI(2) (1d),AMZN,86.0,68.6,0.44,37.9,2.31,-5.5,1.111
 Connors RSI(2) (1d),BA,76.0,65.8,0.194,14.8,1.39,-18.5,0.285
 Connors RSI(2) (1d),C,76.0,72.4,0.198,15.1,1.46,-9.6,0.492
@@ -129,67 +155,79 @@ Connors RSI(2) (1d),DIS,74.0,73.0,0.448,33.2,4.08,-2.5,0.789
 Connors RSI(2) (1d),F,59.0,59.3,0.008,0.5,1.02,-10.7,0.17
 Connors RSI(2) (1d),GLD,68.0,73.5,0.379,25.8,2.21,-7.0,0.56
 Connors RSI(2) (1d),GOOGL,97.0,78.4,0.549,53.3,3.77,-6.6,1.115
-Connors RSI(2) (1d),INTC,78.0,61.5,-0.061,-4.8,0.88,-10.0,-0.232
+Connors RSI(2) (1d),INTC,78.0,61.5,-0.055,-4.3,0.89,-10.0,-0.194
 Connors RSI(2) (1d),IWM,91.0,78.0,0.292,26.5,1.75,-9.3,0.563
 Connors RSI(2) (1d),JNJ,79.0,72.2,0.173,13.7,1.46,-6.1,0.273
 Connors RSI(2) (1d),JPM,83.0,63.9,0.08,6.6,1.15,-10.7,0.236
 Connors RSI(2) (1d),KO,83.0,69.9,0.314,26.0,2.07,-4.2,0.419
-Connors RSI(2) (1d),META,48.0,79.2,0.627,30.1,4.62,-3.0,1.564
+Connors RSI(2) (1d),META,49.0,77.6,0.571,28.0,3.68,-3.2,1.38
 Connors RSI(2) (1d),MSFT,72.0,66.7,0.453,32.6,2.56,-3.9,0.863
-Connors RSI(2) (1d),NVDA,85.0,67.1,0.325,27.6,1.91,-7.3,1.121
+Connors RSI(2) (1d),NVDA,85.0,67.1,0.341,29.0,2.0,-7.3,1.162
 Connors RSI(2) (1d),PFE,57.0,54.4,0.045,2.6,1.1,-8.6,-0.023
-Connors RSI(2) (1d),QQQ,101.0,75.2,0.39,39.4,2.23,-5.4,0.545
+Connors RSI(2) (1d),QQQ,101.0,75.2,0.407,41.1,2.35,-5.4,0.566
 Connors RSI(2) (1d),SPY,93.0,79.6,0.532,49.5,2.48,-9.1,0.552
 Connors RSI(2) (1d),T,51.0,66.7,0.198,10.1,1.43,-6.6,0.349
 Connors RSI(2) (1d),TSLA,54.0,72.2,0.362,19.6,1.87,-9.5,1.596
 Connors RSI(2) (1d),VZ,62.0,58.1,-0.044,-2.7,0.9,-9.0,-0.024
 Connors RSI(2) (1d),WMT,82.0,73.2,0.206,16.9,1.7,-6.8,0.334
 Connors RSI(2) (1d),XOM,69.0,62.3,-0.039,-2.7,0.93,-18.7,0.094
-Donchian 50 + MACD (1d),AAPL,75.0,49.3,0.448,33.6,2.33,-4.5,4.139
+Data Trader Stoch+RSI+MACD (1h),AUDJPY=X,276.0,37.0,-0.211,-58.1,0.71,-61.2,-0.031
+Data Trader Stoch+RSI+MACD (1h),AUDUSD=X,296.0,38.2,-0.199,-58.9,0.72,-62.7,-0.03
+Data Trader Stoch+RSI+MACD (1h),EURUSD=X,265.0,37.0,-0.193,-51.2,0.73,-58.6,-0.029
+Data Trader Stoch+RSI+MACD (1h),GBPUSD=X,274.0,38.3,-0.112,-30.8,0.83,-37.5,-0.016
+Data Trader Stoch+RSI+MACD (1h),USDCAD=X,232.0,35.8,-0.18,-41.8,0.74,-43.2,-0.026
+Data Trader Stoch+RSI+MACD (1h),USDJPY=X,261.0,39.5,-0.08,-20.9,0.88,-30.2,-0.011
+Data Trader Stoch+RSI+MACD (30m),AUDJPY=X,40.0,32.5,-0.282,-11.3,0.62,-15.8,-0.041
+Data Trader Stoch+RSI+MACD (30m),AUDUSD=X,37.0,54.1,0.187,6.9,1.35,-6.6,0.032
+Data Trader Stoch+RSI+MACD (30m),EURUSD=X,38.0,28.9,-0.374,-14.2,0.52,-15.7,-0.041
+Data Trader Stoch+RSI+MACD (30m),GBPUSD=X,41.0,24.4,-0.529,-21.7,0.39,-20.5,-0.066
+Data Trader Stoch+RSI+MACD (30m),USDCAD=X,26.0,38.5,-0.139,-3.6,0.79,-10.1,-0.02
+Data Trader Stoch+RSI+MACD (30m),USDJPY=X,39.0,38.5,-0.112,-4.4,0.83,-10.0,-0.021
+Donchian 50 + MACD (1d),AAPL,76.0,48.7,0.441,33.6,2.33,-4.5,4.079
 Donchian 50 + MACD (1d),AMD,73.0,41.1,0.381,27.8,1.99,-4.2,4.475
 Donchian 50 + MACD (1d),AMZN,86.0,31.4,0.007,0.6,1.01,-10.0,-1.569
-Donchian 50 + MACD (1d),BA,76.0,34.2,0.168,12.8,1.37,-12.2,-0.747
-Donchian 50 + MACD (1d),C,79.0,41.8,0.048,3.8,1.13,-7.8,0.588
-Donchian 50 + MACD (1d),DIA,91.0,33.0,-0.018,-1.6,0.96,-8.2,-0.087
-Donchian 50 + MACD (1d),DIS,79.0,38.0,0.032,2.5,1.08,-9.2,0.262
-Donchian 50 + MACD (1d),F,83.0,39.8,0.013,1.1,1.03,-7.6,0.058
-Donchian 50 + MACD (1d),GLD,89.0,36.0,0.126,11.3,1.31,-8.5,0.137
-Donchian 50 + MACD (1d),GOOGL,77.0,46.8,0.227,17.5,1.56,-5.2,2.162
+Donchian 50 + MACD (1d),BA,76.0,34.2,0.17,12.9,1.37,-12.2,-0.735
+Donchian 50 + MACD (1d),C,79.0,43.0,0.051,4.0,1.14,-7.8,0.625
+Donchian 50 + MACD (1d),DIA,91.0,33.0,-0.023,-2.1,0.95,-8.2,-0.107
+Donchian 50 + MACD (1d),DIS,79.0,38.0,0.035,2.8,1.09,-9.2,0.285
+Donchian 50 + MACD (1d),F,83.0,39.8,0.019,1.6,1.05,-7.6,0.137
+Donchian 50 + MACD (1d),GLD,90.0,36.7,0.126,11.3,1.31,-8.5,0.142
+Donchian 50 + MACD (1d),GOOGL,78.0,47.4,0.224,17.5,1.56,-5.2,2.137
 Donchian 50 + MACD (1d),INTC,97.0,32.0,-0.22,-21.4,0.57,-22.9,-2.363
-Donchian 50 + MACD (1d),IWM,81.0,40.7,-0.007,-0.6,0.98,-6.5,0.25
-Donchian 50 + MACD (1d),JNJ,79.0,35.4,-0.026,-2.0,0.94,-11.8,-0.636
-Donchian 50 + MACD (1d),JPM,91.0,30.8,-0.174,-15.8,0.66,-16.9,-2.75
-Donchian 50 + MACD (1d),KO,71.0,35.2,-0.075,-5.3,0.81,-12.8,-0.43
-Donchian 50 + MACD (1d),META,46.0,39.1,0.218,10.0,1.52,-5.0,3.398
-Donchian 50 + MACD (1d),MSFT,73.0,42.5,0.197,14.4,1.55,-4.0,1.464
+Donchian 50 + MACD (1d),IWM,81.0,40.7,-0.014,-1.1,0.96,-6.5,0.228
+Donchian 50 + MACD (1d),JNJ,79.0,35.4,-0.03,-2.4,0.93,-11.8,-0.678
+Donchian 50 + MACD (1d),JPM,91.0,31.9,-0.171,-15.5,0.67,-16.9,-2.723
+Donchian 50 + MACD (1d),KO,72.0,34.7,-0.079,-5.7,0.79,-13.0,-0.458
+Donchian 50 + MACD (1d),META,46.0,39.1,0.209,9.6,1.48,-5.0,3.281
+Donchian 50 + MACD (1d),MSFT,73.0,42.5,0.196,14.3,1.55,-4.0,1.451
 Donchian 50 + MACD (1d),NVDA,75.0,45.3,0.458,34.3,2.15,-8.0,5.956
-Donchian 50 + MACD (1d),PFE,75.0,40.0,-0.002,-0.2,1.0,-7.4,-0.227
+Donchian 50 + MACD (1d),PFE,75.0,40.0,0.001,0.1,1.0,-7.4,-0.204
 Donchian 50 + MACD (1d),QQQ,86.0,43.0,0.139,12.0,1.35,-5.9,0.951
-Donchian 50 + MACD (1d),SPY,87.0,40.2,0.054,4.7,1.14,-7.6,0.338
-Donchian 50 + MACD (1d),T,73.0,32.9,-0.027,-2.0,0.94,-6.9,-0.72
+Donchian 50 + MACD (1d),SPY,87.0,40.2,0.053,4.7,1.13,-7.6,0.333
+Donchian 50 + MACD (1d),T,73.0,34.2,-0.014,-1.0,0.97,-6.9,-0.565
 Donchian 50 + MACD (1d),TSLA,61.0,32.8,0.355,21.7,1.85,-6.0,3.285
-Donchian 50 + MACD (1d),VZ,89.0,25.8,-0.323,-28.7,0.37,-31.7,-2.617
-Donchian 50 + MACD (1d),WMT,86.0,32.6,-0.086,-7.4,0.81,-16.1,-0.709
-Donchian 50 + MACD (1d),XOM,85.0,30.6,-0.025,-2.1,0.94,-11.7,-0.796
-EMA200 + RSI + Engulfing (1d),AAPL,83.0,53.0,0.607,50.4,2.28,-5.1,3.018
+Donchian 50 + MACD (1d),VZ,89.0,25.8,-0.322,-28.7,0.37,-31.7,-2.613
+Donchian 50 + MACD (1d),WMT,86.0,32.6,-0.085,-7.3,0.82,-16.1,-0.698
+Donchian 50 + MACD (1d),XOM,85.0,30.6,-0.022,-1.9,0.95,-11.7,-0.765
+EMA200 + RSI + Engulfing (1d),AAPL,83.0,53.0,0.611,50.7,2.29,-5.1,3.034
 EMA200 + RSI + Engulfing (1d),AMD,58.0,39.7,0.185,10.7,1.3,-7.1,1.18
 EMA200 + RSI + Engulfing (1d),AMZN,70.0,48.6,0.515,36.1,1.95,-5.2,3.275
 EMA200 + RSI + Engulfing (1d),BA,66.0,43.9,0.301,19.9,1.52,-11.2,0.527
 EMA200 + RSI + Engulfing (1d),C,49.0,38.8,0.138,6.7,1.22,-10.3,1.446
 EMA200 + RSI + Engulfing (1d),DIA,72.0,45.8,0.357,25.7,1.63,-8.8,0.706
-EMA200 + RSI + Engulfing (1d),DIS,59.0,37.3,0.118,7.0,1.18,-10.1,0.117
+EMA200 + RSI + Engulfing (1d),DIS,59.0,37.3,0.125,7.4,1.19,-10.1,0.148
 EMA200 + RSI + Engulfing (1d),F,39.0,33.3,-0.045,-1.8,0.94,-7.9,0.516
 EMA200 + RSI + Engulfing (1d),GLD,47.0,53.2,0.555,26.1,2.05,-7.3,2.034
 EMA200 + RSI + Engulfing (1d),GOOGL,80.0,46.2,0.371,29.7,1.64,-12.1,1.688
 EMA200 + RSI + Engulfing (1d),INTC,60.0,33.3,-0.007,-0.4,0.99,-10.2,0.255
 EMA200 + RSI + Engulfing (1d),IWM,69.0,34.8,0.028,1.9,1.04,-8.2,0.404
 EMA200 + RSI + Engulfing (1d),JNJ,66.0,36.4,0.072,4.7,1.11,-11.3,-0.348
-EMA200 + RSI + Engulfing (1d),JPM,53.0,49.1,0.498,26.4,2.0,-4.0,1.76
+EMA200 + RSI + Engulfing (1d),JPM,53.0,49.1,0.494,26.2,1.98,-4.0,1.715
 EMA200 + RSI + Engulfing (1d),KO,68.0,35.3,0.001,0.1,1.0,-10.4,0.06
-EMA200 + RSI + Engulfing (1d),META,50.0,46.0,0.347,17.3,1.62,-7.3,2.751
+EMA200 + RSI + Engulfing (1d),META,50.0,46.0,0.335,16.7,1.59,-7.3,2.54
 EMA200 + RSI + Engulfing (1d),MSFT,70.0,45.7,0.403,28.2,1.7,-5.1,1.335
 EMA200 + RSI + Engulfing (1d),NVDA,66.0,56.1,0.675,44.6,2.46,-5.8,4.349
-EMA200 + RSI + Engulfing (1d),PFE,53.0,34.0,-0.068,-3.6,0.91,-12.3,-0.125
+EMA200 + RSI + Engulfing (1d),PFE,53.0,34.0,-0.062,-3.3,0.91,-12.3,-0.095
 EMA200 + RSI + Engulfing (1d),QQQ,76.0,48.7,0.43,32.7,1.78,-5.5,1.625
 EMA200 + RSI + Engulfing (1d),SPY,70.0,35.7,0.035,2.4,1.05,-10.0,0.12
 EMA200 + RSI + Engulfing (1d),T,49.0,36.7,0.107,5.3,1.17,-6.6,0.16
@@ -197,123 +235,123 @@ EMA200 + RSI + Engulfing (1d),TSLA,52.0,40.4,0.211,11.0,1.34,-7.0,1.778
 EMA200 + RSI + Engulfing (1d),VZ,58.0,37.9,0.107,6.2,1.16,-7.5,0.119
 EMA200 + RSI + Engulfing (1d),WMT,77.0,41.6,0.261,20.1,1.43,-11.1,1.445
 EMA200 + RSI + Engulfing (1d),XOM,46.0,41.3,0.224,10.3,1.37,-8.6,1.774
-EMA200 + RSI + Engulfing (1h),AAPL,92.0,35.9,0.037,3.4,1.05,-12.4,-0.04
+EMA200 + RSI + Engulfing (1h),AAPL,93.0,36.6,0.041,3.8,1.06,-12.4,-0.031
 EMA200 + RSI + Engulfing (1h),AMD,78.0,38.5,0.142,11.1,1.19,-13.3,1.019
-EMA200 + RSI + Engulfing (1h),AMZN,75.0,33.3,-0.049,-3.7,0.93,-13.8,0.088
+EMA200 + RSI + Engulfing (1h),AMZN,76.0,32.9,-0.062,-4.7,0.91,-14.8,0.08
 EMA200 + RSI + Engulfing (1h),BA,56.0,42.9,0.295,16.5,1.5,-4.4,0.307
-EMA200 + RSI + Engulfing (1h),C,84.0,35.7,0.124,10.4,1.18,-8.1,0.265
-EMA200 + RSI + Engulfing (1h),DIA,73.0,34.2,-0.003,-0.2,1.0,-17.8,-0.008
-EMA200 + RSI + Engulfing (1h),DIS,62.0,37.1,0.09,5.6,1.11,-18.9,0.102
-EMA200 + RSI + Engulfing (1h),F,71.0,33.8,0.03,2.1,1.04,-11.4,-0.017
+EMA200 + RSI + Engulfing (1h),C,83.0,36.1,0.138,11.4,1.2,-8.1,0.3
+EMA200 + RSI + Engulfing (1h),DIA,75.0,36.0,0.049,3.7,1.07,-17.8,0.011
+EMA200 + RSI + Engulfing (1h),DIS,64.0,37.5,0.078,5.0,1.1,-18.9,0.096
+EMA200 + RSI + Engulfing (1h),F,69.0,34.8,0.06,4.2,1.09,-11.4,0.108
 EMA200 + RSI + Engulfing (1h),GLD,93.0,46.2,0.438,40.7,1.57,-17.8,0.218
 EMA200 + RSI + Engulfing (1h),GOOGL,82.0,46.3,0.454,37.3,1.73,-7.8,0.611
 EMA200 + RSI + Engulfing (1h),INTC,43.0,39.5,0.031,1.3,1.04,-9.6,1.148
-EMA200 + RSI + Engulfing (1h),IWM,89.0,39.3,0.137,12.2,1.21,-12.1,0.272
-EMA200 + RSI + Engulfing (1h),JNJ,79.0,39.2,0.048,3.8,1.07,-14.1,0.098
-EMA200 + RSI + Engulfing (1h),JPM,77.0,36.4,0.078,6.0,1.12,-9.6,0.409
-EMA200 + RSI + Engulfing (1h),KO,70.0,34.3,0.093,6.5,1.13,-8.7,0.361
-EMA200 + RSI + Engulfing (1h),META,72.0,34.7,0.139,10.0,1.2,-12.6,0.026
+EMA200 + RSI + Engulfing (1h),IWM,88.0,39.8,0.15,13.2,1.23,-12.1,0.288
+EMA200 + RSI + Engulfing (1h),JNJ,79.0,39.2,0.023,1.8,1.03,-13.1,0.086
+EMA200 + RSI + Engulfing (1h),JPM,76.0,36.8,0.093,7.0,1.14,-9.6,0.424
+EMA200 + RSI + Engulfing (1h),KO,69.0,34.8,0.109,7.5,1.15,-7.6,0.389
+EMA200 + RSI + Engulfing (1h),META,71.0,33.8,0.109,7.8,1.15,-12.6,-0.044
 EMA200 + RSI + Engulfing (1h),MSFT,66.0,37.9,0.047,3.1,1.06,-11.1,0.104
 EMA200 + RSI + Engulfing (1h),NVDA,101.0,39.6,0.198,20.0,1.29,-18.9,0.187
-EMA200 + RSI + Engulfing (1h),PFE,46.0,30.4,-0.164,-7.6,0.78,-14.0,0.512
+EMA200 + RSI + Engulfing (1h),PFE,45.0,31.1,-0.139,-6.2,0.81,-14.0,0.592
 EMA200 + RSI + Engulfing (1h),QQQ,85.0,42.4,0.204,17.3,1.28,-10.1,0.154
-EMA200 + RSI + Engulfing (1h),SPY,93.0,44.1,0.202,18.8,1.3,-14.8,0.225
+EMA200 + RSI + Engulfing (1h),SPY,94.0,43.6,0.192,18.0,1.28,-14.8,0.206
 EMA200 + RSI + Engulfing (1h),T,63.0,36.5,0.045,2.9,1.06,-14.3,0.427
-EMA200 + RSI + Engulfing (1h),TSLA,66.0,36.4,0.074,4.9,1.11,-11.1,0.241
-EMA200 + RSI + Engulfing (1h),VZ,81.0,25.9,-0.313,-25.3,0.63,-29.0,-0.332
-EMA200 + RSI + Engulfing (1h),WMT,87.0,41.4,0.209,18.2,1.27,-19.5,0.36
-EMA200 + RSI + Engulfing (1h),XOM,93.0,37.6,0.109,10.2,1.15,-16.4,0.145
-EMA50 Pullback (1d),AAPL,70.0,42.9,0.255,17.8,1.43,-10.8,1.582
-EMA50 Pullback (1d),AMD,61.0,37.7,0.111,6.8,1.17,-13.5,-0.103
+EMA200 + RSI + Engulfing (1h),TSLA,66.0,36.4,0.083,5.5,1.12,-11.1,0.312
+EMA200 + RSI + Engulfing (1h),VZ,80.0,26.2,-0.304,-24.3,0.64,-29.0,-0.326
+EMA200 + RSI + Engulfing (1h),WMT,87.0,41.4,0.209,18.2,1.27,-19.5,0.357
+EMA200 + RSI + Engulfing (1h),XOM,93.0,38.7,0.153,14.2,1.22,-16.4,0.194
+EMA50 Pullback (1d),AAPL,70.0,42.9,0.258,18.0,1.43,-10.8,1.6
+EMA50 Pullback (1d),AMD,62.0,37.1,0.107,6.7,1.17,-13.5,-0.129
 EMA50 Pullback (1d),AMZN,72.0,36.1,0.111,8.0,1.17,-8.7,0.515
-EMA50 Pullback (1d),BA,68.0,35.3,0.038,2.6,1.06,-6.2,-0.634
-EMA50 Pullback (1d),C,64.0,46.9,0.378,24.2,1.69,-4.7,3.657
+EMA50 Pullback (1d),BA,68.0,35.3,0.039,2.7,1.06,-6.2,-0.62
+EMA50 Pullback (1d),C,64.0,46.9,0.384,24.6,1.7,-4.7,3.701
 EMA50 Pullback (1d),DIA,63.0,36.5,0.08,5.0,1.12,-6.3,0.397
 EMA50 Pullback (1d),DIS,66.0,39.4,0.173,11.4,1.27,-7.1,0.632
-EMA50 Pullback (1d),F,61.0,39.3,0.183,11.2,1.3,-5.1,1.481
+EMA50 Pullback (1d),F,62.0,40.3,0.185,11.5,1.31,-5.1,1.498
 EMA50 Pullback (1d),GLD,74.0,36.5,0.088,6.5,1.13,-13.7,0.201
 EMA50 Pullback (1d),GOOGL,67.0,44.8,0.354,23.7,1.58,-6.5,2.212
 EMA50 Pullback (1d),INTC,74.0,27.0,-0.223,-16.5,0.71,-19.4,-2.081
-EMA50 Pullback (1d),IWM,59.0,33.9,-0.007,-0.4,0.99,-11.1,0.13
+EMA50 Pullback (1d),IWM,59.0,33.9,-0.017,-1.0,0.97,-11.1,0.098
 EMA50 Pullback (1d),JNJ,62.0,25.8,-0.24,-14.9,0.68,-21.9,-1.015
-EMA50 Pullback (1d),JPM,68.0,33.8,0.011,0.7,1.02,-11.0,-1.072
+EMA50 Pullback (1d),JPM,68.0,35.3,0.017,1.2,1.03,-11.0,-1.036
 EMA50 Pullback (1d),KO,61.0,37.7,0.118,7.2,1.19,-7.1,0.33
-EMA50 Pullback (1d),META,45.0,42.2,0.236,10.6,1.38,-8.9,1.704
-EMA50 Pullback (1d),MSFT,64.0,34.4,0.043,2.8,1.06,-10.9,-0.043
-EMA50 Pullback (1d),NVDA,59.0,40.7,0.2,11.8,1.32,-7.8,1.486
-EMA50 Pullback (1d),PFE,66.0,42.4,0.227,15.0,1.37,-6.2,1.221
-EMA50 Pullback (1d),QQQ,66.0,43.9,0.327,21.6,1.58,-5.9,1.413
+EMA50 Pullback (1d),META,45.0,40.0,0.211,9.5,1.33,-9.3,1.481
+EMA50 Pullback (1d),MSFT,64.0,34.4,0.041,2.6,1.06,-10.9,-0.057
+EMA50 Pullback (1d),NVDA,59.0,40.7,0.197,11.6,1.32,-7.8,1.462
+EMA50 Pullback (1d),PFE,66.0,42.4,0.232,15.3,1.38,-6.2,1.244
+EMA50 Pullback (1d),QQQ,66.0,43.9,0.325,21.4,1.58,-5.9,1.402
 EMA50 Pullback (1d),SPY,66.0,43.9,0.321,21.2,1.56,-4.3,0.854
 EMA50 Pullback (1d),T,68.0,33.8,-0.011,-0.8,0.98,-8.2,-0.235
 EMA50 Pullback (1d),TSLA,53.0,32.1,-0.093,-4.9,0.88,-16.4,-1.041
 EMA50 Pullback (1d),VZ,66.0,27.3,-0.215,-14.2,0.72,-18.8,-1.14
 EMA50 Pullback (1d),WMT,57.0,31.6,-0.059,-3.4,0.92,-9.5,-0.416
-EMA50 Pullback (1d),XOM,55.0,29.1,-0.141,-7.8,0.8,-17.7,-1.406
-EMA50 Pullback (1h),AAPL,55.0,36.4,0.086,4.7,1.12,-10.4,0.005
+EMA50 Pullback (1d),XOM,56.0,28.6,-0.139,-7.8,0.8,-17.7,-1.381
+EMA50 Pullback (1h),AAPL,55.0,36.4,0.086,4.7,1.12,-10.4,-0.003
 EMA50 Pullback (1h),AMD,56.0,44.6,0.481,26.9,1.76,-7.1,1.224
-EMA50 Pullback (1h),AMZN,72.0,23.6,-0.328,-23.6,0.62,-26.7,-0.61
-EMA50 Pullback (1h),AUDJPY=X,147.0,38.8,0.148,21.8,1.24,-23.2,0.058
-EMA50 Pullback (1h),AUDUSD=X,181.0,30.4,-0.16,-29.0,0.79,-42.3,-0.054
-EMA50 Pullback (1h),BA,47.0,25.5,-0.265,-12.4,0.66,-16.3,-0.459
-EMA50 Pullback (1h),C,49.0,38.8,0.124,6.1,1.19,-6.4,0.128
-EMA50 Pullback (1h),DIA,58.0,36.2,0.057,3.3,1.08,-6.3,0.007
+EMA50 Pullback (1h),AMZN,72.0,23.6,-0.331,-23.8,0.62,-26.9,-0.631
+EMA50 Pullback (1h),AUDJPY=X,148.0,39.2,0.161,23.8,1.26,-23.2,0.064
+EMA50 Pullback (1h),AUDUSD=X,182.0,30.8,-0.149,-27.1,0.8,-42.3,-0.05
+EMA50 Pullback (1h),BA,48.0,25.0,-0.28,-13.4,0.64,-16.3,-0.491
+EMA50 Pullback (1h),C,50.0,38.0,0.101,5.0,1.15,-6.4,0.113
+EMA50 Pullback (1h),DIA,59.0,35.6,0.039,2.3,1.06,-6.3,-0.005
 EMA50 Pullback (1h),DIS,51.0,33.3,0.017,0.9,1.03,-12.6,-0.206
-EMA50 Pullback (1h),EURUSD=X,164.0,40.9,0.154,25.3,1.24,-13.4,0.037
-EMA50 Pullback (1h),F,58.0,25.9,-0.254,-14.7,0.69,-18.7,-0.625
-EMA50 Pullback (1h),GBPUSD=X,174.0,35.6,0.022,3.9,1.03,-17.6,0.025
-EMA50 Pullback (1h),GLD,61.0,34.4,0.038,2.3,1.05,-8.1,0.076
-EMA50 Pullback (1h),GOOGL,57.0,40.4,0.228,13.0,1.31,-10.5,0.452
+EMA50 Pullback (1h),EURUSD=X,166.0,41.0,0.152,25.2,1.23,-13.4,0.035
+EMA50 Pullback (1h),F,59.0,27.1,-0.216,-12.7,0.73,-18.7,-0.556
+EMA50 Pullback (1h),GBPUSD=X,174.0,35.6,0.022,3.8,1.03,-17.6,0.026
+EMA50 Pullback (1h),GLD,60.0,33.3,-0.008,-0.5,0.99,-8.1,0.024
+EMA50 Pullback (1h),GOOGL,58.0,41.4,0.258,15.0,1.36,-10.5,0.52
 EMA50 Pullback (1h),INTC,63.0,22.2,-0.42,-26.5,0.51,-31.6,-1.975
-EMA50 Pullback (1h),IWM,66.0,28.8,-0.234,-15.4,0.71,-15.4,-0.223
-EMA50 Pullback (1h),JNJ,52.0,32.7,-0.04,-2.1,0.94,-12.8,-0.158
+EMA50 Pullback (1h),IWM,67.0,28.4,-0.246,-16.5,0.7,-16.4,-0.236
+EMA50 Pullback (1h),JNJ,53.0,32.1,-0.09,-4.8,0.88,-12.8,-0.188
 EMA50 Pullback (1h),JPM,56.0,33.9,-0.051,-2.8,0.93,-14.8,0.023
 EMA50 Pullback (1h),KO,57.0,33.3,0.053,3.0,1.08,-10.1,-0.13
-EMA50 Pullback (1h),META,48.0,41.7,0.29,13.9,1.45,-5.6,0.47
+EMA50 Pullback (1h),META,49.0,42.9,0.325,15.9,1.52,-5.6,0.588
 EMA50 Pullback (1h),MSFT,55.0,40.0,0.233,12.8,1.34,-7.8,0.1
 EMA50 Pullback (1h),NVDA,56.0,41.1,0.135,7.6,1.19,-9.5,0.626
 EMA50 Pullback (1h),PFE,50.0,24.0,-0.405,-20.3,0.54,-25.0,-0.705
-EMA50 Pullback (1h),QQQ,65.0,30.8,-0.128,-8.3,0.83,-16.8,-0.094
-EMA50 Pullback (1h),SPY,68.0,30.9,-0.229,-15.6,0.72,-20.3,-0.133
-EMA50 Pullback (1h),T,57.0,24.6,-0.301,-17.2,0.63,-24.6,-0.622
-EMA50 Pullback (1h),TSLA,69.0,31.9,-0.039,-2.7,0.95,-11.2,-0.427
-EMA50 Pullback (1h),USDCAD=X,140.0,30.0,-0.16,-22.4,0.78,-37.0,-0.054
-EMA50 Pullback (1h),USDJPY=X,178.0,37.6,0.127,22.5,1.2,-8.0,0.033
+EMA50 Pullback (1h),QQQ,64.0,29.7,-0.161,-10.3,0.8,-16.8,-0.133
+EMA50 Pullback (1h),SPY,67.0,29.9,-0.248,-16.6,0.7,-20.3,-0.16
+EMA50 Pullback (1h),T,58.0,25.9,-0.282,-16.3,0.64,-24.6,-0.56
+EMA50 Pullback (1h),TSLA,68.0,32.4,-0.013,-0.9,0.98,-11.2,-0.346
+EMA50 Pullback (1h),USDCAD=X,138.0,30.4,-0.137,-18.9,0.81,-37.0,-0.048
+EMA50 Pullback (1h),USDJPY=X,179.0,36.9,0.108,19.3,1.17,-8.0,0.028
 EMA50 Pullback (1h),VZ,54.0,24.1,-0.318,-17.2,0.6,-18.2,-0.406
-EMA50 Pullback (1h),WMT,40.0,32.5,0.04,1.6,1.05,-20.3,0.108
-EMA50 Pullback (1h),XOM,64.0,31.2,-0.087,-5.6,0.88,-14.0,-0.408
-Glow Ribbon Flip (1d),AAPL,195.0,36.9,0.103,20.0,1.21,-15.3,0.926
-Glow Ribbon Flip (1d),AMD,182.0,36.8,0.079,14.4,1.18,-8.2,1.154
-Glow Ribbon Flip (1d),AMZN,178.0,33.7,0.024,4.2,1.05,-7.9,0.428
-Glow Ribbon Flip (1d),BA,183.0,37.7,0.085,15.5,1.2,-9.4,0.535
+EMA50 Pullback (1h),WMT,39.0,30.8,-0.01,-0.4,0.99,-20.3,0.05
+EMA50 Pullback (1h),XOM,64.0,31.2,-0.087,-5.6,0.88,-14.0,-0.397
+Glow Ribbon Flip (1d),AAPL,195.0,36.9,0.103,20.2,1.21,-15.3,0.933
+Glow Ribbon Flip (1d),AMD,183.0,37.2,0.08,14.7,1.18,-8.2,1.182
+Glow Ribbon Flip (1d),AMZN,179.0,33.0,0.011,1.9,1.02,-10.1,0.366
+Glow Ribbon Flip (1d),BA,183.0,37.7,0.085,15.6,1.2,-9.4,0.539
 Glow Ribbon Flip (1d),C,182.0,35.7,0.067,12.2,1.15,-11.0,0.384
-Glow Ribbon Flip (1d),DIA,183.0,31.7,-0.056,-10.3,0.88,-21.1,-0.036
-Glow Ribbon Flip (1d),DIS,161.0,39.8,0.13,20.9,1.3,-11.1,0.826
-Glow Ribbon Flip (1d),F,172.0,37.2,0.104,17.9,1.25,-9.4,0.952
-Glow Ribbon Flip (1d),GLD,190.0,37.9,0.169,32.1,1.43,-6.8,0.444
-Glow Ribbon Flip (1d),GOOGL,172.0,36.0,0.065,11.1,1.14,-15.1,0.276
-Glow Ribbon Flip (1d),INTC,206.0,31.6,-0.006,-1.2,0.99,-17.2,-0.262
-Glow Ribbon Flip (1d),IWM,183.0,31.7,-0.033,-6.0,0.93,-17.1,-0.308
-Glow Ribbon Flip (1d),JNJ,169.0,38.5,0.072,12.1,1.17,-10.1,0.232
-Glow Ribbon Flip (1d),JPM,179.0,29.1,-0.086,-15.4,0.82,-19.8,-0.794
-Glow Ribbon Flip (1d),KO,179.0,29.6,-0.083,-14.8,0.82,-33.0,-0.683
-Glow Ribbon Flip (1d),META,124.0,33.9,0.067,8.3,1.14,-12.7,0.548
-Glow Ribbon Flip (1d),MSFT,172.0,34.3,0.019,3.3,1.04,-13.7,0.15
-Glow Ribbon Flip (1d),NVDA,189.0,37.0,0.03,5.7,1.06,-15.0,-0.001
+Glow Ribbon Flip (1d),DIA,184.0,31.0,-0.059,-10.9,0.87,-21.1,-0.047
+Glow Ribbon Flip (1d),DIS,161.0,39.8,0.132,21.2,1.31,-11.1,0.837
+Glow Ribbon Flip (1d),F,172.0,37.2,0.107,18.4,1.26,-9.4,0.988
+Glow Ribbon Flip (1d),GLD,190.0,38.4,0.171,32.6,1.43,-6.8,0.466
+Glow Ribbon Flip (1d),GOOGL,173.0,36.4,0.073,12.6,1.15,-15.1,0.314
+Glow Ribbon Flip (1d),INTC,206.0,31.6,-0.005,-1.0,0.99,-17.2,-0.247
+Glow Ribbon Flip (1d),IWM,183.0,31.7,-0.035,-6.4,0.92,-17.1,-0.318
+Glow Ribbon Flip (1d),JNJ,169.0,37.9,0.069,11.7,1.16,-10.1,0.213
+Glow Ribbon Flip (1d),JPM,179.0,29.6,-0.084,-15.1,0.82,-19.8,-0.78
+Glow Ribbon Flip (1d),KO,179.0,29.6,-0.084,-15.1,0.82,-33.0,-0.691
+Glow Ribbon Flip (1d),META,125.0,33.6,0.066,8.2,1.14,-12.7,0.538
+Glow Ribbon Flip (1d),MSFT,172.0,34.3,0.019,3.3,1.04,-13.7,0.144
+Glow Ribbon Flip (1d),NVDA,189.0,37.0,0.031,5.8,1.07,-15.0,0.007
 Glow Ribbon Flip (1d),PFE,171.0,35.7,0.072,12.3,1.16,-10.1,0.381
-Glow Ribbon Flip (1d),QQQ,189.0,35.4,0.026,4.8,1.05,-16.0,0.145
-Glow Ribbon Flip (1d),SPY,189.0,33.3,0.024,4.6,1.05,-14.9,0.271
-Glow Ribbon Flip (1d),T,168.0,36.3,0.005,0.9,1.01,-16.4,0.012
-Glow Ribbon Flip (1d),TSLA,132.0,33.3,0.028,3.7,1.06,-6.2,0.129
-Glow Ribbon Flip (1d),VZ,192.0,29.7,-0.102,-19.5,0.79,-28.6,-0.653
-Glow Ribbon Flip (1d),WMT,171.0,33.9,-0.007,-1.2,0.98,-14.3,-0.117
+Glow Ribbon Flip (1d),QQQ,190.0,35.8,0.027,5.2,1.06,-16.0,0.155
+Glow Ribbon Flip (1d),SPY,189.0,33.3,0.024,4.5,1.05,-14.9,0.269
+Glow Ribbon Flip (1d),T,168.0,36.3,0.013,2.2,1.03,-16.4,0.074
+Glow Ribbon Flip (1d),TSLA,132.0,34.1,0.031,4.1,1.07,-6.2,0.166
+Glow Ribbon Flip (1d),VZ,192.0,29.7,-0.101,-19.5,0.79,-28.6,-0.652
+Glow Ribbon Flip (1d),WMT,171.0,33.9,-0.006,-1.1,0.99,-14.3,-0.111
 Glow Ribbon Flip (1d),XOM,167.0,35.9,0.026,4.4,1.06,-11.7,-0.232
-"Glow Ribbon Flip (1d, nur Long)",AAPL,105.0,49.5,0.403,42.3,2.02,-5.4,3.527
+"Glow Ribbon Flip (1d, nur Long)",AAPL,105.0,49.5,0.405,42.5,2.02,-5.4,3.54
 "Glow Ribbon Flip (1d, nur Long)",AMD,98.0,38.8,0.208,20.4,1.47,-8.6,3.469
-"Glow Ribbon Flip (1d, nur Long)",AMZN,100.0,41.0,0.226,22.6,1.52,-4.1,2.565
+"Glow Ribbon Flip (1d, nur Long)",AMZN,101.0,40.6,0.215,21.8,1.49,-4.1,2.484
 "Glow Ribbon Flip (1d, nur Long)",BA,97.0,42.3,0.193,18.7,1.48,-6.8,1.6
 "Glow Ribbon Flip (1d, nur Long)",C,93.0,40.9,0.171,15.9,1.45,-7.0,0.619
-"Glow Ribbon Flip (1d, nur Long)",DIA,96.0,41.7,0.154,14.8,1.43,-6.4,0.806
-"Glow Ribbon Flip (1d, nur Long)",DIS,82.0,46.3,0.305,25.0,1.77,-5.8,2.197
+"Glow Ribbon Flip (1d, nur Long)",DIA,97.0,41.2,0.15,14.5,1.42,-6.4,0.789
+"Glow Ribbon Flip (1d, nur Long)",DIS,82.0,46.3,0.308,25.3,1.77,-5.8,2.219
 "Glow Ribbon Flip (1d, nur Long)",F,86.0,37.2,0.191,16.4,1.46,-6.7,1.702
 "Glow Ribbon Flip (1d, nur Long)",GLD,111.0,43.2,0.344,38.1,1.91,-5.1,1.167
 "Glow Ribbon Flip (1d, nur Long)",GOOGL,91.0,45.1,0.356,32.4,1.99,-8.0,2.516
@@ -321,194 +359,350 @@ Glow Ribbon Flip (1d),XOM,167.0,35.9,0.026,4.4,1.06,-11.7,-0.232
 "Glow Ribbon Flip (1d, nur Long)",IWM,96.0,38.5,0.107,10.2,1.28,-7.0,0.58
 "Glow Ribbon Flip (1d, nur Long)",JNJ,91.0,41.8,0.159,14.4,1.38,-5.9,0.848
 "Glow Ribbon Flip (1d, nur Long)",JPM,96.0,36.5,0.023,2.2,1.05,-8.6,-0.093
-"Glow Ribbon Flip (1d, nur Long)",KO,89.0,39.3,0.093,8.3,1.24,-9.2,0.22
+"Glow Ribbon Flip (1d, nur Long)",KO,89.0,39.3,0.09,8.0,1.24,-9.2,0.205
 "Glow Ribbon Flip (1d, nur Long)",META,70.0,40.0,0.292,20.5,1.69,-3.7,2.701
-"Glow Ribbon Flip (1d, nur Long)",MSFT,93.0,41.9,0.274,25.5,1.63,-3.8,1.854
+"Glow Ribbon Flip (1d, nur Long)",MSFT,93.0,41.9,0.273,25.4,1.63,-3.8,1.843
 "Glow Ribbon Flip (1d, nur Long)",NVDA,109.0,45.0,0.258,28.1,1.66,-5.9,2.512
 "Glow Ribbon Flip (1d, nur Long)",PFE,86.0,37.2,0.148,12.7,1.34,-6.6,0.619
 "Glow Ribbon Flip (1d, nur Long)",QQQ,106.0,46.2,0.242,25.6,1.65,-5.5,1.288
-"Glow Ribbon Flip (1d, nur Long)",SPY,97.0,43.3,0.199,19.3,1.59,-5.2,1.144
+"Glow Ribbon Flip (1d, nur Long)",SPY,97.0,43.3,0.198,19.2,1.58,-5.2,1.139
 "Glow Ribbon Flip (1d, nur Long)",T,88.0,38.6,0.04,3.5,1.1,-11.0,0.148
-"Glow Ribbon Flip (1d, nur Long)",TSLA,72.0,36.1,0.138,9.9,1.29,-6.0,2.329
+"Glow Ribbon Flip (1d, nur Long)",TSLA,72.0,37.5,0.143,10.3,1.3,-6.0,2.396
 "Glow Ribbon Flip (1d, nur Long)",VZ,91.0,30.8,-0.046,-4.2,0.9,-11.9,-0.326
-"Glow Ribbon Flip (1d, nur Long)",WMT,98.0,39.8,0.138,13.5,1.33,-6.3,0.926
+"Glow Ribbon Flip (1d, nur Long)",WMT,98.0,39.8,0.139,13.7,1.33,-6.3,0.936
 "Glow Ribbon Flip (1d, nur Long)",XOM,86.0,36.0,0.093,8.0,1.23,-10.6,0.923
-Moving Momentum (1d),AAPL,32.0,37.5,0.728,23.3,2.27,-9.2,8.709
-Moving Momentum (1d),AMD,38.0,44.7,0.739,28.1,2.78,-4.4,12.017
-Moving Momentum (1d),AMZN,46.0,28.3,0.705,32.4,2.08,-7.8,2.724
+Moving Momentum (1d),AAPL,32.0,37.5,0.732,23.4,2.27,-9.2,8.752
+Moving Momentum (1d),AMD,38.0,44.7,0.73,27.7,2.76,-4.4,11.951
+Moving Momentum (1d),AMZN,46.0,28.3,0.702,32.3,2.07,-7.8,2.706
 Moving Momentum (1d),BA,42.0,23.8,-0.12,-5.0,0.82,-19.9,0.544
 Moving Momentum (1d),C,43.0,25.6,-0.075,-3.2,0.88,-7.7,1.103
-Moving Momentum (1d),DIA,44.0,27.3,0.212,9.3,1.34,-7.3,1.343
-Moving Momentum (1d),DIS,41.0,29.3,0.391,16.0,1.61,-13.5,2.625
+Moving Momentum (1d),DIA,44.0,27.3,0.22,9.7,1.35,-7.3,1.353
+Moving Momentum (1d),DIS,41.0,29.3,0.399,16.4,1.62,-13.5,2.669
 Moving Momentum (1d),F,53.0,17.0,-0.411,-21.8,0.47,-23.7,-2.252
-Moving Momentum (1d),GLD,36.0,33.3,2.758,99.3,5.83,-9.9,6.888
-Moving Momentum (1d),GOOGL,37.0,32.4,1.205,44.6,3.0,-6.9,4.806
-Moving Momentum (1d),INTC,46.0,34.8,0.243,11.2,1.45,-6.7,2.711
+Moving Momentum (1d),GLD,36.0,33.3,2.779,100.0,5.86,-9.9,6.993
+Moving Momentum (1d),GOOGL,37.0,35.1,1.226,45.4,3.04,-6.9,4.969
+Moving Momentum (1d),INTC,46.0,34.8,0.235,10.8,1.43,-6.7,2.556
 Moving Momentum (1d),IWM,47.0,31.9,-0.07,-3.3,0.89,-11.4,-0.679
-Moving Momentum (1d),JNJ,46.0,19.6,0.034,1.6,1.05,-17.4,-0.606
-Moving Momentum (1d),JPM,41.0,36.6,0.317,13.0,1.52,-6.0,1.605
-Moving Momentum (1d),KO,46.0,21.7,0.015,0.7,1.02,-23.3,0.345
+Moving Momentum (1d),JNJ,46.0,19.6,0.054,2.5,1.08,-17.4,-0.514
+Moving Momentum (1d),JPM,41.0,36.6,0.286,11.7,1.47,-6.0,1.545
+Moving Momentum (1d),KO,46.0,21.7,0.007,0.3,1.01,-23.3,0.308
 Moving Momentum (1d),META,17.0,52.9,1.961,33.3,4.62,-3.3,17.367
 Moving Momentum (1d),MSFT,40.0,22.5,0.032,1.3,1.04,-16.0,0.774
-Moving Momentum (1d),NVDA,34.0,29.4,3.564,121.2,6.82,-10.8,43.539
+Moving Momentum (1d),NVDA,34.0,29.4,3.557,120.9,6.81,-10.8,43.493
 Moving Momentum (1d),PFE,49.0,20.4,-0.127,-6.2,0.81,-16.2,-0.017
-Moving Momentum (1d),QQQ,31.0,32.3,0.912,28.3,2.51,-6.8,3.848
-Moving Momentum (1d),SPY,36.0,27.8,0.273,9.8,1.4,-7.2,1.287
+Moving Momentum (1d),QQQ,31.0,32.3,0.909,28.2,2.49,-6.8,3.824
+Moving Momentum (1d),SPY,36.0,27.8,0.269,9.7,1.4,-7.2,1.275
 Moving Momentum (1d),T,52.0,19.2,0.115,6.0,1.17,-20.4,-0.433
-Moving Momentum (1d),TSLA,44.0,22.7,1.903,83.7,3.83,-10.3,15.831
+Moving Momentum (1d),TSLA,44.0,22.7,1.892,83.2,3.82,-10.3,15.73
 Moving Momentum (1d),VZ,47.0,29.8,-0.119,-5.6,0.8,-14.3,-0.889
-Moving Momentum (1d),WMT,58.0,27.6,-0.224,-13.0,0.65,-20.2,-1.251
+Moving Momentum (1d),WMT,58.0,27.6,-0.226,-13.1,0.65,-20.2,-1.267
 Moving Momentum (1d),XOM,55.0,23.6,-0.291,-16.0,0.59,-25.2,-1.196
-"Moving Momentum (1d, nur Long)",AAPL,20.0,50.0,1.539,30.8,4.39,-5.4,17.635
-"Moving Momentum (1d, nur Long)",AMD,20.0,50.0,0.944,18.9,3.75,-4.8,20.676
-"Moving Momentum (1d, nur Long)",AMZN,23.0,43.5,2.126,48.9,5.15,-3.2,11.573
+"Moving Momentum (1d, nur Long)",AAPL,20.0,50.0,1.545,30.9,4.4,-5.4,17.704
+"Moving Momentum (1d, nur Long)",AMD,20.0,50.0,0.928,18.6,3.7,-4.8,20.551
+"Moving Momentum (1d, nur Long)",AMZN,23.0,43.5,2.12,48.8,5.14,-3.2,11.537
 "Moving Momentum (1d, nur Long)",BA,20.0,30.0,0.028,0.6,1.05,-9.0,0.619
 "Moving Momentum (1d, nur Long)",C,23.0,30.4,-0.195,-4.5,0.72,-6.0,0.302
-"Moving Momentum (1d, nur Long)",DIA,25.0,32.0,0.523,13.1,1.83,-4.2,2.674
-"Moving Momentum (1d, nur Long)",DIS,20.0,40.0,1.051,21.0,2.84,-7.3,7.221
+"Moving Momentum (1d, nur Long)",DIA,25.0,32.0,0.538,13.4,1.86,-4.2,2.692
+"Moving Momentum (1d, nur Long)",DIS,20.0,40.0,1.068,21.4,2.86,-7.3,7.311
 "Moving Momentum (1d, nur Long)",F,21.0,14.3,-0.18,-3.8,0.79,-7.8,-0.418
 "Moving Momentum (1d, nur Long)",GLD,23.0,39.1,4.113,94.6,8.18,-10.2,10.661
 "Moving Momentum (1d, nur Long)",GOOGL,20.0,50.0,2.513,50.3,6.2,-3.5,10.407
-"Moving Momentum (1d, nur Long)",INTC,25.0,44.0,0.416,10.4,1.82,-4.5,5.847
+"Moving Momentum (1d, nur Long)",INTC,25.0,44.0,0.401,10.0,1.79,-4.5,5.562
 "Moving Momentum (1d, nur Long)",IWM,25.0,36.0,0.238,5.9,1.4,-7.4,2.275
-"Moving Momentum (1d, nur Long)",JNJ,26.0,26.9,0.572,14.9,2.0,-9.9,1.052
-"Moving Momentum (1d, nur Long)",JPM,26.0,34.6,0.611,15.9,1.97,-4.5,3.684
-"Moving Momentum (1d, nur Long)",KO,26.0,30.8,0.553,14.4,1.91,-10.8,1.876
+"Moving Momentum (1d, nur Long)",JNJ,26.0,26.9,0.606,15.8,2.06,-9.9,1.215
+"Moving Momentum (1d, nur Long)",JPM,26.0,34.6,0.562,14.6,1.89,-4.5,3.59
+"Moving Momentum (1d, nur Long)",KO,26.0,30.8,0.539,14.0,1.89,-10.8,1.811
 "Moving Momentum (1d, nur Long)",META,12.0,50.0,2.541,30.5,5.23,-2.9,22.699
 "Moving Momentum (1d, nur Long)",MSFT,18.0,38.9,1.113,20.0,2.61,-5.4,6.742
-"Moving Momentum (1d, nur Long)",NVDA,20.0,45.0,6.594,131.9,14.85,-4.0,80.25
+"Moving Momentum (1d, nur Long)",NVDA,20.0,45.0,6.583,131.7,14.83,-4.0,80.173
 "Moving Momentum (1d, nur Long)",PFE,29.0,20.7,-0.305,-8.8,0.57,-9.5,-0.542
-"Moving Momentum (1d, nur Long)",QQQ,17.0,47.1,2.437,41.4,6.79,-2.0,11.026
-"Moving Momentum (1d, nur Long)",SPY,21.0,38.1,0.841,17.7,2.4,-5.0,4.285
+"Moving Momentum (1d, nur Long)",QQQ,17.0,47.1,2.432,41.3,6.71,-2.0,10.982
+"Moving Momentum (1d, nur Long)",SPY,21.0,38.1,0.835,17.5,2.39,-5.0,4.265
 "Moving Momentum (1d, nur Long)",T,22.0,31.8,1.159,25.5,2.75,-5.9,2.947
 "Moving Momentum (1d, nur Long)",TSLA,21.0,28.6,4.638,97.4,8.46,-4.1,41.492
 "Moving Momentum (1d, nur Long)",VZ,24.0,25.0,-0.198,-4.7,0.68,-11.6,-0.635
 "Moving Momentum (1d, nur Long)",WMT,30.0,46.7,0.243,7.3,1.5,-8.2,1.458
 "Moving Momentum (1d, nur Long)",XOM,28.0,32.1,-0.18,-5.0,0.74,-14.2,-0.422
-ORB 15 Min,AAOI,52.0,46.2,-0.05,-2.6,0.86,-10.0,-0.084
-ORB 15 Min,AAPL,51.0,54.9,0.165,8.4,1.77,-2.8,0.172
-ORB 15 Min,AMD,56.0,42.9,-0.102,-5.7,0.71,-11.4,-0.11
-ORB 15 Min,AMZN,50.0,48.0,0.033,1.6,1.1,-8.0,-0.013
-ORB 15 Min,ES=F,49.0,42.9,-0.178,-8.7,0.69,-10.9,-0.063
-ORB 15 Min,GGLL,57.0,43.9,0.027,1.6,1.09,-5.1,0.118
-ORB 15 Min,GOOGL,53.0,49.1,0.08,4.2,1.31,-4.6,0.116
-ORB 15 Min,IWM,56.0,39.3,-0.163,-9.1,0.68,-11.3,-0.091
-ORB 15 Min,META,46.0,52.2,-0.031,-1.4,0.89,-3.5,0.071
-ORB 15 Min,MSFT,49.0,42.9,-0.086,-4.2,0.7,-5.9,-0.085
-ORB 15 Min,NQ=F,48.0,39.6,-0.166,-8.0,0.66,-8.9,-0.084
-ORB 15 Min,NVDA,55.0,58.2,0.077,4.2,1.25,-4.1,0.112
-ORB 15 Min,QQQ,59.0,42.4,-0.114,-6.7,0.76,-11.0,-0.046
-ORB 15 Min,SPY,60.0,46.7,-0.066,-4.0,0.88,-8.6,-0.039
-ORB 15 Min,TSLA,47.0,38.3,-0.098,-4.6,0.71,-7.5,-0.072
-ORB 15 Min,YM=F,47.0,23.4,-0.323,-15.2,0.36,-16.1,-0.116
-ORB 15 Min + Trend,AAOI,25.0,60.0,0.069,1.7,1.29,-1.9,0.17
-ORB 15 Min + Trend,AAPL,26.0,61.5,0.269,7.0,2.48,-1.8,0.291
-ORB 15 Min + Trend,AMD,28.0,35.7,-0.185,-5.2,0.52,-7.8,-0.276
-ORB 15 Min + Trend,AMZN,25.0,28.0,-0.334,-8.3,0.37,-10.0,-0.416
-ORB 15 Min + Trend,ES=F,21.0,42.9,-0.156,-3.3,0.73,-4.1,-0.054
-ORB 15 Min + Trend,GGLL,29.0,31.0,-0.217,-6.3,0.45,-6.9,-0.383
-ORB 15 Min + Trend,GOOGL,22.0,18.2,-0.344,-7.6,0.18,-7.6,-0.418
-ORB 15 Min + Trend,IWM,29.0,44.8,-0.053,-1.5,0.88,-4.4,-0.047
-ORB 15 Min + Trend,META,22.0,40.9,-0.188,-4.1,0.48,-3.8,-0.123
-ORB 15 Min + Trend,MSFT,27.0,48.1,-0.097,-2.6,0.66,-2.7,-0.115
-ORB 15 Min + Trend,NQ=F,23.0,39.1,-0.158,-3.6,0.7,-4.9,-0.075
-ORB 15 Min + Trend,NVDA,28.0,42.9,-0.203,-5.7,0.57,-5.8,-0.217
-ORB 15 Min + Trend,QQQ,30.0,33.3,-0.24,-7.2,0.57,-9.1,-0.143
-ORB 15 Min + Trend,SPY,27.0,44.4,-0.081,-2.2,0.86,-6.3,-0.037
-ORB 15 Min + Trend,TSLA,19.0,26.3,-0.231,-4.4,0.46,-5.1,-0.41
-ORB 15 Min + Trend,YM=F,28.0,17.9,-0.35,-9.8,0.33,-9.7,-0.14
-Pattern Scalp (Rumers),AAOI,50.0,44.0,-0.185,-9.2,0.64,-9.4,-0.258
-Pattern Scalp (Rumers),AAPL,54.0,57.4,0.155,8.3,1.36,-4.5,0.019
-Pattern Scalp (Rumers),AMD,51.0,39.2,-0.221,-11.3,0.63,-13.0,-0.224
-Pattern Scalp (Rumers),AMZN,52.0,28.8,-0.415,-21.6,0.39,-22.2,-0.206
-Pattern Scalp (Rumers),ES=F,22.0,40.9,0.121,2.7,1.19,-4.3,-0.018
-Pattern Scalp (Rumers),GGLL,54.0,40.7,-0.053,-2.8,0.91,-16.4,-0.068
-Pattern Scalp (Rumers),GOOGL,49.0,44.9,-0.038,-1.8,0.93,-13.2,-0.049
-Pattern Scalp (Rumers),IWM,48.0,41.7,-0.207,-9.9,0.68,-16.6,-0.054
-Pattern Scalp (Rumers),META,55.0,30.9,-0.288,-15.8,0.56,-16.2,-0.18
-Pattern Scalp (Rumers),MSFT,52.0,44.2,-0.042,-2.2,0.93,-11.0,-0.11
-Pattern Scalp (Rumers),NQ=F,35.0,40.0,-0.274,-9.6,0.58,-8.5,-0.059
-Pattern Scalp (Rumers),NVDA,54.0,44.4,-0.08,-4.3,0.86,-8.9,-0.045
-Pattern Scalp (Rumers),QQQ,43.0,41.9,-0.345,-14.8,0.46,-16.5,-0.058
-Pattern Scalp (Rumers),SPY,32.0,37.5,-0.1,-3.2,0.86,-8.9,-0.015
-Pattern Scalp (Rumers),TSLA,50.0,36.0,-0.049,-2.4,0.92,-9.1,-0.122
-Pattern Scalp (Rumers),YM=F,37.0,27.0,-0.211,-7.8,0.74,-18.6,-0.054
-QS 3 Swing-Regeln (1d),AAPL,538.0,68.6,0.29,156.2,1.77,-13.9,0.669
-QS 3 Swing-Regeln (1d),AMD,534.0,64.8,0.079,42.4,1.15,-54.2,0.521
-QS 3 Swing-Regeln (1d),AMZN,555.0,69.0,0.32,177.5,1.96,-8.1,0.938
-QS 3 Swing-Regeln (1d),BA,543.0,64.3,0.041,22.1,1.08,-40.3,0.098
-QS 3 Swing-Regeln (1d),C,518.0,61.0,-0.045,-23.2,0.92,-57.4,-0.1
-QS 3 Swing-Regeln (1d),DIA,515.0,70.1,0.202,104.0,1.51,-14.1,0.299
-QS 3 Swing-Regeln (1d),DIS,535.0,67.1,0.127,67.9,1.3,-38.9,0.304
-QS 3 Swing-Regeln (1d),F,507.0,59.8,-0.091,-46.0,0.85,-68.5,-0.208
-QS 3 Swing-Regeln (1d),GLD,512.0,63.9,0.053,27.0,1.1,-33.1,0.118
-QS 3 Swing-Regeln (1d),GOOGL,556.0,68.9,0.249,138.7,1.69,-11.8,0.586
-QS 3 Swing-Regeln (1d),INTC,573.0,67.2,0.157,90.2,1.38,-19.7,0.632
-QS 3 Swing-Regeln (1d),IWM,541.0,69.3,0.195,105.6,1.48,-14.3,0.422
-QS 3 Swing-Regeln (1d),JNJ,495.0,64.0,0.068,33.5,1.14,-27.5,0.106
-QS 3 Swing-Regeln (1d),JPM,542.0,68.1,0.21,113.9,1.52,-18.4,0.721
-QS 3 Swing-Regeln (1d),KO,505.0,67.9,0.218,110.3,1.55,-17.0,0.339
-QS 3 Swing-Regeln (1d),META,380.0,72.1,0.341,129.7,2.08,-13.9,0.991
-QS 3 Swing-Regeln (1d),MSFT,535.0,70.3,0.296,158.6,1.88,-12.3,0.67
-QS 3 Swing-Regeln (1d),NVDA,538.0,69.9,0.307,164.9,1.81,-20.8,1.203
+ORB 15 Min,AAOI,51.0,43.1,-0.115,-5.9,0.7,-10.0,-0.404
+ORB 15 Min,AAPL,50.0,58.0,0.184,9.2,1.95,-2.7,0.189
+ORB 15 Min,AMD,56.0,37.5,-0.186,-10.4,0.54,-12.8,-0.329
+ORB 15 Min,AMZN,48.0,47.9,0.066,3.2,1.2,-7.3,0.029
+ORB 15 Min,ES=F,49.0,42.9,-0.171,-8.4,0.71,-10.9,-0.064
+ORB 15 Min,GGLL,57.0,43.9,0.042,2.4,1.14,-6.2,0.134
+ORB 15 Min,GOOGL,54.0,48.1,0.086,4.6,1.33,-5.7,0.113
+ORB 15 Min,IWM,56.0,37.5,-0.185,-10.3,0.65,-11.4,-0.092
+ORB 15 Min,META,46.0,50.0,-0.05,-2.3,0.83,-3.2,-0.017
+ORB 15 Min,MSFT,49.0,49.0,-0.024,-1.2,0.9,-5.2,0.014
+ORB 15 Min,NQ=F,48.0,39.6,-0.133,-6.4,0.73,-8.0,-0.068
+ORB 15 Min,NVDA,55.0,54.5,0.057,3.1,1.19,-4.4,0.034
+ORB 15 Min,QQQ,59.0,44.1,-0.081,-4.8,0.82,-11.0,-0.02
+ORB 15 Min,SPY,60.0,46.7,-0.054,-3.2,0.9,-8.6,-0.037
+ORB 15 Min,TSLA,47.0,36.2,-0.143,-6.7,0.6,-7.5,-0.172
+ORB 15 Min,YM=F,47.0,23.4,-0.295,-13.9,0.39,-12.8,-0.118
+ORB 15 Min + Trend,AAOI,23.0,56.5,-0.01,-0.2,0.96,-1.9,-0.226
+ORB 15 Min + Trend,AAPL,25.0,64.0,0.291,7.3,2.82,-1.8,0.275
+ORB 15 Min + Trend,AMD,29.0,31.0,-0.309,-9.0,0.34,-9.9,-0.566
+ORB 15 Min + Trend,AMZN,21.0,23.8,-0.359,-7.5,0.36,-7.8,-0.447
+ORB 15 Min + Trend,ES=F,19.0,42.1,-0.129,-2.4,0.78,-2.6,-0.058
+ORB 15 Min + Trend,GGLL,29.0,34.5,-0.136,-3.9,0.62,-7.5,-0.272
+ORB 15 Min + Trend,GOOGL,23.0,21.7,-0.246,-5.7,0.36,-8.1,-0.352
+ORB 15 Min + Trend,IWM,30.0,40.0,-0.127,-3.8,0.75,-4.2,-0.083
+ORB 15 Min + Trend,META,20.0,45.0,-0.15,-3.0,0.56,-2.5,-0.152
+ORB 15 Min + Trend,MSFT,29.0,51.7,-0.051,-1.5,0.79,-2.7,-0.025
+ORB 15 Min + Trend,NQ=F,23.0,39.1,-0.112,-2.6,0.79,-4.8,-0.057
+ORB 15 Min + Trend,NVDA,26.0,42.3,-0.204,-5.3,0.57,-6.1,-0.316
+ORB 15 Min + Trend,QQQ,28.0,35.7,-0.187,-5.2,0.65,-6.9,-0.091
+ORB 15 Min + Trend,SPY,25.0,40.0,-0.173,-4.3,0.73,-6.3,-0.064
+ORB 15 Min + Trend,TSLA,18.0,22.2,-0.319,-5.7,0.3,-5.3,-0.597
+ORB 15 Min + Trend,YM=F,26.0,19.2,-0.295,-7.7,0.38,-6.6,-0.127
+Pattern Scalp (Rumers),AAOI,51.0,47.1,-0.072,-3.7,0.85,-9.4,-0.036
+Pattern Scalp (Rumers),AAPL,52.0,55.8,0.167,8.7,1.39,-4.5,0.013
+Pattern Scalp (Rumers),AMD,50.0,44.0,-0.2,-10.0,0.64,-9.8,-0.149
+Pattern Scalp (Rumers),AMZN,51.0,31.4,-0.385,-19.6,0.42,-19.4,-0.189
+Pattern Scalp (Rumers),ES=F,20.0,45.0,0.226,4.5,1.38,-4.3,0.001
+Pattern Scalp (Rumers),GGLL,53.0,39.6,-0.131,-7.0,0.78,-15.3,-0.141
+Pattern Scalp (Rumers),GOOGL,50.0,44.0,-0.051,-2.5,0.91,-12.1,-0.052
+Pattern Scalp (Rumers),IWM,48.0,45.8,0.016,0.8,1.03,-16.6,-0.011
+Pattern Scalp (Rumers),META,55.0,34.5,-0.187,-10.3,0.71,-16.2,-0.106
+Pattern Scalp (Rumers),MSFT,52.0,42.3,-0.144,-7.5,0.76,-10.1,-0.122
+Pattern Scalp (Rumers),NQ=F,34.0,44.1,-0.206,-7.0,0.66,-7.7,-0.035
+Pattern Scalp (Rumers),NVDA,53.0,47.2,-0.035,-1.9,0.93,-8.9,0.006
+Pattern Scalp (Rumers),QQQ,41.0,41.5,-0.368,-15.1,0.43,-15.6,-0.059
+Pattern Scalp (Rumers),SPY,29.0,37.9,-0.015,-0.4,0.98,-8.9,-0.012
+Pattern Scalp (Rumers),TSLA,52.0,40.4,0.078,4.1,1.14,-9.1,-0.005
+Pattern Scalp (Rumers),YM=F,39.0,25.6,-0.278,-10.9,0.66,-18.6,-0.057
+QS 3 Swing-Regeln (1d),AAPL,538.0,68.6,0.29,156.3,1.77,-13.9,0.669
+QS 3 Swing-Regeln (1d),AMD,535.0,64.9,0.082,43.6,1.16,-54.2,0.531
+QS 3 Swing-Regeln (1d),AMZN,555.0,69.2,0.324,179.7,1.98,-8.1,0.947
+QS 3 Swing-Regeln (1d),BA,544.0,64.3,0.041,22.3,1.08,-40.3,0.098
+QS 3 Swing-Regeln (1d),C,519.0,61.1,-0.044,-22.6,0.92,-57.4,-0.096
+QS 3 Swing-Regeln (1d),DIA,516.0,70.2,0.204,105.0,1.52,-14.1,0.3
+QS 3 Swing-Regeln (1d),DIS,536.0,67.2,0.129,68.9,1.3,-38.9,0.307
+QS 3 Swing-Regeln (1d),F,508.0,59.6,-0.092,-46.9,0.85,-68.5,-0.213
+QS 3 Swing-Regeln (1d),GLD,513.0,63.7,0.048,24.8,1.09,-33.1,0.111
+QS 3 Swing-Regeln (1d),GOOGL,556.0,68.9,0.245,136.3,1.67,-11.8,0.575
+QS 3 Swing-Regeln (1d),INTC,573.0,67.2,0.157,89.7,1.38,-19.7,0.628
+QS 3 Swing-Regeln (1d),IWM,542.0,69.4,0.197,107.0,1.48,-14.3,0.424
+QS 3 Swing-Regeln (1d),JNJ,495.0,64.0,0.069,34.1,1.14,-27.5,0.109
+QS 3 Swing-Regeln (1d),JPM,543.0,68.0,0.209,113.6,1.52,-18.4,0.718
+QS 3 Swing-Regeln (1d),KO,506.0,68.0,0.222,112.2,1.56,-17.0,0.344
+QS 3 Swing-Regeln (1d),META,381.0,71.9,0.338,129.0,2.07,-13.9,0.982
+QS 3 Swing-Regeln (1d),MSFT,535.0,70.3,0.296,158.2,1.87,-12.3,0.668
+QS 3 Swing-Regeln (1d),NVDA,539.0,69.8,0.308,166.1,1.82,-20.8,1.206
 QS 3 Swing-Regeln (1d),PFE,521.0,65.6,0.131,68.2,1.29,-14.6,0.3
-QS 3 Swing-Regeln (1d),QQQ,527.0,73.4,0.312,164.3,1.88,-6.7,0.538
-QS 3 Swing-Regeln (1d),SPY,527.0,70.8,0.316,166.4,1.92,-17.0,0.495
-QS 3 Swing-Regeln (1d),T,537.0,64.6,0.094,50.3,1.21,-37.8,0.311
-QS 3 Swing-Regeln (1d),TSLA,400.0,64.8,0.129,51.5,1.27,-19.7,0.757
+QS 3 Swing-Regeln (1d),QQQ,528.0,73.3,0.314,166.0,1.9,-6.7,0.541
+QS 3 Swing-Regeln (1d),SPY,528.0,70.8,0.318,167.8,1.93,-17.0,0.497
+QS 3 Swing-Regeln (1d),T,538.0,64.5,0.091,49.2,1.2,-37.8,0.305
+QS 3 Swing-Regeln (1d),TSLA,400.0,64.8,0.133,53.2,1.28,-19.7,0.77
 QS 3 Swing-Regeln (1d),VZ,504.0,62.7,0.056,28.1,1.12,-34.3,0.208
-QS 3 Swing-Regeln (1d),WMT,525.0,67.4,0.199,104.6,1.48,-17.3,0.393
+QS 3 Swing-Regeln (1d),WMT,526.0,67.5,0.201,105.9,1.49,-17.3,0.398
 QS 3 Swing-Regeln (1d),XOM,542.0,68.1,0.136,73.5,1.31,-34.3,0.45
-"QS 3 Swing-Regeln (SPY, 1d)",SPY,527.0,70.8,0.316,166.4,1.92,-17.0,0.495
-QS 5 Regeln (1d),AAPL,638.0,69.6,0.265,169.2,1.79,-16.0,0.587
-QS 5 Regeln (1d),AMD,537.0,62.9,0.059,31.5,1.11,-54.7,0.384
-QS 5 Regeln (1d),AMZN,599.0,71.6,0.286,171.4,1.83,-9.3,0.803
+"QS 3 Swing-Regeln (SPY, 1d)",SPY,528.0,70.8,0.318,167.8,1.93,-17.0,0.497
+QS 5 Regeln (1d),AAPL,638.0,69.6,0.265,169.3,1.79,-16.0,0.588
+QS 5 Regeln (1d),AMD,538.0,63.0,0.061,32.8,1.12,-54.7,0.395
+QS 5 Regeln (1d),AMZN,600.0,71.7,0.289,173.2,1.84,-9.3,0.808
 QS 5 Regeln (1d),BA,583.0,66.2,0.068,39.6,1.14,-46.9,0.137
-QS 5 Regeln (1d),C,558.0,63.1,-0.062,-34.9,0.88,-55.1,-0.171
-QS 5 Regeln (1d),DIA,610.0,71.5,0.191,116.3,1.54,-16.3,0.307
-QS 5 Regeln (1d),DIS,562.0,65.3,0.139,78.0,1.34,-17.0,0.323
-QS 5 Regeln (1d),F,520.0,61.5,-0.135,-70.0,0.77,-79.0,-0.288
-QS 5 Regeln (1d),GLD,616.0,66.1,0.093,57.1,1.19,-37.0,0.153
-QS 5 Regeln (1d),GOOGL,601.0,68.9,0.161,96.5,1.4,-13.3,0.431
-QS 5 Regeln (1d),INTC,577.0,68.1,0.13,74.8,1.3,-16.1,0.424
-QS 5 Regeln (1d),IWM,564.0,68.3,0.095,53.3,1.22,-23.8,0.211
-QS 5 Regeln (1d),JNJ,533.0,67.7,0.087,46.4,1.21,-30.8,0.124
+QS 5 Regeln (1d),C,559.0,63.1,-0.061,-34.2,0.89,-55.1,-0.168
+QS 5 Regeln (1d),DIA,611.0,71.5,0.192,117.3,1.54,-16.3,0.308
+QS 5 Regeln (1d),DIS,563.0,65.4,0.14,79.0,1.34,-17.0,0.326
+QS 5 Regeln (1d),F,521.0,61.4,-0.139,-72.6,0.77,-79.0,-0.3
+QS 5 Regeln (1d),GLD,617.0,66.0,0.089,54.8,1.18,-37.0,0.147
+QS 5 Regeln (1d),GOOGL,601.0,68.9,0.157,94.1,1.38,-13.3,0.421
+QS 5 Regeln (1d),INTC,577.0,68.1,0.129,74.3,1.3,-16.1,0.419
+QS 5 Regeln (1d),IWM,565.0,68.3,0.097,54.7,1.22,-23.8,0.214
+QS 5 Regeln (1d),JNJ,533.0,67.7,0.088,47.0,1.21,-30.8,0.126
 QS 5 Regeln (1d),JPM,579.0,69.9,0.171,99.1,1.44,-16.2,0.63
-QS 5 Regeln (1d),KO,525.0,70.7,0.179,94.2,1.45,-15.6,0.273
-QS 5 Regeln (1d),META,398.0,69.1,0.301,119.9,1.92,-9.6,0.88
-QS 5 Regeln (1d),MSFT,575.0,68.0,0.181,104.3,1.47,-23.0,0.402
-QS 5 Regeln (1d),NVDA,594.0,71.4,0.231,137.2,1.59,-22.1,0.86
-QS 5 Regeln (1d),PFE,544.0,64.9,0.069,37.8,1.15,-29.3,0.175
-QS 5 Regeln (1d),QQQ,613.0,71.9,0.238,145.9,1.7,-9.3,0.429
-QS 5 Regeln (1d),SPY,626.0,73.2,0.253,158.5,1.78,-18.0,0.376
-QS 5 Regeln (1d),T,557.0,62.5,0.101,56.0,1.24,-25.9,0.291
-QS 5 Regeln (1d),TSLA,425.0,67.5,0.155,65.9,1.35,-24.4,0.795
+QS 5 Regeln (1d),KO,525.0,70.7,0.181,95.3,1.46,-15.6,0.276
+QS 5 Regeln (1d),META,400.0,68.8,0.298,119.2,1.91,-9.6,0.869
+QS 5 Regeln (1d),MSFT,575.0,68.0,0.181,103.9,1.47,-23.0,0.401
+QS 5 Regeln (1d),NVDA,595.0,71.3,0.232,138.3,1.59,-22.1,0.863
+QS 5 Regeln (1d),PFE,544.0,64.9,0.071,38.7,1.16,-29.3,0.178
+QS 5 Regeln (1d),QQQ,614.0,71.8,0.24,147.6,1.72,-9.3,0.432
+QS 5 Regeln (1d),SPY,626.0,73.3,0.256,160.0,1.79,-18.0,0.378
+QS 5 Regeln (1d),T,558.0,62.4,0.098,54.9,1.23,-25.9,0.285
+QS 5 Regeln (1d),TSLA,426.0,67.6,0.158,67.4,1.36,-24.4,0.804
 QS 5 Regeln (1d),VZ,556.0,66.5,0.046,25.8,1.11,-35.5,0.163
-QS 5 Regeln (1d),WMT,556.0,68.0,0.175,97.3,1.44,-22.2,0.31
+QS 5 Regeln (1d),WMT,556.0,68.0,0.177,98.2,1.44,-22.2,0.314
 QS 5 Regeln (1d),XOM,567.0,68.1,0.1,56.6,1.22,-43.0,0.355
-"QS 5 Regeln (SPY, 1d)",SPY,626.0,73.2,0.253,158.5,1.78,-18.0,0.376
-Sneaky Pivot,AAOI,17.0,58.8,0.18,3.1,1.48,-4.0,0.632
-Sneaky Pivot,AAPL,18.0,61.1,0.123,2.2,1.43,-1.3,0.073
-Sneaky Pivot,AMD,20.0,45.0,-0.278,-5.6,0.4,-7.2,-0.419
-Sneaky Pivot,AMZN,14.0,14.3,-0.523,-7.3,0.18,-7.7,-0.348
-Sneaky Pivot,ES=F,16.0,25.0,-0.622,-10.0,0.12,-9.9,-0.156
-Sneaky Pivot,GGLL,22.0,59.1,0.209,4.6,1.66,-3.9,0.551
-Sneaky Pivot,GOOGL,27.0,48.1,0.007,0.2,1.02,-5.6,0.024
-Sneaky Pivot,IWM,11.0,45.5,0.223,2.5,1.38,-6.0,0.121
-Sneaky Pivot,META,20.0,25.0,-0.313,-6.3,0.43,-6.1,-0.394
-Sneaky Pivot,MSFT,18.0,50.0,0.097,1.7,1.23,-5.8,-0.081
-Sneaky Pivot,NQ=F,18.0,27.8,-0.548,-9.9,0.23,-9.8,-0.194
-Sneaky Pivot,NVDA,21.0,47.6,-0.072,-1.5,0.84,-4.7,-0.009
-Sneaky Pivot,QQQ,19.0,36.8,-0.214,-4.1,0.65,-10.0,-0.084
-Sneaky Pivot,SPY,21.0,28.6,-0.431,-9.0,0.35,-12.6,-0.099
-Sneaky Pivot,TSLA,15.0,53.3,0.152,2.3,1.41,-2.5,0.066
-Sneaky Pivot,YM=F,11.0,27.3,-0.029,-0.3,0.96,-7.2,0.01
-Squeeze + EMA21/34 (1d),AAPL,50.0,58.0,2.026,101.3,4.79,-6.1,5.119
+"QS 5 Regeln (SPY, 1d)",SPY,626.0,73.3,0.256,160.0,1.79,-18.0,0.378
+QS/Connors %b 3 Tage (1d),AAPL,57.0,82.5,0.672,38.3,4.97,-3.6,1.948
+QS/Connors %b 3 Tage (1d),AMD,42.0,71.4,0.099,4.2,1.23,-6.8,0.495
+QS/Connors %b 3 Tage (1d),AMZN,49.0,71.4,0.543,26.6,3.08,-3.0,1.338
+QS/Connors %b 3 Tage (1d),BA,44.0,77.3,0.436,19.2,2.39,-7.6,1.001
+QS/Connors %b 3 Tage (1d),C,49.0,77.6,0.229,11.2,1.46,-7.9,0.791
+QS/Connors %b 3 Tage (1d),DIA,55.0,65.5,-0.035,-1.9,0.94,-10.2,-0.023
+QS/Connors %b 3 Tage (1d),DIS,36.0,80.6,0.463,16.7,3.12,-5.6,0.861
+QS/Connors %b 3 Tage (1d),F,38.0,60.5,0.114,4.3,1.26,-6.8,0.373
+QS/Connors %b 3 Tage (1d),GLD,35.0,88.6,0.4,14.0,2.86,-4.1,0.701
+QS/Connors %b 3 Tage (1d),GOOGL,46.0,71.7,0.497,22.9,3.14,-2.5,1.098
+QS/Connors %b 3 Tage (1d),INTC,47.0,66.0,-0.082,-3.9,0.84,-7.9,0.021
+QS/Connors %b 3 Tage (1d),IWM,54.0,79.6,0.301,16.3,1.71,-7.7,0.556
+QS/Connors %b 3 Tage (1d),JNJ,45.0,60.0,0.147,6.6,1.37,-6.1,0.148
+QS/Connors %b 3 Tage (1d),JPM,53.0,75.5,0.432,22.9,2.21,-6.4,0.928
+QS/Connors %b 3 Tage (1d),KO,52.0,73.1,0.319,16.6,1.82,-6.4,0.537
+QS/Connors %b 3 Tage (1d),META,25.0,80.0,0.365,9.1,3.07,-1.7,1.21
+QS/Connors %b 3 Tage (1d),MSFT,35.0,57.1,0.373,13.0,2.02,-5.4,0.711
+QS/Connors %b 3 Tage (1d),NVDA,47.0,74.5,0.204,9.6,1.39,-6.8,0.806
+QS/Connors %b 3 Tage (1d),PFE,38.0,65.8,0.322,12.3,2.0,-3.8,0.439
+QS/Connors %b 3 Tage (1d),QQQ,56.0,83.9,0.642,35.9,4.08,-4.3,0.865
+QS/Connors %b 3 Tage (1d),SPY,43.0,83.7,0.79,34.0,9.75,-1.4,0.846
+QS/Connors %b 3 Tage (1d),T,29.0,75.9,0.088,2.6,1.2,-6.9,0.211
+QS/Connors %b 3 Tage (1d),TSLA,26.0,73.1,0.595,15.5,2.89,-3.4,2.569
+QS/Connors %b 3 Tage (1d),VZ,40.0,62.5,0.077,3.1,1.19,-5.7,0.184
+QS/Connors %b 3 Tage (1d),WMT,39.0,69.2,0.286,11.2,2.17,-3.7,0.311
+QS/Connors %b 3 Tage (1d),XOM,37.0,62.2,-0.202,-7.5,0.71,-17.7,-0.062
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AAPL,129.0,73.6,0.393,50.7,2.72,-7.2,1.094
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AMD,96.0,75.0,0.225,21.6,1.53,-18.8,1.549
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),AMZN,132.0,73.5,0.317,41.8,2.11,-5.5,0.879
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),BA,103.0,68.9,0.068,7.0,1.14,-10.9,-0.069
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),C,88.0,68.2,-0.018,-1.6,0.97,-23.2,0.087
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DIA,123.0,70.7,0.232,28.5,1.55,-11.1,0.257
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),DIS,94.0,77.7,0.284,26.7,1.98,-5.7,0.549
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),F,63.0,58.7,-0.053,-3.4,0.9,-12.5,-0.206
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),GLD,89.0,76.4,0.215,19.1,1.63,-12.8,0.398
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),GOOGL,136.0,72.1,0.307,41.8,2.22,-5.7,0.664
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),INTC,95.0,58.9,-0.184,-17.4,0.69,-16.4,-0.582
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),IWM,115.0,73.0,0.127,14.6,1.26,-21.4,0.224
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),JNJ,103.0,70.9,0.179,18.5,1.54,-7.8,0.215
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),JPM,105.0,70.5,0.093,9.8,1.2,-8.4,0.255
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),KO,114.0,62.3,0.084,9.6,1.19,-16.2,0.198
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),META,82.0,78.0,0.356,29.2,2.64,-2.9,0.91
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),MSFT,120.0,70.8,0.3,36.0,2.03,-7.5,0.535
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),NVDA,114.0,70.2,0.251,28.6,1.55,-10.6,0.755
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),PFE,85.0,64.7,0.128,10.9,1.36,-5.9,0.162
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),QQQ,120.0,72.5,0.232,27.9,1.6,-7.3,0.339
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),SPY,111.0,69.4,0.232,25.8,1.52,-10.8,0.292
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),T,78.0,70.5,0.053,4.1,1.12,-10.4,0.085
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),TSLA,65.0,66.2,0.133,8.7,1.26,-12.6,0.798
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),VZ,69.0,66.7,0.065,4.5,1.19,-12.2,0.15
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),WMT,108.0,74.1,0.247,26.7,1.94,-8.1,0.333
+QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),XOM,99.0,69.7,0.047,4.7,1.1,-10.4,0.212
+QS/Connors 4 von 5 Tagen runter (1d),AAPL,209.0,72.7,0.308,64.3,2.05,-4.1,0.669
+QS/Connors 4 von 5 Tagen runter (1d),AMD,141.0,66.7,0.237,33.4,1.58,-9.1,1.096
+QS/Connors 4 von 5 Tagen runter (1d),AMZN,197.0,71.1,0.405,79.8,2.27,-8.0,0.903
+QS/Connors 4 von 5 Tagen runter (1d),BA,164.0,68.9,0.154,25.2,1.38,-18.1,0.174
+QS/Connors 4 von 5 Tagen runter (1d),C,138.0,67.4,0.077,10.6,1.17,-17.9,0.148
+QS/Connors 4 von 5 Tagen runter (1d),DIA,186.0,73.7,0.174,32.3,1.39,-13.4,0.23
+QS/Connors 4 von 5 Tagen runter (1d),DIS,153.0,73.2,0.314,48.0,2.15,-7.0,0.577
+QS/Connors 4 von 5 Tagen runter (1d),F,106.0,67.0,0.071,7.5,1.16,-10.3,0.359
+QS/Connors 4 von 5 Tagen runter (1d),GLD,148.0,70.3,0.159,23.5,1.42,-11.4,0.258
+QS/Connors 4 von 5 Tagen runter (1d),GOOGL,182.0,74.7,0.33,60.1,2.13,-8.0,0.615
+QS/Connors 4 von 5 Tagen runter (1d),INTC,147.0,65.3,-0.087,-12.9,0.85,-24.0,0.016
+QS/Connors 4 von 5 Tagen runter (1d),IWM,174.0,69.0,0.266,46.2,1.78,-6.4,0.421
+QS/Connors 4 von 5 Tagen runter (1d),JNJ,155.0,67.7,0.045,7.0,1.1,-16.9,0.026
+QS/Connors 4 von 5 Tagen runter (1d),JPM,168.0,72.6,0.233,39.1,1.59,-9.4,0.441
+QS/Connors 4 von 5 Tagen runter (1d),KO,156.0,68.6,0.049,7.7,1.11,-23.3,0.089
+QS/Connors 4 von 5 Tagen runter (1d),META,115.0,65.2,0.287,33.0,1.91,-6.2,0.858
+QS/Connors 4 von 5 Tagen runter (1d),MSFT,166.0,72.3,0.342,56.8,2.23,-4.4,0.637
+QS/Connors 4 von 5 Tagen runter (1d),NVDA,180.0,71.1,0.41,73.9,2.21,-8.2,1.535
+QS/Connors 4 von 5 Tagen runter (1d),PFE,143.0,65.7,0.111,15.9,1.32,-11.2,0.11
+QS/Connors 4 von 5 Tagen runter (1d),QQQ,173.0,71.1,0.294,50.9,1.82,-13.7,0.414
+QS/Connors 4 von 5 Tagen runter (1d),SPY,184.0,77.2,0.322,59.3,1.96,-9.4,0.336
+QS/Connors 4 von 5 Tagen runter (1d),T,119.0,66.4,0.182,21.7,1.44,-6.8,0.335
+QS/Connors 4 von 5 Tagen runter (1d),TSLA,111.0,64.9,0.146,16.2,1.32,-13.3,0.424
+QS/Connors 4 von 5 Tagen runter (1d),VZ,109.0,56.9,-0.097,-10.6,0.8,-16.5,-0.077
+QS/Connors 4 von 5 Tagen runter (1d),WMT,170.0,69.4,0.192,32.6,1.55,-9.5,0.269
+QS/Connors 4 von 5 Tagen runter (1d),XOM,134.0,72.4,0.166,22.3,1.4,-19.4,0.467
+QS/Connors Double 5 (1d),AAPL,307.0,68.1,0.246,75.5,1.48,-16.5,0.419
+QS/Connors Double 5 (1d),AMD,250.0,71.2,0.194,48.5,1.36,-17.0,1.034
+QS/Connors Double 5 (1d),AMZN,301.0,73.8,0.417,125.5,1.98,-11.0,0.91
+QS/Connors Double 5 (1d),BA,259.0,69.9,0.11,28.5,1.21,-37.2,0.19
+QS/Connors Double 5 (1d),C,237.0,65.8,-0.138,-32.6,0.81,-49.9,-0.27
+QS/Connors Double 5 (1d),DIA,326.0,74.5,0.244,79.5,1.5,-15.8,0.243
+QS/Connors Double 5 (1d),DIS,276.0,68.5,0.189,52.1,1.44,-23.2,0.298
+QS/Connors Double 5 (1d),F,175.0,62.9,-0.066,-11.5,0.9,-22.9,0.018
+QS/Connors Double 5 (1d),GLD,261.0,68.2,0.163,42.5,1.28,-35.3,0.245
+QS/Connors Double 5 (1d),GOOGL,327.0,71.6,0.237,77.6,1.49,-16.9,0.471
+QS/Connors Double 5 (1d),INTC,254.0,65.0,0.019,4.9,1.03,-18.8,0.127
+QS/Connors Double 5 (1d),IWM,304.0,69.4,0.184,56.0,1.38,-19.2,0.303
+QS/Connors Double 5 (1d),JNJ,272.0,70.2,0.07,19.0,1.14,-16.2,0.105
+QS/Connors Double 5 (1d),JPM,280.0,68.6,0.114,32.0,1.2,-27.5,0.292
+QS/Connors Double 5 (1d),KO,293.0,70.6,0.176,51.7,1.35,-16.7,0.275
+QS/Connors Double 5 (1d),META,188.0,69.7,0.382,71.8,1.81,-11.3,0.9
+QS/Connors Double 5 (1d),MSFT,291.0,72.2,0.313,91.1,1.84,-12.9,0.542
+QS/Connors Double 5 (1d),NVDA,316.0,72.8,0.412,130.3,2.01,-11.2,1.403
+QS/Connors Double 5 (1d),PFE,245.0,68.2,0.026,6.4,1.05,-29.7,-0.001
+QS/Connors Double 5 (1d),QQQ,339.0,73.7,0.333,112.9,1.74,-10.3,0.428
+QS/Connors Double 5 (1d),SPY,323.0,74.3,0.365,117.8,1.86,-12.6,0.34
+QS/Connors Double 5 (1d),T,224.0,68.8,0.141,31.6,1.3,-16.7,0.301
+QS/Connors Double 5 (1d),TSLA,187.0,67.9,0.173,32.4,1.31,-21.9,0.763
+QS/Connors Double 5 (1d),VZ,231.0,63.6,-0.027,-6.3,0.95,-26.2,0.041
+QS/Connors Double 5 (1d),WMT,275.0,65.1,0.149,41.1,1.29,-20.9,0.198
+QS/Connors Double 5 (1d),XOM,240.0,68.3,0.061,14.6,1.11,-15.7,0.167
+QS/Connors R3 (1d),AAPL,176.0,69.9,0.346,61.0,1.85,-13.1,0.743
+QS/Connors R3 (1d),AMD,127.0,72.4,0.311,39.4,1.67,-10.9,1.429
+QS/Connors R3 (1d),AMZN,166.0,74.1,0.454,75.4,2.32,-6.1,0.979
+QS/Connors R3 (1d),BA,154.0,70.8,0.211,32.5,1.48,-18.1,0.351
+QS/Connors R3 (1d),C,128.0,71.1,0.027,3.5,1.04,-39.5,0.196
+QS/Connors R3 (1d),DIA,158.0,75.3,0.295,46.7,1.6,-8.4,0.329
+QS/Connors R3 (1d),DIS,142.0,80.3,0.484,68.7,3.1,-5.4,0.921
+QS/Connors R3 (1d),F,91.0,62.6,-0.075,-6.8,0.88,-14.3,0.017
+QS/Connors R3 (1d),GLD,114.0,69.3,0.197,22.5,1.43,-14.4,0.323
+QS/Connors R3 (1d),GOOGL,183.0,74.3,0.434,79.5,2.56,-7.0,0.884
+QS/Connors R3 (1d),INTC,134.0,64.9,-0.05,-6.7,0.92,-16.4,0.016
+QS/Connors R3 (1d),IWM,155.0,71.6,0.378,58.7,2.13,-9.7,0.681
+QS/Connors R3 (1d),JNJ,141.0,66.7,0.13,18.3,1.31,-9.6,0.115
+QS/Connors R3 (1d),JPM,141.0,70.9,0.087,12.3,1.16,-16.2,0.277
+QS/Connors R3 (1d),KO,149.0,68.5,0.275,40.9,1.74,-13.4,0.382
+QS/Connors R3 (1d),META,110.0,79.1,0.388,42.7,2.05,-10.9,1.09
+QS/Connors R3 (1d),MSFT,143.0,74.8,0.451,64.5,2.6,-6.9,0.852
+QS/Connors R3 (1d),NVDA,157.0,70.7,0.322,50.6,1.72,-12.1,1.127
+QS/Connors R3 (1d),PFE,122.0,62.3,0.153,18.6,1.38,-8.0,0.214
+QS/Connors R3 (1d),QQQ,172.0,76.7,0.48,82.6,2.45,-7.3,0.716
+QS/Connors R3 (1d),SPY,166.0,79.5,0.484,80.3,2.58,-6.0,0.511
+QS/Connors R3 (1d),T,114.0,70.2,0.217,24.8,1.6,-5.8,0.417
+QS/Connors R3 (1d),TSLA,96.0,69.8,0.268,25.7,1.59,-10.7,1.155
+QS/Connors R3 (1d),VZ,103.0,60.2,-0.095,-9.8,0.83,-15.0,-0.029
+QS/Connors R3 (1d),WMT,134.0,67.9,0.195,26.2,1.48,-9.0,0.295
+QS/Connors R3 (1d),XOM,127.0,68.5,0.157,20.0,1.29,-17.0,0.465
+QS/Connors RSI(5) 30/50 (1d),AAPL,134.0,71.6,0.209,28.0,1.42,-17.0,0.442
+QS/Connors RSI(5) 30/50 (1d),AMD,98.0,67.3,0.126,12.4,1.21,-23.3,0.929
+QS/Connors RSI(5) 30/50 (1d),AMZN,114.0,70.2,0.458,52.3,2.01,-7.7,1.119
+QS/Connors RSI(5) 30/50 (1d),BA,109.0,71.6,0.247,26.9,1.51,-16.4,0.402
+QS/Connors RSI(5) 30/50 (1d),C,108.0,70.4,-0.091,-9.8,0.89,-28.3,-0.138
+QS/Connors RSI(5) 30/50 (1d),DIA,138.0,75.4,0.556,76.7,2.55,-7.8,0.574
+QS/Connors RSI(5) 30/50 (1d),DIS,102.0,66.7,0.342,34.9,1.9,-7.2,0.614
+QS/Connors RSI(5) 30/50 (1d),F,73.0,72.6,-0.03,-2.2,0.96,-18.2,0.213
+QS/Connors RSI(5) 30/50 (1d),GLD,115.0,73.0,0.452,52.0,2.18,-9.4,0.605
+QS/Connors RSI(5) 30/50 (1d),GOOGL,128.0,73.4,0.32,40.9,1.67,-14.7,0.548
+QS/Connors RSI(5) 30/50 (1d),INTC,101.0,65.3,0.01,1.0,1.01,-18.3,-0.008
+QS/Connors RSI(5) 30/50 (1d),IWM,127.0,73.2,0.284,36.1,1.53,-31.8,0.585
+QS/Connors RSI(5) 30/50 (1d),JNJ,117.0,72.6,0.165,19.4,1.34,-15.4,0.289
+QS/Connors RSI(5) 30/50 (1d),JPM,117.0,70.9,0.215,25.2,1.4,-18.4,0.459
+QS/Connors RSI(5) 30/50 (1d),KO,113.0,69.0,0.331,37.4,1.79,-4.8,0.461
+QS/Connors RSI(5) 30/50 (1d),META,81.0,74.1,0.659,53.4,2.38,-7.9,1.616
+QS/Connors RSI(5) 30/50 (1d),MSFT,104.0,75.0,0.547,56.9,2.57,-12.2,1.085
+QS/Connors RSI(5) 30/50 (1d),NVDA,128.0,75.8,0.424,54.2,2.02,-12.4,1.409
+QS/Connors RSI(5) 30/50 (1d),PFE,83.0,59.0,-0.049,-4.1,0.92,-11.8,-0.094
+QS/Connors RSI(5) 30/50 (1d),QQQ,153.0,77.8,0.554,84.7,2.86,-6.2,0.7
+QS/Connors RSI(5) 30/50 (1d),SPY,136.0,80.1,0.689,93.7,3.0,-11.7,0.699
+QS/Connors RSI(5) 30/50 (1d),T,77.0,68.8,0.172,13.3,1.33,-11.0,0.372
+QS/Connors RSI(5) 30/50 (1d),TSLA,75.0,70.7,0.347,26.0,1.62,-9.3,1.813
+QS/Connors RSI(5) 30/50 (1d),VZ,94.0,69.1,0.084,7.9,1.17,-10.7,0.222
+QS/Connors RSI(5) 30/50 (1d),WMT,109.0,67.9,0.147,16.0,1.3,-15.0,0.202
+QS/Connors RSI(5) 30/50 (1d),XOM,92.0,67.4,-0.024,-2.2,0.96,-18.4,0.189
+Sneaky Pivot,AAOI,19.0,57.9,-0.024,-0.5,0.94,-4.0,0.177
+Sneaky Pivot,AAPL,18.0,61.1,0.173,3.1,1.75,-2.5,0.113
+Sneaky Pivot,AMD,21.0,47.6,-0.262,-5.5,0.4,-7.2,-0.395
+Sneaky Pivot,AMZN,13.0,23.1,-0.252,-3.3,0.48,-5.5,-0.15
+Sneaky Pivot,ES=F,16.0,31.2,-0.512,-8.2,0.19,-9.7,-0.128
+Sneaky Pivot,GGLL,20.0,50.0,0.125,2.5,1.31,-3.8,0.425
+Sneaky Pivot,GOOGL,25.0,48.0,-0.021,-0.5,0.95,-4.3,0.021
+Sneaky Pivot,IWM,10.0,30.0,-0.024,-0.2,0.97,-5.0,0.001
+Sneaky Pivot,META,21.0,33.3,-0.144,-3.0,0.72,-4.5,-0.208
+Sneaky Pivot,MSFT,17.0,58.8,0.175,3.0,1.53,-4.3,0.057
+Sneaky Pivot,NQ=F,17.0,29.4,-0.55,-9.3,0.2,-9.4,-0.185
+Sneaky Pivot,NVDA,21.0,47.6,-0.055,-1.2,0.88,-4.7,-0.01
+Sneaky Pivot,QQQ,19.0,36.8,-0.284,-5.4,0.54,-10.0,-0.113
+Sneaky Pivot,SPY,21.0,28.6,-0.449,-9.4,0.32,-12.6,-0.1
+Sneaky Pivot,TSLA,16.0,43.8,-0.023,-0.4,0.94,-2.5,-0.078
+Sneaky Pivot,YM=F,12.0,25.0,-0.122,-1.5,0.81,-6.6,-0.038
+Squeeze + EMA21/34 (1d),AAPL,50.0,58.0,2.037,101.9,4.81,-6.1,5.145
 Squeeze + EMA21/34 (1d),AMD,86.0,25.6,1.338,115.0,2.36,-23.7,4.775
 Squeeze + EMA21/34 (1d),AMZN,84.0,36.9,1.654,138.9,3.62,-8.9,2.81
 Squeeze + EMA21/34 (1d),BA,88.0,29.5,0.407,35.8,1.47,-16.2,1.256
 Squeeze + EMA21/34 (1d),C,93.0,37.6,0.263,24.4,1.34,-23.1,-0.117
-Squeeze + EMA21/34 (1d),DIA,84.0,34.5,0.251,21.1,1.3,-26.7,0.064
+Squeeze + EMA21/34 (1d),DIA,84.0,35.7,0.261,21.9,1.31,-26.7,0.069
 Squeeze + EMA21/34 (1d),DIS,111.0,29.7,0.299,33.2,1.26,-29.1,0.399
 Squeeze + EMA21/34 (1d),F,107.0,27.1,0.658,70.4,1.62,-46.2,2.669
 Squeeze + EMA21/34 (1d),GLD,64.0,28.1,0.532,34.0,1.57,-29.3,0.67
@@ -519,7 +713,7 @@ Squeeze + EMA21/34 (1d),JNJ,135.0,28.1,-0.126,-17.1,0.87,-31.8,0.026
 Squeeze + EMA21/34 (1d),JPM,97.0,30.9,0.419,40.6,1.52,-16.9,0.545
 Squeeze + EMA21/34 (1d),KO,154.0,23.4,-0.141,-21.7,0.85,-44.6,-0.291
 Squeeze + EMA21/34 (1d),META,63.0,31.7,2.147,135.3,3.29,-19.5,3.713
-Squeeze + EMA21/34 (1d),MSFT,114.0,32.5,0.821,93.6,1.95,-21.1,1.19
+Squeeze + EMA21/34 (1d),MSFT,114.0,32.5,0.821,93.6,1.94,-21.1,1.181
 Squeeze + EMA21/34 (1d),NVDA,87.0,29.9,0.173,15.1,1.21,-30.2,2.828
 Squeeze + EMA21/34 (1d),PFE,115.0,29.6,0.538,61.9,1.62,-18.2,0.225
 Squeeze + EMA21/34 (1d),QQQ,78.0,33.3,0.107,8.4,1.13,-23.1,0.35
@@ -528,40 +722,144 @@ Squeeze + EMA21/34 (1d),T,119.0,23.5,-0.49,-58.3,0.46,-68.8,-0.459
 Squeeze + EMA21/34 (1d),TSLA,66.0,31.8,2.732,180.3,4.54,-21.1,8.643
 Squeeze + EMA21/34 (1d),VZ,128.0,18.8,-0.414,-53.0,0.64,-76.3,-0.531
 Squeeze + EMA21/34 (1d),WMT,129.0,33.3,0.069,8.9,1.07,-46.2,0.264
-Squeeze + EMA21/34 (1d),XOM,130.0,23.1,-0.113,-14.7,0.88,-27.7,0.227
+Squeeze + EMA21/34 (1d),XOM,130.0,23.1,-0.096,-12.5,0.9,-27.7,0.247
 Squeeze + EMA21/34 (1w),AAPL,10.0,70.0,6.275,62.7,35.17,-1.5,35.281
-Squeeze + EMA21/34 (1w),AMD,18.0,44.4,1.943,35.0,4.4,-9.5,15.782
+Squeeze + EMA21/34 (1w),AMD,18.0,44.4,1.928,34.7,4.37,-9.5,15.511
 Squeeze + EMA21/34 (1w),AMZN,21.0,38.1,2.429,51.0,4.12,-4.2,10.709
 Squeeze + EMA21/34 (1w),BA,21.0,38.1,3.899,81.9,4.25,-10.3,9.122
 Squeeze + EMA21/34 (1w),C,20.0,30.0,0.556,11.1,1.83,-7.2,1.823
-Squeeze + EMA21/34 (1w),DIA,20.0,40.0,0.102,2.0,1.14,-4.2,0.729
+Squeeze + EMA21/34 (1w),DIA,21.0,38.1,0.096,2.0,1.14,-4.2,0.693
 Squeeze + EMA21/34 (1w),DIS,16.0,37.5,0.231,3.7,1.31,-2.8,2.493
 Squeeze + EMA21/34 (1w),F,23.0,30.4,0.268,6.2,1.35,-6.8,4.114
 Squeeze + EMA21/34 (1w),GLD,16.0,37.5,3.621,57.9,8.69,-4.5,12.148
-Squeeze + EMA21/34 (1w),GOOGL,21.0,47.6,1.693,35.6,3.49,-6.2,8.758
+Squeeze + EMA21/34 (1w),GOOGL,21.0,47.6,1.627,34.2,3.18,-6.2,8.482
 Squeeze + EMA21/34 (1w),INTC,29.0,27.6,0.838,24.3,1.92,-11.2,8.311
 Squeeze + EMA21/34 (1w),IWM,22.0,40.9,0.483,10.6,1.93,-4.6,1.685
 Squeeze + EMA21/34 (1w),JNJ,23.0,30.4,0.312,7.2,1.44,-8.7,1.063
-Squeeze + EMA21/34 (1w),JPM,27.0,29.6,1.066,28.8,2.6,-7.0,1.975
-Squeeze + EMA21/34 (1w),KO,36.0,30.6,-0.025,-0.9,0.97,-12.9,0.104
-Squeeze + EMA21/34 (1w),META,12.0,41.7,1.324,15.9,2.99,-3.7,21.139
+Squeeze + EMA21/34 (1w),JPM,27.0,29.6,1.039,28.0,2.55,-7.0,1.879
+Squeeze + EMA21/34 (1w),KO,36.0,30.6,-0.031,-1.1,0.96,-12.9,0.064
+Squeeze + EMA21/34 (1w),META,12.0,33.3,1.159,13.9,2.71,-3.7,20.281
 Squeeze + EMA21/34 (1w),MSFT,25.0,40.0,2.004,50.1,3.37,-9.7,6.771
-Squeeze + EMA21/34 (1w),NVDA,20.0,25.0,0.988,19.8,2.62,-6.5,14.837
+Squeeze + EMA21/34 (1w),NVDA,20.0,25.0,0.975,19.5,2.6,-6.5,14.753
 Squeeze + EMA21/34 (1w),PFE,27.0,25.9,-0.115,-3.1,0.87,-12.1,-0.608
-Squeeze + EMA21/34 (1w),QQQ,12.0,58.3,3.427,41.1,12.25,-1.5,11.476
+Squeeze + EMA21/34 (1w),QQQ,12.0,58.3,3.416,41.0,11.83,-1.5,11.414
 Squeeze + EMA21/34 (1w),SPY,13.0,46.2,1.791,23.3,3.97,-3.9,3.939
 Squeeze + EMA21/34 (1w),T,37.0,24.3,0.643,23.8,1.74,-11.9,1.356
 Squeeze + EMA21/34 (1w),TSLA,15.0,53.3,5.171,77.6,9.74,-2.0,26.348
 Squeeze + EMA21/34 (1w),VZ,29.0,31.0,-0.341,-9.9,0.61,-13.4,-0.892
 Squeeze + EMA21/34 (1w),WMT,26.0,34.6,0.494,12.8,1.49,-14.2,0.561
 Squeeze + EMA21/34 (1w),XOM,36.0,19.4,-0.11,-4.0,0.89,-18.6,-1.046
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),AAPL,42.0,61.9,2.253,94.6,7.53,-3.0,12.603
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),AMD,40.0,40.0,2.09,83.6,4.52,-6.0,23.912
+TradingLab Bollinger + RSI (1d),AAPL,47.0,51.1,-1.907,-89.6,0.33,-98.1,-3.616
+TradingLab Bollinger + RSI (1d),AMD,52.0,51.9,-1.407,-73.1,0.48,-81.5,-4.874
+TradingLab Bollinger + RSI (1d),AMZN,40.0,47.5,-0.98,-39.2,0.54,-52.8,-1.653
+TradingLab Bollinger + RSI (1d),BA,51.0,64.7,-0.336,-17.1,0.82,-52.9,0.507
+TradingLab Bollinger + RSI (1d),C,54.0,64.8,0.026,1.4,1.02,-18.4,0.052
+TradingLab Bollinger + RSI (1d),DIA,39.0,79.5,0.634,24.7,1.46,-30.2,1.609
+TradingLab Bollinger + RSI (1d),DIS,44.0,63.6,0.027,1.2,1.02,-15.6,0.317
+TradingLab Bollinger + RSI (1d),F,49.0,65.3,-0.337,-16.5,0.8,-37.3,-1.472
+TradingLab Bollinger + RSI (1d),GLD,46.0,54.3,-0.788,-36.2,0.61,-40.6,-0.482
+TradingLab Bollinger + RSI (1d),GOOGL,50.0,62.0,0.084,4.2,1.05,-28.5,-0.027
+TradingLab Bollinger + RSI (1d),INTC,38.0,55.3,-0.473,-18.0,0.73,-19.9,-1.642
+TradingLab Bollinger + RSI (1d),IWM,30.0,66.7,0.523,15.7,1.53,-16.9,0.886
+TradingLab Bollinger + RSI (1d),JNJ,46.0,63.0,-0.132,-6.1,0.89,-22.6,0.377
+TradingLab Bollinger + RSI (1d),JPM,41.0,70.7,0.413,16.9,1.5,-8.2,2.195
+TradingLab Bollinger + RSI (1d),KO,38.0,68.4,0.999,38.0,2.68,-9.7,2.12
+TradingLab Bollinger + RSI (1d),META,29.0,62.1,-0.304,-8.8,0.84,-32.3,-0.92
+TradingLab Bollinger + RSI (1d),MSFT,38.0,50.0,-0.57,-21.7,0.62,-26.0,-0.663
+TradingLab Bollinger + RSI (1d),NVDA,42.0,38.1,-2.626,-110.3,0.23,-112.5,-8.746
+TradingLab Bollinger + RSI (1d),PFE,41.0,75.6,0.741,30.4,1.84,-17.3,2.352
+TradingLab Bollinger + RSI (1d),QQQ,34.0,50.0,-0.384,-13.1,0.7,-17.4,-0.128
+TradingLab Bollinger + RSI (1d),SPY,29.0,62.1,0.381,11.1,1.4,-10.0,1.005
+TradingLab Bollinger + RSI (1d),T,45.0,68.9,0.783,35.2,2.44,-8.5,1.312
+TradingLab Bollinger + RSI (1d),TSLA,38.0,65.8,-3.008,-114.3,0.31,-125.1,-8.453
+TradingLab Bollinger + RSI (1d),VZ,45.0,71.1,0.765,34.4,1.92,-9.0,1.633
+TradingLab Bollinger + RSI (1d),WMT,44.0,70.5,0.621,27.3,1.63,-16.7,0.972
+TradingLab Bollinger + RSI (1d),XOM,35.0,71.4,-0.354,-12.4,0.83,-21.2,0.527
+"TradingLab Bollinger + RSI (1d, nur Long)",AAPL,12.0,75.0,1.07,12.8,3.15,-4.6,1.624
+"TradingLab Bollinger + RSI (1d, nur Long)",AMD,16.0,62.5,-0.09,-1.4,0.94,-19.5,3.767
+"TradingLab Bollinger + RSI (1d, nur Long)",AMZN,12.0,58.3,1.133,13.6,5.24,-1.3,4.012
+"TradingLab Bollinger + RSI (1d, nur Long)",BA,20.0,70.0,0.639,12.8,1.55,-13.9,2.847
+"TradingLab Bollinger + RSI (1d, nur Long)",C,29.0,65.5,-0.04,-1.2,0.96,-16.4,0.598
+"TradingLab Bollinger + RSI (1d, nur Long)",DIA,17.0,94.1,1.587,27.0,4.01,-9.0,2.96
+"TradingLab Bollinger + RSI (1d, nur Long)",DIS,21.0,71.4,1.053,22.1,3.25,-5.7,2.01
+"TradingLab Bollinger + RSI (1d, nur Long)",F,22.0,63.6,-0.764,-16.8,0.57,-13.9,-0.193
+"TradingLab Bollinger + RSI (1d, nur Long)",GLD,17.0,76.5,1.103,18.7,2.91,-8.1,1.891
+"TradingLab Bollinger + RSI (1d, nur Long)",GOOGL,14.0,64.3,1.05,14.7,2.06,-7.3,1.725
+"TradingLab Bollinger + RSI (1d, nur Long)",INTC,15.0,66.7,-0.061,-0.9,0.94,-7.3,-0.787
+"TradingLab Bollinger + RSI (1d, nur Long)",IWM,14.0,64.3,0.503,7.0,1.49,-8.5,1.537
+"TradingLab Bollinger + RSI (1d, nur Long)",JNJ,18.0,72.2,0.712,12.8,2.32,-2.7,1.789
+"TradingLab Bollinger + RSI (1d, nur Long)",JPM,15.0,80.0,1.078,16.2,2.88,-6.6,5.61
+"TradingLab Bollinger + RSI (1d, nur Long)",KO,14.0,85.7,1.971,27.6,10.23,-3.0,4.962
+"TradingLab Bollinger + RSI (1d, nur Long)",META,8.0,75.0,1.355,10.8,4.74,-1.3,5.581
+"TradingLab Bollinger + RSI (1d, nur Long)",MSFT,10.0,60.0,0.613,6.1,2.34,-3.9,1.3
+"TradingLab Bollinger + RSI (1d, nur Long)",NVDA,10.0,30.0,-0.758,-7.6,0.54,-7.9,-4.741
+"TradingLab Bollinger + RSI (1d, nur Long)",PFE,20.0,85.0,1.455,29.1,5.18,-5.4,3.729
+"TradingLab Bollinger + RSI (1d, nur Long)",QQQ,9.0,66.7,1.462,13.2,6.91,-1.5,3.366
+"TradingLab Bollinger + RSI (1d, nur Long)",SPY,10.0,80.0,0.779,7.8,2.4,-4.4,1.837
+"TradingLab Bollinger + RSI (1d, nur Long)",T,23.0,69.6,0.78,17.9,2.23,-10.7,1.552
+"TradingLab Bollinger + RSI (1d, nur Long)",TSLA,12.0,91.7,1.674,20.1,4.62,-5.5,12.391
+"TradingLab Bollinger + RSI (1d, nur Long)",VZ,24.0,87.5,1.654,39.7,4.34,-5.4,3.534
+"TradingLab Bollinger + RSI (1d, nur Long)",WMT,15.0,80.0,1.483,22.2,5.88,-1.6,2.324
+"TradingLab Bollinger + RSI (1d, nur Long)",XOM,17.0,82.4,0.265,4.5,1.2,-21.2,1.139
+Turtles tmr0 (1d),AAPL,301.0,44.5,0.96,289.0,1.83,-32.1,2.113
+Turtles tmr0 (1d),AMD,329.0,41.3,0.678,223.1,1.57,-45.4,2.464
+Turtles tmr0 (1d),AMZN,344.0,41.0,0.384,132.1,1.34,-36.1,0.599
+Turtles tmr0 (1d),BA,341.0,36.1,0.117,40.1,1.09,-71.8,-0.264
+Turtles tmr0 (1d),C,346.0,39.6,0.088,30.6,1.08,-79.2,0.364
+Turtles tmr0 (1d),DIA,362.0,40.1,-0.023,-8.2,0.98,-56.9,-0.023
+Turtles tmr0 (1d),DIS,317.0,44.5,0.367,116.4,1.37,-41.6,0.748
+Turtles tmr0 (1d),F,339.0,41.6,0.344,116.7,1.31,-84.1,1.536
+Turtles tmr0 (1d),GLD,335.0,37.9,0.458,153.5,1.37,-36.4,0.249
+Turtles tmr0 (1d),GOOGL,339.0,41.3,0.402,136.1,1.35,-56.5,0.691
+Turtles tmr0 (1d),INTC,381.0,37.5,-0.147,-56.1,0.88,-100.8,-0.51
+Turtles tmr0 (1d),IWM,346.0,39.3,-0.073,-25.4,0.93,-76.5,-0.097
+Turtles tmr0 (1d),JNJ,364.0,37.1,-0.041,-14.9,0.96,-123.4,-0.172
+Turtles tmr0 (1d),JPM,350.0,35.4,-0.113,-39.4,0.9,-87.6,-0.618
+Turtles tmr0 (1d),KO,360.0,36.7,-0.316,-113.7,0.75,-153.3,-0.441
+Turtles tmr0 (1d),META,231.0,38.5,0.138,31.9,1.11,-52.5,0.51
+Turtles tmr0 (1d),MSFT,320.0,42.2,0.261,83.4,1.24,-39.1,0.459
+Turtles tmr0 (1d),NVDA,330.0,39.4,0.721,238.0,1.63,-80.4,2.342
+Turtles tmr0 (1d),PFE,334.0,40.4,0.057,19.2,1.05,-54.3,-0.05
+Turtles tmr0 (1d),QQQ,355.0,41.1,0.084,29.9,1.07,-89.3,0.233
+Turtles tmr0 (1d),SPY,339.0,40.1,0.088,29.8,1.08,-75.7,0.288
+Turtles tmr0 (1d),T,370.0,33.5,-0.325,-120.1,0.73,-152.9,-0.529
+Turtles tmr0 (1d),TSLA,239.0,34.7,0.976,233.1,1.86,-55.1,3.403
+Turtles tmr0 (1d),VZ,350.0,34.6,-0.342,-119.7,0.72,-159.7,-0.707
+Turtles tmr0 (1d),WMT,352.0,36.4,-0.143,-50.2,0.88,-85.4,-0.249
+Turtles tmr0 (1d),XOM,350.0,34.3,0.067,23.3,1.06,-70.4,-0.197
+"Turtles tmr0 (1d, nur Long)",AAPL,174.0,58.0,2.224,387.0,3.76,-14.7,5.175
+"Turtles tmr0 (1d, nur Long)",AMD,167.0,45.5,1.397,233.3,2.17,-35.4,5.69
+"Turtles tmr0 (1d, nur Long)",AMZN,201.0,47.8,1.137,228.5,2.13,-27.4,2.497
+"Turtles tmr0 (1d, nur Long)",BA,182.0,41.8,0.734,133.7,1.62,-35.8,1.015
+"Turtles tmr0 (1d, nur Long)",C,183.0,41.5,0.135,24.7,1.13,-55.5,0.222
+"Turtles tmr0 (1d, nur Long)",DIA,215.0,47.9,0.498,107.1,1.58,-24.3,0.544
+"Turtles tmr0 (1d, nur Long)",DIS,166.0,47.6,0.888,147.5,2.03,-25.7,1.699
+"Turtles tmr0 (1d, nur Long)",F,166.0,39.8,0.297,49.4,1.25,-57.9,2.275
+"Turtles tmr0 (1d, nur Long)",GLD,176.0,46.0,1.391,244.9,2.25,-31.0,1.397
+"Turtles tmr0 (1d, nur Long)",GOOGL,194.0,49.5,1.162,225.3,2.24,-22.0,2.318
+"Turtles tmr0 (1d, nur Long)",INTC,209.0,37.3,-0.054,-11.2,0.96,-87.8,-0.057
+"Turtles tmr0 (1d, nur Long)",IWM,199.0,43.7,0.092,18.2,1.1,-26.5,0.236
+"Turtles tmr0 (1d, nur Long)",JNJ,188.0,44.7,0.576,108.3,1.6,-35.1,0.732
+"Turtles tmr0 (1d, nur Long)",JPM,186.0,42.5,0.517,96.1,1.53,-28.5,0.932
+"Turtles tmr0 (1d, nur Long)",KO,196.0,43.4,0.104,20.4,1.09,-52.5,0.177
+"Turtles tmr0 (1d, nur Long)",META,130.0,46.9,0.89,115.7,1.8,-24.6,2.887
+"Turtles tmr0 (1d, nur Long)",MSFT,181.0,48.1,0.87,157.5,1.88,-19.6,1.853
+"Turtles tmr0 (1d, nur Long)",NVDA,189.0,46.6,1.713,323.8,2.78,-31.3,5.838
+"Turtles tmr0 (1d, nur Long)",PFE,163.0,39.9,0.278,45.4,1.27,-34.5,0.293
+"Turtles tmr0 (1d, nur Long)",QQQ,213.0,51.6,0.694,147.8,1.76,-22.6,1.235
+"Turtles tmr0 (1d, nur Long)",SPY,203.0,47.8,0.595,120.8,1.71,-20.9,0.868
+"Turtles tmr0 (1d, nur Long)",T,196.0,33.2,-0.253,-49.6,0.78,-78.1,-0.476
+"Turtles tmr0 (1d, nur Long)",TSLA,124.0,41.1,2.488,308.5,3.33,-34.3,10.097
+"Turtles tmr0 (1d, nur Long)",VZ,170.0,37.1,-0.103,-17.5,0.91,-73.5,-0.219
+"Turtles tmr0 (1d, nur Long)",WMT,192.0,41.7,0.278,53.3,1.27,-33.5,0.503
+"Turtles tmr0 (1d, nur Long)",XOM,184.0,37.5,0.39,71.9,1.37,-28.3,0.701
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),AAPL,42.0,61.9,2.26,94.9,7.55,-3.0,12.641
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),AMD,40.0,40.0,2.088,83.5,4.52,-6.0,23.892
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),AMZN,42.0,42.9,1.872,78.6,4.41,-4.8,10.206
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),BA,41.0,31.7,0.788,32.3,2.19,-6.1,3.156
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),C,46.0,19.6,0.037,1.7,1.05,-11.1,0.501
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),DIA,51.0,37.3,0.281,14.3,1.51,-10.2,1.104
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),DIS,45.0,40.0,0.367,16.5,1.68,-6.5,3.526
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),DIS,45.0,40.0,0.373,16.8,1.69,-6.5,3.567
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),F,38.0,18.4,0.147,5.6,1.21,-10.2,5.163
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),GLD,42.0,42.9,1.428,60.0,3.94,-6.7,3.423
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),GOOGL,43.0,58.1,1.025,44.1,3.89,-3.1,6.817
@@ -569,372 +867,436 @@ Vergleich: 6-Wochen-Hoch-Ausbruch (1w),INTC,56.0,19.6,-0.135,-7.6,0.81,-17.3,-0.
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),IWM,50.0,36.0,0.233,11.7,1.38,-8.8,1.611
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),JNJ,43.0,34.9,0.265,11.4,1.46,-11.2,1.136
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),JPM,43.0,39.5,0.873,37.6,2.62,-7.4,2.032
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),KO,46.0,32.6,0.182,8.4,1.3,-6.2,0.407
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),META,25.0,44.0,2.926,73.1,7.17,-3.4,18.8
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),MSFT,42.0,45.2,1.131,47.5,3.15,-4.0,4.718
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),NVDA,44.0,43.2,3.069,135.0,7.16,-6.6,17.979
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),PFE,47.0,23.4,-0.247,-11.6,0.66,-12.0,-0.816
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),KO,47.0,31.9,0.173,8.1,1.29,-6.2,0.369
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),META,25.0,40.0,2.87,71.8,6.89,-3.4,18.395
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),MSFT,42.0,45.2,1.13,47.5,3.15,-4.0,4.695
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),NVDA,44.0,43.2,3.068,135.0,7.15,-6.6,17.966
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),PFE,47.0,23.4,-0.243,-11.4,0.66,-12.0,-0.781
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),QQQ,55.0,41.8,0.61,33.5,2.15,-4.6,1.997
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),SPY,51.0,39.2,0.889,45.3,2.6,-6.4,2.274
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),T,44.0,25.0,-0.04,-1.8,0.93,-16.6,-0.35
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),T,44.0,25.0,-0.05,-2.2,0.92,-16.6,-0.461
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),TSLA,31.0,35.5,10.313,319.7,18.9,-4.5,46.029
 Vergleich: 6-Wochen-Hoch-Ausbruch (1w),VZ,50.0,22.0,-0.358,-17.9,0.49,-17.8,-1.574
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),WMT,55.0,27.3,0.073,4.0,1.1,-17.9,0.187
-Vergleich: 6-Wochen-Hoch-Ausbruch (1w),XOM,42.0,33.3,0.324,13.6,1.53,-9.3,1.53
-Vergleich: Donchian 50 ohne MACD (1d),AAPL,77.0,48.1,0.453,34.9,2.33,-4.2,3.925
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),WMT,55.0,27.3,0.076,4.2,1.11,-17.9,0.205
+Vergleich: 6-Wochen-Hoch-Ausbruch (1w),XOM,42.0,33.3,0.334,14.0,1.55,-9.3,1.594
+Vergleich: Donchian 50 ohne MACD (1d),AAPL,78.0,47.4,0.447,34.8,2.33,-4.2,3.87
 Vergleich: Donchian 50 ohne MACD (1d),AMD,78.0,38.5,0.325,25.3,1.84,-5.3,3.736
-Vergleich: Donchian 50 ohne MACD (1d),AMZN,88.0,34.1,0.046,4.0,1.09,-8.8,-0.979
-Vergleich: Donchian 50 ohne MACD (1d),BA,82.0,34.1,0.118,9.6,1.25,-13.1,-0.776
-Vergleich: Donchian 50 ohne MACD (1d),C,82.0,40.2,0.036,3.0,1.09,-8.1,0.391
-Vergleich: Donchian 50 ohne MACD (1d),DIA,95.0,33.7,-0.027,-2.5,0.94,-8.8,-0.066
-Vergleich: Donchian 50 ohne MACD (1d),DIS,79.0,39.2,0.054,4.3,1.13,-7.5,0.462
-Vergleich: Donchian 50 ohne MACD (1d),F,84.0,41.7,0.024,2.0,1.06,-7.2,0.447
-Vergleich: Donchian 50 ohne MACD (1d),GLD,88.0,38.6,0.152,13.4,1.36,-8.8,0.218
-Vergleich: Donchian 50 ohne MACD (1d),GOOGL,79.0,49.4,0.225,17.8,1.58,-4.8,2.038
+Vergleich: Donchian 50 ohne MACD (1d),AMZN,88.0,34.1,0.045,4.0,1.08,-8.8,-0.987
+Vergleich: Donchian 50 ohne MACD (1d),BA,82.0,34.1,0.119,9.7,1.25,-13.1,-0.765
+Vergleich: Donchian 50 ohne MACD (1d),C,82.0,41.5,0.04,3.3,1.1,-8.1,0.428
+Vergleich: Donchian 50 ohne MACD (1d),DIA,95.0,33.7,-0.032,-3.0,0.92,-8.8,-0.085
+Vergleich: Donchian 50 ohne MACD (1d),DIS,79.0,39.2,0.057,4.5,1.14,-7.5,0.485
+Vergleich: Donchian 50 ohne MACD (1d),F,84.0,41.7,0.03,2.5,1.08,-7.2,0.525
+Vergleich: Donchian 50 ohne MACD (1d),GLD,89.0,39.3,0.152,13.5,1.36,-8.8,0.223
+Vergleich: Donchian 50 ohne MACD (1d),GOOGL,80.0,50.0,0.222,17.8,1.58,-4.8,2.016
 Vergleich: Donchian 50 ohne MACD (1d),INTC,99.0,33.3,-0.173,-17.2,0.64,-19.7,-1.9
-Vergleich: Donchian 50 ohne MACD (1d),IWM,86.0,39.5,-0.037,-3.2,0.9,-8.3,-0.01
-Vergleich: Donchian 50 ohne MACD (1d),JNJ,79.0,36.7,0.007,0.6,1.02,-9.6,-0.301
-Vergleich: Donchian 50 ohne MACD (1d),JPM,92.0,30.4,-0.158,-14.6,0.69,-16.2,-2.391
-Vergleich: Donchian 50 ohne MACD (1d),KO,76.0,34.2,-0.129,-9.8,0.69,-17.0,-0.726
-Vergleich: Donchian 50 ohne MACD (1d),META,53.0,34.0,0.081,4.3,1.17,-5.8,1.103
-Vergleich: Donchian 50 ohne MACD (1d),MSFT,75.0,41.3,0.188,14.1,1.5,-5.0,1.29
+Vergleich: Donchian 50 ohne MACD (1d),IWM,86.0,39.5,-0.043,-3.7,0.89,-8.3,-0.031
+Vergleich: Donchian 50 ohne MACD (1d),JNJ,79.0,36.7,0.003,0.2,1.01,-9.6,-0.343
+Vergleich: Donchian 50 ohne MACD (1d),JPM,92.0,31.5,-0.155,-14.3,0.7,-16.2,-2.364
+Vergleich: Donchian 50 ohne MACD (1d),KO,77.0,33.8,-0.133,-10.2,0.68,-17.1,-0.748
+Vergleich: Donchian 50 ohne MACD (1d),META,53.0,34.0,0.073,3.9,1.15,-6.2,1.002
+Vergleich: Donchian 50 ohne MACD (1d),MSFT,75.0,41.3,0.187,14.0,1.5,-5.0,1.278
 Vergleich: Donchian 50 ohne MACD (1d),NVDA,77.0,44.2,0.468,36.0,2.23,-9.6,6.176
-Vergleich: Donchian 50 ohne MACD (1d),PFE,79.0,39.2,-0.032,-2.5,0.93,-11.3,-0.563
+Vergleich: Donchian 50 ohne MACD (1d),PFE,79.0,39.2,-0.029,-2.3,0.93,-11.3,-0.541
 Vergleich: Donchian 50 ohne MACD (1d),QQQ,86.0,45.3,0.148,12.7,1.39,-5.9,1.022
-Vergleich: Donchian 50 ohne MACD (1d),SPY,92.0,40.2,0.056,5.2,1.14,-6.5,0.258
-Vergleich: Donchian 50 ohne MACD (1d),T,74.0,37.8,0.011,0.8,1.03,-6.4,-0.413
+Vergleich: Donchian 50 ohne MACD (1d),SPY,92.0,40.2,0.056,5.1,1.14,-6.5,0.254
+Vergleich: Donchian 50 ohne MACD (1d),T,74.0,39.2,0.024,1.8,1.06,-6.4,-0.261
 Vergleich: Donchian 50 ohne MACD (1d),TSLA,63.0,33.3,0.336,21.2,1.78,-6.5,3.267
-Vergleich: Donchian 50 ohne MACD (1d),VZ,90.0,27.8,-0.31,-27.9,0.4,-30.9,-2.465
-Vergleich: Donchian 50 ohne MACD (1d),WMT,86.0,34.9,-0.086,-7.4,0.81,-15.0,-0.582
-Vergleich: Donchian 50 ohne MACD (1d),XOM,85.0,36.5,0.01,0.9,1.03,-9.1,-0.564
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",AAPL,582.0,34.7,0.09,52.4,1.31,-10.2,0.392
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",AMD,617.0,32.9,0.073,44.8,1.25,-20.1,0.461
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",AMZN,654.0,30.4,0.058,38.0,1.2,-16.6,0.293
+Vergleich: Donchian 50 ohne MACD (1d),VZ,90.0,27.8,-0.31,-27.9,0.4,-30.9,-2.461
+Vergleich: Donchian 50 ohne MACD (1d),WMT,86.0,34.9,-0.085,-7.3,0.82,-15.0,-0.572
+Vergleich: Donchian 50 ohne MACD (1d),XOM,85.0,36.5,0.013,1.1,1.03,-9.1,-0.532
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",AAPL,582.0,34.7,0.091,52.7,1.31,-10.2,0.394
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",AMD,617.0,32.9,0.073,45.0,1.26,-20.1,0.464
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",AMZN,657.0,30.6,0.056,36.7,1.19,-16.6,0.282
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",BA,692.0,31.8,0.015,10.1,1.05,-30.9,0.109
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",C,669.0,32.4,0.026,17.5,1.09,-10.0,0.204
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",DIA,692.0,30.5,-0.021,-14.5,0.94,-41.3,-0.054
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",DIS,710.0,30.4,0.02,14.0,1.07,-16.0,0.101
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",C,669.0,32.6,0.027,18.0,1.1,-10.0,0.209
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",DIA,692.0,30.5,-0.021,-14.3,0.94,-41.3,-0.054
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",DIS,710.0,30.4,0.021,14.6,1.07,-16.0,0.105
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",F,703.0,30.4,0.03,21.1,1.11,-22.9,0.139
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",GLD,676.0,33.1,0.012,7.8,1.04,-26.5,0.01
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",GOOGL,596.0,33.9,0.084,50.0,1.29,-15.5,0.299
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",INTC,691.0,32.1,0.034,23.6,1.13,-13.4,0.093
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",GLD,676.0,33.1,0.013,8.8,1.04,-26.5,0.015
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",GOOGL,597.0,34.2,0.086,51.5,1.3,-15.5,0.311
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",INTC,691.0,32.1,0.035,23.9,1.13,-13.4,0.097
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",IWM,769.0,30.7,-0.047,-36.2,0.85,-49.4,-0.148
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",JNJ,697.0,32.4,0.011,7.7,1.04,-26.3,-0.006
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",JPM,721.0,28.6,-0.012,-8.7,0.96,-20.8,-0.253
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",JNJ,698.0,32.4,0.011,7.5,1.04,-26.3,-0.007
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",JPM,723.0,28.6,-0.012,-8.9,0.96,-20.8,-0.254
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",KO,784.0,29.6,-0.01,-7.7,0.96,-23.9,-0.096
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",META,455.0,27.3,-0.042,-19.1,0.88,-30.6,-0.264
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",MSFT,735.0,29.1,-0.032,-23.6,0.89,-46.9,-0.21
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",NVDA,655.0,31.3,0.001,0.7,1.0,-20.2,-0.028
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",PFE,727.0,29.8,0.011,7.8,1.04,-20.3,0.022
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",QQQ,679.0,32.1,0.031,21.0,1.11,-16.8,0.102
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",SPY,702.0,29.3,-0.019,-13.2,0.94,-24.0,-0.026
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",META,456.0,27.4,-0.039,-17.8,0.88,-30.6,-0.243
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",MSFT,736.0,29.1,-0.032,-23.9,0.89,-46.9,-0.212
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",NVDA,655.0,31.3,0.001,1.0,1.0,-20.2,-0.026
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",PFE,727.0,29.8,0.011,8.2,1.04,-20.3,0.024
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",QQQ,679.0,32.1,0.031,21.3,1.11,-16.8,0.103
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",SPY,705.0,29.4,-0.019,-13.3,0.94,-24.0,-0.026
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",T,696.0,30.7,0.012,8.4,1.04,-34.8,-0.05
-"Vergleich: EMA21-Kreuz, fester Stop (1d)",TSLA,512.0,29.9,0.029,14.8,1.11,-12.5,0.133
+"Vergleich: EMA21-Kreuz, fester Stop (1d)",TSLA,513.0,29.8,0.028,14.1,1.1,-12.5,0.126
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",VZ,738.0,28.6,-0.023,-16.8,0.92,-24.2,-0.108
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",WMT,769.0,27.8,-0.047,-36.3,0.84,-44.6,-0.211
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",XOM,774.0,31.3,-0.006,-4.6,0.98,-21.1,-0.105
-Vergleich: EMA21/34 ohne Squeeze (1d),AAPL,207.0,34.3,1.536,318.0,2.91,-22.2,2.887
+Vergleich: EMA21/34 ohne Squeeze (1d),AAPL,207.0,34.3,1.542,319.2,2.91,-22.2,2.893
 Vergleich: EMA21/34 ohne Squeeze (1d),AMD,217.0,29.0,1.081,234.5,2.02,-22.0,3.113
-Vergleich: EMA21/34 ohne Squeeze (1d),AMZN,235.0,30.2,0.722,169.7,1.85,-25.4,1.484
+Vergleich: EMA21/34 ohne Squeeze (1d),AMZN,236.0,30.1,0.712,168.1,1.83,-25.4,1.458
 Vergleich: EMA21/34 ohne Squeeze (1d),BA,246.0,25.2,0.683,167.9,1.7,-29.7,0.736
 Vergleich: EMA21/34 ohne Squeeze (1d),C,248.0,29.0,0.187,46.3,1.21,-27.6,0.17
-Vergleich: EMA21/34 ohne Squeeze (1d),DIA,235.0,34.9,0.265,62.2,1.29,-49.2,0.278
-Vergleich: EMA21/34 ohne Squeeze (1d),DIS,255.0,24.3,0.422,107.6,1.39,-47.4,0.412
+Vergleich: EMA21/34 ohne Squeeze (1d),DIA,235.0,35.3,0.268,63.0,1.29,-49.2,0.28
+Vergleich: EMA21/34 ohne Squeeze (1d),DIS,255.0,24.3,0.429,109.4,1.39,-47.4,0.42
 Vergleich: EMA21/34 ohne Squeeze (1d),F,269.0,20.4,0.107,28.9,1.1,-77.1,0.819
 Vergleich: EMA21/34 ohne Squeeze (1d),GLD,254.0,25.2,0.862,219.0,1.9,-41.5,0.47
 Vergleich: EMA21/34 ohne Squeeze (1d),GOOGL,220.0,33.6,1.536,337.9,2.8,-30.8,1.762
 Vergleich: EMA21/34 ohne Squeeze (1d),INTC,254.0,28.3,0.324,82.4,1.37,-52.0,0.548
 Vergleich: EMA21/34 ohne Squeeze (1d),IWM,261.0,31.4,0.12,31.2,1.14,-31.1,0.246
-Vergleich: EMA21/34 ohne Squeeze (1d),JNJ,248.0,27.0,0.355,88.0,1.36,-30.6,0.34
+Vergleich: EMA21/34 ohne Squeeze (1d),JNJ,249.0,26.9,0.351,87.4,1.36,-30.6,0.333
 Vergleich: EMA21/34 ohne Squeeze (1d),JPM,254.0,28.3,0.308,78.1,1.32,-33.2,0.388
-Vergleich: EMA21/34 ohne Squeeze (1d),KO,293.0,24.6,0.038,11.3,1.04,-45.0,0.021
-Vergleich: EMA21/34 ohne Squeeze (1d),META,160.0,28.1,0.964,154.2,1.93,-40.2,1.691
-Vergleich: EMA21/34 ohne Squeeze (1d),MSFT,251.0,27.5,0.305,76.5,1.28,-42.1,0.48
+Vergleich: EMA21/34 ohne Squeeze (1d),KO,293.0,24.6,0.032,9.5,1.03,-45.0,0.016
+Vergleich: EMA21/34 ohne Squeeze (1d),META,160.0,28.1,0.955,152.8,1.92,-40.2,1.675
+Vergleich: EMA21/34 ohne Squeeze (1d),MSFT,251.0,27.5,0.305,76.5,1.28,-42.1,0.476
 Vergleich: EMA21/34 ohne Squeeze (1d),NVDA,237.0,29.5,1.406,333.2,2.53,-33.6,3.467
-Vergleich: EMA21/34 ohne Squeeze (1d),PFE,268.0,23.1,0.111,29.8,1.11,-58.1,-0.072
+Vergleich: EMA21/34 ohne Squeeze (1d),PFE,268.0,23.1,0.118,31.5,1.12,-58.1,-0.066
 Vergleich: EMA21/34 ohne Squeeze (1d),QQQ,245.0,26.9,0.609,149.3,1.64,-25.0,0.751
-Vergleich: EMA21/34 ohne Squeeze (1d),SPY,247.0,29.1,0.526,130.0,1.55,-32.4,0.366
+Vergleich: EMA21/34 ohne Squeeze (1d),SPY,248.0,29.0,0.516,127.9,1.54,-32.4,0.36
 Vergleich: EMA21/34 ohne Squeeze (1d),T,259.0,24.7,-0.052,-13.5,0.94,-62.2,-0.023
-Vergleich: EMA21/34 ohne Squeeze (1d),TSLA,187.0,23.0,1.99,372.2,2.9,-44.1,4.411
+Vergleich: EMA21/34 ohne Squeeze (1d),TSLA,188.0,23.4,1.983,372.8,2.9,-44.1,4.393
 Vergleich: EMA21/34 ohne Squeeze (1d),VZ,286.0,22.4,-0.24,-68.6,0.78,-118.8,-0.202
-Vergleich: EMA21/34 ohne Squeeze (1d),WMT,263.0,28.9,0.075,19.8,1.07,-57.8,0.134
-Vergleich: EMA21/34 ohne Squeeze (1d),XOM,298.0,21.1,-0.177,-52.7,0.82,-91.1,0.005
-Vergleich: EMA21/34 ohne Squeeze (1w),AAPL,38.0,50.0,2.707,102.9,5.13,-5.9,16.863
-Vergleich: EMA21/34 ohne Squeeze (1w),AMD,37.0,37.8,3.177,117.6,6.47,-7.1,22.678
-Vergleich: EMA21/34 ohne Squeeze (1w),AMZN,42.0,33.3,2.133,89.6,3.75,-6.5,11.34
+Vergleich: EMA21/34 ohne Squeeze (1d),WMT,263.0,28.9,0.079,20.8,1.07,-57.8,0.138
+Vergleich: EMA21/34 ohne Squeeze (1d),XOM,298.0,21.1,-0.169,-50.4,0.83,-91.1,0.014
+Vergleich: EMA21/34 ohne Squeeze (1w),AAPL,38.0,50.0,2.723,103.5,5.16,-5.9,16.907
+Vergleich: EMA21/34 ohne Squeeze (1w),AMD,37.0,37.8,3.16,116.9,6.44,-7.1,22.529
+Vergleich: EMA21/34 ohne Squeeze (1w),AMZN,42.0,33.3,2.131,89.5,3.74,-6.5,11.322
 Vergleich: EMA21/34 ohne Squeeze (1w),BA,58.0,22.4,1.255,72.8,2.09,-16.7,2.798
 Vergleich: EMA21/34 ohne Squeeze (1w),C,55.0,21.8,0.445,24.5,1.53,-14.1,1.972
-Vergleich: EMA21/34 ohne Squeeze (1w),DIA,50.0,34.0,0.557,27.8,1.6,-12.2,1.564
-Vergleich: EMA21/34 ohne Squeeze (1w),DIS,50.0,28.0,0.52,26.0,1.59,-11.7,2.144
+Vergleich: EMA21/34 ohne Squeeze (1w),DIA,50.0,34.0,0.562,28.1,1.6,-12.2,1.573
+Vergleich: EMA21/34 ohne Squeeze (1w),DIS,50.0,28.0,0.53,26.5,1.6,-11.7,2.18
 Vergleich: EMA21/34 ohne Squeeze (1w),F,48.0,22.9,0.747,35.8,2.0,-15.8,6.741
 Vergleich: EMA21/34 ohne Squeeze (1w),GLD,44.0,31.8,3.267,143.7,5.24,-15.1,5.495
-Vergleich: EMA21/34 ohne Squeeze (1w),GOOGL,41.0,48.8,2.037,83.5,4.37,-7.9,8.036
+Vergleich: EMA21/34 ohne Squeeze (1w),GOOGL,41.0,48.8,2.018,82.8,4.24,-7.9,7.897
 Vergleich: EMA21/34 ohne Squeeze (1w),INTC,58.0,25.9,0.492,28.5,1.47,-19.5,4.247
 Vergleich: EMA21/34 ohne Squeeze (1w),IWM,56.0,30.4,0.546,30.6,1.64,-8.7,1.427
-Vergleich: EMA21/34 ohne Squeeze (1w),JNJ,55.0,25.5,0.367,20.2,1.43,-18.0,0.866
-Vergleich: EMA21/34 ohne Squeeze (1w),JPM,51.0,37.3,0.971,49.5,2.06,-17.0,2.93
-Vergleich: EMA21/34 ohne Squeeze (1w),KO,60.0,23.3,0.464,27.8,1.59,-16.3,0.77
-Vergleich: EMA21/34 ohne Squeeze (1w),META,21.0,52.4,3.894,81.8,5.77,-6.7,24.215
-Vergleich: EMA21/34 ohne Squeeze (1w),MSFT,44.0,31.8,1.582,69.6,3.06,-6.2,5.728
-Vergleich: EMA21/34 ohne Squeeze (1w),NVDA,40.0,40.0,5.769,230.8,11.36,-10.1,41.87
-Vergleich: EMA21/34 ohne Squeeze (1w),PFE,53.0,26.4,0.115,6.1,1.13,-12.5,0.077
-Vergleich: EMA21/34 ohne Squeeze (1w),QQQ,38.0,50.0,2.485,94.4,5.26,-5.3,7.295
-Vergleich: EMA21/34 ohne Squeeze (1w),SPY,45.0,42.2,1.767,79.5,3.67,-9.6,3.517
+Vergleich: EMA21/34 ohne Squeeze (1w),JNJ,55.0,25.5,0.418,23.0,1.49,-18.0,0.962
+Vergleich: EMA21/34 ohne Squeeze (1w),JPM,51.0,37.3,0.957,48.8,2.04,-17.0,2.879
+Vergleich: EMA21/34 ohne Squeeze (1w),KO,60.0,23.3,0.446,26.8,1.57,-16.3,0.742
+Vergleich: EMA21/34 ohne Squeeze (1w),META,21.0,52.4,3.774,79.2,5.62,-6.7,23.7
+Vergleich: EMA21/34 ohne Squeeze (1w),MSFT,44.0,31.8,1.58,69.5,3.05,-6.2,5.706
+Vergleich: EMA21/34 ohne Squeeze (1w),NVDA,40.0,40.0,5.762,230.5,11.35,-10.1,41.828
+Vergleich: EMA21/34 ohne Squeeze (1w),PFE,53.0,26.4,0.124,6.5,1.14,-12.5,0.109
+Vergleich: EMA21/34 ohne Squeeze (1w),QQQ,38.0,50.0,2.478,94.1,5.25,-5.3,7.272
+Vergleich: EMA21/34 ohne Squeeze (1w),SPY,45.0,42.2,1.763,79.3,3.66,-9.6,3.506
 Vergleich: EMA21/34 ohne Squeeze (1w),T,64.0,21.9,0.354,22.6,1.39,-27.4,0.566
 Vergleich: EMA21/34 ohne Squeeze (1w),TSLA,44.0,27.3,2.222,97.8,3.66,-9.8,17.626
 Vergleich: EMA21/34 ohne Squeeze (1w),VZ,65.0,21.5,-0.256,-16.6,0.73,-28.6,-0.757
-Vergleich: EMA21/34 ohne Squeeze (1w),WMT,65.0,23.1,0.473,30.8,1.43,-26.4,0.803
-Vergleich: EMA21/34 ohne Squeeze (1w),XOM,61.0,24.6,0.038,2.3,1.04,-23.0,0.543
-Vergleich: Kauf nach rotem Tag (1d),AAPL,919.0,69.0,0.191,175.3,1.48,-16.3,0.384
-Vergleich: Kauf nach rotem Tag (1d),AMD,813.0,64.3,0.082,66.7,1.16,-58.8,0.427
-Vergleich: Kauf nach rotem Tag (1d),AMZN,900.0,67.2,0.175,157.2,1.42,-25.5,0.454
-Vergleich: Kauf nach rotem Tag (1d),BA,892.0,65.8,0.072,63.9,1.15,-39.9,0.142
-Vergleich: Kauf nach rotem Tag (1d),C,846.0,62.9,-0.043,-36.7,0.92,-67.0,-0.171
-Vergleich: Kauf nach rotem Tag (1d),DIA,942.0,69.6,0.123,116.0,1.3,-18.4,0.179
-Vergleich: Kauf nach rotem Tag (1d),DIS,890.0,66.4,0.123,109.6,1.3,-33.0,0.243
-Vergleich: Kauf nach rotem Tag (1d),F,800.0,62.9,-0.06,-48.2,0.9,-78.8,-0.146
-Vergleich: Kauf nach rotem Tag (1d),GLD,1024.0,68.3,0.122,125.1,1.27,-42.4,0.184
-Vergleich: Kauf nach rotem Tag (1d),GOOGL,921.0,69.1,0.171,157.2,1.43,-14.6,0.414
-Vergleich: Kauf nach rotem Tag (1d),INTC,894.0,67.0,0.108,96.2,1.24,-29.4,0.414
-Vergleich: Kauf nach rotem Tag (1d),IWM,919.0,68.2,0.099,90.6,1.23,-23.1,0.232
-Vergleich: Kauf nach rotem Tag (1d),JNJ,844.0,67.2,0.107,90.7,1.26,-21.8,0.164
-Vergleich: Kauf nach rotem Tag (1d),JPM,901.0,69.0,0.153,137.4,1.37,-18.8,0.486
-Vergleich: Kauf nach rotem Tag (1d),KO,861.0,68.6,0.156,134.5,1.39,-13.3,0.262
-Vergleich: Kauf nach rotem Tag (1d),META,618.0,68.9,0.223,137.6,1.61,-12.8,0.603
-Vergleich: Kauf nach rotem Tag (1d),MSFT,911.0,70.0,0.2,182.2,1.53,-16.2,0.401
-Vergleich: Kauf nach rotem Tag (1d),NVDA,882.0,68.9,0.225,198.7,1.56,-22.7,0.75
-Vergleich: Kauf nach rotem Tag (1d),PFE,848.0,65.6,0.073,61.7,1.16,-34.2,0.194
-Vergleich: Kauf nach rotem Tag (1d),QQQ,924.0,71.4,0.137,126.5,1.35,-13.8,0.247
-Vergleich: Kauf nach rotem Tag (1d),SPY,965.0,69.2,0.153,148.1,1.41,-20.2,0.217
-Vergleich: Kauf nach rotem Tag (1d),T,854.0,65.3,0.042,35.8,1.09,-39.3,0.122
-Vergleich: Kauf nach rotem Tag (1d),TSLA,673.0,66.4,0.148,99.6,1.32,-30.6,0.684
-Vergleich: Kauf nach rotem Tag (1d),VZ,859.0,64.5,0.034,29.6,1.07,-38.0,0.135
-Vergleich: Kauf nach rotem Tag (1d),WMT,868.0,68.5,0.196,169.8,1.49,-17.8,0.325
-Vergleich: Kauf nach rotem Tag (1d),XOM,912.0,68.2,0.098,89.0,1.23,-36.2,0.265
-Vergleich: Moving Momentum ohne Stochastik (1d),AAPL,37.0,43.2,1.454,53.8,3.46,-4.7,11.241
-Vergleich: Moving Momentum ohne Stochastik (1d),AMD,49.0,36.7,0.549,26.9,2.04,-8.1,9.412
-Vergleich: Moving Momentum ohne Stochastik (1d),AMZN,57.0,29.8,0.759,43.2,2.1,-8.3,2.874
-Vergleich: Moving Momentum ohne Stochastik (1d),BA,57.0,24.6,0.607,34.6,1.85,-13.1,2.627
+Vergleich: EMA21/34 ohne Squeeze (1w),WMT,65.0,24.6,0.476,31.0,1.43,-26.4,0.817
+Vergleich: EMA21/34 ohne Squeeze (1w),XOM,61.0,24.6,0.048,2.9,1.05,-23.0,0.59
+Vergleich: Kauf nach rotem Tag (1d),AAPL,919.0,69.0,0.191,175.4,1.48,-16.3,0.384
+Vergleich: Kauf nach rotem Tag (1d),AMD,814.0,64.4,0.084,68.0,1.16,-58.8,0.434
+Vergleich: Kauf nach rotem Tag (1d),AMZN,901.0,67.3,0.174,157.0,1.42,-25.5,0.453
+Vergleich: Kauf nach rotem Tag (1d),BA,893.0,65.7,0.071,63.5,1.15,-39.9,0.141
+Vergleich: Kauf nach rotem Tag (1d),C,848.0,62.9,-0.043,-36.7,0.92,-67.0,-0.171
+Vergleich: Kauf nach rotem Tag (1d),DIA,943.0,69.7,0.124,116.9,1.31,-18.4,0.18
+Vergleich: Kauf nach rotem Tag (1d),DIS,891.0,66.4,0.124,110.1,1.3,-33.0,0.244
+Vergleich: Kauf nach rotem Tag (1d),F,801.0,62.8,-0.062,-50.0,0.89,-78.8,-0.152
+Vergleich: Kauf nach rotem Tag (1d),GLD,1025.0,68.2,0.12,122.5,1.26,-42.4,0.18
+Vergleich: Kauf nach rotem Tag (1d),GOOGL,921.0,69.1,0.168,154.8,1.42,-14.6,0.407
+Vergleich: Kauf nach rotem Tag (1d),INTC,894.0,67.0,0.107,95.7,1.24,-29.4,0.412
+Vergleich: Kauf nach rotem Tag (1d),IWM,920.0,68.3,0.1,91.9,1.23,-23.1,0.234
+Vergleich: Kauf nach rotem Tag (1d),JNJ,845.0,67.2,0.11,93.0,1.27,-21.8,0.17
+Vergleich: Kauf nach rotem Tag (1d),JPM,902.0,69.0,0.152,137.1,1.37,-18.8,0.484
+Vergleich: Kauf nach rotem Tag (1d),KO,862.0,68.7,0.158,135.8,1.39,-13.3,0.264
+Vergleich: Kauf nach rotem Tag (1d),META,619.0,68.8,0.221,136.9,1.61,-12.8,0.598
+Vergleich: Kauf nach rotem Tag (1d),MSFT,911.0,70.0,0.2,181.8,1.53,-16.2,0.4
+Vergleich: Kauf nach rotem Tag (1d),NVDA,883.0,68.9,0.226,199.9,1.57,-22.7,0.752
+Vergleich: Kauf nach rotem Tag (1d),PFE,850.0,65.6,0.075,64.0,1.16,-34.2,0.198
+Vergleich: Kauf nach rotem Tag (1d),QQQ,925.0,71.4,0.139,128.2,1.36,-13.8,0.249
+Vergleich: Kauf nach rotem Tag (1d),SPY,966.0,69.2,0.154,149.1,1.41,-20.2,0.218
+Vergleich: Kauf nach rotem Tag (1d),T,855.0,65.3,0.041,34.7,1.09,-39.3,0.119
+Vergleich: Kauf nach rotem Tag (1d),TSLA,674.0,66.3,0.15,101.1,1.33,-30.6,0.689
+Vergleich: Kauf nach rotem Tag (1d),VZ,859.0,64.5,0.035,29.9,1.08,-38.0,0.136
+Vergleich: Kauf nach rotem Tag (1d),WMT,869.0,68.6,0.197,170.8,1.5,-17.8,0.327
+Vergleich: Kauf nach rotem Tag (1d),XOM,913.0,68.2,0.099,90.4,1.23,-36.2,0.268
+Vergleich: Kurs kreuzt SMA200 (1d),AAPL,42.0,45.2,5.45,228.9,11.26,-5.0,15.344
+Vergleich: Kurs kreuzt SMA200 (1d),AMD,66.0,25.8,3.576,236.0,5.73,-14.8,17.36
+Vergleich: Kurs kreuzt SMA200 (1d),AMZN,81.0,24.7,1.546,125.2,3.09,-11.9,5.549
+Vergleich: Kurs kreuzt SMA200 (1d),BA,78.0,33.3,1.999,156.0,3.63,-14.5,3.396
+Vergleich: Kurs kreuzt SMA200 (1d),C,81.0,27.2,0.617,50.0,1.74,-14.1,1.496
+Vergleich: Kurs kreuzt SMA200 (1d),DIA,85.0,32.9,1.192,101.3,2.87,-9.7,1.452
+Vergleich: Kurs kreuzt SMA200 (1d),DIS,86.0,27.9,0.684,58.9,1.78,-21.2,1.755
+Vergleich: Kurs kreuzt SMA200 (1d),F,95.0,17.9,0.183,17.4,1.21,-34.4,2.382
+Vergleich: Kurs kreuzt SMA200 (1d),GLD,80.0,25.0,1.953,156.2,3.32,-22.9,2.648
+Vergleich: Kurs kreuzt SMA200 (1d),GOOGL,72.0,30.6,2.136,153.8,5.1,-8.4,5.104
+Vergleich: Kurs kreuzt SMA200 (1d),INTC,83.0,16.9,0.925,76.8,1.93,-28.6,3.086
+Vergleich: Kurs kreuzt SMA200 (1d),IWM,89.0,25.8,0.675,60.0,1.89,-14.5,1.114
+Vergleich: Kurs kreuzt SMA200 (1d),JNJ,106.0,25.5,0.473,50.1,1.72,-25.5,0.702
+Vergleich: Kurs kreuzt SMA200 (1d),JPM,87.0,28.7,0.982,85.4,2.24,-18.4,1.692
+Vergleich: Kurs kreuzt SMA200 (1d),KO,99.0,25.3,0.64,63.4,1.99,-16.7,0.778
+Vergleich: Kurs kreuzt SMA200 (1d),META,36.0,33.3,5.549,199.8,9.6,-7.6,13.277
+Vergleich: Kurs kreuzt SMA200 (1d),MSFT,75.0,28.0,1.517,113.8,3.08,-11.4,4.289
+Vergleich: Kurs kreuzt SMA200 (1d),NVDA,45.0,33.3,8.809,396.4,13.82,-8.4,40.242
+Vergleich: Kurs kreuzt SMA200 (1d),PFE,92.0,26.1,0.025,2.3,1.03,-16.8,-0.019
+Vergleich: Kurs kreuzt SMA200 (1d),QQQ,64.0,31.2,2.296,146.9,4.59,-7.7,4.675
+Vergleich: Kurs kreuzt SMA200 (1d),SPY,72.0,38.9,1.592,114.6,3.51,-10.2,2.368
+Vergleich: Kurs kreuzt SMA200 (1d),T,110.0,25.5,0.28,30.8,1.4,-36.3,0.312
+Vergleich: Kurs kreuzt SMA200 (1d),TSLA,83.0,18.1,2.272,188.6,3.94,-18.6,13.214
+Vergleich: Kurs kreuzt SMA200 (1d),VZ,108.0,14.8,-0.151,-16.3,0.8,-37.9,-0.236
+Vergleich: Kurs kreuzt SMA200 (1d),WMT,116.0,21.6,0.226,26.2,1.29,-23.3,0.516
+Vergleich: Kurs kreuzt SMA200 (1d),XOM,100.0,26.0,0.443,44.3,1.62,-31.1,1.072
+Vergleich: MACD+RSI ohne Stochastik (1h),AUDJPY=X,703.0,38.7,-0.128,-89.6,0.81,-92.7,-0.019
+Vergleich: MACD+RSI ohne Stochastik (1h),AUDUSD=X,647.0,42.0,-0.104,-67.4,0.85,-74.7,-0.016
+Vergleich: MACD+RSI ohne Stochastik (1h),EURUSD=X,527.0,38.1,-0.149,-78.7,0.79,-89.6,-0.021
+Vergleich: MACD+RSI ohne Stochastik (1h),GBPUSD=X,574.0,41.6,-0.035,-19.9,0.95,-36.9,-0.004
+Vergleich: MACD+RSI ohne Stochastik (1h),USDCAD=X,570.0,37.0,-0.15,-85.3,0.78,-103.2,-0.021
+Vergleich: MACD+RSI ohne Stochastik (1h),USDJPY=X,585.0,41.7,-0.024,-14.0,0.96,-46.3,-0.004
+Vergleich: MACD+RSI ohne Stochastik (30m),AUDJPY=X,88.0,38.6,-0.125,-11.0,0.81,-17.1,-0.019
+Vergleich: MACD+RSI ohne Stochastik (30m),AUDUSD=X,67.0,44.8,-0.058,-3.9,0.91,-11.2,-0.007
+Vergleich: MACD+RSI ohne Stochastik (30m),EURUSD=X,58.0,41.4,-0.076,-4.4,0.88,-12.3,-0.01
+Vergleich: MACD+RSI ohne Stochastik (30m),GBPUSD=X,53.0,32.1,-0.309,-16.4,0.59,-17.8,-0.043
+Vergleich: MACD+RSI ohne Stochastik (30m),USDCAD=X,55.0,45.5,0.022,1.2,1.04,-10.0,0.002
+Vergleich: MACD+RSI ohne Stochastik (30m),USDJPY=X,72.0,33.3,-0.254,-18.3,0.64,-19.4,-0.038
+Vergleich: Moving Momentum ohne Stochastik (1d),AAPL,37.0,43.2,1.457,53.9,3.46,-4.7,11.279
+Vergleich: Moving Momentum ohne Stochastik (1d),AMD,49.0,36.7,0.547,26.8,2.04,-8.1,9.363
+Vergleich: Moving Momentum ohne Stochastik (1d),AMZN,57.0,29.8,0.756,43.1,2.1,-8.3,2.859
+Vergleich: Moving Momentum ohne Stochastik (1d),BA,57.0,24.6,0.609,34.7,1.85,-13.1,2.643
 Vergleich: Moving Momentum ohne Stochastik (1d),C,56.0,21.4,0.35,19.6,1.49,-9.1,1.451
-Vergleich: Moving Momentum ohne Stochastik (1d),DIA,55.0,23.6,0.196,10.8,1.29,-8.3,0.809
-Vergleich: Moving Momentum ohne Stochastik (1d),DIS,56.0,25.0,0.637,35.6,1.86,-20.7,1.135
+Vergleich: Moving Momentum ohne Stochastik (1d),DIA,55.0,23.6,0.2,11.0,1.3,-8.3,0.817
+Vergleich: Moving Momentum ohne Stochastik (1d),DIS,56.0,25.0,0.642,36.0,1.87,-20.7,1.167
 Vergleich: Moving Momentum ohne Stochastik (1d),F,61.0,21.3,-0.138,-8.4,0.81,-18.3,1.281
-Vergleich: Moving Momentum ohne Stochastik (1d),GLD,45.0,33.3,2.271,102.2,4.62,-13.7,5.802
-Vergleich: Moving Momentum ohne Stochastik (1d),GOOGL,44.0,27.3,1.005,44.2,2.51,-8.2,6.013
-Vergleich: Moving Momentum ohne Stochastik (1d),INTC,57.0,33.3,0.268,15.3,1.47,-8.8,3.68
-Vergleich: Moving Momentum ohne Stochastik (1d),IWM,61.0,27.9,-0.17,-10.4,0.74,-14.0,-0.938
-Vergleich: Moving Momentum ohne Stochastik (1d),JNJ,74.0,13.5,-0.319,-23.6,0.61,-32.3,-1.534
-Vergleich: Moving Momentum ohne Stochastik (1d),JPM,52.0,30.8,0.186,9.7,1.3,-9.7,0.098
-Vergleich: Moving Momentum ohne Stochastik (1d),KO,53.0,24.5,0.066,3.5,1.1,-20.1,-0.008
+Vergleich: Moving Momentum ohne Stochastik (1d),GLD,45.0,33.3,2.288,102.9,4.65,-13.7,5.886
+Vergleich: Moving Momentum ohne Stochastik (1d),GOOGL,44.0,29.5,1.023,45.0,2.54,-8.2,6.15
+Vergleich: Moving Momentum ohne Stochastik (1d),INTC,57.0,33.3,0.26,14.8,1.45,-8.8,3.514
+Vergleich: Moving Momentum ohne Stochastik (1d),IWM,61.0,26.2,-0.176,-10.8,0.74,-14.0,-0.97
+Vergleich: Moving Momentum ohne Stochastik (1d),JNJ,74.0,13.5,-0.305,-22.6,0.62,-32.3,-1.473
+Vergleich: Moving Momentum ohne Stochastik (1d),JPM,52.0,30.8,0.178,9.3,1.28,-9.7,0.053
+Vergleich: Moving Momentum ohne Stochastik (1d),KO,53.0,24.5,0.059,3.1,1.09,-20.1,-0.039
 Vergleich: Moving Momentum ohne Stochastik (1d),META,20.0,40.0,1.444,28.9,3.36,-5.2,18.272
-Vergleich: Moving Momentum ohne Stochastik (1d),MSFT,45.0,24.4,0.539,24.3,1.67,-9.7,2.528
-Vergleich: Moving Momentum ohne Stochastik (1d),NVDA,31.0,48.4,7.763,240.6,19.41,-2.9,60.834
-Vergleich: Moving Momentum ohne Stochastik (1d),PFE,66.0,19.7,-0.194,-12.8,0.72,-14.3,-0.754
-Vergleich: Moving Momentum ohne Stochastik (1d),QQQ,39.0,30.8,0.8,31.2,2.23,-5.7,3.727
-Vergleich: Moving Momentum ohne Stochastik (1d),SPY,44.0,29.5,0.891,39.2,2.27,-7.1,2.311
+Vergleich: Moving Momentum ohne Stochastik (1d),MSFT,45.0,24.4,0.535,24.1,1.66,-9.7,2.508
+Vergleich: Moving Momentum ohne Stochastik (1d),NVDA,31.0,48.4,7.756,240.4,19.4,-2.9,60.784
+Vergleich: Moving Momentum ohne Stochastik (1d),PFE,66.0,19.7,-0.19,-12.6,0.72,-14.3,-0.731
+Vergleich: Moving Momentum ohne Stochastik (1d),QQQ,39.0,30.8,0.798,31.1,2.22,-5.7,3.708
+Vergleich: Moving Momentum ohne Stochastik (1d),SPY,44.0,29.5,0.889,39.1,2.26,-7.1,2.301
 Vergleich: Moving Momentum ohne Stochastik (1d),T,75.0,13.3,-0.153,-11.4,0.8,-35.9,-1.124
-Vergleich: Moving Momentum ohne Stochastik (1d),TSLA,55.0,23.6,2.55,140.3,4.63,-12.2,19.94
+Vergleich: Moving Momentum ohne Stochastik (1d),TSLA,55.0,23.6,2.541,139.8,4.62,-12.2,19.86
 Vergleich: Moving Momentum ohne Stochastik (1d),VZ,67.0,23.9,-0.337,-22.6,0.53,-29.7,-1.642
-Vergleich: Moving Momentum ohne Stochastik (1d),WMT,70.0,24.3,-0.131,-9.2,0.81,-26.6,-1.013
-Vergleich: Moving Momentum ohne Stochastik (1d),XOM,67.0,25.4,-0.054,-3.6,0.92,-19.9,0.044
-Vergleich: Stufe 2 ohne rel. Stärke (1w),AAPL,11.0,81.8,2.242,24.7,38.39,-0.7,50.544
-Vergleich: Stufe 2 ohne rel. Stärke (1w),AMD,8.0,87.5,2.206,17.6,307.89,-0.1,77.956
+Vergleich: Moving Momentum ohne Stochastik (1d),WMT,70.0,24.3,-0.133,-9.3,0.81,-26.6,-1.026
+Vergleich: Moving Momentum ohne Stochastik (1d),XOM,67.0,25.4,-0.048,-3.2,0.93,-19.9,0.083
+Vergleich: Stufe 2 ohne rel. Stärke (1w),AAPL,11.0,81.8,2.251,24.8,38.53,-0.7,50.702
+Vergleich: Stufe 2 ohne rel. Stärke (1w),AMD,8.0,87.5,2.181,17.4,304.4,-0.1,77.058
 Vergleich: Stufe 2 ohne rel. Stärke (1w),AMZN,15.0,53.3,0.858,12.9,3.78,-1.5,19.564
 Vergleich: Stufe 2 ohne rel. Stärke (1w),BA,13.0,38.5,0.944,12.3,3.55,-3.3,9.366
-Vergleich: Stufe 2 ohne rel. Stärke (1w),C,12.0,33.3,-0.126,-1.5,0.7,-2.9,2.757
-Vergleich: Stufe 2 ohne rel. Stärke (1w),DIA,19.0,36.8,0.221,4.2,1.69,-3.1,2.461
+Vergleich: Stufe 2 ohne rel. Stärke (1w),C,12.0,33.3,-0.138,-1.7,0.68,-2.9,2.415
+Vergleich: Stufe 2 ohne rel. Stärke (1w),DIA,19.0,36.8,0.223,4.2,1.7,-3.1,2.485
 Vergleich: Stufe 2 ohne rel. Stärke (1w),DIS,11.0,27.3,0.917,10.1,3.39,-3.6,7.907
 Vergleich: Stufe 2 ohne rel. Stärke (1w),F,10.0,30.0,0.344,3.4,1.82,-2.0,11.077
 Vergleich: Stufe 2 ohne rel. Stärke (1w),GLD,8.0,62.5,2.418,19.3,12.89,-0.9,26.0
-Vergleich: Stufe 2 ohne rel. Stärke (1w),GOOGL,15.0,53.3,0.659,9.9,3.23,-2.1,13.36
-Vergleich: Stufe 2 ohne rel. Stärke (1w),INTC,14.0,35.7,0.215,3.0,1.47,-3.0,9.895
+Vergleich: Stufe 2 ohne rel. Stärke (1w),GOOGL,15.0,53.3,0.626,9.4,3.12,-2.1,12.694
+Vergleich: Stufe 2 ohne rel. Stärke (1w),INTC,14.0,35.7,0.195,2.7,1.43,-3.0,9.197
 Vergleich: Stufe 2 ohne rel. Stärke (1w),IWM,13.0,46.2,0.372,4.8,2.34,-1.5,5.077
-Vergleich: Stufe 2 ohne rel. Stärke (1w),JNJ,15.0,33.3,0.346,5.2,2.3,-1.9,3.819
-Vergleich: Stufe 2 ohne rel. Stärke (1w),JPM,14.0,42.9,0.315,4.4,2.01,-1.8,5.189
-Vergleich: Stufe 2 ohne rel. Stärke (1w),KO,17.0,29.4,0.131,2.2,1.37,-5.5,0.951
+Vergleich: Stufe 2 ohne rel. Stärke (1w),JNJ,15.0,33.3,0.369,5.5,2.38,-1.9,4.137
+Vergleich: Stufe 2 ohne rel. Stärke (1w),JPM,14.0,42.9,0.306,4.3,1.95,-1.8,5.024
+Vergleich: Stufe 2 ohne rel. Stärke (1w),KO,17.0,29.4,0.122,2.1,1.34,-5.5,0.857
 Vergleich: Stufe 2 ohne rel. Stärke (1w),META,7.0,71.4,1.657,11.6,10.19,-0.8,56.09
 Vergleich: Stufe 2 ohne rel. Stärke (1w),MSFT,11.0,63.6,0.822,9.0,10.83,-0.6,14.534
-Vergleich: Stufe 2 ohne rel. Stärke (1w),NVDA,12.0,66.7,4.961,59.5,43.22,-0.8,121.509
-Vergleich: Stufe 2 ohne rel. Stärke (1w),PFE,12.0,25.0,-0.054,-0.6,0.86,-1.8,-0.821
-Vergleich: Stufe 2 ohne rel. Stärke (1w),QQQ,14.0,78.6,1.384,19.4,22.77,-0.5,14.581
-Vergleich: Stufe 2 ohne rel. Stärke (1w),SPY,18.0,44.4,0.451,8.1,3.12,-1.3,4.784
+Vergleich: Stufe 2 ohne rel. Stärke (1w),NVDA,12.0,66.7,4.957,59.5,41.69,-0.8,121.392
+Vergleich: Stufe 2 ohne rel. Stärke (1w),PFE,13.0,30.8,-0.043,-0.6,0.88,-1.8,-0.643
+Vergleich: Stufe 2 ohne rel. Stärke (1w),QQQ,14.0,78.6,1.38,19.3,22.71,-0.5,14.521
+Vergleich: Stufe 2 ohne rel. Stärke (1w),SPY,18.0,44.4,0.448,8.1,3.11,-1.3,4.758
 Vergleich: Stufe 2 ohne rel. Stärke (1w),T,9.0,66.7,1.051,9.5,5.48,-1.3,9.532
 Vergleich: Stufe 2 ohne rel. Stärke (1w),TSLA,9.0,33.3,4.841,43.6,17.26,-0.8,142.083
 Vergleich: Stufe 2 ohne rel. Stärke (1w),VZ,13.0,23.1,-0.134,-1.7,0.62,-4.6,-2.371
 Vergleich: Stufe 2 ohne rel. Stärke (1w),WMT,17.0,23.5,0.071,1.2,1.15,-4.3,2.38
-Vergleich: Stufe 2 ohne rel. Stärke (1w),XOM,15.0,33.3,0.193,2.9,1.39,-6.2,4.942
-Vergleich: grüne Kerze > EMA200 (1d),AAPL,220.0,45.5,0.357,78.6,1.61,-7.8,1.944
-Vergleich: grüne Kerze > EMA200 (1d),AMD,133.0,41.4,0.281,37.3,1.47,-10.4,3.113
-Vergleich: grüne Kerze > EMA200 (1d),AMZN,190.0,42.1,0.261,49.7,1.41,-12.3,1.615
+Vergleich: Stufe 2 ohne rel. Stärke (1w),XOM,15.0,33.3,0.22,3.3,1.44,-6.2,5.171
+Vergleich: grüne Kerze > EMA200 (1d),AAPL,221.0,45.7,0.358,79.0,1.62,-7.8,1.941
+Vergleich: grüne Kerze > EMA200 (1d),AMD,134.0,41.0,0.276,37.0,1.46,-10.4,3.065
+Vergleich: grüne Kerze > EMA200 (1d),AMZN,190.0,42.1,0.261,49.6,1.41,-12.3,1.61
 Vergleich: grüne Kerze > EMA200 (1d),BA,148.0,41.9,0.248,36.8,1.41,-16.2,0.903
 Vergleich: grüne Kerze > EMA200 (1d),C,156.0,34.6,0.021,3.2,1.03,-11.5,0.356
-Vergleich: grüne Kerze > EMA200 (1d),DIA,231.0,43.7,0.281,65.0,1.48,-7.8,0.547
-Vergleich: grüne Kerze > EMA200 (1d),DIS,160.0,37.5,0.128,20.5,1.19,-8.6,0.614
-Vergleich: grüne Kerze > EMA200 (1d),F,94.0,37.2,0.1,9.4,1.15,-11.4,1.678
+Vergleich: grüne Kerze > EMA200 (1d),DIA,231.0,43.7,0.282,65.2,1.48,-7.8,0.549
+Vergleich: grüne Kerze > EMA200 (1d),DIS,160.0,37.5,0.131,21.0,1.2,-8.6,0.626
+Vergleich: grüne Kerze > EMA200 (1d),F,94.0,37.2,0.098,9.2,1.15,-11.4,1.613
 Vergleich: grüne Kerze > EMA200 (1d),GLD,255.0,42.4,0.241,61.6,1.38,-13.1,0.511
-Vergleich: grüne Kerze > EMA200 (1d),GOOGL,185.0,47.6,0.418,77.2,1.74,-8.5,2.361
-Vergleich: grüne Kerze > EMA200 (1d),INTC,165.0,34.5,0.0,0.1,1.0,-16.8,0.376
-Vergleich: grüne Kerze > EMA200 (1d),IWM,170.0,35.9,0.075,12.8,1.11,-12.2,0.352
-Vergleich: grüne Kerze > EMA200 (1d),JNJ,154.0,39.6,0.166,25.5,1.27,-11.3,0.14
-Vergleich: grüne Kerze > EMA200 (1d),JPM,169.0,40.8,0.198,33.5,1.32,-13.3,0.887
-Vergleich: grüne Kerze > EMA200 (1d),KO,128.0,40.6,0.21,26.9,1.35,-9.7,0.661
-Vergleich: grüne Kerze > EMA200 (1d),META,127.0,45.7,0.365,46.4,1.6,-5.9,2.479
-Vergleich: grüne Kerze > EMA200 (1d),MSFT,165.0,41.8,0.288,47.5,1.46,-8.4,1.433
-Vergleich: grüne Kerze > EMA200 (1d),NVDA,168.0,50.0,0.528,88.7,2.01,-6.2,4.004
-Vergleich: grüne Kerze > EMA200 (1d),PFE,96.0,34.4,0.004,0.3,1.01,-11.9,-0.31
-Vergleich: grüne Kerze > EMA200 (1d),QQQ,237.0,43.5,0.293,69.4,1.5,-7.5,0.844
-Vergleich: grüne Kerze > EMA200 (1d),SPY,216.0,43.5,0.278,60.0,1.47,-9.1,0.638
+Vergleich: grüne Kerze > EMA200 (1d),GOOGL,185.0,47.0,0.411,76.0,1.72,-8.5,2.332
+Vergleich: grüne Kerze > EMA200 (1d),INTC,165.0,34.5,-0.001,-0.1,1.0,-16.8,0.358
+Vergleich: grüne Kerze > EMA200 (1d),IWM,171.0,35.7,0.074,12.6,1.11,-12.2,0.347
+Vergleich: grüne Kerze > EMA200 (1d),JNJ,154.0,39.6,0.171,26.3,1.28,-11.3,0.161
+Vergleich: grüne Kerze > EMA200 (1d),JPM,169.0,40.8,0.196,33.1,1.31,-13.3,0.873
+Vergleich: grüne Kerze > EMA200 (1d),KO,128.0,40.6,0.206,26.3,1.34,-9.7,0.651
+Vergleich: grüne Kerze > EMA200 (1d),META,127.0,45.7,0.362,46.0,1.59,-5.9,2.389
+Vergleich: grüne Kerze > EMA200 (1d),MSFT,165.0,41.8,0.287,47.4,1.46,-8.4,1.427
+Vergleich: grüne Kerze > EMA200 (1d),NVDA,168.0,50.0,0.527,88.5,2.01,-6.2,3.995
+Vergleich: grüne Kerze > EMA200 (1d),PFE,96.0,34.4,0.005,0.5,1.01,-11.9,-0.292
+Vergleich: grüne Kerze > EMA200 (1d),QQQ,237.0,43.5,0.292,69.2,1.5,-7.5,0.841
+Vergleich: grüne Kerze > EMA200 (1d),SPY,216.0,43.5,0.277,59.9,1.47,-9.1,0.636
 Vergleich: grüne Kerze > EMA200 (1d),T,134.0,30.6,-0.099,-13.3,0.86,-25.1,-0.459
-Vergleich: grüne Kerze > EMA200 (1d),TSLA,137.0,40.9,0.248,34.0,1.4,-11.5,2.82
-Vergleich: grüne Kerze > EMA200 (1d),VZ,106.0,34.0,-0.02,-2.2,0.97,-16.8,-0.23
-Vergleich: grüne Kerze > EMA200 (1d),WMT,153.0,36.6,0.104,15.8,1.15,-16.5,0.655
-Vergleich: grüne Kerze > EMA200 (1d),XOM,153.0,38.6,0.142,21.8,1.23,-13.2,0.658
-Vergleich: grüne Kerze > EMA200 (1h),AAPL,125.0,41.6,0.206,25.7,1.3,-13.8,0.257
-Vergleich: grüne Kerze > EMA200 (1h),AMD,152.0,37.5,0.085,12.9,1.11,-14.7,0.729
-Vergleich: grüne Kerze > EMA200 (1h),AMZN,126.0,36.5,0.077,9.7,1.11,-10.0,0.184
-Vergleich: grüne Kerze > EMA200 (1h),BA,65.0,32.3,-0.127,-8.2,0.84,-11.5,-0.331
-Vergleich: grüne Kerze > EMA200 (1h),C,110.0,39.1,0.117,12.9,1.17,-10.8,0.584
-Vergleich: grüne Kerze > EMA200 (1h),DIA,152.0,36.2,0.016,2.4,1.02,-18.1,0.073
-Vergleich: grüne Kerze > EMA200 (1h),DIS,109.0,41.3,0.283,30.8,1.41,-13.2,0.145
-Vergleich: grüne Kerze > EMA200 (1h),F,114.0,29.8,-0.284,-32.3,0.69,-36.3,-0.241
-Vergleich: grüne Kerze > EMA200 (1h),GLD,198.0,48.0,0.337,66.8,1.44,-17.9,0.243
-Vergleich: grüne Kerze > EMA200 (1h),GOOGL,149.0,39.6,0.181,26.9,1.25,-13.5,0.432
-Vergleich: grüne Kerze > EMA200 (1h),INTC,94.0,38.3,0.104,9.7,1.13,-14.7,1.175
-Vergleich: grüne Kerze > EMA200 (1h),IWM,133.0,34.6,-0.007,-0.9,0.99,-9.8,0.052
-Vergleich: grüne Kerze > EMA200 (1h),JNJ,126.0,35.7,-0.044,-5.5,0.94,-18.4,0.145
-Vergleich: grüne Kerze > EMA200 (1h),JPM,134.0,42.5,0.203,27.3,1.3,-15.2,0.382
-Vergleich: grüne Kerze > EMA200 (1h),KO,126.0,39.7,0.142,17.9,1.21,-8.0,0.357
-Vergleich: grüne Kerze > EMA200 (1h),META,106.0,35.8,0.084,8.9,1.12,-12.3,0.078
-Vergleich: grüne Kerze > EMA200 (1h),MSFT,150.0,42.0,0.143,21.4,1.19,-21.9,0.339
-Vergleich: grüne Kerze > EMA200 (1h),NVDA,182.0,39.0,0.08,14.5,1.11,-21.5,0.299
-Vergleich: grüne Kerze > EMA200 (1h),PFE,55.0,25.5,-0.295,-16.2,0.61,-17.8,-0.244
-Vergleich: grüne Kerze > EMA200 (1h),QQQ,147.0,43.5,0.277,40.7,1.44,-11.5,0.355
-Vergleich: grüne Kerze > EMA200 (1h),SPY,180.0,40.6,0.105,19.0,1.15,-14.2,0.146
-Vergleich: grüne Kerze > EMA200 (1h),T,109.0,44.0,0.203,22.1,1.3,-10.5,0.471
-Vergleich: grüne Kerze > EMA200 (1h),TSLA,118.0,36.4,0.07,8.2,1.1,-9.9,0.183
-Vergleich: grüne Kerze > EMA200 (1h),VZ,75.0,33.3,-0.112,-8.4,0.86,-11.7,-0.459
-Vergleich: grüne Kerze > EMA200 (1h),WMT,110.0,48.2,0.388,42.7,1.63,-16.5,0.658
-Vergleich: grüne Kerze > EMA200 (1h),XOM,147.0,36.1,0.018,2.6,1.02,-16.7,0.201
-Vergleich: jede MACD-Kreuzung (1d),AAPL,374.0,41.4,-0.173,-64.6,0.87,-101.7,-0.336
-Vergleich: jede MACD-Kreuzung (1d),AMD,382.0,38.7,0.035,13.4,1.03,-78.4,0.212
-Vergleich: jede MACD-Kreuzung (1d),AMZN,372.0,43.8,-0.066,-24.4,0.94,-90.1,-0.357
-Vergleich: jede MACD-Kreuzung (1d),BA,374.0,44.7,0.051,18.9,1.05,-79.4,0.289
-Vergleich: jede MACD-Kreuzung (1d),C,393.0,39.9,-0.155,-60.8,0.87,-104.8,-0.444
-Vergleich: jede MACD-Kreuzung (1d),DIA,370.0,42.7,-0.048,-17.8,0.96,-55.7,0.036
-Vergleich: jede MACD-Kreuzung (1d),DIS,389.0,44.2,-0.035,-13.8,0.97,-48.1,0.045
-Vergleich: jede MACD-Kreuzung (1d),F,362.0,44.5,0.24,87.0,1.25,-43.8,0.671
-Vergleich: jede MACD-Kreuzung (1d),GLD,363.0,43.8,-0.005,-1.9,1.0,-57.3,0.057
-Vergleich: jede MACD-Kreuzung (1d),GOOGL,359.0,39.8,-0.264,-94.6,0.8,-139.9,-0.546
-Vergleich: jede MACD-Kreuzung (1d),INTC,369.0,40.9,-0.07,-25.8,0.94,-90.1,-0.134
-Vergleich: jede MACD-Kreuzung (1d),IWM,376.0,45.2,0.085,31.9,1.09,-36.5,0.205
-Vergleich: jede MACD-Kreuzung (1d),JNJ,389.0,39.6,-0.06,-23.3,0.94,-43.8,-0.202
-Vergleich: jede MACD-Kreuzung (1d),JPM,382.0,43.7,-0.103,-39.3,0.9,-74.6,-0.382
-Vergleich: jede MACD-Kreuzung (1d),KO,382.0,45.0,0.058,22.2,1.06,-62.6,0.091
-Vergleich: jede MACD-Kreuzung (1d),META,243.0,33.7,-0.543,-132.1,0.6,-159.3,-1.232
-Vergleich: jede MACD-Kreuzung (1d),MSFT,385.0,43.6,-0.073,-28.0,0.93,-55.0,-0.256
-Vergleich: jede MACD-Kreuzung (1d),NVDA,370.0,41.1,-0.003,-0.9,1.0,-56.8,-0.141
-Vergleich: jede MACD-Kreuzung (1d),PFE,369.0,45.0,0.045,16.6,1.05,-47.4,-0.046
-Vergleich: jede MACD-Kreuzung (1d),QQQ,388.0,40.2,-0.205,-79.7,0.82,-105.5,-0.157
-Vergleich: jede MACD-Kreuzung (1d),SPY,388.0,40.7,-0.196,-75.9,0.82,-106.9,-0.117
-Vergleich: jede MACD-Kreuzung (1d),T,375.0,39.2,-0.103,-38.7,0.9,-49.3,-0.23
-Vergleich: jede MACD-Kreuzung (1d),TSLA,259.0,42.5,0.329,85.2,1.3,-39.8,1.386
-Vergleich: jede MACD-Kreuzung (1d),VZ,373.0,45.8,0.044,16.2,1.05,-37.3,0.082
-Vergleich: jede MACD-Kreuzung (1d),WMT,374.0,45.5,-0.084,-31.6,0.92,-66.7,-0.138
-Vergleich: jede MACD-Kreuzung (1d),XOM,378.0,39.9,0.001,0.4,1.0,-49.9,-0.188
-Vergleich: nur Bollinger-Kreuz (1d),AAPL,13.0,38.5,-21.27,-276.5,0.1,-214.3,-44.74
-Vergleich: nur Bollinger-Kreuz (1d),AMD,17.0,52.9,-5.617,-95.5,0.47,-130.6,-29.943
-Vergleich: nur Bollinger-Kreuz (1d),AMZN,11.0,45.5,-32.604,-358.6,0.12,-382.4,-91.85
-Vergleich: nur Bollinger-Kreuz (1d),BA,20.0,65.0,-3.771,-75.4,0.55,-101.9,-4.475
-Vergleich: nur Bollinger-Kreuz (1d),C,17.0,58.8,-2.354,-40.0,0.68,-77.5,-6.424
-Vergleich: nur Bollinger-Kreuz (1d),DIA,15.0,46.7,-4.428,-66.4,0.47,-66.2,0.672
-Vergleich: nur Bollinger-Kreuz (1d),DIS,16.0,68.8,-2.53,-40.5,0.64,-93.3,-0.216
-Vergleich: nur Bollinger-Kreuz (1d),F,16.0,50.0,-1.455,-23.3,0.64,-28.4,-6.871
-Vergleich: nur Bollinger-Kreuz (1d),GLD,15.0,66.7,-8.548,-128.2,0.4,-93.7,-11.588
-Vergleich: nur Bollinger-Kreuz (1d),GOOGL,13.0,61.5,-11.127,-144.7,0.27,-168.1,-28.036
-Vergleich: nur Bollinger-Kreuz (1d),INTC,23.0,73.9,2.744,63.1,2.07,-30.6,4.627
-Vergleich: nur Bollinger-Kreuz (1d),IWM,19.0,57.9,-0.156,-3.0,0.97,-41.1,2.46
-Vergleich: nur Bollinger-Kreuz (1d),JNJ,15.0,60.0,-4.213,-63.2,0.36,-71.6,-3.71
-Vergleich: nur Bollinger-Kreuz (1d),JPM,20.0,70.0,-2.688,-53.8,0.57,-79.5,-0.15
-Vergleich: nur Bollinger-Kreuz (1d),KO,19.0,63.2,-1.567,-29.8,0.68,-45.8,-1.074
-Vergleich: nur Bollinger-Kreuz (1d),META,11.0,63.6,-7.591,-83.5,0.36,-69.7,-28.982
-Vergleich: nur Bollinger-Kreuz (1d),MSFT,18.0,61.1,-7.466,-134.4,0.43,-220.7,-14.015
-Vergleich: nur Bollinger-Kreuz (1d),NVDA,13.0,46.2,-62.671,-814.7,0.05,-808.3,-159.697
-Vergleich: nur Bollinger-Kreuz (1d),PFE,16.0,68.8,-0.869,-13.9,0.81,-39.9,-1.234
-Vergleich: nur Bollinger-Kreuz (1d),QQQ,19.0,57.9,-4.907,-93.2,0.45,-104.4,-1.823
-Vergleich: nur Bollinger-Kreuz (1d),SPY,17.0,52.9,-3.125,-53.1,0.58,-56.9,2.756
-Vergleich: nur Bollinger-Kreuz (1d),T,19.0,57.9,-1.293,-24.6,0.72,-40.8,-2.699
-Vergleich: nur Bollinger-Kreuz (1d),TSLA,14.0,71.4,-18.065,-252.9,0.2,-195.5,-77.661
-Vergleich: nur Bollinger-Kreuz (1d),VZ,16.0,68.8,0.525,8.4,1.14,-36.3,1.106
-Vergleich: nur Bollinger-Kreuz (1d),WMT,18.0,72.2,-4.64,-83.5,0.47,-119.8,-2.735
-Vergleich: nur Bollinger-Kreuz (1d),XOM,19.0,63.2,-1.483,-28.2,0.71,-56.2,-6.833
-Vergleich: roter Tag > SMA200 (1d),AAPL,911.0,68.1,0.123,111.8,1.38,-12.0,0.25
-Vergleich: roter Tag > SMA200 (1d),AMD,650.0,64.9,0.119,77.2,1.35,-23.7,0.525
-Vergleich: roter Tag > SMA200 (1d),AMZN,836.0,66.0,0.119,99.7,1.36,-16.3,0.283
+Vergleich: grüne Kerze > EMA200 (1d),TSLA,137.0,40.9,0.252,34.5,1.41,-11.5,2.854
+Vergleich: grüne Kerze > EMA200 (1d),VZ,106.0,34.0,-0.021,-2.2,0.97,-16.8,-0.233
+Vergleich: grüne Kerze > EMA200 (1d),WMT,153.0,37.3,0.106,16.2,1.16,-16.5,0.661
+Vergleich: grüne Kerze > EMA200 (1d),XOM,153.0,39.2,0.146,22.3,1.23,-13.2,0.673
+Vergleich: grüne Kerze > EMA200 (1h),AAPL,126.0,41.3,0.206,25.9,1.31,-13.8,0.268
+Vergleich: grüne Kerze > EMA200 (1h),AMD,151.0,37.7,0.101,15.2,1.14,-14.7,0.77
+Vergleich: grüne Kerze > EMA200 (1h),AMZN,127.0,36.2,0.077,9.8,1.11,-11.0,0.191
+Vergleich: grüne Kerze > EMA200 (1h),BA,63.0,33.3,-0.036,-2.3,0.95,-8.9,-0.206
+Vergleich: grüne Kerze > EMA200 (1h),C,113.0,38.1,0.082,9.3,1.12,-10.8,0.545
+Vergleich: grüne Kerze > EMA200 (1h),DIA,157.0,36.9,0.043,6.8,1.06,-18.1,0.075
+Vergleich: grüne Kerze > EMA200 (1h),DIS,111.0,40.5,0.28,31.1,1.4,-13.2,0.148
+Vergleich: grüne Kerze > EMA200 (1h),F,113.0,30.1,-0.295,-33.3,0.68,-37.1,-0.268
+Vergleich: grüne Kerze > EMA200 (1h),GLD,195.0,48.2,0.37,72.2,1.5,-17.9,0.254
+Vergleich: grüne Kerze > EMA200 (1h),GOOGL,147.0,39.5,0.173,25.4,1.24,-13.5,0.407
+Vergleich: grüne Kerze > EMA200 (1h),INTC,90.0,38.9,0.151,13.6,1.2,-12.0,1.245
+Vergleich: grüne Kerze > EMA200 (1h),IWM,132.0,34.8,0.0,0.0,1.0,-9.8,0.073
+Vergleich: grüne Kerze > EMA200 (1h),JNJ,127.0,36.2,-0.043,-5.5,0.94,-18.4,0.14
+Vergleich: grüne Kerze > EMA200 (1h),JPM,133.0,42.9,0.21,27.9,1.31,-15.2,0.371
+Vergleich: grüne Kerze > EMA200 (1h),KO,131.0,38.2,0.109,14.3,1.16,-8.0,0.323
+Vergleich: grüne Kerze > EMA200 (1h),META,105.0,35.2,0.056,5.9,1.08,-12.3,-0.047
+Vergleich: grüne Kerze > EMA200 (1h),MSFT,152.0,40.1,0.103,15.6,1.14,-21.9,0.308
+Vergleich: grüne Kerze > EMA200 (1h),NVDA,181.0,38.7,0.069,12.5,1.1,-21.5,0.271
+Vergleich: grüne Kerze > EMA200 (1h),PFE,53.0,26.4,-0.249,-13.2,0.67,-15.7,-0.154
+Vergleich: grüne Kerze > EMA200 (1h),QQQ,147.0,43.5,0.274,40.3,1.44,-11.5,0.348
+Vergleich: grüne Kerze > EMA200 (1h),SPY,180.0,40.6,0.105,18.9,1.15,-14.2,0.142
+Vergleich: grüne Kerze > EMA200 (1h),T,108.0,44.4,0.214,23.2,1.32,-10.5,0.49
+Vergleich: grüne Kerze > EMA200 (1h),TSLA,117.0,36.8,0.084,9.8,1.12,-9.9,0.243
+Vergleich: grüne Kerze > EMA200 (1h),VZ,73.0,32.9,-0.164,-12.0,0.8,-11.1,-0.508
+Vergleich: grüne Kerze > EMA200 (1h),WMT,107.0,49.5,0.406,43.4,1.67,-16.5,0.68
+Vergleich: grüne Kerze > EMA200 (1h),XOM,148.0,36.5,0.042,6.1,1.06,-16.7,0.235
+Vergleich: jede MACD-Kreuzung (1d),AAPL,375.0,41.6,-0.167,-62.7,0.87,-101.7,-0.326
+Vergleich: jede MACD-Kreuzung (1d),AMD,382.0,38.7,0.036,13.9,1.03,-78.4,0.217
+Vergleich: jede MACD-Kreuzung (1d),AMZN,372.0,43.8,-0.066,-24.7,0.94,-90.1,-0.359
+Vergleich: jede MACD-Kreuzung (1d),BA,374.0,44.7,0.05,18.6,1.05,-79.4,0.286
+Vergleich: jede MACD-Kreuzung (1d),C,394.0,39.8,-0.153,-60.4,0.87,-104.8,-0.44
+Vergleich: jede MACD-Kreuzung (1d),DIA,370.0,42.7,-0.047,-17.4,0.96,-55.7,0.037
+Vergleich: jede MACD-Kreuzung (1d),DIS,389.0,44.2,-0.033,-12.8,0.97,-48.1,0.049
+Vergleich: jede MACD-Kreuzung (1d),F,362.0,44.2,0.233,84.4,1.24,-43.8,0.652
+Vergleich: jede MACD-Kreuzung (1d),GLD,363.0,43.5,-0.012,-4.4,0.99,-57.3,0.046
+Vergleich: jede MACD-Kreuzung (1d),GOOGL,362.0,39.8,-0.261,-94.6,0.8,-139.9,-0.541
+Vergleich: jede MACD-Kreuzung (1d),INTC,369.0,40.9,-0.068,-25.3,0.94,-90.1,-0.127
+Vergleich: jede MACD-Kreuzung (1d),IWM,377.0,45.1,0.087,32.9,1.1,-36.5,0.207
+Vergleich: jede MACD-Kreuzung (1d),JNJ,390.0,39.7,-0.061,-23.7,0.94,-43.8,-0.203
+Vergleich: jede MACD-Kreuzung (1d),JPM,382.0,43.7,-0.107,-40.8,0.9,-74.6,-0.388
+Vergleich: jede MACD-Kreuzung (1d),KO,382.0,45.0,0.056,21.3,1.06,-62.6,0.087
+Vergleich: jede MACD-Kreuzung (1d),META,243.0,33.7,-0.533,-129.4,0.61,-159.3,-1.194
+Vergleich: jede MACD-Kreuzung (1d),MSFT,386.0,43.3,-0.077,-29.6,0.93,-55.0,-0.264
+Vergleich: jede MACD-Kreuzung (1d),NVDA,370.0,41.1,-0.001,-0.4,1.0,-56.8,-0.137
+Vergleich: jede MACD-Kreuzung (1d),PFE,369.0,45.0,0.047,17.5,1.05,-47.4,-0.041
+Vergleich: jede MACD-Kreuzung (1d),QQQ,388.0,40.2,-0.204,-79.1,0.82,-105.5,-0.155
+Vergleich: jede MACD-Kreuzung (1d),SPY,389.0,40.9,-0.192,-74.6,0.82,-106.4,-0.113
+Vergleich: jede MACD-Kreuzung (1d),T,375.0,39.2,-0.09,-33.9,0.91,-49.3,-0.203
+Vergleich: jede MACD-Kreuzung (1d),TSLA,260.0,43.1,0.334,86.9,1.31,-39.8,1.401
+Vergleich: jede MACD-Kreuzung (1d),VZ,373.0,45.8,0.043,16.1,1.05,-37.3,0.082
+Vergleich: jede MACD-Kreuzung (1d),WMT,374.0,45.5,-0.083,-31.1,0.92,-66.7,-0.136
+Vergleich: jede MACD-Kreuzung (1d),XOM,378.0,39.9,0.004,1.6,1.0,-49.9,-0.181
+Vergleich: nur Bollinger 30 (1d),AAPL,139.0,59.7,-0.841,-116.9,0.58,-123.6,-1.979
+Vergleich: nur Bollinger 30 (1d),AMD,155.0,63.2,-0.682,-105.7,0.64,-106.5,-2.8
+Vergleich: nur Bollinger 30 (1d),AMZN,137.0,62.8,-0.555,-76.1,0.68,-90.4,-1.084
+Vergleich: nur Bollinger 30 (1d),BA,148.0,64.9,-0.31,-45.8,0.79,-79.9,-0.197
+Vergleich: nur Bollinger 30 (1d),C,146.0,63.7,-0.225,-32.8,0.82,-42.1,-0.075
+Vergleich: nur Bollinger 30 (1d),DIA,150.0,68.7,0.402,60.2,1.44,-37.0,0.602
+Vergleich: nur Bollinger 30 (1d),DIS,151.0,57.6,-0.165,-24.9,0.87,-41.8,-0.241
+Vergleich: nur Bollinger 30 (1d),F,139.0,60.4,-0.561,-77.9,0.66,-114.0,-2.251
+Vergleich: nur Bollinger 30 (1d),GLD,137.0,62.8,-0.572,-78.4,0.68,-86.6,-0.266
+Vergleich: nur Bollinger 30 (1d),GOOGL,140.0,58.6,-0.619,-86.7,0.63,-97.5,-1.044
+Vergleich: nur Bollinger 30 (1d),INTC,166.0,69.3,0.32,53.1,1.35,-38.4,1.145
+Vergleich: nur Bollinger 30 (1d),IWM,162.0,69.1,0.424,68.7,1.56,-19.7,0.805
+Vergleich: nur Bollinger 30 (1d),JNJ,160.0,64.4,0.047,7.6,1.04,-32.8,0.199
+Vergleich: nur Bollinger 30 (1d),JPM,160.0,70.0,0.333,53.3,1.36,-18.5,1.252
+Vergleich: nur Bollinger 30 (1d),KO,170.0,69.4,0.511,86.9,1.71,-16.2,0.809
+Vergleich: nur Bollinger 30 (1d),META,97.0,63.9,-0.354,-34.3,0.77,-52.8,-1.024
+Vergleich: nur Bollinger 30 (1d),MSFT,146.0,65.8,0.01,1.5,1.01,-24.7,0.391
+Vergleich: nur Bollinger 30 (1d),NVDA,141.0,58.2,-0.858,-120.9,0.58,-142.8,-2.264
+Vergleich: nur Bollinger 30 (1d),PFE,147.0,61.9,-0.044,-6.4,0.96,-44.6,0.098
+Vergleich: nur Bollinger 30 (1d),QQQ,148.0,66.9,0.091,13.4,1.08,-21.9,0.281
+Vergleich: nur Bollinger 30 (1d),SPY,147.0,72.8,0.461,67.7,1.54,-16.0,0.737
+Vergleich: nur Bollinger 30 (1d),T,152.0,66.4,0.313,47.6,1.34,-21.2,0.486
+Vergleich: nur Bollinger 30 (1d),TSLA,104.0,61.5,-1.272,-132.2,0.47,-147.8,-4.302
+Vergleich: nur Bollinger 30 (1d),VZ,159.0,67.9,0.517,82.1,1.68,-15.5,0.996
+Vergleich: nur Bollinger 30 (1d),WMT,161.0,70.2,0.507,81.7,1.62,-20.1,0.889
+Vergleich: nur Bollinger 30 (1d),XOM,152.0,71.1,0.05,7.6,1.04,-44.7,0.448
+Vergleich: nur Bollinger-Kreuz (1d),AAPL,13.0,38.5,-21.331,-277.3,0.1,-215.1,-44.866
+Vergleich: nur Bollinger-Kreuz (1d),AMD,17.0,52.9,-5.518,-93.8,0.48,-128.9,-29.521
+Vergleich: nur Bollinger-Kreuz (1d),AMZN,11.0,54.5,-32.577,-358.3,0.12,-382.4,-91.777
+Vergleich: nur Bollinger-Kreuz (1d),BA,20.0,65.0,-3.785,-75.7,0.55,-101.9,-4.523
+Vergleich: nur Bollinger-Kreuz (1d),C,17.0,58.8,-2.164,-36.8,0.7,-74.2,-6.0
+Vergleich: nur Bollinger-Kreuz (1d),DIA,15.0,46.7,-4.457,-66.9,0.47,-66.2,0.642
+Vergleich: nur Bollinger-Kreuz (1d),DIS,16.0,68.8,-2.5,-40.0,0.64,-93.3,-0.08
+Vergleich: nur Bollinger-Kreuz (1d),F,16.0,50.0,-1.26,-20.2,0.67,-28.4,-6.414
+Vergleich: nur Bollinger-Kreuz (1d),GLD,15.0,66.7,-8.127,-121.9,0.41,-87.4,-11.019
+Vergleich: nur Bollinger-Kreuz (1d),GOOGL,13.0,61.5,-10.771,-140.0,0.28,-163.5,-27.274
+Vergleich: nur Bollinger-Kreuz (1d),INTC,23.0,73.9,2.814,64.7,2.13,-29.0,4.986
+Vergleich: nur Bollinger-Kreuz (1d),IWM,19.0,57.9,-0.216,-4.1,0.95,-41.1,2.345
+Vergleich: nur Bollinger-Kreuz (1d),JNJ,15.0,60.0,-4.444,-66.7,0.35,-75.1,-4.043
+Vergleich: nur Bollinger-Kreuz (1d),JPM,20.0,70.0,-2.548,-51.0,0.58,-76.7,0.143
+Vergleich: nur Bollinger-Kreuz (1d),KO,19.0,63.2,-1.481,-28.1,0.69,-44.2,-0.974
+Vergleich: nur Bollinger-Kreuz (1d),META,11.0,63.6,-7.375,-81.1,0.37,-69.7,-28.136
+Vergleich: nur Bollinger-Kreuz (1d),MSFT,18.0,66.7,-7.444,-134.0,0.43,-220.7,-13.968
+Vergleich: nur Bollinger-Kreuz (1d),NVDA,13.0,46.2,-62.61,-813.9,0.05,-807.5,-159.537
+Vergleich: nur Bollinger-Kreuz (1d),PFE,16.0,68.8,-0.917,-14.7,0.81,-39.9,-1.335
+Vergleich: nur Bollinger-Kreuz (1d),QQQ,19.0,57.9,-4.866,-92.4,0.46,-103.7,-1.771
+Vergleich: nur Bollinger-Kreuz (1d),SPY,17.0,52.9,-3.104,-52.8,0.59,-56.9,2.784
+Vergleich: nur Bollinger-Kreuz (1d),T,19.0,57.9,-1.604,-30.5,0.68,-40.8,-3.241
+Vergleich: nur Bollinger-Kreuz (1d),TSLA,14.0,71.4,-17.973,-251.6,0.2,-195.5,-77.288
+Vergleich: nur Bollinger-Kreuz (1d),VZ,16.0,68.8,0.533,8.5,1.14,-36.3,1.123
+Vergleich: nur Bollinger-Kreuz (1d),WMT,18.0,72.2,-4.731,-85.2,0.47,-121.4,-2.852
+Vergleich: nur Bollinger-Kreuz (1d),XOM,19.0,63.2,-1.591,-30.2,0.7,-58.3,-7.029
+Vergleich: roter Tag > SMA200 (1d),AAPL,912.0,68.1,0.123,111.9,1.38,-12.0,0.25
+Vergleich: roter Tag > SMA200 (1d),AMD,651.0,65.0,0.121,78.5,1.35,-23.7,0.532
+Vergleich: roter Tag > SMA200 (1d),AMZN,837.0,66.1,0.119,99.6,1.36,-16.3,0.281
 Vergleich: roter Tag > SMA200 (1d),BA,767.0,66.4,0.076,58.3,1.22,-29.7,0.136
 Vergleich: roter Tag > SMA200 (1d),C,671.0,64.4,0.017,11.4,1.05,-16.6,0.023
-Vergleich: roter Tag > SMA200 (1d),DIA,921.0,69.5,0.08,73.8,1.25,-21.5,0.079
-Vergleich: roter Tag > SMA200 (1d),DIS,732.0,64.3,0.075,55.2,1.25,-17.6,0.11
+Vergleich: roter Tag > SMA200 (1d),DIA,922.0,69.4,0.08,73.7,1.25,-21.5,0.079
+Vergleich: roter Tag > SMA200 (1d),DIS,733.0,64.4,0.076,55.7,1.25,-17.6,0.112
 Vergleich: roter Tag > SMA200 (1d),F,497.0,60.4,-0.054,-26.7,0.88,-33.7,-0.107
 Vergleich: roter Tag > SMA200 (1d),GLD,788.0,70.7,0.132,104.1,1.38,-38.2,0.184
-Vergleich: roter Tag > SMA200 (1d),GOOGL,858.0,67.4,0.122,104.6,1.39,-14.6,0.249
-Vergleich: roter Tag > SMA200 (1d),INTC,677.0,66.2,0.032,21.5,1.08,-22.8,0.181
-Vergleich: roter Tag > SMA200 (1d),IWM,802.0,65.7,0.029,22.9,1.08,-26.9,0.042
-Vergleich: roter Tag > SMA200 (1d),JNJ,742.0,65.2,0.035,25.9,1.11,-15.1,0.049
-Vergleich: roter Tag > SMA200 (1d),JPM,807.0,68.6,0.094,75.8,1.3,-20.3,0.242
-Vergleich: roter Tag > SMA200 (1d),KO,797.0,67.1,0.073,57.8,1.24,-19.7,0.103
-Vergleich: roter Tag > SMA200 (1d),META,580.0,70.3,0.204,118.2,1.81,-7.5,0.509
-Vergleich: roter Tag > SMA200 (1d),MSFT,838.0,69.9,0.151,126.2,1.55,-17.4,0.266
-Vergleich: roter Tag > SMA200 (1d),NVDA,853.0,69.4,0.194,165.8,1.67,-14.0,0.622
-Vergleich: roter Tag > SMA200 (1d),PFE,641.0,67.2,0.042,27.0,1.12,-16.6,0.067
-Vergleich: roter Tag > SMA200 (1d),QQQ,917.0,70.1,0.102,93.6,1.34,-14.9,0.139
-Vergleich: roter Tag > SMA200 (1d),SPY,950.0,70.3,0.109,103.9,1.37,-16.0,0.116
+Vergleich: roter Tag > SMA200 (1d),GOOGL,858.0,67.4,0.119,102.2,1.37,-14.6,0.242
+Vergleich: roter Tag > SMA200 (1d),INTC,677.0,66.2,0.033,22.0,1.09,-22.8,0.185
+Vergleich: roter Tag > SMA200 (1d),IWM,802.0,65.7,0.03,24.3,1.09,-26.9,0.045
+Vergleich: roter Tag > SMA200 (1d),JNJ,744.0,65.3,0.038,28.5,1.12,-15.1,0.057
+Vergleich: roter Tag > SMA200 (1d),JPM,808.0,68.7,0.094,76.2,1.3,-20.3,0.243
+Vergleich: roter Tag > SMA200 (1d),KO,799.0,67.2,0.075,59.7,1.25,-19.7,0.106
+Vergleich: roter Tag > SMA200 (1d),META,580.0,70.3,0.199,115.5,1.78,-7.5,0.493
+Vergleich: roter Tag > SMA200 (1d),MSFT,839.0,69.8,0.15,125.8,1.54,-17.4,0.265
+Vergleich: roter Tag > SMA200 (1d),NVDA,854.0,69.3,0.196,167.0,1.68,-14.0,0.625
+Vergleich: roter Tag > SMA200 (1d),PFE,643.0,67.3,0.045,29.2,1.13,-16.6,0.073
+Vergleich: roter Tag > SMA200 (1d),QQQ,918.0,70.0,0.104,95.3,1.35,-14.9,0.141
+Vergleich: roter Tag > SMA200 (1d),SPY,951.0,70.2,0.11,104.3,1.37,-16.0,0.116
 Vergleich: roter Tag > SMA200 (1d),T,583.0,63.8,-0.009,-5.4,0.97,-34.6,0.011
 Vergleich: roter Tag > SMA200 (1d),TSLA,525.0,66.7,0.04,20.9,1.1,-35.1,0.253
 Vergleich: roter Tag > SMA200 (1d),VZ,627.0,67.3,0.027,17.0,1.08,-15.8,0.062
-Vergleich: roter Tag > SMA200 (1d),WMT,788.0,66.2,0.066,52.3,1.21,-24.9,0.102
-Vergleich: roter Tag > SMA200 (1d),XOM,686.0,67.9,0.069,47.6,1.21,-23.9,0.131
-Weinstein Stufe 2 (1w),AAPL,11.0,81.8,2.188,24.1,37.48,-0.7,50.048
-Weinstein Stufe 2 (1w),AMD,8.0,87.5,2.206,17.6,307.89,-0.1,77.956
+Vergleich: roter Tag > SMA200 (1d),WMT,789.0,66.3,0.068,53.3,1.22,-24.9,0.104
+Vergleich: roter Tag > SMA200 (1d),XOM,687.0,67.8,0.069,47.5,1.21,-23.9,0.13
+Weinstein Stufe 2 (1w),AAPL,11.0,81.8,2.195,24.1,37.6,-0.7,50.2
+Weinstein Stufe 2 (1w),AMD,8.0,87.5,2.181,17.4,304.4,-0.1,77.058
 Weinstein Stufe 2 (1w),AMZN,15.0,53.3,0.858,12.9,3.78,-1.5,19.564
 Weinstein Stufe 2 (1w),BA,13.0,38.5,0.944,12.3,3.55,-3.3,9.243
-Weinstein Stufe 2 (1w),C,12.0,33.3,-0.166,-2.0,0.61,-2.9,1.952
-Weinstein Stufe 2 (1w),DIA,11.0,36.4,0.15,1.7,1.29,-2.5,1.043
+Weinstein Stufe 2 (1w),C,12.0,33.3,-0.177,-2.1,0.59,-2.9,1.61
+Weinstein Stufe 2 (1w),DIA,11.0,36.4,0.155,1.7,1.3,-2.5,1.082
 Weinstein Stufe 2 (1w),DIS,11.0,27.3,0.917,10.1,3.39,-3.6,7.907
 Weinstein Stufe 2 (1w),F,8.0,37.5,0.553,4.4,2.37,-1.5,15.611
 Weinstein Stufe 2 (1w),GLD,8.0,62.5,1.501,12.0,8.38,-0.9,20.26
-Weinstein Stufe 2 (1w),GOOGL,15.0,53.3,0.659,9.9,3.23,-2.1,13.36
-Weinstein Stufe 2 (1w),INTC,13.0,38.5,0.247,3.2,1.6,-3.0,10.722
+Weinstein Stufe 2 (1w),GOOGL,15.0,53.3,0.626,9.4,3.12,-2.1,12.694
+Weinstein Stufe 2 (1w),INTC,13.0,38.5,0.226,2.9,1.54,-3.0,9.971
 Weinstein Stufe 2 (1w),IWM,12.0,41.7,0.269,3.2,1.93,-1.5,3.92
-Weinstein Stufe 2 (1w),JNJ,11.0,36.4,0.432,4.8,2.24,-1.9,5.568
-Weinstein Stufe 2 (1w),JPM,13.0,46.2,0.387,5.0,2.34,-1.2,6.216
-Weinstein Stufe 2 (1w),KO,12.0,25.0,0.146,1.8,1.37,-4.2,0.545
+Weinstein Stufe 2 (1w),JNJ,11.0,36.4,0.463,5.1,2.33,-1.9,6.001
+Weinstein Stufe 2 (1w),JPM,13.0,46.2,0.376,4.9,2.26,-1.2,6.038
+Weinstein Stufe 2 (1w),KO,12.0,25.0,0.138,1.7,1.35,-4.2,0.419
 Weinstein Stufe 2 (1w),META,7.0,71.4,1.657,11.6,10.19,-0.8,56.09
 Weinstein Stufe 2 (1w),MSFT,11.0,63.6,0.822,9.0,10.83,-0.6,14.534
-Weinstein Stufe 2 (1w),NVDA,12.0,66.7,4.903,58.8,42.72,-0.8,121.043
-Weinstein Stufe 2 (1w),PFE,10.0,20.0,-0.188,-1.9,0.62,-2.1,-1.564
-Weinstein Stufe 2 (1w),QQQ,14.0,78.6,0.999,14.0,16.71,-0.5,13.132
+Weinstein Stufe 2 (1w),NVDA,12.0,66.7,4.898,58.8,41.21,-0.8,120.925
+Weinstein Stufe 2 (1w),PFE,11.0,27.3,-0.162,-1.8,0.64,-2.1,-1.285
+Weinstein Stufe 2 (1w),QQQ,14.0,78.6,0.994,13.9,16.65,-0.5,13.073
 Weinstein Stufe 2 (1w),T,7.0,85.7,1.426,10.0,16.13,-0.7,13.948
 Weinstein Stufe 2 (1w),TSLA,9.0,33.3,4.841,43.6,17.26,-0.8,142.083
 Weinstein Stufe 2 (1w),VZ,10.0,30.0,-0.003,-0.0,0.99,-2.9,-1.27
 Weinstein Stufe 2 (1w),WMT,12.0,33.3,0.428,5.1,2.14,-3.2,3.606
-Weinstein Stufe 2 (1w),XOM,11.0,45.5,0.285,3.1,1.65,-3.1,8.298
-"Williams %R (1h, base)",EURUSD=X,868.0,61.5,-0.002,-1.8,0.96,-5.5,-0.005
-"Williams %R (1h, base)",GBPUSD=X,854.0,61.8,-0.006,-5.4,0.91,-7.7,-0.012
-"Williams %R (1h, day)",EURUSD=X,655.0,54.8,-0.004,-2.8,0.91,-4.6,-0.01
-"Williams %R (1h, day)",GBPUSD=X,699.0,57.4,-0.006,-3.9,0.91,-5.9,-0.01
-"Williams %R (1h, filter)",EURUSD=X,454.0,63.2,-0.003,-1.5,0.95,-4.7,-0.008
-"Williams %R (1h, filter)",GBPUSD=X,505.0,61.0,-0.004,-2.0,0.94,-4.7,-0.007
-"Williams %R (30m, base)",EURUSD=X,126.0,50.8,-0.023,-2.9,0.44,-3.3,-0.051
-"Williams %R (30m, base)",GBPUSD=X,130.0,60.8,-0.006,-0.7,0.85,-1.9,-0.01
-"Williams %R (30m, filter)",EURUSD=X,74.0,55.4,-0.011,-0.8,0.69,-1.5,-0.025
-"Williams %R (30m, filter)",GBPUSD=X,69.0,65.2,-0.002,-0.2,0.94,-1.3,-0.004
-Wochen-Ausbruch + MACD-Ausstieg (1w),AAPL,36.0,58.3,1.449,52.2,4.8,-2.0,10.247
+Weinstein Stufe 2 (1w),XOM,11.0,45.5,0.307,3.4,1.7,-3.1,8.594
+"Williams %R (1h, base)",EURUSD=X,867.0,61.4,-0.002,-2.1,0.96,-5.5,-0.006
+"Williams %R (1h, base)",GBPUSD=X,853.0,61.8,-0.007,-5.6,0.91,-7.7,-0.012
+"Williams %R (1h, day)",EURUSD=X,658.0,54.6,-0.004,-2.9,0.91,-4.6,-0.01
+"Williams %R (1h, day)",GBPUSD=X,700.0,57.1,-0.006,-4.2,0.9,-6.2,-0.011
+"Williams %R (1h, filter)",EURUSD=X,456.0,63.2,-0.004,-1.6,0.94,-4.7,-0.009
+"Williams %R (1h, filter)",GBPUSD=X,506.0,60.9,-0.004,-2.2,0.94,-4.7,-0.008
+"Williams %R (30m, base)",EURUSD=X,122.0,50.0,-0.024,-3.0,0.41,-3.3,-0.053
+"Williams %R (30m, base)",GBPUSD=X,124.0,58.9,-0.011,-1.4,0.72,-1.9,-0.021
+"Williams %R (30m, filter)",EURUSD=X,73.0,56.2,-0.014,-1.0,0.62,-1.5,-0.031
+"Williams %R (30m, filter)",GBPUSD=X,66.0,60.6,-0.015,-1.0,0.66,-1.4,-0.029
+Wochen-Ausbruch + MACD-Ausstieg (1w),AAPL,36.0,58.3,1.458,52.5,4.82,-2.0,10.291
 Wochen-Ausbruch + MACD-Ausstieg (1w),AMD,10.0,20.0,0.42,4.2,1.54,-5.7,0.874
 Wochen-Ausbruch + MACD-Ausstieg (1w),AMZN,28.0,42.9,1.905,53.3,4.81,-6.3,10.783
 Wochen-Ausbruch + MACD-Ausstieg (1w),BA,26.0,38.5,0.94,24.4,2.62,-4.1,5.12
 Wochen-Ausbruch + MACD-Ausstieg (1w),C,32.0,25.0,0.348,11.1,1.5,-9.0,3.054
 Wochen-Ausbruch + MACD-Ausstieg (1w),DIA,27.0,44.4,0.516,13.9,2.15,-5.8,1.599
-Wochen-Ausbruch + MACD-Ausstieg (1w),DIS,34.0,50.0,0.565,19.2,2.27,-3.2,3.667
+Wochen-Ausbruch + MACD-Ausstieg (1w),DIS,34.0,50.0,0.572,19.5,2.29,-3.2,3.721
 Wochen-Ausbruch + MACD-Ausstieg (1w),F,22.0,13.6,-0.39,-8.6,0.49,-12.6,-1.093
 Wochen-Ausbruch + MACD-Ausstieg (1w),GLD,35.0,45.7,1.08,37.8,3.33,-7.1,3.629
 Wochen-Ausbruch + MACD-Ausstieg (1w),GOOGL,34.0,58.8,1.154,39.3,4.4,-3.0,6.841
@@ -942,15 +1304,15 @@ Wochen-Ausbruch + MACD-Ausstieg (1w),INTC,31.0,25.8,-0.05,-1.6,0.93,-10.2,-1.584
 Wochen-Ausbruch + MACD-Ausstieg (1w),IWM,37.0,43.2,0.123,4.5,1.23,-6.7,0.869
 Wochen-Ausbruch + MACD-Ausstieg (1w),JNJ,39.0,38.5,0.228,8.9,1.43,-9.3,1.229
 Wochen-Ausbruch + MACD-Ausstieg (1w),JPM,37.0,32.4,0.318,11.8,1.55,-8.4,1.09
-Wochen-Ausbruch + MACD-Ausstieg (1w),KO,35.0,34.3,0.103,3.6,1.19,-10.6,0.564
+Wochen-Ausbruch + MACD-Ausstieg (1w),KO,36.0,33.3,0.094,3.4,1.18,-10.6,0.509
 Wochen-Ausbruch + MACD-Ausstieg (1w),META,22.0,22.7,0.924,20.3,2.55,-4.0,4.837
-Wochen-Ausbruch + MACD-Ausstieg (1w),MSFT,36.0,41.7,1.251,45.0,3.43,-3.3,4.122
-Wochen-Ausbruch + MACD-Ausstieg (1w),NVDA,18.0,44.4,1.742,31.3,4.64,-3.5,17.073
-Wochen-Ausbruch + MACD-Ausstieg (1w),PFE,35.0,31.4,0.014,0.5,1.02,-5.9,0.355
+Wochen-Ausbruch + MACD-Ausstieg (1w),MSFT,36.0,41.7,1.236,44.5,3.33,-3.3,4.069
+Wochen-Ausbruch + MACD-Ausstieg (1w),NVDA,18.0,44.4,1.739,31.3,4.62,-3.5,17.041
+Wochen-Ausbruch + MACD-Ausstieg (1w),PFE,35.0,31.4,0.02,0.7,1.03,-5.9,0.403
 Wochen-Ausbruch + MACD-Ausstieg (1w),QQQ,47.0,38.3,0.297,13.9,1.53,-5.2,0.913
 Wochen-Ausbruch + MACD-Ausstieg (1w),SPY,31.0,45.2,0.282,8.7,1.62,-4.0,1.202
 Wochen-Ausbruch + MACD-Ausstieg (1w),T,37.0,21.6,-0.171,-6.3,0.73,-14.0,-0.59
 Wochen-Ausbruch + MACD-Ausstieg (1w),TSLA,8.0,25.0,0.274,2.2,1.37,-2.0,0.816
 Wochen-Ausbruch + MACD-Ausstieg (1w),VZ,40.0,22.5,-0.343,-13.7,0.48,-15.1,-1.671
-Wochen-Ausbruch + MACD-Ausstieg (1w),WMT,37.0,29.7,0.428,15.8,1.68,-8.6,1.314
-Wochen-Ausbruch + MACD-Ausstieg (1w),XOM,33.0,30.3,0.044,1.4,1.08,-6.6,0.691
+Wochen-Ausbruch + MACD-Ausstieg (1w),WMT,37.0,29.7,0.432,16.0,1.69,-8.6,1.34
+Wochen-Ausbruch + MACD-Ausstieg (1w),XOM,33.0,30.3,0.056,1.8,1.1,-6.6,0.773
