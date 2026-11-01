@@ -26,7 +26,8 @@ import pandas as pd
 from . import momentum_filter, robustness
 from .engine import summarize
 from .run_all import RESULTS, VIDEOS
-from .strategies import (golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
+from .strategies import (double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
+                         supertrend_kivanc, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
                          chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
                          ema50_pullback, ema_rsi_engulf, glow_ribbon, moving_momentum, qs5,
                          qs_ibs, squeeze_swing, weekly_breakout, weinstein)
@@ -82,6 +83,22 @@ def jobs_for(U):
         ("QSC r3", lambda: qs_connors6.run(U, "r3")),
         ("QSC rsi5", lambda: qs_connors6.run(U, "rsi5")),
         ("QSC drei_tage", lambda: qs_connors6.run(U, "drei_tage")),
+        ("Ichimoku", lambda: ichimoku_tradepro.run(U)),
+        ("Ichimoku Long", lambda: ichimoku_tradepro.run(U, shorts=False)),
+        ("Vergleich Ichimoku", lambda: ichimoku_tradepro.run(U, baseline=True)),
+        ("Double7", lambda: double7.run(U)),
+        ("QS5T Zeitstopp", lambda: qs_5tage_tief.run(U)),
+        ("Vergleich QS5T", lambda: qs_5tage_tief.run(U, baseline=True)),
+        ("StochPop", lambda: stoch_pop.run(U)),
+        ("StochPop Long", lambda: stoch_pop.run(U, shorts=False)),
+        ("Vergleich StochPop", lambda: stoch_pop.run(U, baseline=True)),
+        ("SuperTrend", lambda: supertrend_kivanc.run(U)),
+        ("SuperTrend Long", lambda: supertrend_kivanc.run(U, shorts=False)),
+        ("Vergleich SuperTrend", lambda: supertrend_kivanc.run(U, baseline=True)),
+        ("Vergleich SuperTrend Long", lambda: supertrend_kivanc.run(U, baseline=True, shorts=False)),
+        ("Serdar", lambda: serdar_ao_stoch.run(U)),
+        ("Serdar Long", lambda: serdar_ao_stoch.run(U, shorts=False)),
+        ("Vergleich Serdar", lambda: serdar_ao_stoch.run(U, baseline=True)),
     ]
 
 
