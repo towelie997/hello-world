@@ -35,3 +35,10 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-10-25 | YouTube | gX8FjjKR7ec | Quantified Strategies – 6 Larry-Connors-Strategien | getestet, PF (26 / 200): %b 1,88 / 1,51, R3 1,64 / 1,43, RSI(5) 1,60 / 1,46, 4v5 1,55 / 1,38, 3 Tage 1,46 / 1,41, Double 5 1,36 / 1,34; alle robust (200), kein Stop |
 | 2026-10-25 | TradingView | 6ZReHYKn | ChartArt – Golden Cross, SMA 200 Long Only | getestet, PF 4,42 / 2,86; Vergleich Kurs-SMA200-Kreuz 2,81 / 2,13; nicht robust, kein Stop |
 | 2026-10-25 | TradingView | Q1O23zJP | tmr0 – 20 years old Turtles strategy | getestet, PF 1,14 / 0,99 (L/S), 1,68 / 1,34 nur Long; nicht robust, kein Stop |
+| 2026-11-01 | YouTube | KE_SAzserLE | Trade Pro – Complete Ichimoku Cloud Trading Strategy | getestet, PF 1,13 / 1,10 (L/S), 1,77 / 1,49 nur Long (26 / 200); Vergleich nur Wolke 0,99 / 0,98; Zufall 2,16; nicht robust |
+| 2026-11-01 | YouTube | 2CwM3u_8daY | StatOasis – Connors Double 7s | getestet, PF 1,49 / 1,38; Vergleich roter Tag 1,26 / 1,20; 3/4 (nur Holm-Untergrenze), kein Stop |
+| 2026-11-01 | YouTube | UkoTdKV65yk | Quantified Strategies – 3 Mean Reversion Strategies | Strategie 3 getestet, PF 1,18 / 1,19; ohne Zeitstopp 1,31 / 1,27; kein Stop. Strategien 1 (XLP) und 2 (FXI short) übersprungen: Regeln nur im Bild |
+| 2026-11-01 | StockCharts ChartSchool | stochastic-pop-and-drop | Arthur Hill – Stochastic Pop and Drop (Bernstein/Steckler) | getestet, PF 0,91 / 0,89 (L/S), 1,34 / 1,26 nur Long; Vergleich ohne ADX/Volumen 1,09 / 0,96; nicht robust |
+| 2026-11-01 | TradingView | P5Gu6F8k | KivancOzbilgic – SuperTrend STRATEGY | getestet, PF 1,06 / 1,00 (L/S), 1,75 / 1,55 nur Long; Vergleich EMA20-Kreuz 1,03 / 0,96 bzw. 1,39 / 1,25; nicht robust, kein Stop |
+| 2026-11-01 | TradingView | RpYoQCVJ | SerdarYILMAZ – Buy&Sell Strategy AO+Stoch+RSI+ATR | getestet, PF 0,86 / 0,99 (L/S), 1,02 / 1,22 nur Long; Vergleich nur Stochastik 0,95 / 1,02; nicht robust |
+| 2026-11-01 | TradingView | HaaV5uwDy4sK8FwmurktIdZGlUlHfjUq | Trebor_Namor – MACD Bull Crossover and RSI Oversold | übersprungen: Pine-Code nicht öffentlich |
