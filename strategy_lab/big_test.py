@@ -26,7 +26,8 @@ import pandas as pd
 from . import momentum_filter, robustness
 from .engine import summarize
 from .run_all import RESULTS, VIDEOS
-from .strategies import (double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
+from .strategies import (bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
+                         double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
                          supertrend_kivanc, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
                          chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
                          ema50_pullback, ema_rsi_engulf, glow_ribbon, moving_momentum, qs5,
@@ -99,6 +100,17 @@ def jobs_for(U):
         ("Serdar", lambda: serdar_ao_stoch.run(U)),
         ("Serdar Long", lambda: serdar_ao_stoch.run(U, shorts=False)),
         ("Vergleich Serdar", lambda: serdar_ao_stoch.run(U, baseline=True)),
+        ("FW Pullback", lambda: fw_pullback.run(U)),
+        ("Vergleich FW Pullback", lambda: fw_pullback.run(U, baseline=True)),
+        ("Fractal", lambda: fractal_breakout.run(U)),
+        ("Vergleich Fractal", lambda: fractal_breakout.run(U, baseline=True)),
+        ("CA MACD Stoch", lambda: chartart_macd_stoch.run(U)),
+        ("CA MACD Stoch Long", lambda: chartart_macd_stoch.run(U, shorts=False)),
+        ("Vergleich CA MACD Stoch", lambda: chartart_macd_stoch.run(U, baseline=True)),
+        ("Vergleich CA MACD Stoch Long", lambda: chartart_macd_stoch.run(U, baseline=True, shorts=False)),
+        ("BB PB MFI", lambda: bollinger_pb_mfi.run(U)),
+        ("BB PB MFI Long", lambda: bollinger_pb_mfi.run(U, shorts=False)),
+        ("Vergleich BB PB MFI", lambda: bollinger_pb_mfi.run(U, baseline=True)),
     ]
 
 

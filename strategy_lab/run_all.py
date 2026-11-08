@@ -13,7 +13,8 @@ from dataclasses import asdict
 import pandas as pd
 
 from .engine import DEFAULT_COST, make_trade, summarize
-from .strategies import (double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
+from .strategies import (bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
+                         double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
                          supertrend_kivanc, dt_stoch_rsi_macd, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
                          chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
                          ema50_pullback, ema_rsi_engulf, fvg_orb, glow_ribbon, moving_momentum,
@@ -112,6 +113,17 @@ VIDEOS = {
     "SerdarYILMAZ AO+Stoch+RSI+ATR (1d)": ("TradingView: SerdarYILMAZ", "https://www.tradingview.com/script/RpYoQCVJ/", "Tageskerzen seit 2005"),
     "SerdarYILMAZ AO+Stoch+RSI+ATR (1d, nur Long)": ("TradingView: SerdarYILMAZ", "https://www.tradingview.com/script/RpYoQCVJ/", "Tageskerzen seit 2005"),
     "Vergleich: nur Stochastik 20/80 + ATR (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Financial Wisdom Pullback (1d)": ("Financial Wisdom", "AKkeB8RJ6jM", "Tageskerzen seit 2005"),
+    "Vergleich: Umkehrtag im Aufwärtstrend (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "ChartArt Fractal Breakout (1d)": ("TradingView: ChartArt", "https://www.tradingview.com/script/EjLwVtgp/", "Tageskerzen seit 2005"),
+    "Vergleich: Fraktal-Ausbruch ohne Trendfilter (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "ChartArt MACD + Stochastik (1d)": ("TradingView: ChartArt", "https://www.tradingview.com/script/G5ro3y87/", "Tageskerzen seit 2005"),
+    "ChartArt MACD + Stochastik (1d, nur Long)": ("TradingView: ChartArt", "https://www.tradingview.com/script/G5ro3y87/", "Tageskerzen seit 2005"),
+    "Vergleich: MACD-Histogramm kreuzt 0 (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Vergleich: MACD-Histogramm kreuzt 0 (1d, nur Long)": ("–", "", "Tageskerzen seit 2005"),
+    "Bollinger %B + MFI (1d)": ("StockCharts ChartSchool (Bollinger)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/percent-b-money-flow", "Tageskerzen seit 2005"),
+    "Bollinger %B + MFI (1d, nur Long)": ("StockCharts ChartSchool (Bollinger)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/percent-b-money-flow", "Tageskerzen seit 2005"),
+    "Vergleich: nur %B 0,8/0,2 + SAR (1d)": ("–", "", "Tageskerzen seit 2005"),
 }
 
 
@@ -210,6 +222,17 @@ def main():
         ("Serdar", lambda: serdar_ao_stoch.run(SWING)),
         ("Serdar Long", lambda: serdar_ao_stoch.run(SWING, shorts=False)),
         ("Vergleich Serdar", lambda: serdar_ao_stoch.run(SWING, baseline=True)),
+        ("FW Pullback", lambda: fw_pullback.run(SWING)),
+        ("Vergleich FW Pullback", lambda: fw_pullback.run(SWING, baseline=True)),
+        ("Fractal", lambda: fractal_breakout.run(SWING)),
+        ("Vergleich Fractal", lambda: fractal_breakout.run(SWING, baseline=True)),
+        ("CA MACD Stoch", lambda: chartart_macd_stoch.run(SWING)),
+        ("CA MACD Stoch Long", lambda: chartart_macd_stoch.run(SWING, shorts=False)),
+        ("Vergleich CA MACD Stoch", lambda: chartart_macd_stoch.run(SWING, baseline=True)),
+        ("Vergleich CA MACD Stoch Long", lambda: chartart_macd_stoch.run(SWING, baseline=True, shorts=False)),
+        ("BB PB MFI", lambda: bollinger_pb_mfi.run(SWING)),
+        ("BB PB MFI Long", lambda: bollinger_pb_mfi.run(SWING, shorts=False)),
+        ("Vergleich BB PB MFI", lambda: bollinger_pb_mfi.run(SWING, baseline=True)),
         ("DataTrader 30m", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "30m", "60d")),
         ("DataTrader 1h", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "1h", "730d")),
         ("Vergleich DT 30m", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "30m", "60d", baseline=True)),
