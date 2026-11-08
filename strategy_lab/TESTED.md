@@ -42,3 +42,11 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-11-01 | TradingView | P5Gu6F8k | KivancOzbilgic – SuperTrend STRATEGY | getestet, PF 1,06 / 1,00 (L/S), 1,75 / 1,55 nur Long; Vergleich EMA20-Kreuz 1,03 / 0,96 bzw. 1,39 / 1,25; nicht robust, kein Stop |
 | 2026-11-01 | TradingView | RpYoQCVJ | SerdarYILMAZ – Buy&Sell Strategy AO+Stoch+RSI+ATR | getestet, PF 0,86 / 0,99 (L/S), 1,02 / 1,22 nur Long; Vergleich nur Stochastik 0,95 / 1,02; nicht robust |
 | 2026-11-01 | TradingView | HaaV5uwDy4sK8FwmurktIdZGlUlHfjUq | Trebor_Namor – MACD Bull Crossover and RSI Oversold | übersprungen: Pine-Code nicht öffentlich |
+| 2026-11-08 | YouTube | AKkeB8RJ6jM | Financial Wisdom – The Only Pullback Strategy You'll Ever Need | getestet, PF 0,89 / 1,26 (26 / 200); Vergleich Umkehrtag im Aufwärtstrend 1,22 / 1,11; nicht robust; Ausstieg (Ziel 4 R) angenommen |
+| 2026-11-08 | YouTube | rf_EQvubKlk | TradingLab – BEST MACD Trading Strategy | offen: Transkript nicht abrufbar (HTTP 429) |
+| 2026-11-08 | YouTube | 9JEmsSItdt4 | TradingLab – The Strategy That Made Him $1.1 Million (Larry Williams) | offen: Transkript nicht abrufbar (HTTP 429) |
+| 2026-11-08 | YouTube | 7JqyrSiQGFI | Quantified Strategies – NR7 Setup on Gold | offen: Transkript nicht abrufbar (HTTP 429) |
+| 2026-11-08 | TradingView | EjLwVtgp | ChartArt – Fractal Breakout Strategy | getestet, PF 1,10 / 1,14; Vergleich ohne Trendfilter 1,29 / 1,23; nicht robust, kein Stop |
+| 2026-11-08 | TradingView | G5ro3y87 | ChartArt – MACD + Stochastic, Double Strategy | getestet, PF 0,04 / 0,15 (L/S), 3,79 / 4,51 nur Long (Haltedauer ~1 Jahr, Zufall 6,02); Vergleich MACD-Histogramm 1,02 / 0,97 bzw. 1,43 / 1,29; nicht robust, kein Stop |
+| 2026-11-08 | StockCharts ChartSchool | percent-b-money-flow | John Bollinger – Percent B Money Flow | getestet, PF 1,00 / 0,93 (L/S), 1,35 / 1,12 nur Long; Vergleich nur %B 1,06 / 0,92; nicht robust |
+| 2026-11-08 | StockCharts ChartSchool | cci-correction | CCI Correction | übersprungen: keine Ausstiegsregel im Artikel |
