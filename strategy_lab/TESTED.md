@@ -50,3 +50,4 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-11-08 | TradingView | G5ro3y87 | ChartArt – MACD + Stochastic, Double Strategy | getestet, PF 0,04 / 0,15 (L/S), 3,79 / 4,51 nur Long (Haltedauer ~1 Jahr, Zufall 6,02); Vergleich MACD-Histogramm 1,02 / 0,97 bzw. 1,43 / 1,29; nicht robust, kein Stop |
 | 2026-11-08 | StockCharts ChartSchool | percent-b-money-flow | John Bollinger – Percent B Money Flow | getestet, PF 1,00 / 0,93 (L/S), 1,35 / 1,12 nur Long; Vergleich nur %B 1,06 / 0,92; nicht robust |
 | 2026-11-08 | StockCharts ChartSchool | cci-correction | CCI Correction | übersprungen: keine Ausstiegsregel im Artikel |
+| 2026-11-09 | GitHub | Jakeschincariol/day-trader-skill | Day Trader Skill (11 Claude-Skills, ORB-Regel) | getestet, PF 0,83 (2 R) / 0,79 (1 R), 5 Min, 60 Tage; Vergleich Kauf 9:45 ohne Ausbruch 0,78 / 0,77; Tages-Setups des Scanners ohne Ausstiegsregel nicht getestet |

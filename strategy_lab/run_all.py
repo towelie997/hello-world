@@ -13,7 +13,7 @@ from dataclasses import asdict
 import pandas as pd
 
 from .engine import DEFAULT_COST, make_trade, summarize
-from .strategies import (bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
+from .strategies import (day_trader_skill, bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
                          double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
                          supertrend_kivanc, dt_stoch_rsi_macd, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
                          chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
@@ -124,6 +124,10 @@ VIDEOS = {
     "Bollinger %B + MFI (1d)": ("StockCharts ChartSchool (Bollinger)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/percent-b-money-flow", "Tageskerzen seit 2005"),
     "Bollinger %B + MFI (1d, nur Long)": ("StockCharts ChartSchool (Bollinger)", "https://chartschool.stockcharts.com/table-of-contents/trading-strategies-and-models/trading-strategies/percent-b-money-flow", "Tageskerzen seit 2005"),
     "Vergleich: nur %B 0,8/0,2 + SAR (1d)": ("–", "", "Tageskerzen seit 2005"),
+    "Day Trader Skill ORB (2R)": ("GitHub: Jakeschincariol (Claude-Skill)", "https://github.com/Jakeschincariol/day-trader-skill", "5 Min, 60 Tage"),
+    "Day Trader Skill ORB (1R)": ("GitHub: Jakeschincariol (Claude-Skill)", "https://github.com/Jakeschincariol/day-trader-skill", "5 Min, 60 Tage"),
+    "Vergleich: Kauf 9:45 ohne Ausbruch (2R)": ("–", "", "5 Min, 60 Tage"),
+    "Vergleich: Kauf 9:45 ohne Ausbruch (1R)": ("–", "", "5 Min, 60 Tage"),
 }
 
 
@@ -233,6 +237,10 @@ def main():
         ("BB PB MFI", lambda: bollinger_pb_mfi.run(SWING)),
         ("BB PB MFI Long", lambda: bollinger_pb_mfi.run(SWING, shorts=False)),
         ("Vergleich BB PB MFI", lambda: bollinger_pb_mfi.run(SWING, baseline=True)),
+        ("DayTraderSkill 2R", lambda: day_trader_skill.run(INTRADAY)),
+        ("DayTraderSkill 1R", lambda: day_trader_skill.run(INTRADAY, rr=1.0)),
+        ("Vergleich DTS 2R", lambda: day_trader_skill.run(INTRADAY, baseline=True)),
+        ("Vergleich DTS 1R", lambda: day_trader_skill.run(INTRADAY, rr=1.0, baseline=True)),
         ("DataTrader 30m", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "30m", "60d")),
         ("DataTrader 1h", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "1h", "730d")),
         ("Vergleich DT 30m", lambda: dt_stoch_rsi_macd.run(FOREX_WIDE, "30m", "60d", baseline=True)),
