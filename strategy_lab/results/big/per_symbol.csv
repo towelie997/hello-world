@@ -1984,6 +1984,600 @@ ChartArt MACD + Stochastik (1d),ZBRA,8.0,50.0,-22.753,-182.0,0.19,-208.9,-55.377
 "ChartArt MACD + Stochastik (1d, nur Long)",XYZ,2.0,50.0,60.482,121.0,23.12,-5.5,459.192
 "ChartArt MACD + Stochastik (1d, nur Long)",ZAL.DE,1.0,100.0,6.239,6.2,inf,0.0,39.518
 "ChartArt MACD + Stochastik (1d, nur Long)",ZBRA,4.0,50.0,3.078,12.3,1.91,-7.3,11.713
+ChartArt Stochastik + RSI (1d),AAPL,17.0,41.2,-16.23,-275.9,0.14,-258.1,-38.995
+ChartArt Stochastik + RSI (1d),ADBE,17.0,35.3,-11.168,-189.9,0.17,-205.7,-23.262
+ChartArt Stochastik + RSI (1d),ADS.DE,21.0,47.6,-6.948,-145.9,0.33,-183.5,-17.359
+ChartArt Stochastik + RSI (1d),AEE,17.0,64.7,-1.892,-32.2,0.64,-46.2,-3.706
+ChartArt Stochastik + RSI (1d),AFL,17.0,35.3,-5.286,-89.9,0.34,-66.3,-13.046
+ChartArt Stochastik + RSI (1d),AIR.DE,21.0,57.1,-3.092,-64.9,0.48,-80.5,-5.704
+ChartArt Stochastik + RSI (1d),AKAM,18.0,50.0,-3.758,-67.7,0.41,-57.4,-12.538
+ChartArt Stochastik + RSI (1d),ALGN,20.0,55.0,-5.457,-109.1,0.47,-146.6,-13.757
+ChartArt Stochastik + RSI (1d),ALV.DE,24.0,66.7,-0.269,-6.5,0.94,-40.7,0.973
+ChartArt Stochastik + RSI (1d),AMD,24.0,54.2,-3.103,-74.5,0.59,-111.6,-4.642
+ChartArt Stochastik + RSI (1d),AME,20.0,65.0,2.271,45.4,1.54,-38.9,7.954
+ChartArt Stochastik + RSI (1d),AMGN,28.0,82.1,4.081,114.3,2.94,-24.7,8.586
+ChartArt Stochastik + RSI (1d),AMP,20.0,65.0,-2.324,-46.5,0.6,-64.2,-7.892
+ChartArt Stochastik + RSI (1d),ANET,11.0,72.7,-14.786,-162.6,0.26,-175.3,-26.564
+ChartArt Stochastik + RSI (1d),APO,18.0,66.7,-1.668,-30.0,0.72,-58.7,4.522
+ChartArt Stochastik + RSI (1d),ATO,24.0,62.5,-1.906,-45.7,0.63,-82.6,-0.448
+ChartArt Stochastik + RSI (1d),AVY,15.0,40.0,-7.432,-111.5,0.2,-130.5,-12.85
+ChartArt Stochastik + RSI (1d),AWK,11.0,63.6,-12.088,-133.0,0.14,-84.9,-22.7
+ChartArt Stochastik + RSI (1d),AXON,22.0,72.7,1.479,32.5,1.26,-90.6,16.372
+ChartArt Stochastik + RSI (1d),AZO,17.0,52.9,-3.865,-65.7,0.6,-105.3,-10.784
+ChartArt Stochastik + RSI (1d),BAC,28.0,64.3,-2.134,-59.8,0.63,-89.8,-2.203
+ChartArt Stochastik + RSI (1d),BAS.DE,27.0,70.4,0.258,7.0,1.08,-39.7,1.322
+ChartArt Stochastik + RSI (1d),BAYN.DE,20.0,45.0,-2.634,-52.7,0.57,-77.5,-3.212
+ChartArt Stochastik + RSI (1d),BE,8.0,50.0,-24.53,-196.2,0.14,-211.7,-80.524
+ChartArt Stochastik + RSI (1d),BEI.DE,11.0,45.5,-7.738,-85.1,0.3,-92.4,-20.549
+ChartArt Stochastik + RSI (1d),BF-B,23.0,52.2,-0.33,-7.6,0.93,-37.9,-1.081
+ChartArt Stochastik + RSI (1d),BIIB,16.0,56.2,-4.864,-77.8,0.44,-114.6,-16.915
+ChartArt Stochastik + RSI (1d),BLK,26.0,61.5,-0.147,-3.8,0.97,-88.2,2.874
+ChartArt Stochastik + RSI (1d),BMW.DE,22.0,68.2,-0.362,-8.0,0.91,-39.9,-1.862
+ChartArt Stochastik + RSI (1d),BNR.DE,11.0,45.5,-5.309,-58.4,0.31,-49.2,-11.304
+ChartArt Stochastik + RSI (1d),BNY,20.0,55.0,-6.16,-123.2,0.27,-134.7,-11.491
+ChartArt Stochastik + RSI (1d),BRO,21.0,57.1,-3.88,-81.5,0.4,-88.9,-4.575
+ChartArt Stochastik + RSI (1d),C,22.0,59.1,0.45,9.9,1.09,-44.9,3.227
+ChartArt Stochastik + RSI (1d),CBK.DE,21.0,52.4,-6.226,-130.7,0.34,-105.5,-17.455
+ChartArt Stochastik + RSI (1d),CCL,21.0,76.2,0.902,18.9,1.32,-40.3,3.549
+ChartArt Stochastik + RSI (1d),CEG,3.0,33.3,21.565,64.7,6.89,-0.6,59.134
+ChartArt Stochastik + RSI (1d),CF,16.0,62.5,-4.384,-70.1,0.59,-78.4,-9.441
+ChartArt Stochastik + RSI (1d),CFG,11.0,54.5,-4.495,-49.4,0.35,-62.5,-12.993
+ChartArt Stochastik + RSI (1d),CHD,17.0,52.9,-2.06,-35.0,0.71,-21.8,-2.062
+ChartArt Stochastik + RSI (1d),CINF,21.0,57.1,-2.552,-53.6,0.55,-57.2,-4.548
+ChartArt Stochastik + RSI (1d),CMI,26.0,46.2,-4.103,-106.7,0.4,-110.2,-11.943
+ChartArt Stochastik + RSI (1d),CNC,23.0,56.5,-0.238,-5.5,0.94,-65.2,1.838
+ChartArt Stochastik + RSI (1d),COF,26.0,69.2,1.708,44.4,1.56,-33.2,1.447
+ChartArt Stochastik + RSI (1d),CON.DE,28.0,60.7,1.961,54.9,1.81,-29.5,7.355
+ChartArt Stochastik + RSI (1d),COST,13.0,61.5,-12.933,-168.1,0.2,-181.0,-16.723
+ChartArt Stochastik + RSI (1d),CPAY,15.0,60.0,-5.765,-86.5,0.43,-119.9,-9.358
+ChartArt Stochastik + RSI (1d),CSX,32.0,75.0,1.039,33.2,1.35,-31.4,3.831
+ChartArt Stochastik + RSI (1d),CTSH,21.0,61.9,-2.683,-56.3,0.55,-82.5,-8.809
+ChartArt Stochastik + RSI (1d),CVS,16.0,56.2,-2.905,-46.5,0.61,-72.0,-3.198
+ChartArt Stochastik + RSI (1d),DASH,5.0,40.0,-5.273,-26.4,0.35,-40.4,-42.68
+ChartArt Stochastik + RSI (1d),DB1.DE,19.0,68.4,-2.239,-42.5,0.66,-54.2,0.21
+ChartArt Stochastik + RSI (1d),DBK.DE,22.0,63.6,-2.137,-47.0,0.65,-76.8,-4.386
+ChartArt Stochastik + RSI (1d),DD,23.0,73.9,-0.134,-3.1,0.96,-53.2,-1.035
+ChartArt Stochastik + RSI (1d),DDOG,8.0,62.5,5.681,45.4,3.98,-12.2,43.052
+ChartArt Stochastik + RSI (1d),DELL,12.0,50.0,-7.452,-89.4,0.28,-80.7,-18.163
+ChartArt Stochastik + RSI (1d),DGX,16.0,75.0,4.199,67.2,2.21,-51.5,9.883
+ChartArt Stochastik + RSI (1d),DHL.DE,25.0,68.0,1.311,32.8,1.36,-51.6,3.217
+ChartArt Stochastik + RSI (1d),DHR,21.0,52.4,0.732,15.4,1.21,-24.8,0.613
+ChartArt Stochastik + RSI (1d),DLTR,20.0,65.0,-3.398,-68.0,0.57,-109.7,-9.102
+ChartArt Stochastik + RSI (1d),DPZ,18.0,50.0,-9.194,-165.5,0.23,-166.9,-21.422
+ChartArt Stochastik + RSI (1d),DTE.DE,24.0,75.0,3.988,95.7,3.26,-30.2,6.658
+ChartArt Stochastik + RSI (1d),DTG.DE,10.0,80.0,3.54,35.4,13.45,-1.4,9.721
+ChartArt Stochastik + RSI (1d),DVA,25.0,72.0,2.264,56.6,1.65,-41.7,9.049
+ChartArt Stochastik + RSI (1d),DVN,19.0,47.4,-1.201,-22.8,0.66,-41.2,-7.566
+ChartArt Stochastik + RSI (1d),ED,23.0,65.2,0.607,14.0,1.26,-23.9,1.805
+ChartArt Stochastik + RSI (1d),EL,24.0,58.3,-2.957,-71.0,0.6,-94.4,-6.368
+ChartArt Stochastik + RSI (1d),ELV,25.0,72.0,-2.618,-65.5,0.61,-135.0,-3.05
+ChartArt Stochastik + RSI (1d),EMR,21.0,42.9,-2.264,-47.5,0.57,-49.8,-5.604
+ChartArt Stochastik + RSI (1d),ENR.DE,4.0,50.0,-53.178,-212.7,0.05,-217.5,-208.454
+ChartArt Stochastik + RSI (1d),EOAN.DE,26.0,76.9,0.306,7.9,1.07,-14.4,2.871
+ChartArt Stochastik + RSI (1d),EQIX,25.0,60.0,3.226,80.6,2.33,-15.6,8.405
+ChartArt Stochastik + RSI (1d),EQT,24.0,58.3,-0.731,-17.6,0.82,-31.2,-1.035
+ChartArt Stochastik + RSI (1d),EW,19.0,57.9,-3.609,-68.6,0.57,-129.1,-7.827
+ChartArt Stochastik + RSI (1d),EXC,23.0,52.2,-0.979,-22.5,0.72,-32.8,-2.258
+ChartArt Stochastik + RSI (1d),FICO,17.0,64.7,-6.008,-102.1,0.56,-183.3,-12.418
+ChartArt Stochastik + RSI (1d),FISV,16.0,56.2,-6.398,-102.4,0.41,-130.5,-6.591
+ChartArt Stochastik + RSI (1d),FITB,23.0,52.2,-1.015,-23.3,0.79,-57.0,-1.721
+ChartArt Stochastik + RSI (1d),FIX,21.0,66.7,-9.496,-199.4,0.26,-199.9,-26.192
+ChartArt Stochastik + RSI (1d),FME.DE,19.0,57.9,0.957,18.2,1.26,-16.7,5.252
+ChartArt Stochastik + RSI (1d),FOXA,7.0,57.1,0.839,5.9,1.18,-30.5,11.982
+ChartArt Stochastik + RSI (1d),FRE.DE,22.0,59.1,0.302,6.6,1.05,-57.0,4.701
+ChartArt Stochastik + RSI (1d),FTV,11.0,45.5,-0.802,-8.8,0.68,-6.6,-0.735
+ChartArt Stochastik + RSI (1d),G1A.DE,27.0,66.7,1.898,51.2,1.59,-36.6,5.265
+ChartArt Stochastik + RSI (1d),G24.DE,7.0,71.4,-3.196,-22.4,0.61,-55.1,-0.63
+ChartArt Stochastik + RSI (1d),GD,21.0,61.9,-1.655,-34.7,0.73,-106.7,-1.544
+ChartArt Stochastik + RSI (1d),GL,14.0,42.9,-6.085,-85.2,0.31,-83.4,-8.885
+ChartArt Stochastik + RSI (1d),GOOG,25.0,64.0,-0.748,-18.7,0.87,-75.6,-0.259
+ChartArt Stochastik + RSI (1d),GOOGL,24.0,62.5,-1.525,-36.6,0.75,-74.2,-2.123
+ChartArt Stochastik + RSI (1d),HEI.DE,22.0,59.1,-0.432,-9.5,0.88,-24.1,-2.037
+ChartArt Stochastik + RSI (1d),HEN3.DE,21.0,61.9,-0.65,-13.7,0.86,-71.9,-5.15
+ChartArt Stochastik + RSI (1d),HNR1.DE,17.0,70.6,2.105,35.8,1.55,-44.0,7.758
+ChartArt Stochastik + RSI (1d),HPE,16.0,68.8,0.912,14.6,1.38,-17.2,3.646
+ChartArt Stochastik + RSI (1d),IBKR,18.0,61.1,-3.787,-68.2,0.49,-90.7,-2.93
+ChartArt Stochastik + RSI (1d),IBM,24.0,70.8,-0.353,-8.5,0.91,-49.0,0.642
+ChartArt Stochastik + RSI (1d),ICE,30.0,56.7,2.788,83.6,2.12,-12.0,2.041
+ChartArt Stochastik + RSI (1d),IEX,19.0,52.6,-3.155,-59.9,0.42,-58.1,-4.133
+ChartArt Stochastik + RSI (1d),IFF,24.0,66.7,0.92,22.1,1.3,-47.8,0.99
+ChartArt Stochastik + RSI (1d),IFX.DE,17.0,41.2,-4.947,-84.1,0.37,-110.8,-18.174
+ChartArt Stochastik + RSI (1d),IR,12.0,58.3,-1.603,-19.2,0.58,-35.1,-4.208
+ChartArt Stochastik + RSI (1d),IRM,31.0,58.1,-0.611,-18.9,0.87,-98.6,0.966
+ChartArt Stochastik + RSI (1d),ITW,20.0,65.0,0.805,16.1,1.22,-44.4,2.241
+ChartArt Stochastik + RSI (1d),JBHT,14.0,71.4,1.15,16.1,1.28,-35.3,7.211
+ChartArt Stochastik + RSI (1d),JNJ,33.0,81.8,2.295,75.7,2.04,-28.6,4.274
+ChartArt Stochastik + RSI (1d),JPM,28.0,64.3,1.299,36.4,1.46,-36.5,3.663
+ChartArt Stochastik + RSI (1d),KEYS,11.0,54.5,-7.029,-77.3,0.39,-85.2,-15.231
+ChartArt Stochastik + RSI (1d),KLAC,21.0,57.1,-4.316,-90.6,0.43,-98.2,-11.914
+ChartArt Stochastik + RSI (1d),KMI,15.0,73.3,-1.161,-17.4,0.79,-58.2,-0.238
+ChartArt Stochastik + RSI (1d),KO,13.0,76.9,-1.96,-25.5,0.72,-59.3,-2.749
+ChartArt Stochastik + RSI (1d),LEN,22.0,59.1,0.606,13.3,1.2,-23.3,0.639
+ChartArt Stochastik + RSI (1d),LIN,18.0,55.6,-6.187,-111.4,0.35,-136.5,-5.999
+ChartArt Stochastik + RSI (1d),LNT,30.0,56.7,0.219,6.6,1.07,-35.4,-0.452
+ChartArt Stochastik + RSI (1d),LYV,18.0,38.9,-4.478,-80.6,0.44,-124.5,-15.325
+ChartArt Stochastik + RSI (1d),MAA,23.0,56.5,-0.9,-20.7,0.76,-36.2,-0.3
+ChartArt Stochastik + RSI (1d),MAR,22.0,72.7,0.739,16.3,1.14,-63.5,5.485
+ChartArt Stochastik + RSI (1d),MBG.DE,19.0,52.6,-3.548,-67.4,0.48,-95.0,-11.839
+ChartArt Stochastik + RSI (1d),MCD,22.0,63.6,0.643,14.2,1.15,-51.4,0.452
+ChartArt Stochastik + RSI (1d),MDLZ,15.0,66.7,3.912,58.7,3.16,-18.3,7.645
+ChartArt Stochastik + RSI (1d),MDT,28.0,67.9,3.201,89.6,3.1,-21.6,6.462
+ChartArt Stochastik + RSI (1d),MGM,26.0,69.2,0.757,19.7,1.23,-22.9,4.57
+ChartArt Stochastik + RSI (1d),MMM,25.0,64.0,0.165,4.1,1.04,-44.0,0.26
+ChartArt Stochastik + RSI (1d),MO,17.0,58.8,-2.316,-39.4,0.72,-96.3,-2.848
+ChartArt Stochastik + RSI (1d),MOS,22.0,50.0,-1.911,-42.0,0.54,-68.8,-8.251
+ChartArt Stochastik + RSI (1d),MPWR,17.0,47.1,-7.631,-129.7,0.31,-123.1,-20.146
+ChartArt Stochastik + RSI (1d),MRK.DE,28.0,53.6,-0.559,-15.7,0.87,-49.4,0.638
+ChartArt Stochastik + RSI (1d),MRVL,23.0,65.2,1.917,44.1,1.51,-24.7,13.147
+ChartArt Stochastik + RSI (1d),MSCI,21.0,61.9,-2.439,-51.2,0.66,-99.5,-3.12
+ChartArt Stochastik + RSI (1d),MTB,22.0,59.1,-0.941,-20.7,0.71,-35.2,-1.613
+ChartArt Stochastik + RSI (1d),MTD,22.0,54.5,-1.294,-28.5,0.78,-66.0,0.45
+ChartArt Stochastik + RSI (1d),MTX.DE,15.0,46.7,-9.005,-135.1,0.17,-107.2,-28.26
+ChartArt Stochastik + RSI (1d),MUV2.DE,25.0,68.0,-0.783,-19.6,0.83,-79.0,-1.297
+ChartArt Stochastik + RSI (1d),NKE,21.0,61.9,-2.594,-54.5,0.65,-80.6,-5.741
+ChartArt Stochastik + RSI (1d),NUE,22.0,63.6,-0.35,-7.7,0.91,-51.2,-0.384
+ChartArt Stochastik + RSI (1d),NVDA,17.0,52.9,-102.447,-1741.6,0.02,-1752.5,-288.46
+ChartArt Stochastik + RSI (1d),NWS,11.0,72.7,0.15,1.7,1.04,-33.6,1.243
+ChartArt Stochastik + RSI (1d),NWSA,13.0,53.8,-0.251,-3.3,0.93,-36.1,-0.976
+ChartArt Stochastik + RSI (1d),O,16.0,68.8,0.444,7.1,1.14,-26.8,2.119
+ChartArt Stochastik + RSI (1d),OXY,21.0,47.6,-1.112,-23.4,0.7,-48.9,-1.839
+ChartArt Stochastik + RSI (1d),P,11.0,54.5,-3.972,-43.7,0.49,-58.3,-7.625
+ChartArt Stochastik + RSI (1d),PAH3.DE,10.0,50.0,-1.467,-14.7,0.66,-20.9,-5.323
+ChartArt Stochastik + RSI (1d),PCAR,24.0,66.7,0.535,12.8,1.19,-39.4,3.421
+ChartArt Stochastik + RSI (1d),PCG,24.0,41.7,-1.98,-47.5,0.54,-37.7,1.776
+ChartArt Stochastik + RSI (1d),PFE,24.0,62.5,2.274,54.6,1.97,-17.0,4.559
+ChartArt Stochastik + RSI (1d),PH,16.0,50.0,-4.512,-72.2,0.52,-86.9,-12.76
+ChartArt Stochastik + RSI (1d),PLD,22.0,77.3,2.623,57.7,2.57,-26.8,8.038
+ChartArt Stochastik + RSI (1d),PODD,23.0,69.6,-0.663,-15.2,0.86,-77.6,3.648
+ChartArt Stochastik + RSI (1d),PPG,25.0,60.0,-0.853,-21.3,0.78,-76.3,-5.841
+ChartArt Stochastik + RSI (1d),PSA,18.0,66.7,0.306,5.5,1.06,-20.5,3.663
+ChartArt Stochastik + RSI (1d),PSX,13.0,53.8,-3.976,-51.7,0.46,-64.1,-8.013
+ChartArt Stochastik + RSI (1d),QCOM,19.0,57.9,-0.432,-8.2,0.87,-43.3,0.208
+ChartArt Stochastik + RSI (1d),QIA.DE,21.0,42.9,-2.177,-45.7,0.52,-42.6,-4.43
+ChartArt Stochastik + RSI (1d),REG,20.0,55.0,-0.891,-17.8,0.74,-29.4,1.54
+ChartArt Stochastik + RSI (1d),REGN,26.0,57.7,-6.147,-159.8,0.46,-212.1,-23.252
+ChartArt Stochastik + RSI (1d),RHM.DE,19.0,68.4,-8.475,-161.0,0.37,-223.3,-12.786
+ChartArt Stochastik + RSI (1d),RL,21.0,66.7,-0.975,-20.5,0.82,-49.0,1.33
+ChartArt Stochastik + RSI (1d),ROL,18.0,72.2,0.247,4.4,1.04,-41.2,1.573
+ChartArt Stochastik + RSI (1d),ROST,20.0,70.0,0.364,7.3,1.06,-59.3,-1.184
+ChartArt Stochastik + RSI (1d),RWE.DE,19.0,42.1,-4.306,-81.8,0.38,-84.8,-7.496
+ChartArt Stochastik + RSI (1d),SAP.DE,18.0,66.7,1.46,26.3,1.37,-38.3,3.526
+ChartArt Stochastik + RSI (1d),SBAC,12.0,50.0,-20.328,-243.9,0.22,-258.1,-38.243
+ChartArt Stochastik + RSI (1d),SHL.DE,9.0,55.6,-1.384,-12.5,0.69,-23.7,-2.618
+ChartArt Stochastik + RSI (1d),SHW,15.0,60.0,-7.172,-107.6,0.37,-124.0,-10.638
+ChartArt Stochastik + RSI (1d),SIE.DE,21.0,57.1,0.782,16.4,1.23,-30.8,3.284
+ChartArt Stochastik + RSI (1d),SLB,25.0,56.0,0.125,3.1,1.03,-16.8,1.889
+ChartArt Stochastik + RSI (1d),SNA,19.0,57.9,-3.302,-62.7,0.6,-132.5,-8.172
+ChartArt Stochastik + RSI (1d),SO,19.0,73.7,1.654,31.4,1.55,-26.0,2.223
+ChartArt Stochastik + RSI (1d),STE,18.0,66.7,-0.207,-3.7,0.96,-40.2,3.692
+ChartArt Stochastik + RSI (1d),SY1.DE,21.0,61.9,-2.8,-58.8,0.55,-96.7,-6.487
+ChartArt Stochastik + RSI (1d),SYK,22.0,68.2,-3.431,-75.5,0.54,-129.1,-1.483
+ChartArt Stochastik + RSI (1d),T,21.0,47.6,-2.535,-53.2,0.53,-68.7,-4.581
+ChartArt Stochastik + RSI (1d),TEL,18.0,55.6,-5.986,-107.7,0.31,-96.6,-11.902
+ChartArt Stochastik + RSI (1d),TER,23.0,65.2,2.075,47.7,1.72,-29.9,3.599
+ChartArt Stochastik + RSI (1d),TFC,24.0,62.5,2.596,62.3,2.63,-15.7,5.352
+ChartArt Stochastik + RSI (1d),TGT,15.0,46.7,1.619,24.3,1.47,-17.6,3.557
+ChartArt Stochastik + RSI (1d),TJX,24.0,66.7,-2.49,-59.8,0.62,-74.8,-8.23
+ChartArt Stochastik + RSI (1d),TPR,15.0,53.3,-9.098,-136.5,0.26,-152.6,-29.658
+ChartArt Stochastik + RSI (1d),TRMB,21.0,38.1,-2.754,-57.8,0.53,-78.5,-6.789
+ChartArt Stochastik + RSI (1d),TRV,21.0,61.9,-3.369,-70.7,0.41,-75.4,-5.469
+ChartArt Stochastik + RSI (1d),TSCO,14.0,42.9,-16.538,-231.5,0.16,-247.0,-34.158
+ChartArt Stochastik + RSI (1d),TSLA,18.0,66.7,1.204,21.7,1.16,-54.7,11.679
+ChartArt Stochastik + RSI (1d),TSN,26.0,69.2,-0.745,-19.4,0.83,-82.8,-1.965
+ChartArt Stochastik + RSI (1d),TWLO,17.0,58.8,-7.516,-127.8,0.32,-144.2,-23.282
+ChartArt Stochastik + RSI (1d),TXT,18.0,72.2,3.189,57.4,1.64,-60.5,23.093
+ChartArt Stochastik + RSI (1d),UAL,24.0,50.0,-1.08,-25.9,0.74,-60.0,-4.746
+ChartArt Stochastik + RSI (1d),UBER,9.0,77.8,2.824,25.4,2.49,-15.0,23.362
+ChartArt Stochastik + RSI (1d),UHS,28.0,60.7,0.501,14.0,1.15,-51.7,3.277
+ChartArt Stochastik + RSI (1d),UNP,15.0,53.3,-1.742,-26.1,0.68,-49.0,1.541
+ChartArt Stochastik + RSI (1d),URI,24.0,58.3,-5.835,-140.0,0.33,-148.0,-23.116
+ChartArt Stochastik + RSI (1d),V,10.0,50.0,-15.521,-155.2,0.2,-163.1,-22.726
+ChartArt Stochastik + RSI (1d),VNA.DE,10.0,60.0,-4.212,-42.1,0.5,-16.7,-6.491
+ChartArt Stochastik + RSI (1d),VOW3.DE,22.0,36.4,-9.919,-218.2,0.15,-74.2,-19.834
+ChartArt Stochastik + RSI (1d),VRSK,15.0,60.0,-2.762,-41.4,0.52,-28.0,-5.943
+ChartArt Stochastik + RSI (1d),VRT,2.0,0.0,-174.699,-349.4,0.0,-1.6,-678.633
+ChartArt Stochastik + RSI (1d),VST,8.0,62.5,-12.489,-99.9,0.28,-132.0,-22.183
+ChartArt Stochastik + RSI (1d),WY,25.0,72.0,2.165,54.1,1.96,-14.9,5.593
+ChartArt Stochastik + RSI (1d),XOM,21.0,66.7,0.92,19.3,1.36,-29.3,2.135
+ChartArt Stochastik + RSI (1d),XYZ,12.0,66.7,-8.255,-99.1,0.34,-142.9,-11.985
+ChartArt Stochastik + RSI (1d),ZAL.DE,13.0,46.2,2.462,32.0,1.81,-18.6,12.309
+ChartArt Stochastik + RSI (1d),ZBRA,27.0,59.3,-1.891,-51.1,0.64,-60.3,-2.723
+"ChartArt Stochastik + RSI (1d, nur Long)",AAPL,8.0,87.5,5.557,44.5,7289.1,-0.0,12.834
+"ChartArt Stochastik + RSI (1d, nur Long)",ADBE,9.0,44.4,0.263,2.4,1.08,-24.0,0.136
+"ChartArt Stochastik + RSI (1d, nur Long)",ADS.DE,10.0,70.0,0.535,5.4,1.21,-18.7,1.159
+"ChartArt Stochastik + RSI (1d, nur Long)",AEE,8.0,87.5,2.232,17.9,1.72,0.0,3.239
+"ChartArt Stochastik + RSI (1d, nur Long)",AFL,8.0,62.5,1.291,10.3,1.29,-13.8,1.55
+"ChartArt Stochastik + RSI (1d, nur Long)",AIR.DE,10.0,90.0,2.632,26.3,2.19,0.0,9.173
+"ChartArt Stochastik + RSI (1d, nur Long)",AKAM,9.0,55.6,0.515,4.6,1.17,-5.5,2.687
+"ChartArt Stochastik + RSI (1d, nur Long)",ALGN,10.0,60.0,4.035,40.4,2.27,-22.6,22.453
+"ChartArt Stochastik + RSI (1d, nur Long)",ALV.DE,12.0,91.7,4.372,52.5,4.59,-14.6,9.549
+"ChartArt Stochastik + RSI (1d, nur Long)",AMD,12.0,58.3,4.257,51.1,2.76,-26.1,35.332
+"ChartArt Stochastik + RSI (1d, nur Long)",AME,10.0,100.0,8.168,81.7,inf,0.0,26.813
+"ChartArt Stochastik + RSI (1d, nur Long)",AMGN,14.0,100.0,8.098,113.4,inf,0.0,17.677
+"ChartArt Stochastik + RSI (1d, nur Long)",AMP,10.0,90.0,2.961,29.6,8.71,-3.8,13.145
+"ChartArt Stochastik + RSI (1d, nur Long)",ANET,5.0,100.0,7.329,36.6,inf,0.0,32.648
+"ChartArt Stochastik + RSI (1d, nur Long)",APO,9.0,66.7,4.571,41.1,4.09,-10.6,23.744
+"ChartArt Stochastik + RSI (1d, nur Long)",ATO,12.0,83.3,4.643,55.7,10.52,-4.3,8.997
+"ChartArt Stochastik + RSI (1d, nur Long)",AVY,7.0,57.1,-2.34,-16.4,0.51,-1.1,-1.271
+"ChartArt Stochastik + RSI (1d, nur Long)",AWK,5.0,80.0,3.054,15.3,38.5,-0.4,6.383
+"ChartArt Stochastik + RSI (1d, nur Long)",AXON,11.0,90.9,9.919,109.1,12.82,-9.2,52.011
+"ChartArt Stochastik + RSI (1d, nur Long)",AZO,8.0,87.5,9.979,79.8,6.73,-13.9,17.408
+"ChartArt Stochastik + RSI (1d, nur Long)",BAC,14.0,71.4,-1.79,-25.1,0.65,-58.5,3.24
+"ChartArt Stochastik + RSI (1d, nur Long)",BAS.DE,14.0,78.6,1.811,25.4,1.95,-19.4,5.466
+"ChartArt Stochastik + RSI (1d, nur Long)",BAYN.DE,10.0,60.0,-0.3,-3.0,0.95,-46.8,4.917
+"ChartArt Stochastik + RSI (1d, nur Long)",BE,4.0,50.0,2.845,11.4,2.61,-3.6,41.199
+"ChartArt Stochastik + RSI (1d, nur Long)",BEI.DE,5.0,60.0,-0.28,-1.4,0.94,-12.6,-5.841
+"ChartArt Stochastik + RSI (1d, nur Long)",BF-B,11.0,63.6,3.304,36.3,3.53,-13.7,5.851
+"ChartArt Stochastik + RSI (1d, nur Long)",BIIB,8.0,62.5,3.648,29.2,5.44,-4.2,9.59
+"ChartArt Stochastik + RSI (1d, nur Long)",BLK,13.0,76.9,5.97,77.6,8.92,-5.8,18.053
+"ChartArt Stochastik + RSI (1d, nur Long)",BMW.DE,11.0,63.6,0.935,10.3,1.35,-15.1,3.327
+"ChartArt Stochastik + RSI (1d, nur Long)",BNR.DE,5.0,40.0,0.174,0.9,1.06,-14.3,-0.198
+"ChartArt Stochastik + RSI (1d, nur Long)",BNY,10.0,70.0,1.493,14.9,2.18,-7.9,2.578
+"ChartArt Stochastik + RSI (1d, nur Long)",BRO,11.0,81.8,2.195,24.1,2.37,-16.6,6.461
+"ChartArt Stochastik + RSI (1d, nur Long)",C,11.0,63.6,0.733,8.1,1.15,-45.2,8.63
+"ChartArt Stochastik + RSI (1d, nur Long)",CBK.DE,10.0,50.0,-3.015,-30.2,0.54,-59.7,-7.788
+"ChartArt Stochastik + RSI (1d, nur Long)",CCL,11.0,81.8,0.811,8.9,1.25,-29.0,4.531
+"ChartArt Stochastik + RSI (1d, nur Long)",CEG,1.0,100.0,75.671,75.7,inf,0.0,227.683
+"ChartArt Stochastik + RSI (1d, nur Long)",CF,8.0,87.5,7.802,62.4,33.12,-1.9,30.796
+"ChartArt Stochastik + RSI (1d, nur Long)",CFG,6.0,66.7,0.8,4.8,1.4,-7.9,1.635
+"ChartArt Stochastik + RSI (1d, nur Long)",CHD,8.0,87.5,9.476,75.8,23.25,-3.4,16.945
+"ChartArt Stochastik + RSI (1d, nur Long)",CINF,10.0,80.0,2.763,27.6,2.31,-2.6,4.204
+"ChartArt Stochastik + RSI (1d, nur Long)",CMI,13.0,69.2,1.616,21.0,1.86,-14.3,5.176
+"ChartArt Stochastik + RSI (1d, nur Long)",CNC,11.0,72.7,3.987,43.9,3.5,-16.5,17.121
+"ChartArt Stochastik + RSI (1d, nur Long)",COF,13.0,76.9,3.518,45.7,2.79,-19.0,9.568
+"ChartArt Stochastik + RSI (1d, nur Long)",CON.DE,14.0,71.4,3.364,47.1,4.17,-9.3,12.624
+"ChartArt Stochastik + RSI (1d, nur Long)",COST,6.0,100.0,6.162,37.0,inf,0.0,17.377
+"ChartArt Stochastik + RSI (1d, nur Long)",CPAY,7.0,85.7,6.219,43.5,79.46,-0.6,16.189
+"ChartArt Stochastik + RSI (1d, nur Long)",CSX,16.0,81.2,4.372,70.0,13.87,-3.6,16.346
+"ChartArt Stochastik + RSI (1d, nur Long)",CTSH,10.0,70.0,2.031,20.3,2.37,-11.4,4.203
+"ChartArt Stochastik + RSI (1d, nur Long)",CVS,8.0,62.5,3.647,29.2,2.75,-15.4,8.723
+"ChartArt Stochastik + RSI (1d, nur Long)",DASH,2.0,0.0,-1.752,-3.5,0.0,-2.3,-14.014
+"ChartArt Stochastik + RSI (1d, nur Long)",DB1.DE,9.0,88.9,5.923,53.3,11.32,-5.2,14.433
+"ChartArt Stochastik + RSI (1d, nur Long)",DBK.DE,11.0,72.7,-0.836,-9.2,0.81,-29.7,0.829
+"ChartArt Stochastik + RSI (1d, nur Long)",DD,11.0,81.8,0.703,7.7,1.3,-23.5,5.551
+"ChartArt Stochastik + RSI (1d, nur Long)",DDOG,4.0,75.0,11.935,47.7,22.28,-2.2,83.834
+"ChartArt Stochastik + RSI (1d, nur Long)",DELL,6.0,83.3,3.938,23.6,5.8,-4.9,19.979
+"ChartArt Stochastik + RSI (1d, nur Long)",DGX,8.0,87.5,10.233,81.9,29.33,-2.9,23.56
+"ChartArt Stochastik + RSI (1d, nur Long)",DHL.DE,12.0,83.3,4.455,53.5,7.68,-6.3,12.116
+"ChartArt Stochastik + RSI (1d, nur Long)",DHR,11.0,81.8,6.789,74.7,22.07,-3.5,14.175
+"ChartArt Stochastik + RSI (1d, nur Long)",DLTR,10.0,90.0,5.523,55.2,5.79,-11.5,13.867
+"ChartArt Stochastik + RSI (1d, nur Long)",DPZ,9.0,66.7,0.412,3.7,1.1,-13.8,3.086
+"ChartArt Stochastik + RSI (1d, nur Long)",DTE.DE,12.0,66.7,5.448,65.4,6.6,-8.6,9.982
+"ChartArt Stochastik + RSI (1d, nur Long)",DTG.DE,5.0,100.0,5.235,26.2,inf,0.0,14.46
+"ChartArt Stochastik + RSI (1d, nur Long)",DVA,12.0,83.3,6.807,81.7,18.8,-4.4,22.813
+"ChartArt Stochastik + RSI (1d, nur Long)",DVN,9.0,44.4,-0.301,-2.7,0.86,-14.4,-3.382
+"ChartArt Stochastik + RSI (1d, nur Long)",ED,11.0,81.8,3.251,35.8,6.09,-5.8,6.841
+"ChartArt Stochastik + RSI (1d, nur Long)",EL,12.0,75.0,2.762,33.1,2.09,-21.8,8.526
+"ChartArt Stochastik + RSI (1d, nur Long)",ELV,12.0,83.3,4.286,51.4,3.99,-12.2,11.208
+"ChartArt Stochastik + RSI (1d, nur Long)",EMR,10.0,60.0,1.305,13.0,1.52,-12.3,4.109
+"ChartArt Stochastik + RSI (1d, nur Long)",ENR.DE,2.0,50.0,-2.774,-5.5,0.2,0.0,-10.122
+"ChartArt Stochastik + RSI (1d, nur Long)",EOAN.DE,13.0,76.9,2.776,36.1,2.33,-18.5,5.026
+"ChartArt Stochastik + RSI (1d, nur Long)",EQIX,12.0,83.3,9.61,115.3,56.5,-1.2,26.075
+"ChartArt Stochastik + RSI (1d, nur Long)",EQT,12.0,66.7,2.126,25.5,2.7,-9.3,6.119
+"ChartArt Stochastik + RSI (1d, nur Long)",EW,9.0,88.9,7.406,66.7,14.37,-5.0,18.716
+"ChartArt Stochastik + RSI (1d, nur Long)",EXC,11.0,54.5,0.458,5.0,1.17,-23.4,0.59
+"ChartArt Stochastik + RSI (1d, nur Long)",FICO,8.0,75.0,10.009,80.1,3.59,-13.7,25.191
+"ChartArt Stochastik + RSI (1d, nur Long)",FISV,8.0,75.0,3.671,29.4,2.39,-21.1,11.479
+"ChartArt Stochastik + RSI (1d, nur Long)",FITB,12.0,50.0,0.937,11.2,1.47,-10.6,2.929
+"ChartArt Stochastik + RSI (1d, nur Long)",FIX,10.0,90.0,5.195,52.0,28.58,-1.9,17.876
+"ChartArt Stochastik + RSI (1d, nur Long)",FME.DE,9.0,88.9,4.563,41.1,20.21,-2.1,11.973
+"ChartArt Stochastik + RSI (1d, nur Long)",FOXA,3.0,66.7,3.867,11.6,6.09,-2.3,33.151
+"ChartArt Stochastik + RSI (1d, nur Long)",FRE.DE,11.0,72.7,6.24,68.6,2.71,-40.2,19.725
+"ChartArt Stochastik + RSI (1d, nur Long)",FTV,5.0,60.0,2.687,13.4,26.99,-0.5,6.139
+"ChartArt Stochastik + RSI (1d, nur Long)",G1A.DE,13.0,69.2,4.936,64.2,8.05,-4.4,16.625
+"ChartArt Stochastik + RSI (1d, nur Long)",G24.DE,4.0,100.0,5.439,21.8,inf,0.0,17.793
+"ChartArt Stochastik + RSI (1d, nur Long)",GD,11.0,81.8,5.151,56.7,25.42,-2.3,9.956
+"ChartArt Stochastik + RSI (1d, nur Long)",GL,7.0,57.1,3.38,23.7,4.13,-1.7,7.182
+"ChartArt Stochastik + RSI (1d, nur Long)",GOOG,12.0,91.7,7.289,87.5,22.29,-4.1,19.364
+"ChartArt Stochastik + RSI (1d, nur Long)",GOOGL,12.0,91.7,6.607,79.3,20.29,-4.1,17.565
+"ChartArt Stochastik + RSI (1d, nur Long)",HEI.DE,11.0,81.8,2.321,25.5,2.15,-9.4,5.233
+"ChartArt Stochastik + RSI (1d, nur Long)",HEN3.DE,10.0,70.0,2.599,26.0,4.47,-4.4,4.718
+"ChartArt Stochastik + RSI (1d, nur Long)",HNR1.DE,8.0,87.5,9.542,76.3,174.93,-0.4,26.279
+"ChartArt Stochastik + RSI (1d, nur Long)",HPE,8.0,87.5,5.064,40.5,19.08,-2.2,18.383
+"ChartArt Stochastik + RSI (1d, nur Long)",IBKR,9.0,88.9,4.803,43.2,11.35,-4.2,16.744
+"ChartArt Stochastik + RSI (1d, nur Long)",IBM,12.0,83.3,3.094,37.1,4.48,-10.2,7.407
+"ChartArt Stochastik + RSI (1d, nur Long)",ICE,15.0,80.0,8.014,120.2,13.44,-3.5,15.953
+"ChartArt Stochastik + RSI (1d, nur Long)",IEX,9.0,77.8,3.464,31.2,4.09,-2.8,9.934
+"ChartArt Stochastik + RSI (1d, nur Long)",IFF,12.0,75.0,2.881,34.6,4.59,-7.9,6.247
+"ChartArt Stochastik + RSI (1d, nur Long)",IFX.DE,9.0,44.4,1.991,17.9,2.99,-4.6,4.187
+"ChartArt Stochastik + RSI (1d, nur Long)",IR,6.0,66.7,1.799,10.8,2.58,-3.5,6.3
+"ChartArt Stochastik + RSI (1d, nur Long)",IRM,15.0,60.0,3.782,56.7,3.85,-11.0,11.685
+"ChartArt Stochastik + RSI (1d, nur Long)",ITW,10.0,90.0,7.385,73.9,237.7,-0.3,13.631
+"ChartArt Stochastik + RSI (1d, nur Long)",JBHT,7.0,100.0,8.626,60.4,inf,0.0,27.299
+"ChartArt Stochastik + RSI (1d, nur Long)",JNJ,17.0,94.1,5.632,95.7,256.26,-0.4,9.712
+"ChartArt Stochastik + RSI (1d, nur Long)",JPM,14.0,85.7,5.727,80.2,21.52,-2.8,12.911
+"ChartArt Stochastik + RSI (1d, nur Long)",KEYS,5.0,60.0,3.954,19.8,3.04,-2.8,17.367
+"ChartArt Stochastik + RSI (1d, nur Long)",KLAC,11.0,81.8,4.447,48.9,5.41,-10.8,13.727
+"ChartArt Stochastik + RSI (1d, nur Long)",KMI,7.0,71.4,-0.329,-2.3,0.92,-29.7,2.517
+"ChartArt Stochastik + RSI (1d, nur Long)",KO,6.0,100.0,8.025,48.2,inf,0.0,12.611
+"ChartArt Stochastik + RSI (1d, nur Long)",LEN,11.0,54.5,1.819,20.0,1.68,-18.0,7.147
+"ChartArt Stochastik + RSI (1d, nur Long)",LIN,9.0,88.9,5.296,47.7,9.63,-5.5,11.691
+"ChartArt Stochastik + RSI (1d, nur Long)",LNT,15.0,80.0,3.935,59.0,5.09,-12.1,6.135
+"ChartArt Stochastik + RSI (1d, nur Long)",LYV,9.0,55.6,3.134,28.2,1.99,-5.6,9.542
+"ChartArt Stochastik + RSI (1d, nur Long)",MAA,12.0,66.7,1.87,22.4,2.27,-9.9,5.913
+"ChartArt Stochastik + RSI (1d, nur Long)",MAR,11.0,90.9,7.197,79.2,3.95,-26.8,22.104
+"ChartArt Stochastik + RSI (1d, nur Long)",MBG.DE,10.0,60.0,-1.728,-17.3,0.6,-29.8,-3.301
+"ChartArt Stochastik + RSI (1d, nur Long)",MCD,11.0,90.9,7.422,81.6,250.73,-0.3,12.9
+"ChartArt Stochastik + RSI (1d, nur Long)",MDLZ,8.0,87.5,5.924,47.4,644.07,0.0,13.016
+"ChartArt Stochastik + RSI (1d, nur Long)",MDT,14.0,78.6,4.294,60.1,11.32,-0.6,10.118
+"ChartArt Stochastik + RSI (1d, nur Long)",MGM,13.0,76.9,2.564,33.3,2.16,-19.6,11.122
+"ChartArt Stochastik + RSI (1d, nur Long)",MMM,12.0,66.7,3.334,40.0,2.08,-22.3,6.753
+"ChartArt Stochastik + RSI (1d, nur Long)",MO,8.0,75.0,2.743,21.9,5.13,-0.5,4.185
+"ChartArt Stochastik + RSI (1d, nur Long)",MOS,11.0,54.5,0.064,0.7,1.03,-19.2,-0.717
+"ChartArt Stochastik + RSI (1d, nur Long)",MPWR,8.0,87.5,4.981,39.9,13.44,0.0,23.892
+"ChartArt Stochastik + RSI (1d, nur Long)",MRK.DE,14.0,64.3,3.676,51.5,3.5,-9.1,9.175
+"ChartArt Stochastik + RSI (1d, nur Long)",MRVL,11.0,72.7,5.514,60.7,4.67,-8.4,34.285
+"ChartArt Stochastik + RSI (1d, nur Long)",MSCI,10.0,80.0,6.411,64.1,9.56,-3.1,17.586
+"ChartArt Stochastik + RSI (1d, nur Long)",MTB,11.0,63.6,1.164,12.8,1.55,-6.8,2.389
+"ChartArt Stochastik + RSI (1d, nur Long)",MTD,11.0,90.9,7.914,87.1,50.99,-1.7,19.69
+"ChartArt Stochastik + RSI (1d, nur Long)",MTX.DE,7.0,71.4,0.721,5.0,1.47,-0.9,0.439
+"ChartArt Stochastik + RSI (1d, nur Long)",MUV2.DE,12.0,91.7,4.462,53.5,38.73,-1.4,9.193
+"ChartArt Stochastik + RSI (1d, nur Long)",NKE,11.0,63.6,3.898,42.9,2.57,-24.4,5.36
+"ChartArt Stochastik + RSI (1d, nur Long)",NUE,11.0,81.8,3.6,39.6,4.29,-7.9,13.276
+"ChartArt Stochastik + RSI (1d, nur Long)",NVDA,8.0,62.5,0.864,6.9,1.58,-8.1,4.019
+"ChartArt Stochastik + RSI (1d, nur Long)",NWS,5.0,80.0,2.623,13.1,4.11,0.0,9.578
+"ChartArt Stochastik + RSI (1d, nur Long)",NWSA,6.0,50.0,0.697,4.2,1.28,-8.6,6.48
+"ChartArt Stochastik + RSI (1d, nur Long)",O,8.0,87.5,3.837,30.7,5.11,-7.5,8.637
+"ChartArt Stochastik + RSI (1d, nur Long)",OXY,11.0,63.6,-0.14,-1.5,0.96,-33.5,3.765
+"ChartArt Stochastik + RSI (1d, nur Long)",P,5.0,60.0,4.674,23.4,6.02,-1.7,21.531
+"ChartArt Stochastik + RSI (1d, nur Long)",PAH3.DE,5.0,40.0,-3.026,-15.1,0.37,-19.9,-6.078
+"ChartArt Stochastik + RSI (1d, nur Long)",PCAR,12.0,66.7,3.248,39.0,4.71,-5.6,12.669
+"ChartArt Stochastik + RSI (1d, nur Long)",PCG,12.0,50.0,-2.076,-24.9,0.57,-34.5,1.806
+"ChartArt Stochastik + RSI (1d, nur Long)",PFE,12.0,58.3,3.734,44.8,2.39,-17.0,6.59
+"ChartArt Stochastik + RSI (1d, nur Long)",PH,8.0,75.0,6.259,50.1,5.1,-10.9,15.57
+"ChartArt Stochastik + RSI (1d, nur Long)",PLD,11.0,90.9,5.328,58.6,21708.67,-0.0,14.328
+"ChartArt Stochastik + RSI (1d, nur Long)",PODD,11.0,81.8,3.959,43.5,2.98,-11.2,22.145
+"ChartArt Stochastik + RSI (1d, nur Long)",PPG,12.0,58.3,1.526,18.3,1.65,-14.3,2.8
+"ChartArt Stochastik + RSI (1d, nur Long)",PSA,9.0,88.9,6.065,54.6,11.7,-5.1,15.919
+"ChartArt Stochastik + RSI (1d, nur Long)",PSX,6.0,66.7,2.73,16.4,2.24,-10.1,13.707
+"ChartArt Stochastik + RSI (1d, nur Long)",QCOM,10.0,80.0,2.434,24.3,2.44,-12.4,9.453
+"ChartArt Stochastik + RSI (1d, nur Long)",QIA.DE,10.0,60.0,1.729,17.3,2.11,-7.4,4.12
+"ChartArt Stochastik + RSI (1d, nur Long)",REG,10.0,60.0,1.074,10.7,2.78,-4.2,5.491
+"ChartArt Stochastik + RSI (1d, nur Long)",REGN,13.0,76.9,6.197,80.6,4.9,-14.6,22.583
+"ChartArt Stochastik + RSI (1d, nur Long)",RHM.DE,10.0,80.0,5.354,53.5,4.85,-10.3,19.306
+"ChartArt Stochastik + RSI (1d, nur Long)",RL,11.0,81.8,3.472,38.2,4.65,-9.2,17.4
+"ChartArt Stochastik + RSI (1d, nur Long)",ROL,9.0,88.9,7.007,63.1,6.56,-11.3,15.444
+"ChartArt Stochastik + RSI (1d, nur Long)",ROST,10.0,100.0,9.255,92.5,inf,0.0,24.731
+"ChartArt Stochastik + RSI (1d, nur Long)",RWE.DE,9.0,44.4,-2.728,-24.6,0.55,-42.1,-1.228
+"ChartArt Stochastik + RSI (1d, nur Long)",SAP.DE,9.0,88.9,7.909,71.2,8.77,-9.2,17.027
+"ChartArt Stochastik + RSI (1d, nur Long)",SBAC,6.0,66.7,3.047,18.3,2.71,-10.7,24.336
+"ChartArt Stochastik + RSI (1d, nur Long)",SHL.DE,4.0,50.0,-0.398,-1.6,0.89,-11.3,0.488
+"ChartArt Stochastik + RSI (1d, nur Long)",SHW,8.0,87.5,6.613,52.9,25.44,-2.2,16.905
+"ChartArt Stochastik + RSI (1d, nur Long)",SIE.DE,11.0,81.8,5.234,57.6,9.36,-3.9,12.823
+"ChartArt Stochastik + RSI (1d, nur Long)",SLB,12.0,66.7,1.856,22.3,2.01,-14.7,8.888
+"ChartArt Stochastik + RSI (1d, nur Long)",SNA,10.0,70.0,5.306,53.1,4.2,-12.8,12.048
+"ChartArt Stochastik + RSI (1d, nur Long)",SO,10.0,90.0,4.678,46.8,18.26,-2.7,8.583
+"ChartArt Stochastik + RSI (1d, nur Long)",STE,9.0,100.0,7.18,64.6,inf,0.0,19.483
+"ChartArt Stochastik + RSI (1d, nur Long)",SY1.DE,10.0,70.0,2.942,29.4,3.87,-9.7,6.002
+"ChartArt Stochastik + RSI (1d, nur Long)",SYK,11.0,81.8,4.377,48.1,6.1,-7.1,10.9
+"ChartArt Stochastik + RSI (1d, nur Long)",T,10.0,40.0,-0.57,-5.7,0.8,-19.0,-2.579
+"ChartArt Stochastik + RSI (1d, nur Long)",TEL,9.0,77.8,1.984,17.9,2.21,-1.5,2.784
+"ChartArt Stochastik + RSI (1d, nur Long)",TER,12.0,83.3,6.724,80.7,6.89,-13.7,21.844
+"ChartArt Stochastik + RSI (1d, nur Long)",TFC,12.0,66.7,3.43,41.2,3.41,-10.7,7.424
+"ChartArt Stochastik + RSI (1d, nur Long)",TGT,7.0,71.4,6.478,45.3,6.46,-7.2,14.98
+"ChartArt Stochastik + RSI (1d, nur Long)",TJX,12.0,91.7,4.669,56.0,50.43,-1.1,12.688
+"ChartArt Stochastik + RSI (1d, nur Long)",TPR,8.0,75.0,-1.057,-8.5,0.76,-29.2,-1.958
+"ChartArt Stochastik + RSI (1d, nur Long)",TRMB,11.0,63.6,1.949,21.4,1.66,-11.5,6.389
+"ChartArt Stochastik + RSI (1d, nur Long)",TRV,10.0,90.0,3.672,36.7,9.43,-4.4,6.786
+"ChartArt Stochastik + RSI (1d, nur Long)",TSCO,7.0,57.1,2.461,17.2,1.79,-14.3,7.662
+"ChartArt Stochastik + RSI (1d, nur Long)",TSLA,9.0,77.8,14.448,130.0,64.0,-1.6,70.215
+"ChartArt Stochastik + RSI (1d, nur Long)",TSN,13.0,69.2,2.156,28.0,1.97,-16.2,5.793
+"ChartArt Stochastik + RSI (1d, nur Long)",TWLO,8.0,62.5,2.089,16.7,2.37,-6.1,4.406
+"ChartArt Stochastik + RSI (1d, nur Long)",TXT,9.0,88.9,5.088,45.8,4.88,-11.8,46.574
+"ChartArt Stochastik + RSI (1d, nur Long)",UAL,12.0,58.3,1.589,19.1,1.84,-20.1,10.424
+"ChartArt Stochastik + RSI (1d, nur Long)",UBER,5.0,80.0,4.028,20.1,10.91,-2.0,36.03
+"ChartArt Stochastik + RSI (1d, nur Long)",UHS,14.0,78.6,3.7,51.8,10.47,-3.6,13.848
+"ChartArt Stochastik + RSI (1d, nur Long)",UNP,7.0,100.0,6.554,45.9,inf,0.0,26.377
+"ChartArt Stochastik + RSI (1d, nur Long)",URI,12.0,75.0,1.845,22.1,1.81,-5.5,9.344
+"ChartArt Stochastik + RSI (1d, nur Long)",V,5.0,100.0,7.649,38.2,inf,0.0,24.378
+"ChartArt Stochastik + RSI (1d, nur Long)",VNA.DE,5.0,60.0,-0.429,-2.1,0.82,-9.5,-2.658
+"ChartArt Stochastik + RSI (1d, nur Long)",VOW3.DE,11.0,36.4,-3.201,-35.2,0.32,-28.8,-6.019
+"ChartArt Stochastik + RSI (1d, nur Long)",VRSK,7.0,100.0,5.384,37.7,inf,0.0,10.722
+"ChartArt Stochastik + RSI (1d, nur Long)",VRT,1.0,0.0,-1.617,-1.6,0.0,0.0,-14.75
+"ChartArt Stochastik + RSI (1d, nur Long)",VST,4.0,75.0,6.176,24.7,64.66,-0.4,35.396
+"ChartArt Stochastik + RSI (1d, nur Long)",WY,13.0,69.2,0.716,9.3,1.31,-10.9,3.822
+"ChartArt Stochastik + RSI (1d, nur Long)",XOM,10.0,70.0,2.636,26.4,3.35,-6.2,8.48
+"ChartArt Stochastik + RSI (1d, nur Long)",XYZ,6.0,83.3,4.826,29.0,4.96,-7.3,27.321
+"ChartArt Stochastik + RSI (1d, nur Long)",ZAL.DE,6.0,50.0,3.22,19.3,1.74,-14.7,19.399
+"ChartArt Stochastik + RSI (1d, nur Long)",ZBRA,14.0,71.4,2.038,28.5,1.8,-17.3,8.858
+ChartSchool Slope Performance Trend (1M),AAPL,8.0,87.5,34.501,276.0,46.21,-6.1,72.114
+ChartSchool Slope Performance Trend (1M),ADBE,7.0,42.9,86.422,605.0,22.19,-28.5,171.528
+ChartSchool Slope Performance Trend (1M),ADS.DE,5.0,80.0,24.731,123.7,6.89,-21.0,60.222
+ChartSchool Slope Performance Trend (1M),AEE,7.0,71.4,5.978,41.8,6.57,-7.1,10.492
+ChartSchool Slope Performance Trend (1M),AFL,6.0,66.7,7.272,43.6,2.28,-34.1,14.284
+ChartSchool Slope Performance Trend (1M),AIR.DE,9.0,66.7,5.234,47.1,2.41,-27.8,15.527
+ChartSchool Slope Performance Trend (1M),AKAM,9.0,44.4,6.606,59.5,2.49,-16.9,18.148
+ChartSchool Slope Performance Trend (1M),ALGN,9.0,66.7,17.42,156.8,7.99,-13.7,42.695
+ChartSchool Slope Performance Trend (1M),ALV.DE,8.0,50.0,13.695,109.6,4.75,-23.5,19.138
+ChartSchool Slope Performance Trend (1M),AMD,8.0,75.0,24.811,198.5,10.07,-21.9,113.79
+ChartSchool Slope Performance Trend (1M),AME,9.0,77.8,9.717,87.5,5.37,-11.0,17.871
+ChartSchool Slope Performance Trend (1M),AMGN,10.0,60.0,7.065,70.7,4.75,-13.5,17.027
+ChartSchool Slope Performance Trend (1M),AMP,7.0,85.7,16.89,118.2,9.87,-13.3,41.677
+ChartSchool Slope Performance Trend (1M),ANET,5.0,80.0,53.636,268.2,19.88,-14.2,156.251
+ChartSchool Slope Performance Trend (1M),APO,5.0,60.0,15.824,79.1,18.47,-4.5,41.408
+ChartSchool Slope Performance Trend (1M),ATO,7.0,57.1,13.084,91.6,11.63,-3.2,22.958
+ChartSchool Slope Performance Trend (1M),AVY,9.0,44.4,5.588,50.3,2.59,-16.2,9.272
+ChartSchool Slope Performance Trend (1M),AWK,4.0,100.0,29.757,119.0,inf,0.0,56.809
+ChartSchool Slope Performance Trend (1M),AXON,10.0,40.0,10.479,104.8,4.25,-15.3,33.179
+ChartSchool Slope Performance Trend (1M),AZO,8.0,87.5,17.757,142.1,14.53,0.0,34.911
+ChartSchool Slope Performance Trend (1M),BAC,9.0,55.6,2.344,21.1,1.42,-32.7,12.774
+ChartSchool Slope Performance Trend (1M),BAS.DE,8.0,50.0,2.562,20.5,2.15,-16.6,4.517
+ChartSchool Slope Performance Trend (1M),BAYN.DE,8.0,37.5,10.633,85.1,3.7,-17.0,27.809
+ChartSchool Slope Performance Trend (1M),BE,3.0,66.7,33.041,99.1,17.41,-6.0,211.932
+ChartSchool Slope Performance Trend (1M),BEI.DE,7.0,57.1,5.215,36.5,2.9,-12.5,9.518
+ChartSchool Slope Performance Trend (1M),BF-B,7.0,57.1,13.657,95.6,4.36,-13.8,21.241
+ChartSchool Slope Performance Trend (1M),BIIB,10.0,30.0,10.899,109.0,3.81,-25.1,36.972
+ChartSchool Slope Performance Trend (1M),BLK,9.0,66.7,10.394,93.5,5.07,-16.6,16.013
+ChartSchool Slope Performance Trend (1M),BMW.DE,9.0,66.7,1.775,16.0,1.72,-8.5,5.855
+ChartSchool Slope Performance Trend (1M),BNR.DE,7.0,28.6,0.659,4.6,1.17,-14.2,3.499
+ChartSchool Slope Performance Trend (1M),BNY,6.0,66.7,21.597,129.6,7.38,-20.3,32.277
+ChartSchool Slope Performance Trend (1M),BRO,6.0,66.7,32.384,194.3,41.45,-4.8,58.378
+ChartSchool Slope Performance Trend (1M),C,9.0,44.4,2.884,26.0,1.51,-28.9,5.589
+ChartSchool Slope Performance Trend (1M),CBK.DE,8.0,25.0,20.233,161.9,6.09,-31.8,76.344
+ChartSchool Slope Performance Trend (1M),CCL,9.0,55.6,0.684,6.2,1.29,-6.1,1.701
+ChartSchool Slope Performance Trend (1M),CEG,1.0,100.0,99.729,99.7,inf,0.0,263.021
+ChartSchool Slope Performance Trend (1M),CF,9.0,55.6,10.515,94.6,5.66,-8.5,40.146
+ChartSchool Slope Performance Trend (1M),CFG,6.0,66.7,2.229,13.4,1.75,-13.3,5.899
+ChartSchool Slope Performance Trend (1M),CHD,8.0,62.5,22.364,178.9,10.6,-16.3,25.829
+ChartSchool Slope Performance Trend (1M),CINF,8.0,62.5,8.265,66.1,8.06,-4.2,13.07
+ChartSchool Slope Performance Trend (1M),CMI,10.0,60.0,6.136,61.4,3.75,-9.3,17.952
+ChartSchool Slope Performance Trend (1M),CNC,12.0,41.7,5.335,64.0,2.13,-22.4,13.706
+ChartSchool Slope Performance Trend (1M),COF,9.0,55.6,-0.153,-1.4,0.97,-36.8,5.477
+ChartSchool Slope Performance Trend (1M),CON.DE,8.0,50.0,10.136,81.1,7.17,-13.1,31.16
+ChartSchool Slope Performance Trend (1M),COST,8.0,62.5,20.508,164.1,8.78,-16.8,33.469
+ChartSchool Slope Performance Trend (1M),CPAY,6.0,50.0,22.729,136.4,6.39,-25.3,47.592
+ChartSchool Slope Performance Trend (1M),CSX,6.0,100.0,25.699,154.2,inf,0.0,50.263
+ChartSchool Slope Performance Trend (1M),CTSH,9.0,55.6,6.145,55.3,3.42,-15.0,21.023
+ChartSchool Slope Performance Trend (1M),CVS,7.0,42.9,13.368,93.6,4.1,-25.4,21.794
+ChartSchool Slope Performance Trend (1M),DASH,2.0,50.0,18.297,36.6,7.28,0.0,44.789
+ChartSchool Slope Performance Trend (1M),DB1.DE,9.0,77.8,6.291,56.6,8.17,-5.2,11.75
+ChartSchool Slope Performance Trend (1M),DBK.DE,8.0,37.5,10.75,86.0,5.77,-13.4,22.846
+ChartSchool Slope Performance Trend (1M),DD,12.0,33.3,-1.835,-22.0,0.66,-34.7,-2.766
+ChartSchool Slope Performance Trend (1M),DDOG,5.0,40.0,-2.124,-10.6,0.45,-12.3,-7.331
+ChartSchool Slope Performance Trend (1M),DELL,4.0,100.0,33.226,132.9,inf,0.0,79.383
+ChartSchool Slope Performance Trend (1M),DGX,11.0,45.5,3.452,38.0,1.95,-16.4,6.463
+ChartSchool Slope Performance Trend (1M),DHL.DE,10.0,50.0,6.803,68.0,3.36,-20.5,11.932
+ChartSchool Slope Performance Trend (1M),DHR,4.0,50.0,76.044,304.2,31.55,-8.6,143.173
+ChartSchool Slope Performance Trend (1M),DLTR,10.0,50.0,5.889,58.9,5.25,-13.6,22.742
+ChartSchool Slope Performance Trend (1M),DPZ,7.0,57.1,117.029,819.2,18.52,-23.1,457.586
+ChartSchool Slope Performance Trend (1M),DTE.DE,8.0,37.5,-3.126,-25.0,0.32,-25.8,-4.04
+ChartSchool Slope Performance Trend (1M),DTG.DE,3.0,33.3,1.205,3.6,1.44,-8.1,0.544
+ChartSchool Slope Performance Trend (1M),DVA,10.0,60.0,6.943,69.4,4.65,-12.9,12.821
+ChartSchool Slope Performance Trend (1M),DVN,9.0,33.3,0.052,0.5,1.01,-48.6,7.077
+ChartSchool Slope Performance Trend (1M),ED,11.0,54.5,1.467,16.1,1.68,-9.3,3.456
+ChartSchool Slope Performance Trend (1M),EL,7.0,85.7,19.676,137.7,7.02,-22.9,48.287
+ChartSchool Slope Performance Trend (1M),ELV,10.0,50.0,4.723,47.2,1.97,-36.9,9.646
+ChartSchool Slope Performance Trend (1M),EMR,7.0,85.7,8.794,61.6,41.05,0.0,15.827
+ChartSchool Slope Performance Trend (1M),ENR.DE,2.0,50.0,47.76,95.5,9.95,0.0,195.008
+ChartSchool Slope Performance Trend (1M),EOAN.DE,7.0,71.4,4.709,33.0,3.52,-13.1,6.697
+ChartSchool Slope Performance Trend (1M),EQIX,10.0,70.0,11.412,114.1,11.46,-6.0,25.695
+ChartSchool Slope Performance Trend (1M),EQT,9.0,44.4,3.319,29.9,2.15,-15.5,15.929
+ChartSchool Slope Performance Trend (1M),EW,9.0,66.7,21.537,193.8,8.17,-18.5,38.86
+ChartSchool Slope Performance Trend (1M),EXC,7.0,57.1,0.759,5.3,1.47,-8.7,0.785
+ChartSchool Slope Performance Trend (1M),FICO,5.0,80.0,67.508,337.5,105.92,-3.2,163.285
+ChartSchool Slope Performance Trend (1M),FISV,5.0,100.0,92.81,464.1,inf,0.0,102.137
+ChartSchool Slope Performance Trend (1M),FITB,7.0,85.7,6.76,47.3,7.27,-7.5,19.141
+ChartSchool Slope Performance Trend (1M),FIX,8.0,62.5,77.783,622.3,45.5,-14.0,279.048
+ChartSchool Slope Performance Trend (1M),FME.DE,6.0,50.0,8.719,52.3,4.35,-15.6,12.026
+ChartSchool Slope Performance Trend (1M),FOXA,2.0,50.0,5.043,10.1,3.52,0.0,5.832
+ChartSchool Slope Performance Trend (1M),FRE.DE,5.0,60.0,39.46,197.3,8.73,-17.7,81.397
+ChartSchool Slope Performance Trend (1M),FTV,5.0,60.0,0.04,0.2,1.02,-12.1,0.729
+ChartSchool Slope Performance Trend (1M),G1A.DE,9.0,55.6,7.971,71.7,3.11,-27.6,22.996
+ChartSchool Slope Performance Trend (1M),G24.DE,4.0,100.0,30.088,120.4,inf,0.0,22.133
+ChartSchool Slope Performance Trend (1M),GD,8.0,62.5,7.856,62.8,3.77,-20.8,10.483
+ChartSchool Slope Performance Trend (1M),GL,11.0,54.5,4.036,44.4,1.84,-37.8,7.947
+ChartSchool Slope Performance Trend (1M),GOOG,9.0,77.8,17.342,156.1,24.34,-5.6,35.78
+ChartSchool Slope Performance Trend (1M),GOOGL,9.0,77.8,19.252,173.3,26.91,-5.6,35.564
+ChartSchool Slope Performance Trend (1M),HEI.DE,8.0,50.0,17.055,136.4,5.8,-19.9,38.693
+ChartSchool Slope Performance Trend (1M),HEN3.DE,6.0,100.0,14.818,88.9,inf,0.0,26.54
+ChartSchool Slope Performance Trend (1M),HNR1.DE,7.0,71.4,12.444,87.1,8.06,-6.4,22.295
+ChartSchool Slope Performance Trend (1M),HPE,3.0,100.0,11.645,34.9,inf,0.0,38.056
+ChartSchool Slope Performance Trend (1M),IBKR,6.0,50.0,27.582,165.5,9.43,-7.3,58.845
+ChartSchool Slope Performance Trend (1M),IBM,6.0,33.3,16.099,96.6,4.35,-13.0,16.575
+ChartSchool Slope Performance Trend (1M),ICE,6.0,83.3,16.443,98.7,9.88,-11.1,33.464
+ChartSchool Slope Performance Trend (1M),IEX,10.0,60.0,6.943,69.4,3.24,-23.1,15.096
+ChartSchool Slope Performance Trend (1M),IFF,10.0,40.0,4.869,48.7,1.97,-42.3,8.955
+ChartSchool Slope Performance Trend (1M),IFX.DE,6.0,100.0,22.162,133.0,inf,0.0,68.182
+ChartSchool Slope Performance Trend (1M),IR,4.0,50.0,2.961,11.8,1.93,-9.3,4.805
+ChartSchool Slope Performance Trend (1M),IRM,11.0,18.2,1.867,20.5,1.45,-41.2,5.307
+ChartSchool Slope Performance Trend (1M),ITW,8.0,75.0,8.107,64.9,4.7,-17.5,13.523
+ChartSchool Slope Performance Trend (1M),JBHT,6.0,66.7,15.771,94.6,9.73,-4.1,35.751
+ChartSchool Slope Performance Trend (1M),JNJ,9.0,55.6,8.953,80.6,5.18,-10.2,12.174
+ChartSchool Slope Performance Trend (1M),JPM,7.0,57.1,13.35,93.4,5.28,-16.6,24.755
+ChartSchool Slope Performance Trend (1M),KEYS,4.0,75.0,44.309,177.2,192.24,-0.9,76.781
+ChartSchool Slope Performance Trend (1M),KLAC,10.0,60.0,14.406,144.1,12.88,-6.9,34.359
+ChartSchool Slope Performance Trend (1M),KMI,8.0,25.0,-0.233,-1.9,0.89,-16.3,-2.46
+ChartSchool Slope Performance Trend (1M),KO,8.0,37.5,6.58,52.6,4.5,-9.1,8.038
+ChartSchool Slope Performance Trend (1M),LEN,8.0,62.5,4.946,39.6,4.27,-11.0,15.668
+ChartSchool Slope Performance Trend (1M),LIN,5.0,100.0,28.617,143.1,inf,0.0,56.687
+ChartSchool Slope Performance Trend (1M),LNT,6.0,83.3,16.909,101.5,30.77,-3.4,25.929
+ChartSchool Slope Performance Trend (1M),LYV,7.0,71.4,18.489,129.4,26.25,-4.1,38.147
+ChartSchool Slope Performance Trend (1M),MAA,8.0,62.5,6.521,52.2,2.9,-23.4,11.477
+ChartSchool Slope Performance Trend (1M),MAR,8.0,87.5,14.814,118.5,5.8,-24.7,32.887
+ChartSchool Slope Performance Trend (1M),MBG.DE,8.0,50.0,1.193,9.5,1.41,-14.2,6.565
+ChartSchool Slope Performance Trend (1M),MCD,7.0,85.7,10.491,73.4,10.0,-8.2,18.662
+ChartSchool Slope Performance Trend (1M),MDLZ,7.0,71.4,2.733,19.1,2.58,-5.3,5.282
+ChartSchool Slope Performance Trend (1M),MDT,9.0,33.3,-0.191,-1.7,0.97,-35.0,-3.224
+ChartSchool Slope Performance Trend (1M),MGM,9.0,66.7,-2.996,-27.0,0.61,-63.2,2.534
+ChartSchool Slope Performance Trend (1M),MMM,8.0,37.5,4.858,38.9,2.27,-15.7,5.674
+ChartSchool Slope Performance Trend (1M),MO,5.0,80.0,26.58,132.9,15.78,-9.0,52.291
+ChartSchool Slope Performance Trend (1M),MOS,10.0,20.0,0.38,3.8,1.06,-44.8,2.514
+ChartSchool Slope Performance Trend (1M),MPWR,7.0,57.1,27.616,193.3,12.78,-10.8,98.956
+ChartSchool Slope Performance Trend (1M),MRK.DE,8.0,50.0,12.934,103.5,14.58,-4.3,36.288
+ChartSchool Slope Performance Trend (1M),MRVL,8.0,100.0,8.665,69.3,inf,0.0,34.171
+ChartSchool Slope Performance Trend (1M),MSCI,4.0,50.0,146.248,585.0,122.32,-4.8,235.261
+ChartSchool Slope Performance Trend (1M),MTB,8.0,87.5,5.152,41.2,6.92,-7.0,9.252
+ChartSchool Slope Performance Trend (1M),MTD,9.0,55.6,13.981,125.8,6.26,-16.9,30.956
+ChartSchool Slope Performance Trend (1M),MTX.DE,6.0,66.7,12.152,72.9,6.65,-12.9,53.197
+ChartSchool Slope Performance Trend (1M),MUV2.DE,7.0,71.4,11.16,78.1,6.61,-13.9,27.714
+ChartSchool Slope Performance Trend (1M),NKE,6.0,66.7,15.967,95.8,7.22,-9.4,31.198
+ChartSchool Slope Performance Trend (1M),NUE,9.0,55.6,11.173,100.6,9.34,-10.3,38.41
+ChartSchool Slope Performance Trend (1M),NVDA,7.0,71.4,100.285,702.0,54.87,-13.0,228.312
+ChartSchool Slope Performance Trend (1M),NWS,3.0,66.7,12.79,38.4,190.48,0.0,31.477
+ChartSchool Slope Performance Trend (1M),NWSA,4.0,50.0,6.307,25.2,7.02,-3.3,16.549
+ChartSchool Slope Performance Trend (1M),O,8.0,62.5,2.323,18.6,2.28,-12.8,4.756
+ChartSchool Slope Performance Trend (1M),OXY,8.0,37.5,2.501,20.0,1.46,-40.4,17.206
+ChartSchool Slope Performance Trend (1M),P,5.0,60.0,0.596,3.0,1.78,-3.5,0.85
+ChartSchool Slope Performance Trend (1M),PAH3.DE,7.0,42.9,-3.714,-26.0,0.38,-36.6,-11.855
+ChartSchool Slope Performance Trend (1M),PCAR,9.0,66.7,5.296,47.7,6.61,-6.5,12.747
+ChartSchool Slope Performance Trend (1M),PCG,8.0,62.5,3.711,29.7,2.27,-22.8,7.293
+ChartSchool Slope Performance Trend (1M),PFE,8.0,25.0,-0.479,-3.8,0.9,-24.0,-1.959
+ChartSchool Slope Performance Trend (1M),PH,9.0,77.8,13.781,124.0,16.15,-8.2,31.377
+ChartSchool Slope Performance Trend (1M),PLD,6.0,66.7,14.428,86.6,6.65,-10.1,27.446
+ChartSchool Slope Performance Trend (1M),PODD,7.0,57.1,16.524,115.7,8.54,-12.7,54.851
+ChartSchool Slope Performance Trend (1M),PPG,9.0,33.3,2.824,25.4,1.59,-37.3,5.114
+ChartSchool Slope Performance Trend (1M),PSA,8.0,62.5,11.369,90.9,6.39,-9.5,22.789
+ChartSchool Slope Performance Trend (1M),PSX,7.0,57.1,-0.675,-4.7,0.89,-41.5,4.441
+ChartSchool Slope Performance Trend (1M),QCOM,12.0,25.0,-2.164,-26.0,0.54,-27.9,-6.57
+ChartSchool Slope Performance Trend (1M),QIA.DE,6.0,50.0,4.472,26.8,3.26,-10.2,10.654
+ChartSchool Slope Performance Trend (1M),REG,9.0,55.6,2.702,24.3,3.9,-7.6,5.06
+ChartSchool Slope Performance Trend (1M),REGN,8.0,62.5,66.542,532.3,34.09,-14.4,209.744
+ChartSchool Slope Performance Trend (1M),RHM.DE,8.0,62.5,26.982,215.9,9.85,-18.0,128.417
+ChartSchool Slope Performance Trend (1M),RL,7.0,57.1,17.71,124.0,6.79,-19.9,59.126
+ChartSchool Slope Performance Trend (1M),ROL,6.0,100.0,25.082,150.5,inf,0.0,73.787
+ChartSchool Slope Performance Trend (1M),ROST,10.0,50.0,8.241,82.4,3.22,-20.4,21.962
+ChartSchool Slope Performance Trend (1M),RWE.DE,8.0,50.0,12.141,97.1,9.76,-8.5,19.163
+ChartSchool Slope Performance Trend (1M),SAP.DE,8.0,50.0,8.681,69.4,3.92,-17.9,17.864
+ChartSchool Slope Performance Trend (1M),SBAC,7.0,71.4,20.496,143.5,13.9,-11.1,46.075
+ChartSchool Slope Performance Trend (1M),SHL.DE,4.0,0.0,-6.653,-26.6,0.0,-23.0,-11.909
+ChartSchool Slope Performance Trend (1M),SHW,6.0,83.3,47.7,286.2,86.98,-3.3,73.138
+ChartSchool Slope Performance Trend (1M),SIE.DE,8.0,75.0,9.522,76.2,4.18,-17.3,15.342
+ChartSchool Slope Performance Trend (1M),SLB,8.0,62.5,4.2,33.6,2.16,-24.2,11.732
+ChartSchool Slope Performance Trend (1M),SNA,9.0,77.8,12.342,111.1,4.28,-20.9,23.92
+ChartSchool Slope Performance Trend (1M),SO,9.0,33.3,-1.473,-13.3,0.62,-13.8,-1.759
+ChartSchool Slope Performance Trend (1M),STE,8.0,25.0,15.423,123.4,5.97,-12.5,19.765
+ChartSchool Slope Performance Trend (1M),SY1.DE,5.0,80.0,26.921,134.6,14.15,-10.2,52.222
+ChartSchool Slope Performance Trend (1M),SYK,7.0,42.9,15.439,108.1,3.53,-30.9,20.544
+ChartSchool Slope Performance Trend (1M),T,7.0,85.7,4.311,30.2,4.18,-9.5,7.098
+ChartSchool Slope Performance Trend (1M),TEL,8.0,62.5,2.547,20.4,1.46,-21.6,3.967
+ChartSchool Slope Performance Trend (1M),TER,10.0,60.0,12.756,127.6,5.72,-12.4,31.376
+ChartSchool Slope Performance Trend (1M),TFC,11.0,45.5,-1.571,-17.3,0.44,-19.4,-2.859
+ChartSchool Slope Performance Trend (1M),TGT,10.0,50.0,3.51,35.1,2.11,-16.2,10.274
+ChartSchool Slope Performance Trend (1M),TJX,7.0,71.4,15.788,110.5,16.16,-7.3,48.975
+ChartSchool Slope Performance Trend (1M),TPR,9.0,44.4,6.426,57.8,2.28,-29.2,21.877
+ChartSchool Slope Performance Trend (1M),TRMB,9.0,77.8,6.65,59.8,4.69,-13.6,17.867
+ChartSchool Slope Performance Trend (1M),TRV,9.0,55.6,11.951,107.6,10.74,-8.0,17.48
+ChartSchool Slope Performance Trend (1M),TSCO,8.0,62.5,10.27,82.2,5.4,-9.2,69.534
+ChartSchool Slope Performance Trend (1M),TSLA,9.0,22.2,46.245,416.2,13.6,-16.7,136.409
+ChartSchool Slope Performance Trend (1M),TSN,10.0,30.0,0.315,3.1,1.05,-44.8,4.852
+ChartSchool Slope Performance Trend (1M),TWLO,3.0,100.0,27.568,82.7,inf,0.0,98.026
+ChartSchool Slope Performance Trend (1M),TXT,9.0,44.4,1.258,11.3,1.47,-14.1,5.846
+ChartSchool Slope Performance Trend (1M),UAL,11.0,36.4,2.896,31.9,1.72,-20.5,8.662
+ChartSchool Slope Performance Trend (1M),UBER,3.0,66.7,7.643,22.9,9.49,-2.7,30.963
+ChartSchool Slope Performance Trend (1M),UHS,11.0,27.3,1.241,13.7,1.2,-31.3,2.67
+ChartSchool Slope Performance Trend (1M),UNP,7.0,71.4,17.232,120.6,8.87,-15.0,46.625
+ChartSchool Slope Performance Trend (1M),URI,9.0,77.8,16.068,144.6,8.03,-20.5,46.296
+ChartSchool Slope Performance Trend (1M),V,4.0,100.0,80.601,322.4,inf,0.0,249.262
+ChartSchool Slope Performance Trend (1M),VNA.DE,3.0,100.0,27.009,81.0,inf,0.0,38.559
+ChartSchool Slope Performance Trend (1M),VOW3.DE,7.0,57.1,4.159,29.1,1.57,-47.7,16.897
+ChartSchool Slope Performance Trend (1M),VRSK,5.0,80.0,24.278,121.4,13.72,-9.5,41.866
+ChartSchool Slope Performance Trend (1M),VRT,2.0,100.0,168.066,336.1,inf,0.0,674.312
+ChartSchool Slope Performance Trend (1M),VST,3.0,100.0,70.86,212.6,inf,0.0,131.333
+ChartSchool Slope Performance Trend (1M),WY,10.0,20.0,-6.347,-63.5,0.2,-58.8,-14.15
+ChartSchool Slope Performance Trend (1M),XOM,6.0,83.3,10.461,62.8,12.63,-5.4,22.582
+ChartSchool Slope Performance Trend (1M),XYZ,4.0,75.0,36.132,144.5,40.41,-3.7,110.553
+ChartSchool Slope Performance Trend (1M),ZAL.DE,6.0,16.7,-2.177,-13.1,0.61,-15.7,-3.168
+ChartSchool Slope Performance Trend (1M),ZBRA,7.0,42.9,27.086,189.6,8.83,-14.6,60.554
 ChartSchool Stochastic Pop & Drop (1d),AAPL,34.0,38.2,0.089,3.0,1.33,-4.0,0.635
 ChartSchool Stochastic Pop & Drop (1d),ADBE,57.0,36.8,0.097,5.5,1.32,-5.0,0.374
 ChartSchool Stochastic Pop & Drop (1d),ADS.DE,71.0,23.9,-0.145,-10.3,0.62,-16.4,-0.944
@@ -3965,6 +4559,404 @@ Glow Ribbon Flip (1d),ZBRA,172.0,39.5,0.09,15.5,1.21,-12.8,0.395
 "Glow Ribbon Flip (1d, nur Long)",XYZ,41.0,51.2,0.338,13.9,2.05,-3.7,4.341
 "Glow Ribbon Flip (1d, nur Long)",ZAL.DE,48.0,50.0,0.245,11.8,1.63,-3.9,2.404
 "Glow Ribbon Flip (1d, nur Long)",ZBRA,92.0,45.7,0.216,19.9,1.59,-5.1,1.687
+KivancOzbilgic MACD ReLoaded (1d),AAPL,241.0,35.3,0.054,13.0,1.04,-60.7,0.242
+KivancOzbilgic MACD ReLoaded (1d),ADBE,228.0,32.9,-0.263,-60.0,0.81,-92.8,-0.252
+KivancOzbilgic MACD ReLoaded (1d),ADS.DE,241.0,34.4,-0.151,-36.3,0.88,-60.3,-0.376
+KivancOzbilgic MACD ReLoaded (1d),AEE,220.0,35.5,-0.02,-4.4,0.98,-46.4,-0.088
+KivancOzbilgic MACD ReLoaded (1d),AFL,238.0,30.7,-0.256,-60.9,0.8,-73.8,-0.448
+KivancOzbilgic MACD ReLoaded (1d),AIR.DE,237.0,28.7,-0.114,-26.9,0.91,-59.5,-0.214
+KivancOzbilgic MACD ReLoaded (1d),AKAM,215.0,34.0,-0.376,-80.8,0.76,-92.2,-1.163
+KivancOzbilgic MACD ReLoaded (1d),ALGN,234.0,29.1,-0.073,-17.2,0.95,-105.1,-0.036
+KivancOzbilgic MACD ReLoaded (1d),ALV.DE,230.0,33.9,-0.104,-24.0,0.92,-57.1,-0.093
+KivancOzbilgic MACD ReLoaded (1d),AMD,206.0,38.3,0.612,126.0,1.46,-50.7,3.021
+KivancOzbilgic MACD ReLoaded (1d),AME,251.0,31.1,-0.35,-87.9,0.73,-92.6,-0.863
+KivancOzbilgic MACD ReLoaded (1d),AMGN,212.0,34.4,0.177,37.5,1.16,-37.2,0.17
+KivancOzbilgic MACD ReLoaded (1d),AMP,191.0,40.3,0.143,27.3,1.11,-36.1,0.914
+KivancOzbilgic MACD ReLoaded (1d),ANET,134.0,32.8,-0.256,-34.4,0.83,-64.3,-1.099
+KivancOzbilgic MACD ReLoaded (1d),APO,163.0,38.7,-0.083,-13.5,0.93,-37.3,-0.073
+KivancOzbilgic MACD ReLoaded (1d),ATO,248.0,32.7,-0.234,-57.9,0.8,-80.2,-0.556
+KivancOzbilgic MACD ReLoaded (1d),AVY,234.0,33.3,-0.184,-43.1,0.86,-77.5,-0.326
+KivancOzbilgic MACD ReLoaded (1d),AWK,197.0,30.5,-0.291,-57.3,0.75,-65.2,-0.606
+KivancOzbilgic MACD ReLoaded (1d),AXON,227.0,36.1,-0.048,-10.9,0.97,-78.5,-0.009
+KivancOzbilgic MACD ReLoaded (1d),AZO,232.0,32.3,-0.198,-45.9,0.85,-64.9,-0.353
+KivancOzbilgic MACD ReLoaded (1d),BAC,230.0,36.1,-0.117,-26.9,0.92,-53.5,0.191
+KivancOzbilgic MACD ReLoaded (1d),BAS.DE,222.0,36.5,0.039,8.7,1.03,-38.4,0.093
+KivancOzbilgic MACD ReLoaded (1d),BAYN.DE,234.0,36.8,-0.246,-57.5,0.82,-94.9,-0.2
+KivancOzbilgic MACD ReLoaded (1d),BE,74.0,40.5,1.534,113.5,2.46,-10.0,8.944
+KivancOzbilgic MACD ReLoaded (1d),BEI.DE,230.0,32.6,-0.467,-107.3,0.67,-113.9,-0.952
+KivancOzbilgic MACD ReLoaded (1d),BF-B,238.0,31.5,-0.234,-55.6,0.8,-57.9,-0.58
+KivancOzbilgic MACD ReLoaded (1d),BIIB,220.0,30.0,-0.448,-98.6,0.73,-128.9,-1.778
+KivancOzbilgic MACD ReLoaded (1d),BLK,220.0,35.5,0.051,11.2,1.04,-31.0,0.323
+KivancOzbilgic MACD ReLoaded (1d),BMW.DE,238.0,32.4,-0.124,-29.4,0.91,-86.4,-0.629
+KivancOzbilgic MACD ReLoaded (1d),BNR.DE,166.0,33.1,-0.2,-33.2,0.85,-53.4,-0.41
+KivancOzbilgic MACD ReLoaded (1d),BNY,239.0,33.1,-0.218,-52.1,0.83,-68.5,-1.073
+KivancOzbilgic MACD ReLoaded (1d),BRO,250.0,34.0,-0.252,-62.9,0.82,-115.5,-0.576
+KivancOzbilgic MACD ReLoaded (1d),C,229.0,34.5,-0.18,-41.2,0.87,-79.9,-0.883
+KivancOzbilgic MACD ReLoaded (1d),CBK.DE,231.0,38.5,0.179,41.3,1.15,-37.2,0.536
+KivancOzbilgic MACD ReLoaded (1d),CCL,232.0,31.9,-0.161,-37.3,0.88,-116.6,-0.296
+KivancOzbilgic MACD ReLoaded (1d),CEG,44.0,36.4,0.54,23.7,1.45,-18.2,1.899
+KivancOzbilgic MACD ReLoaded (1d),CF,225.0,32.0,-0.181,-40.8,0.86,-110.2,-0.532
+KivancOzbilgic MACD ReLoaded (1d),CFG,117.0,35.9,0.466,54.5,1.41,-25.5,0.964
+KivancOzbilgic MACD ReLoaded (1d),CHD,214.0,34.6,0.064,13.7,1.05,-31.3,0.253
+KivancOzbilgic MACD ReLoaded (1d),CINF,223.0,35.4,0.138,30.8,1.13,-33.6,0.136
+KivancOzbilgic MACD ReLoaded (1d),CMI,223.0,35.0,-0.143,-31.9,0.89,-62.9,-0.41
+KivancOzbilgic MACD ReLoaded (1d),CNC,236.0,33.9,-0.126,-29.7,0.9,-87.2,-0.176
+KivancOzbilgic MACD ReLoaded (1d),COF,239.0,33.5,-0.219,-52.3,0.83,-85.8,-0.312
+KivancOzbilgic MACD ReLoaded (1d),CON.DE,238.0,32.8,-0.306,-72.9,0.79,-122.8,-0.841
+KivancOzbilgic MACD ReLoaded (1d),COST,217.0,35.0,-0.133,-28.8,0.9,-52.1,-0.142
+KivancOzbilgic MACD ReLoaded (1d),CPAY,159.0,34.0,-0.039,-6.1,0.97,-57.5,-0.237
+KivancOzbilgic MACD ReLoaded (1d),CSX,208.0,37.0,-0.039,-8.1,0.97,-49.6,-0.204
+KivancOzbilgic MACD ReLoaded (1d),CTSH,243.0,33.7,-0.27,-65.7,0.8,-93.5,-0.681
+KivancOzbilgic MACD ReLoaded (1d),CVS,228.0,34.6,-0.174,-39.7,0.87,-54.0,-0.323
+KivancOzbilgic MACD ReLoaded (1d),DASH,48.0,43.8,0.634,30.4,1.58,-11.3,1.575
+KivancOzbilgic MACD ReLoaded (1d),DB1.DE,235.0,31.1,-0.198,-46.5,0.85,-75.7,-0.526
+KivancOzbilgic MACD ReLoaded (1d),DBK.DE,225.0,35.6,0.077,17.3,1.06,-49.3,0.554
+KivancOzbilgic MACD ReLoaded (1d),DD,243.0,35.0,-0.237,-57.7,0.81,-78.2,-0.438
+KivancOzbilgic MACD ReLoaded (1d),DDOG,72.0,36.1,0.402,28.9,1.34,-28.6,1.661
+KivancOzbilgic MACD ReLoaded (1d),DELL,112.0,29.5,-0.025,-2.7,0.98,-63.1,0.893
+KivancOzbilgic MACD ReLoaded (1d),DGX,228.0,38.6,-0.023,-5.3,0.98,-35.9,-0.141
+KivancOzbilgic MACD ReLoaded (1d),DHL.DE,226.0,37.2,0.193,43.7,1.16,-25.0,0.589
+KivancOzbilgic MACD ReLoaded (1d),DHR,235.0,31.1,-0.364,-85.5,0.73,-104.3,-0.643
+KivancOzbilgic MACD ReLoaded (1d),DLTR,211.0,35.5,0.363,76.5,1.29,-49.4,0.92
+KivancOzbilgic MACD ReLoaded (1d),DPZ,231.0,36.4,-0.015,-3.5,0.99,-60.2,0.319
+KivancOzbilgic MACD ReLoaded (1d),DTE.DE,234.0,38.9,0.042,9.7,1.04,-33.2,-0.039
+KivancOzbilgic MACD ReLoaded (1d),DTG.DE,43.0,48.8,0.996,42.8,2.01,-10.1,2.144
+KivancOzbilgic MACD ReLoaded (1d),DVA,258.0,29.5,-0.41,-105.9,0.73,-107.1,-0.97
+KivancOzbilgic MACD ReLoaded (1d),DVN,234.0,38.0,0.124,29.1,1.11,-53.1,0.063
+KivancOzbilgic MACD ReLoaded (1d),ED,217.0,39.2,0.123,26.6,1.11,-36.3,0.149
+KivancOzbilgic MACD ReLoaded (1d),EL,218.0,35.8,-0.243,-53.0,0.83,-82.1,-0.134
+KivancOzbilgic MACD ReLoaded (1d),ELV,261.0,28.4,-0.358,-93.5,0.73,-101.2,-0.69
+KivancOzbilgic MACD ReLoaded (1d),EMR,216.0,36.6,-0.024,-5.2,0.98,-62.4,0.173
+KivancOzbilgic MACD ReLoaded (1d),ENR.DE,56.0,33.9,0.515,28.8,1.35,-20.4,3.689
+KivancOzbilgic MACD ReLoaded (1d),EOAN.DE,212.0,35.4,0.162,34.3,1.14,-44.0,0.26
+KivancOzbilgic MACD ReLoaded (1d),EQIX,234.0,32.5,-0.207,-48.4,0.84,-75.3,-0.45
+KivancOzbilgic MACD ReLoaded (1d),EQT,229.0,30.6,-0.213,-48.8,0.84,-68.7,-0.307
+KivancOzbilgic MACD ReLoaded (1d),EW,228.0,32.0,-0.385,-87.7,0.75,-97.7,-0.899
+KivancOzbilgic MACD ReLoaded (1d),EXC,242.0,33.9,-0.198,-47.9,0.84,-62.2,-0.497
+KivancOzbilgic MACD ReLoaded (1d),FICO,234.0,36.8,-0.06,-14.0,0.96,-67.3,0.123
+KivancOzbilgic MACD ReLoaded (1d),FISV,236.0,28.0,-0.376,-88.6,0.73,-126.6,-0.624
+KivancOzbilgic MACD ReLoaded (1d),FITB,223.0,35.9,0.072,16.0,1.06,-46.4,1.948
+KivancOzbilgic MACD ReLoaded (1d),FIX,215.0,37.7,-0.035,-7.5,0.97,-69.4,0.044
+KivancOzbilgic MACD ReLoaded (1d),FME.DE,238.0,31.9,-0.472,-112.3,0.66,-119.1,-0.889
+KivancOzbilgic MACD ReLoaded (1d),FOXA,61.0,44.3,0.622,38.0,1.56,-18.3,1.605
+KivancOzbilgic MACD ReLoaded (1d),FRE.DE,231.0,34.6,-0.076,-17.5,0.94,-85.0,0.078
+KivancOzbilgic MACD ReLoaded (1d),FTV,87.0,33.3,0.243,21.2,1.18,-39.4,0.631
+KivancOzbilgic MACD ReLoaded (1d),G1A.DE,224.0,40.2,0.025,5.7,1.02,-74.1,-0.034
+KivancOzbilgic MACD ReLoaded (1d),G24.DE,113.0,29.2,-0.133,-15.0,0.9,-46.8,-0.207
+KivancOzbilgic MACD ReLoaded (1d),GD,237.0,34.2,-0.305,-72.3,0.76,-91.2,-0.194
+KivancOzbilgic MACD ReLoaded (1d),GL,241.0,29.5,-0.337,-81.1,0.74,-94.0,-0.487
+KivancOzbilgic MACD ReLoaded (1d),GOOG,234.0,35.5,0.084,19.7,1.06,-90.8,0.378
+KivancOzbilgic MACD ReLoaded (1d),GOOGL,232.0,36.2,0.094,21.8,1.07,-93.7,0.448
+KivancOzbilgic MACD ReLoaded (1d),HEI.DE,221.0,38.0,-0.008,-1.7,0.99,-64.3,0.197
+KivancOzbilgic MACD ReLoaded (1d),HEN3.DE,231.0,32.5,-0.057,-13.1,0.95,-50.4,0.083
+KivancOzbilgic MACD ReLoaded (1d),HNR1.DE,260.0,31.9,-0.279,-72.5,0.79,-118.2,-0.626
+KivancOzbilgic MACD ReLoaded (1d),HPE,102.0,40.2,0.25,25.5,1.2,-25.7,1.109
+KivancOzbilgic MACD ReLoaded (1d),IBKR,196.0,33.2,0.179,35.1,1.16,-37.7,-0.261
+KivancOzbilgic MACD ReLoaded (1d),IBM,214.0,38.3,0.177,38.0,1.14,-47.8,0.132
+KivancOzbilgic MACD ReLoaded (1d),ICE,216.0,33.8,0.02,4.4,1.02,-76.8,-0.272
+KivancOzbilgic MACD ReLoaded (1d),IEX,234.0,36.3,-0.169,-39.6,0.87,-58.2,-0.481
+KivancOzbilgic MACD ReLoaded (1d),IFF,229.0,35.4,-0.154,-35.3,0.88,-58.6,-0.475
+KivancOzbilgic MACD ReLoaded (1d),IFX.DE,248.0,30.6,-0.292,-72.5,0.8,-103.5,0.314
+KivancOzbilgic MACD ReLoaded (1d),IR,95.0,36.8,-0.345,-32.8,0.77,-40.9,-0.574
+KivancOzbilgic MACD ReLoaded (1d),IRM,242.0,34.7,-0.203,-49.2,0.86,-68.7,-0.308
+KivancOzbilgic MACD ReLoaded (1d),ITW,231.0,35.9,-0.084,-19.3,0.93,-75.4,0.065
+KivancOzbilgic MACD ReLoaded (1d),JBHT,227.0,33.9,-0.235,-53.3,0.82,-73.7,-0.253
+KivancOzbilgic MACD ReLoaded (1d),JNJ,224.0,36.2,0.106,23.7,1.09,-33.7,0.167
+KivancOzbilgic MACD ReLoaded (1d),JPM,244.0,31.1,-0.223,-54.5,0.82,-60.9,-0.666
+KivancOzbilgic MACD ReLoaded (1d),KEYS,122.0,30.3,-0.279,-34.0,0.81,-51.2,-0.434
+KivancOzbilgic MACD ReLoaded (1d),KLAC,248.0,35.5,-0.375,-93.1,0.7,-106.6,-0.93
+KivancOzbilgic MACD ReLoaded (1d),KMI,142.0,35.9,-0.169,-24.0,0.87,-45.1,-0.578
+KivancOzbilgic MACD ReLoaded (1d),KO,258.0,28.7,-0.44,-113.5,0.66,-130.7,-0.688
+KivancOzbilgic MACD ReLoaded (1d),LEN,246.0,32.1,-0.2,-49.3,0.83,-71.4,-0.969
+KivancOzbilgic MACD ReLoaded (1d),LIN,233.0,30.9,-0.402,-93.7,0.7,-108.8,-0.614
+KivancOzbilgic MACD ReLoaded (1d),LNT,234.0,34.2,-0.091,-21.3,0.92,-60.3,-0.32
+KivancOzbilgic MACD ReLoaded (1d),LYV,213.0,35.2,-0.061,-13.0,0.95,-65.8,0.367
+KivancOzbilgic MACD ReLoaded (1d),MAA,236.0,34.7,-0.265,-62.5,0.78,-112.4,-0.715
+KivancOzbilgic MACD ReLoaded (1d),MAR,252.0,31.7,-0.172,-43.4,0.87,-66.6,-0.618
+KivancOzbilgic MACD ReLoaded (1d),MBG.DE,236.0,36.9,0.09,21.2,1.07,-41.8,0.016
+KivancOzbilgic MACD ReLoaded (1d),MCD,234.0,32.1,-0.189,-44.1,0.86,-71.0,-0.335
+KivancOzbilgic MACD ReLoaded (1d),MDLZ,226.0,37.6,0.174,39.3,1.17,-31.7,0.374
+KivancOzbilgic MACD ReLoaded (1d),MDT,200.0,35.5,0.022,4.4,1.02,-55.3,-0.07
+KivancOzbilgic MACD ReLoaded (1d),MGM,232.0,34.5,-0.046,-10.7,0.96,-78.9,-0.261
+KivancOzbilgic MACD ReLoaded (1d),MMM,220.0,33.2,-0.144,-31.8,0.9,-64.7,-0.329
+KivancOzbilgic MACD ReLoaded (1d),MO,208.0,38.0,0.314,65.3,1.24,-46.5,0.235
+KivancOzbilgic MACD ReLoaded (1d),MOS,207.0,36.7,0.055,11.4,1.04,-63.1,0.293
+KivancOzbilgic MACD ReLoaded (1d),MPWR,209.0,36.4,0.007,1.5,1.01,-43.3,0.612
+KivancOzbilgic MACD ReLoaded (1d),MRK.DE,238.0,33.2,-0.157,-37.5,0.87,-62.2,-0.439
+KivancOzbilgic MACD ReLoaded (1d),MRVL,223.0,30.9,0.072,16.1,1.06,-53.5,0.978
+KivancOzbilgic MACD ReLoaded (1d),MSCI,209.0,32.1,0.091,19.1,1.08,-48.8,0.281
+KivancOzbilgic MACD ReLoaded (1d),MTB,245.0,31.0,-0.192,-47.0,0.84,-79.2,-0.934
+KivancOzbilgic MACD ReLoaded (1d),MTD,211.0,40.8,0.259,54.7,1.22,-24.9,0.82
+KivancOzbilgic MACD ReLoaded (1d),MTX.DE,211.0,33.2,0.025,5.3,1.02,-43.2,0.046
+KivancOzbilgic MACD ReLoaded (1d),MUV2.DE,238.0,34.0,-0.12,-28.5,0.91,-65.4,-0.286
+KivancOzbilgic MACD ReLoaded (1d),NKE,226.0,34.1,-0.166,-37.6,0.88,-62.9,-0.431
+KivancOzbilgic MACD ReLoaded (1d),NUE,225.0,38.7,0.161,36.2,1.14,-29.8,0.57
+KivancOzbilgic MACD ReLoaded (1d),NVDA,227.0,31.3,0.3,68.1,1.21,-51.6,1.165
+KivancOzbilgic MACD ReLoaded (1d),NWS,126.0,41.3,0.143,18.0,1.13,-16.8,0.594
+KivancOzbilgic MACD ReLoaded (1d),NWSA,118.0,41.5,0.123,14.5,1.1,-21.9,0.548
+KivancOzbilgic MACD ReLoaded (1d),O,223.0,35.4,-0.056,-12.5,0.95,-42.8,-0.146
+KivancOzbilgic MACD ReLoaded (1d),OXY,226.0,34.5,0.122,27.5,1.11,-45.5,-0.13
+KivancOzbilgic MACD ReLoaded (1d),P,114.0,39.5,0.057,6.5,1.04,-30.2,0.151
+KivancOzbilgic MACD ReLoaded (1d),PAH3.DE,176.0,39.2,0.181,31.9,1.16,-40.1,-0.018
+KivancOzbilgic MACD ReLoaded (1d),PCAR,229.0,32.3,-0.281,-64.3,0.79,-103.0,-0.857
+KivancOzbilgic MACD ReLoaded (1d),PCG,224.0,36.6,0.067,14.9,1.06,-51.9,0.826
+KivancOzbilgic MACD ReLoaded (1d),PFE,232.0,32.3,-0.024,-5.5,0.98,-52.7,-0.312
+KivancOzbilgic MACD ReLoaded (1d),PH,231.0,34.2,-0.059,-13.6,0.96,-41.7,-0.012
+KivancOzbilgic MACD ReLoaded (1d),PLD,222.0,38.3,-0.01,-2.3,0.99,-41.3,0.1
+KivancOzbilgic MACD ReLoaded (1d),PODD,193.0,40.9,0.169,32.7,1.15,-30.3,1.403
+KivancOzbilgic MACD ReLoaded (1d),PPG,227.0,36.1,-0.046,-10.3,0.96,-40.2,-0.184
+KivancOzbilgic MACD ReLoaded (1d),PSA,248.0,31.5,-0.226,-56.0,0.81,-89.7,-0.562
+KivancOzbilgic MACD ReLoaded (1d),PSX,152.0,36.2,0.184,28.0,1.15,-55.1,0.507
+KivancOzbilgic MACD ReLoaded (1d),Q,9.0,22.2,-0.907,-8.2,0.33,-7.8,-3.977
+KivancOzbilgic MACD ReLoaded (1d),QCOM,232.0,33.6,0.032,7.5,1.02,-81.3,0.205
+KivancOzbilgic MACD ReLoaded (1d),QIA.DE,214.0,36.4,0.116,24.8,1.1,-30.2,0.15
+KivancOzbilgic MACD ReLoaded (1d),REG,216.0,34.3,-0.093,-20.1,0.92,-67.1,-0.224
+KivancOzbilgic MACD ReLoaded (1d),REGN,222.0,33.3,0.251,55.8,1.2,-37.3,0.635
+KivancOzbilgic MACD ReLoaded (1d),RHM.DE,200.0,38.5,0.698,139.5,1.53,-41.7,1.738
+KivancOzbilgic MACD ReLoaded (1d),RL,256.0,28.1,-0.49,-125.4,0.67,-142.2,-1.663
+KivancOzbilgic MACD ReLoaded (1d),ROL,252.0,31.3,-0.4,-100.9,0.67,-112.7,-1.175
+KivancOzbilgic MACD ReLoaded (1d),ROST,224.0,33.9,-0.066,-14.7,0.95,-70.1,-0.038
+KivancOzbilgic MACD ReLoaded (1d),RWE.DE,224.0,35.3,0.19,42.6,1.15,-40.5,0.271
+KivancOzbilgic MACD ReLoaded (1d),SAP.DE,263.0,30.4,-0.285,-74.9,0.8,-95.1,-0.295
+KivancOzbilgic MACD ReLoaded (1d),SBAC,241.0,31.5,-0.212,-51.2,0.83,-87.7,-0.38
+KivancOzbilgic MACD ReLoaded (1d),SHL.DE,87.0,36.8,-0.292,-25.4,0.79,-37.1,-0.341
+KivancOzbilgic MACD ReLoaded (1d),SHW,213.0,35.7,0.041,8.6,1.03,-41.8,0.245
+KivancOzbilgic MACD ReLoaded (1d),SIE.DE,258.0,30.6,-0.288,-74.3,0.79,-73.1,-0.538
+KivancOzbilgic MACD ReLoaded (1d),SLB,209.0,36.8,0.14,29.2,1.12,-36.6,0.014
+KivancOzbilgic MACD ReLoaded (1d),SNA,254.0,28.0,-0.468,-118.8,0.68,-148.9,-0.761
+KivancOzbilgic MACD ReLoaded (1d),SO,210.0,36.7,0.144,30.2,1.14,-33.4,0.305
+KivancOzbilgic MACD ReLoaded (1d),STE,246.0,32.9,-0.376,-92.5,0.71,-124.0,-0.648
+KivancOzbilgic MACD ReLoaded (1d),SY1.DE,206.0,31.6,-0.389,-80.2,0.71,-96.4,-1.242
+KivancOzbilgic MACD ReLoaded (1d),SYK,252.0,27.8,-0.44,-110.9,0.66,-120.3,-0.732
+KivancOzbilgic MACD ReLoaded (1d),T,217.0,33.6,-0.273,-59.2,0.8,-77.5,-0.46
+KivancOzbilgic MACD ReLoaded (1d),TEL,219.0,31.1,-0.358,-78.5,0.74,-118.6,-0.283
+KivancOzbilgic MACD ReLoaded (1d),TER,215.0,37.7,0.139,29.9,1.11,-49.7,0.598
+KivancOzbilgic MACD ReLoaded (1d),TFC,215.0,36.7,0.113,24.3,1.1,-30.6,0.31
+KivancOzbilgic MACD ReLoaded (1d),TGT,207.0,41.5,0.143,29.6,1.12,-26.1,0.505
+KivancOzbilgic MACD ReLoaded (1d),TJX,221.0,32.1,-0.172,-38.1,0.87,-54.1,-0.27
+KivancOzbilgic MACD ReLoaded (1d),TPR,224.0,32.6,0.03,6.6,1.02,-56.8,0.478
+KivancOzbilgic MACD ReLoaded (1d),TRMB,212.0,39.2,0.083,17.5,1.06,-58.7,0.362
+KivancOzbilgic MACD ReLoaded (1d),TRV,238.0,32.8,-0.155,-36.9,0.87,-52.4,-0.675
+KivancOzbilgic MACD ReLoaded (1d),TSCO,220.0,34.1,-0.036,-7.9,0.97,-50.8,0.056
+KivancOzbilgic MACD ReLoaded (1d),TSLA,163.0,38.7,0.876,142.8,1.73,-32.0,3.669
+KivancOzbilgic MACD ReLoaded (1d),TSN,228.0,33.3,0.161,36.7,1.13,-36.9,0.419
+KivancOzbilgic MACD ReLoaded (1d),TWLO,110.0,32.7,-0.067,-7.3,0.96,-49.6,-1.165
+KivancOzbilgic MACD ReLoaded (1d),TXT,231.0,31.6,-0.183,-42.2,0.87,-80.5,-0.12
+KivancOzbilgic MACD ReLoaded (1d),UAL,213.0,32.4,0.412,87.7,1.36,-44.2,1.155
+KivancOzbilgic MACD ReLoaded (1d),UBER,89.0,28.1,-0.507,-45.1,0.61,-55.1,-2.043
+KivancOzbilgic MACD ReLoaded (1d),UHS,217.0,35.9,0.262,56.9,1.21,-36.9,0.558
+KivancOzbilgic MACD ReLoaded (1d),UNP,246.0,31.3,-0.456,-112.2,0.65,-117.5,-0.994
+KivancOzbilgic MACD ReLoaded (1d),URI,214.0,43.5,0.285,61.0,1.22,-58.0,2.002
+KivancOzbilgic MACD ReLoaded (1d),V,207.0,30.9,-0.539,-111.5,0.59,-122.7,-1.116
+KivancOzbilgic MACD ReLoaded (1d),VNA.DE,121.0,40.5,0.318,38.4,1.3,-17.9,0.741
+KivancOzbilgic MACD ReLoaded (1d),VOW3.DE,221.0,38.0,0.526,116.1,1.49,-42.0,1.259
+KivancOzbilgic MACD ReLoaded (1d),VRSK,171.0,32.7,-0.232,-39.7,0.83,-83.6,-0.122
+KivancOzbilgic MACD ReLoaded (1d),VRT,65.0,40.0,0.308,20.0,1.19,-35.7,0.393
+KivancOzbilgic MACD ReLoaded (1d),VST,98.0,31.6,-0.072,-7.0,0.95,-57.9,-0.328
+KivancOzbilgic MACD ReLoaded (1d),WY,214.0,34.6,0.019,4.0,1.02,-39.7,0.275
+KivancOzbilgic MACD ReLoaded (1d),XOM,242.0,31.8,-0.099,-24.0,0.92,-54.2,-0.466
+KivancOzbilgic MACD ReLoaded (1d),XYZ,103.0,36.9,0.187,19.2,1.14,-31.3,1.477
+KivancOzbilgic MACD ReLoaded (1d),ZAL.DE,127.0,41.7,0.15,19.0,1.13,-27.3,1.118
+KivancOzbilgic MACD ReLoaded (1d),ZBRA,203.0,37.4,0.216,43.8,1.15,-46.6,0.601
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AAPL,121.0,45.5,1.281,155.0,2.32,-13.2,3.057
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ADBE,114.0,41.2,0.302,34.5,1.27,-28.2,1.157
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ADS.DE,121.0,39.7,0.259,31.4,1.24,-29.3,0.693
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AEE,110.0,41.8,0.342,37.6,1.34,-24.0,0.447
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AFL,119.0,37.0,0.233,27.7,1.22,-17.4,0.588
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AIR.DE,119.0,34.5,0.417,49.6,1.41,-23.1,1.214
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AKAM,107.0,40.2,0.148,15.9,1.1,-24.2,0.511
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ALGN,117.0,32.5,0.597,69.9,1.5,-25.1,2.508
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ALV.DE,115.0,38.3,0.411,47.2,1.38,-24.4,0.898
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AMD,103.0,43.7,1.375,141.6,2.09,-36.3,7.11
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AME,125.0,40.0,0.338,42.2,1.38,-15.7,0.608
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AMGN,106.0,39.6,0.709,75.1,1.71,-18.1,1.362
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AMP,96.0,47.9,0.866,83.1,1.91,-9.5,2.741
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ANET,67.0,44.8,0.755,50.6,1.68,-19.0,2.345
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",APO,82.0,48.8,0.446,36.6,1.44,-24.0,1.874
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ATO,124.0,38.7,0.294,36.5,1.32,-20.3,0.31
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AVY,117.0,37.6,0.22,25.7,1.18,-26.8,0.457
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AWK,99.0,41.4,0.385,38.1,1.42,-18.4,0.521
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AXON,113.0,38.9,0.753,85.1,1.61,-19.6,2.433
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",AZO,116.0,42.2,0.603,70.0,1.62,-19.3,1.471
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BAC,115.0,39.1,0.131,15.1,1.1,-27.0,1.185
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BAS.DE,111.0,41.4,0.221,24.6,1.19,-24.0,0.764
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BAYN.DE,117.0,40.2,-0.03,-3.6,0.98,-48.7,0.515
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BE,37.0,40.5,2.947,109.0,4.0,-7.3,19.611
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BEI.DE,115.0,37.4,-0.12,-13.8,0.9,-31.3,-0.32
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BF-B,119.0,34.5,0.115,13.7,1.11,-31.1,0.044
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BIIB,110.0,30.9,0.082,9.1,1.06,-46.4,-0.542
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BLK,110.0,42.7,0.77,84.7,1.72,-13.5,1.995
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BMW.DE,119.0,33.6,0.082,9.8,1.07,-24.8,-0.048
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BNR.DE,83.0,37.3,0.069,5.7,1.05,-24.8,0.373
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BNY,120.0,40.8,0.231,27.7,1.22,-31.0,-0.145
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",BRO,125.0,40.0,0.379,47.4,1.31,-41.7,0.375
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",C,114.0,41.2,-0.03,-3.4,0.98,-35.6,-0.834
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CBK.DE,116.0,40.5,0.409,47.4,1.37,-34.1,0.865
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CCL,116.0,33.6,-0.102,-11.9,0.93,-66.4,0.333
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CEG,22.0,40.9,2.022,44.5,3.32,-10.2,6.2
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CF,113.0,39.8,0.541,61.2,1.52,-30.3,2.043
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CFG,59.0,44.1,0.67,39.5,1.84,-10.9,2.341
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CHD,107.0,43.9,0.899,96.2,1.92,-16.6,1.647
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CINF,112.0,43.8,0.632,70.8,1.68,-15.5,1.015
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CMI,111.0,39.6,0.535,59.4,1.5,-24.1,1.581
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CNC,118.0,42.4,0.378,44.6,1.38,-38.3,1.486
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",COF,119.0,35.3,0.012,1.5,1.01,-20.7,0.696
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CON.DE,119.0,38.7,-0.132,-15.7,0.9,-58.6,0.081
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",COST,109.0,45.9,0.828,90.2,1.78,-13.7,1.515
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CPAY,80.0,43.8,0.773,61.8,1.84,-21.4,1.923
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CSX,104.0,51.0,0.787,81.8,1.91,-10.8,1.674
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CTSH,121.0,39.7,0.107,12.9,1.1,-29.8,0.443
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",CVS,114.0,43.0,0.213,24.3,1.2,-32.0,0.507
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DASH,24.0,50.0,1.314,31.5,2.4,-12.1,3.306
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DB1.DE,118.0,35.6,0.427,50.4,1.39,-27.2,0.75
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DBK.DE,113.0,36.3,0.091,10.2,1.08,-24.9,1.0
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DD,122.0,35.2,-0.068,-8.3,0.94,-33.9,0.173
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DDOG,36.0,36.1,1.19,42.8,2.07,-13.9,5.527
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DELL,56.0,37.5,1.27,71.1,1.92,-18.1,5.12
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DGX,114.0,46.5,0.359,41.0,1.44,-16.2,0.77
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DHL.DE,113.0,42.5,0.575,64.9,1.54,-20.0,1.463
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DHR,118.0,39.0,0.291,34.4,1.28,-24.4,0.618
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DLTR,106.0,41.5,0.882,93.5,1.79,-16.8,2.729
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DPZ,116.0,48.3,0.763,88.5,1.8,-22.3,2.409
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DTE.DE,117.0,42.7,0.219,25.6,1.2,-23.7,0.354
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DTG.DE,22.0,54.5,1.69,37.2,2.86,-7.4,3.578
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DVA,129.0,38.0,0.035,4.5,1.03,-31.3,0.181
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",DVN,117.0,44.4,0.252,29.5,1.23,-25.3,1.009
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ED,109.0,42.2,0.485,52.8,1.49,-10.5,0.717
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EL,109.0,42.2,0.342,37.3,1.29,-35.4,1.034
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ELV,130.0,36.2,0.094,12.2,1.09,-27.3,0.404
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EMR,108.0,43.5,0.329,35.6,1.35,-19.0,1.182
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ENR.DE,28.0,32.1,1.198,33.6,1.9,-18.3,8.696
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EOAN.DE,106.0,36.8,0.305,32.4,1.27,-41.8,0.531
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EQIX,117.0,38.5,0.41,47.9,1.41,-12.7,1.327
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EQT,114.0,31.6,0.125,14.3,1.1,-34.4,1.01
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EW,114.0,43.9,0.395,45.1,1.29,-38.2,0.968
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",EXC,121.0,37.2,0.006,0.8,1.01,-49.5,-0.134
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FICO,117.0,45.3,0.594,69.5,1.57,-17.3,1.978
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FISV,118.0,38.1,0.336,39.7,1.3,-34.7,0.484
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FITB,112.0,40.2,0.174,19.5,1.15,-28.2,3.792
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FIX,107.0,47.7,0.883,94.5,1.87,-12.6,3.189
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FME.DE,119.0,37.8,-0.267,-31.8,0.8,-50.4,-0.363
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FOXA,31.0,54.8,1.297,40.2,2.88,-7.7,3.225
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FRE.DE,116.0,40.5,0.429,49.8,1.42,-21.4,1.157
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",FTV,44.0,38.6,0.553,24.3,1.5,-9.7,1.682
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",G1A.DE,112.0,47.3,0.441,49.3,1.45,-18.8,1.3
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",G24.DE,57.0,36.8,0.328,18.7,1.33,-18.1,1.005
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",GD,119.0,42.9,0.268,31.9,1.3,-18.0,0.808
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",GL,120.0,38.3,0.144,17.2,1.14,-17.8,0.616
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",GOOG,117.0,44.4,1.133,132.6,2.21,-14.7,2.534
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",GOOGL,116.0,44.8,1.143,132.6,2.23,-14.6,2.625
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",HEI.DE,111.0,45.0,0.365,40.6,1.33,-35.1,1.519
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",HEN3.DE,116.0,35.3,0.344,39.9,1.33,-37.4,0.87
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",HNR1.DE,130.0,39.2,0.248,32.2,1.24,-26.6,0.561
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",HPE,51.0,49.0,0.984,50.2,1.93,-11.3,3.687
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IBKR,98.0,37.8,0.984,96.5,2.02,-20.9,1.401
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IBM,107.0,40.2,0.469,50.2,1.42,-30.2,0.852
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ICE,108.0,44.4,0.762,82.3,1.8,-14.1,1.641
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IEX,117.0,49.6,0.387,45.2,1.43,-15.2,0.709
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IFF,114.0,36.8,0.158,18.1,1.14,-26.7,0.064
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IFX.DE,124.0,35.5,0.153,19.0,1.12,-22.5,2.423
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IR,48.0,43.8,0.116,5.6,1.09,-15.5,0.99
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",IRM,121.0,38.8,0.231,28.0,1.19,-17.1,0.783
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ITW,116.0,43.1,0.38,44.0,1.39,-19.5,1.049
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",JBHT,113.0,43.4,0.225,25.4,1.21,-21.1,1.155
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",JNJ,112.0,45.5,0.702,78.7,1.68,-13.7,0.948
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",JPM,122.0,37.7,0.334,40.8,1.32,-17.3,0.525
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",KEYS,61.0,41.0,0.607,37.1,1.57,-9.8,1.781
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",KLAC,124.0,43.5,0.22,27.3,1.22,-28.5,0.864
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",KMI,71.0,40.8,0.018,1.2,1.02,-15.9,-0.077
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",KO,129.0,34.9,0.044,5.7,1.04,-27.6,-0.005
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",LEN,123.0,35.0,-0.057,-7.0,0.95,-25.5,-0.135
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",LIN,117.0,40.2,0.168,19.7,1.17,-27.9,0.637
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",LNT,117.0,45.3,0.459,53.7,1.52,-13.6,0.518
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",LYV,107.0,43.0,0.606,64.9,1.56,-19.1,2.307
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MAA,118.0,39.8,0.063,7.5,1.06,-28.2,-0.051
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MAR,126.0,40.5,0.456,57.4,1.43,-36.5,0.785
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MBG.DE,118.0,36.4,0.233,27.4,1.22,-22.7,0.685
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MCD,117.0,38.5,0.464,54.3,1.4,-15.9,0.709
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MDLZ,113.0,41.6,0.414,46.7,1.5,-15.3,0.817
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MDT,100.0,45.0,0.288,28.8,1.27,-19.7,0.536
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MGM,116.0,38.8,0.179,20.8,1.16,-35.3,0.826
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MMM,110.0,37.3,0.238,26.2,1.21,-30.0,0.294
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MO,104.0,46.2,0.736,76.5,1.71,-19.8,0.796
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MOS,104.0,39.4,0.164,17.1,1.13,-42.2,1.495
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MPWR,105.0,47.6,0.828,87.0,2.03,-14.6,3.91
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MRK.DE,119.0,39.5,0.302,36.0,1.28,-28.5,0.545
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MRVL,111.0,36.9,0.602,66.8,1.53,-22.9,3.437
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MSCI,105.0,44.8,0.918,96.4,2.12,-21.6,2.107
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MTB,123.0,32.5,0.032,4.0,1.03,-34.5,-0.258
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MTD,106.0,50.0,1.143,121.2,2.32,-13.3,2.85
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MTX.DE,106.0,40.6,0.644,68.3,1.65,-14.9,1.662
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",MUV2.DE,119.0,39.5,0.328,39.0,1.29,-21.1,0.718
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",NKE,113.0,36.3,0.287,32.5,1.24,-31.0,0.423
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",NUE,112.0,43.8,0.568,63.6,1.56,-12.9,2.173
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",NVDA,113.0,43.4,1.585,179.1,2.54,-15.3,5.684
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",NWS,63.0,46.0,0.425,26.8,1.44,-12.4,1.309
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",NWSA,59.0,45.8,0.373,22.0,1.36,-12.2,1.224
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",O,112.0,41.1,0.231,25.8,1.24,-13.0,0.43
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",OXY,113.0,37.2,0.306,34.6,1.26,-22.7,0.822
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",P,57.0,47.4,0.738,42.0,1.65,-14.8,2.955
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PAH3.DE,88.0,37.5,0.201,17.7,1.17,-32.4,0.211
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PCAR,115.0,36.5,0.079,9.0,1.07,-35.1,0.129
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PCG,112.0,40.2,0.074,8.3,1.07,-25.1,0.971
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PFE,116.0,32.8,0.139,16.1,1.11,-36.2,-0.055
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PH,116.0,44.0,0.556,64.5,1.54,-14.0,1.703
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PLD,111.0,44.1,0.487,54.1,1.5,-15.8,1.052
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PODD,97.0,49.5,0.706,68.5,1.86,-13.4,3.482
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PPG,114.0,40.4,0.22,25.1,1.2,-26.5,0.633
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PSA,124.0,38.7,0.292,36.2,1.29,-29.3,0.346
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",PSX,76.0,47.4,0.675,51.3,1.65,-23.4,2.279
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",Q,5.0,20.0,-0.695,-3.5,0.41,-5.5,-2.896
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",QCOM,116.0,33.6,0.439,50.9,1.42,-32.0,1.345
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",QIA.DE,107.0,43.0,0.506,54.2,1.45,-18.9,1.179
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",REG,108.0,39.8,0.213,23.0,1.22,-30.1,0.196
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",REGN,111.0,41.4,1.098,121.9,2.11,-15.1,3.682
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",RHM.DE,100.0,46.0,1.674,167.4,2.48,-16.4,4.393
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",RL,128.0,35.2,-0.088,-11.3,0.93,-44.2,-0.314
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ROL,126.0,40.5,0.29,36.6,1.29,-21.9,0.125
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ROST,112.0,42.0,0.724,81.1,1.74,-30.1,1.84
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",RWE.DE,112.0,38.4,0.389,43.6,1.31,-46.6,0.829
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SAP.DE,132.0,37.9,0.164,21.7,1.14,-23.5,0.681
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SBAC,121.0,40.5,0.405,49.0,1.39,-14.2,1.247
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SHL.DE,44.0,34.1,-0.06,-2.7,0.96,-24.3,0.086
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SHW,107.0,43.0,0.867,92.8,1.91,-22.3,1.971
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SIE.DE,129.0,38.8,0.054,6.9,1.05,-24.8,0.385
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SLB,104.0,41.3,0.355,36.9,1.33,-21.0,0.837
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SNA,127.0,37.0,0.088,11.2,1.08,-29.4,0.464
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SO,105.0,42.9,0.501,52.6,1.58,-13.5,0.902
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",STE,123.0,38.2,0.237,29.2,1.24,-15.6,0.546
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SY1.DE,103.0,37.9,-0.02,-2.0,0.98,-21.9,-0.221
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",SYK,126.0,35.7,0.041,5.1,1.04,-17.7,0.215
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",T,108.0,35.2,-0.098,-10.6,0.92,-37.6,-0.24
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TEL,110.0,41.8,0.085,9.4,1.08,-20.8,1.026
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TER,107.0,44.9,0.734,78.5,1.78,-11.1,2.908
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TFC,108.0,40.7,0.24,25.9,1.27,-18.4,0.811
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TGT,104.0,49.0,0.469,48.7,1.48,-19.3,1.406
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TJX,110.0,43.6,0.611,67.2,1.66,-15.0,1.434
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TPR,112.0,32.1,0.345,38.7,1.28,-39.5,2.049
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TRMB,106.0,43.4,0.543,57.6,1.44,-24.0,1.836
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TRV,119.0,41.2,0.491,58.5,1.53,-17.8,0.507
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TSCO,110.0,41.8,0.532,58.6,1.54,-14.4,1.936
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TSLA,82.0,39.0,2.162,177.3,3.05,-15.8,9.386
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TSN,114.0,39.5,0.53,60.4,1.47,-24.4,1.438
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TWLO,55.0,34.5,0.688,37.9,1.5,-29.1,1.922
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",TXT,116.0,35.3,0.186,21.6,1.15,-29.7,0.969
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",UAL,107.0,34.6,0.814,87.1,1.77,-17.1,3.314
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",UBER,45.0,31.1,-0.14,-6.3,0.88,-22.5,-0.508
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",UHS,109.0,41.3,0.784,85.5,1.69,-21.7,2.073
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",UNP,123.0,40.7,0.221,27.2,1.22,-18.6,0.407
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",URI,107.0,50.5,1.026,109.7,1.93,-38.8,5.327
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",V,104.0,45.2,0.461,47.9,1.58,-20.8,0.691
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",VNA.DE,61.0,39.3,0.613,37.4,1.63,-16.5,1.199
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",VOW3.DE,111.0,39.6,0.949,105.3,2.02,-38.1,2.386
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",VRSK,86.0,39.5,0.461,39.6,1.43,-21.8,1.22
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",VRT,33.0,57.6,1.929,63.6,2.66,-18.8,6.641
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",VST,49.0,36.7,0.809,39.7,1.59,-25.3,2.651
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",WY,107.0,35.5,-0.052,-5.5,0.96,-28.4,0.284
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",XOM,121.0,34.7,0.11,13.3,1.1,-25.6,0.247
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",XYZ,52.0,46.2,1.019,53.0,2.01,-12.7,5.172
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ZAL.DE,64.0,39.1,0.313,20.1,1.26,-19.0,1.975
+"KivancOzbilgic MACD ReLoaded (1d, nur Long)",ZBRA,101.0,44.6,0.712,71.9,1.63,-31.1,2.147
 KivancOzbilgic SuperTrend (1d),AAPL,164.0,38.4,0.734,120.3,1.51,-25.6,2.08
 KivancOzbilgic SuperTrend (1d),ADBE,164.0,37.2,-0.083,-13.7,0.95,-37.0,0.056
 KivancOzbilgic SuperTrend (1d),ADS.DE,172.0,32.6,-0.143,-24.7,0.91,-58.5,-0.395
@@ -7361,6 +8353,205 @@ Squeeze + EMA21/34 (1w),XOM,36.0,19.4,-0.11,-4.0,0.89,-18.6,-1.046
 Squeeze + EMA21/34 (1w),XYZ,10.0,30.0,5.208,52.1,6.19,-9.2,34.719
 Squeeze + EMA21/34 (1w),ZAL.DE,5.0,60.0,1.333,6.7,6.06,-1.3,7.68
 Squeeze + EMA21/34 (1w),ZBRA,15.0,46.7,2.289,34.3,4.61,-5.4,8.828
+Sy Harding Six-Month Cycle MACD (1d),AAPL,23.0,78.3,5.069,116.6,5.47,-12.5,11.389
+Sy Harding Six-Month Cycle MACD (1d),ADBE,23.0,60.9,3.223,74.1,2.23,-37.5,6.521
+Sy Harding Six-Month Cycle MACD (1d),ADS.DE,23.0,60.9,2.766,63.6,2.34,-21.4,6.92
+Sy Harding Six-Month Cycle MACD (1d),AEE,23.0,65.2,2.108,48.5,2.38,-23.1,2.584
+Sy Harding Six-Month Cycle MACD (1d),AFL,23.0,73.9,2.749,63.2,2.6,-22.2,5.13
+Sy Harding Six-Month Cycle MACD (1d),AIR.DE,23.0,73.9,3.712,85.4,2.54,-25.4,10.924
+Sy Harding Six-Month Cycle MACD (1d),AKAM,23.0,52.2,3.763,86.5,2.54,-24.9,11.251
+Sy Harding Six-Month Cycle MACD (1d),ALGN,23.0,69.6,3.949,90.8,2.87,-17.2,16.594
+Sy Harding Six-Month Cycle MACD (1d),ALV.DE,23.0,78.3,4.684,107.7,3.96,-15.7,9.313
+Sy Harding Six-Month Cycle MACD (1d),AMD,23.0,60.9,2.487,57.2,1.82,-29.4,16.069
+Sy Harding Six-Month Cycle MACD (1d),AME,23.0,78.3,6.011,138.2,7.78,-7.1,11.805
+Sy Harding Six-Month Cycle MACD (1d),AMGN,23.0,52.2,0.533,12.3,1.22,-29.6,0.931
+Sy Harding Six-Month Cycle MACD (1d),AMP,22.0,72.7,3.754,82.6,3.1,-10.7,10.285
+Sy Harding Six-Month Cycle MACD (1d),ANET,13.0,69.2,6.658,86.6,5.09,-11.2,18.124
+Sy Harding Six-Month Cycle MACD (1d),APO,16.0,62.5,3.246,51.9,3.05,-8.3,11.38
+Sy Harding Six-Month Cycle MACD (1d),ATO,23.0,82.6,4.649,106.9,9.93,-7.6,8.027
+Sy Harding Six-Month Cycle MACD (1d),AVY,23.0,69.6,4.197,96.5,3.28,-12.1,8.293
+Sy Harding Six-Month Cycle MACD (1d),AWK,19.0,68.4,4.088,77.7,12.71,-3.7,6.813
+Sy Harding Six-Month Cycle MACD (1d),AXON,23.0,56.5,5.155,118.6,2.84,-14.4,13.422
+Sy Harding Six-Month Cycle MACD (1d),AZO,23.0,78.3,6.436,148.0,9.68,-4.8,14.172
+Sy Harding Six-Month Cycle MACD (1d),BAC,23.0,56.5,1.636,37.6,1.59,-24.4,3.39
+Sy Harding Six-Month Cycle MACD (1d),BAS.DE,23.0,69.6,3.944,90.7,3.47,-15.5,9.321
+Sy Harding Six-Month Cycle MACD (1d),BAYN.DE,23.0,65.2,3.447,79.3,2.57,-24.2,8.62
+Sy Harding Six-Month Cycle MACD (1d),BE,9.0,66.7,3.914,35.2,6.36,-4.4,33.714
+Sy Harding Six-Month Cycle MACD (1d),BEI.DE,23.0,60.9,2.93,67.4,2.5,-17.1,4.63
+Sy Harding Six-Month Cycle MACD (1d),BF-B,23.0,69.6,2.589,59.5,2.59,-23.0,4.44
+Sy Harding Six-Month Cycle MACD (1d),BIIB,23.0,60.9,1.253,28.8,1.32,-50.6,3.411
+Sy Harding Six-Month Cycle MACD (1d),BLK,23.0,73.9,4.651,107.0,4.48,-13.7,9.444
+Sy Harding Six-Month Cycle MACD (1d),BMW.DE,23.0,65.2,2.439,56.1,2.52,-13.0,7.745
+Sy Harding Six-Month Cycle MACD (1d),BNR.DE,17.0,70.6,5.089,86.5,6.69,-5.1,11.773
+Sy Harding Six-Month Cycle MACD (1d),BNY,23.0,69.6,3.044,70.0,2.91,-9.2,6.508
+Sy Harding Six-Month Cycle MACD (1d),BRO,23.0,73.9,3.492,80.3,3.08,-27.9,6.241
+Sy Harding Six-Month Cycle MACD (1d),C,23.0,56.5,2.012,46.3,1.91,-14.6,2.727
+Sy Harding Six-Month Cycle MACD (1d),CBK.DE,23.0,56.5,2.772,63.7,2.01,-39.1,3.759
+Sy Harding Six-Month Cycle MACD (1d),CCL,23.0,34.8,-0.821,-18.9,0.76,-32.4,-0.029
+Sy Harding Six-Month Cycle MACD (1d),CEG,6.0,50.0,2.047,12.3,1.74,-13.8,2.253
+Sy Harding Six-Month Cycle MACD (1d),CF,22.0,63.6,5.129,112.8,3.36,-26.3,17.934
+Sy Harding Six-Month Cycle MACD (1d),CFG,13.0,53.8,2.277,29.6,1.86,-17.5,7.216
+Sy Harding Six-Month Cycle MACD (1d),CHD,23.0,78.3,7.088,163.0,13.15,-7.7,10.974
+Sy Harding Six-Month Cycle MACD (1d),CINF,23.0,65.2,2.58,59.4,2.2,-22.5,6.348
+Sy Harding Six-Month Cycle MACD (1d),CMI,23.0,69.6,3.636,83.6,2.93,-9.7,9.284
+Sy Harding Six-Month Cycle MACD (1d),CNC,23.0,65.2,4.551,104.7,3.13,-18.1,15.154
+Sy Harding Six-Month Cycle MACD (1d),COF,23.0,47.8,0.794,18.3,1.29,-19.8,2.06
+Sy Harding Six-Month Cycle MACD (1d),CON.DE,23.0,78.3,2.842,65.4,2.35,-27.0,6.204
+Sy Harding Six-Month Cycle MACD (1d),COST,23.0,82.6,5.271,121.2,10.65,-3.3,7.984
+Sy Harding Six-Month Cycle MACD (1d),CPAY,17.0,76.5,5.339,90.8,4.08,-12.0,13.078
+Sy Harding Six-Month Cycle MACD (1d),CSX,23.0,78.3,6.286,144.6,7.01,-11.6,12.675
+Sy Harding Six-Month Cycle MACD (1d),CTSH,23.0,60.9,2.241,51.5,2.34,-13.7,6.347
+Sy Harding Six-Month Cycle MACD (1d),CVS,23.0,60.9,3.332,76.6,2.93,-28.8,5.873
+Sy Harding Six-Month Cycle MACD (1d),DASH,7.0,42.9,-0.731,-5.1,0.84,-16.1,-1.011
+Sy Harding Six-Month Cycle MACD (1d),DB1.DE,23.0,78.3,7.866,180.9,12.87,-9.3,12.733
+Sy Harding Six-Month Cycle MACD (1d),DBK.DE,23.0,52.2,1.951,44.9,1.77,-23.8,7.169
+Sy Harding Six-Month Cycle MACD (1d),DD,23.0,56.5,1.929,44.4,1.8,-22.2,5.157
+Sy Harding Six-Month Cycle MACD (1d),DDOG,8.0,37.5,0.472,3.8,1.13,-14.3,4.766
+Sy Harding Six-Month Cycle MACD (1d),DELL,10.0,60.0,5.237,52.4,2.54,-11.0,15.257
+Sy Harding Six-Month Cycle MACD (1d),DGX,23.0,69.6,2.7,62.1,3.0,-11.7,6.193
+Sy Harding Six-Month Cycle MACD (1d),DHL.DE,23.0,56.5,2.929,67.4,3.02,-11.4,5.594
+Sy Harding Six-Month Cycle MACD (1d),DHR,23.0,65.2,3.454,79.4,3.09,-19.8,5.992
+Sy Harding Six-Month Cycle MACD (1d),DLTR,23.0,87.0,5.827,134.0,5.1,-17.9,16.216
+Sy Harding Six-Month Cycle MACD (1d),DPZ,23.0,87.0,5.759,132.5,9.63,-6.2,16.086
+Sy Harding Six-Month Cycle MACD (1d),DTE.DE,23.0,52.2,1.117,25.7,1.41,-24.1,2.686
+Sy Harding Six-Month Cycle MACD (1d),DTG.DE,6.0,66.7,4.82,28.9,4.35,-2.4,10.136
+Sy Harding Six-Month Cycle MACD (1d),DVA,23.0,65.2,3.421,78.7,2.89,-18.2,9.135
+Sy Harding Six-Month Cycle MACD (1d),DVN,23.0,52.2,2.189,50.3,1.92,-15.6,6.199
+Sy Harding Six-Month Cycle MACD (1d),ED,23.0,73.9,2.59,59.6,3.07,-11.1,4.174
+Sy Harding Six-Month Cycle MACD (1d),EL,23.0,73.9,5.02,115.4,4.18,-17.9,9.393
+Sy Harding Six-Month Cycle MACD (1d),ELV,23.0,73.9,3.412,78.5,3.24,-22.4,8.678
+Sy Harding Six-Month Cycle MACD (1d),EMR,23.0,73.9,3.342,76.9,3.91,-11.3,6.424
+Sy Harding Six-Month Cycle MACD (1d),ENR.DE,7.0,71.4,12.479,87.4,12.1,-7.0,48.851
+Sy Harding Six-Month Cycle MACD (1d),EOAN.DE,23.0,52.2,2.775,63.8,3.74,-8.9,5.393
+Sy Harding Six-Month Cycle MACD (1d),EQIX,23.0,73.9,4.083,93.9,4.37,-7.8,12.682
+Sy Harding Six-Month Cycle MACD (1d),EQT,23.0,52.2,2.616,60.2,2.41,-22.5,8.145
+Sy Harding Six-Month Cycle MACD (1d),EW,23.0,82.6,6.208,142.8,22.76,-3.3,13.445
+Sy Harding Six-Month Cycle MACD (1d),EXC,23.0,60.9,2.493,57.3,2.4,-20.5,4.457
+Sy Harding Six-Month Cycle MACD (1d),FICO,23.0,52.2,4.686,107.8,4.17,-17.6,12.646
+Sy Harding Six-Month Cycle MACD (1d),FISV,23.0,78.3,4.64,106.7,3.93,-22.2,7.891
+Sy Harding Six-Month Cycle MACD (1d),FITB,23.0,60.9,1.268,29.2,1.43,-17.1,2.424
+Sy Harding Six-Month Cycle MACD (1d),FIX,23.0,69.6,6.158,141.6,6.46,-12.2,19.828
+Sy Harding Six-Month Cycle MACD (1d),FME.DE,23.0,73.9,3.797,87.3,4.23,-8.7,7.764
+Sy Harding Six-Month Cycle MACD (1d),FOXA,8.0,62.5,1.906,15.2,2.29,-2.4,5.843
+Sy Harding Six-Month Cycle MACD (1d),FRE.DE,23.0,65.2,4.418,101.6,3.26,-31.8,8.938
+Sy Harding Six-Month Cycle MACD (1d),FTV,11.0,72.7,1.96,21.6,1.8,-18.1,4.921
+Sy Harding Six-Month Cycle MACD (1d),G1A.DE,23.0,69.6,4.28,98.4,5.02,-17.2,11.379
+Sy Harding Six-Month Cycle MACD (1d),G24.DE,12.0,75.0,5.868,70.4,3.91,-16.4,10.303
+Sy Harding Six-Month Cycle MACD (1d),GD,23.0,65.2,3.759,86.5,4.06,-17.1,6.53
+Sy Harding Six-Month Cycle MACD (1d),GL,23.0,69.6,1.914,44.0,1.75,-32.5,3.194
+Sy Harding Six-Month Cycle MACD (1d),GOOG,23.0,73.9,4.558,104.8,5.08,-8.3,9.399
+Sy Harding Six-Month Cycle MACD (1d),GOOGL,23.0,73.9,4.46,102.6,4.94,-8.3,9.286
+Sy Harding Six-Month Cycle MACD (1d),HEI.DE,23.0,69.6,7.337,168.7,6.9,-15.2,19.002
+Sy Harding Six-Month Cycle MACD (1d),HEN3.DE,23.0,65.2,2.239,51.5,1.73,-42.3,4.917
+Sy Harding Six-Month Cycle MACD (1d),HNR1.DE,23.0,87.0,5.569,128.1,10.09,-9.0,11.342
+Sy Harding Six-Month Cycle MACD (1d),HPE,12.0,75.0,3.728,44.7,2.6,-14.1,14.576
+Sy Harding Six-Month Cycle MACD (1d),IBKR,20.0,55.0,4.328,86.6,4.77,-15.7,7.57
+Sy Harding Six-Month Cycle MACD (1d),IBM,23.0,65.2,0.905,20.8,1.42,-10.0,2.719
+Sy Harding Six-Month Cycle MACD (1d),ICE,22.0,81.8,4.53,99.7,12.52,-4.6,12.3
+Sy Harding Six-Month Cycle MACD (1d),IEX,23.0,73.9,4.674,107.5,5.4,-14.2,9.613
+Sy Harding Six-Month Cycle MACD (1d),IFF,23.0,65.2,3.089,71.1,2.23,-19.6,6.605
+Sy Harding Six-Month Cycle MACD (1d),IFX.DE,23.0,65.2,4.613,106.1,4.19,-9.6,14.605
+Sy Harding Six-Month Cycle MACD (1d),IR,10.0,70.0,2.767,27.7,2.33,-14.4,7.548
+Sy Harding Six-Month Cycle MACD (1d),IRM,23.0,73.9,2.188,50.3,1.89,-19.5,6.487
+Sy Harding Six-Month Cycle MACD (1d),ITW,23.0,78.3,3.96,91.1,5.74,-8.4,7.78
+Sy Harding Six-Month Cycle MACD (1d),JBHT,23.0,65.2,3.216,74.0,3.15,-21.2,9.238
+Sy Harding Six-Month Cycle MACD (1d),JNJ,23.0,56.5,2.921,67.2,3.52,-8.8,3.544
+Sy Harding Six-Month Cycle MACD (1d),JPM,23.0,78.3,3.777,86.9,3.56,-12.1,7.666
+Sy Harding Six-Month Cycle MACD (1d),KEYS,13.0,53.8,6.226,80.9,3.74,-11.4,13.464
+Sy Harding Six-Month Cycle MACD (1d),KLAC,23.0,65.2,4.503,103.6,4.85,-7.4,13.5
+Sy Harding Six-Month Cycle MACD (1d),KMI,16.0,56.2,-0.043,-0.7,0.99,-37.0,1.09
+Sy Harding Six-Month Cycle MACD (1d),KO,23.0,78.3,3.747,86.2,4.44,-18.0,5.517
+Sy Harding Six-Month Cycle MACD (1d),LEN,23.0,60.9,0.961,22.1,1.34,-28.3,6.843
+Sy Harding Six-Month Cycle MACD (1d),LIN,23.0,87.0,4.652,107.0,9.62,-6.8,8.684
+Sy Harding Six-Month Cycle MACD (1d),LNT,23.0,73.9,4.213,96.9,5.41,-5.4,6.256
+Sy Harding Six-Month Cycle MACD (1d),LYV,22.0,59.1,1.692,37.2,1.75,-21.8,4.55
+Sy Harding Six-Month Cycle MACD (1d),MAA,23.0,60.9,0.804,18.5,1.35,-26.2,3.806
+Sy Harding Six-Month Cycle MACD (1d),MAR,23.0,73.9,5.566,128.0,4.72,-17.2,13.446
+Sy Harding Six-Month Cycle MACD (1d),MBG.DE,23.0,60.9,1.85,42.6,1.7,-19.3,5.795
+Sy Harding Six-Month Cycle MACD (1d),MCD,23.0,78.3,4.783,110.0,10.37,-4.0,7.426
+Sy Harding Six-Month Cycle MACD (1d),MDLZ,23.0,65.2,1.863,42.8,2.31,-14.0,3.521
+Sy Harding Six-Month Cycle MACD (1d),MDT,23.0,65.2,1.724,39.7,1.94,-14.5,3.256
+Sy Harding Six-Month Cycle MACD (1d),MGM,23.0,69.6,2.127,48.9,1.87,-22.0,7.568
+Sy Harding Six-Month Cycle MACD (1d),MMM,23.0,56.5,2.39,55.0,2.2,-13.6,3.816
+Sy Harding Six-Month Cycle MACD (1d),MO,23.0,65.2,0.243,5.6,1.06,-74.0,0.985
+Sy Harding Six-Month Cycle MACD (1d),MOS,23.0,65.2,4.138,95.2,3.4,-19.0,13.515
+Sy Harding Six-Month Cycle MACD (1d),MPWR,23.0,82.6,4.525,104.1,6.38,-12.1,17.072
+Sy Harding Six-Month Cycle MACD (1d),MRK.DE,23.0,60.9,2.503,57.6,2.4,-20.9,5.816
+Sy Harding Six-Month Cycle MACD (1d),MRVL,23.0,65.2,2.926,67.3,3.15,-10.9,9.838
+Sy Harding Six-Month Cycle MACD (1d),MSCI,20.0,70.0,5.707,114.1,6.32,-12.9,14.416
+Sy Harding Six-Month Cycle MACD (1d),MTB,23.0,65.2,1.706,39.2,1.72,-16.8,3.721
+Sy Harding Six-Month Cycle MACD (1d),MTD,23.0,65.2,6.608,152.0,4.54,-14.3,13.08
+Sy Harding Six-Month Cycle MACD (1d),MTX.DE,22.0,77.3,4.703,103.5,3.11,-23.1,12.647
+Sy Harding Six-Month Cycle MACD (1d),MUV2.DE,23.0,73.9,3.82,87.9,4.35,-14.1,7.716
+Sy Harding Six-Month Cycle MACD (1d),NKE,23.0,52.2,1.396,32.1,1.54,-32.9,2.551
+Sy Harding Six-Month Cycle MACD (1d),NUE,23.0,73.9,5.79,133.2,5.5,-13.1,19.041
+Sy Harding Six-Month Cycle MACD (1d),NVDA,22.0,63.6,6.686,147.1,5.82,-13.7,23.024
+Sy Harding Six-Month Cycle MACD (1d),NWS,14.0,50.0,1.252,17.5,1.54,-17.7,3.821
+Sy Harding Six-Month Cycle MACD (1d),NWSA,14.0,50.0,1.227,17.2,1.52,-17.0,3.936
+Sy Harding Six-Month Cycle MACD (1d),O,23.0,69.6,2.177,50.1,1.99,-27.3,5.046
+Sy Harding Six-Month Cycle MACD (1d),OXY,23.0,56.5,2.281,52.5,1.87,-29.7,10.614
+Sy Harding Six-Month Cycle MACD (1d),P,12.0,41.7,0.511,6.1,1.18,-15.2,-1.021
+Sy Harding Six-Month Cycle MACD (1d),PAH3.DE,19.0,63.2,3.463,65.8,2.93,-15.3,9.909
+Sy Harding Six-Month Cycle MACD (1d),PCAR,23.0,73.9,3.397,78.1,3.54,-9.5,9.147
+Sy Harding Six-Month Cycle MACD (1d),PCG,23.0,78.3,1.157,26.6,1.47,-33.5,3.619
+Sy Harding Six-Month Cycle MACD (1d),PFE,23.0,52.2,0.608,14.0,1.24,-25.9,0.175
+Sy Harding Six-Month Cycle MACD (1d),PH,23.0,73.9,4.607,106.0,4.1,-9.7,11.557
+Sy Harding Six-Month Cycle MACD (1d),PLD,23.0,69.6,3.187,73.3,4.07,-13.6,7.075
+Sy Harding Six-Month Cycle MACD (1d),PODD,20.0,70.0,3.006,60.1,3.13,-12.4,9.368
+Sy Harding Six-Month Cycle MACD (1d),PPG,23.0,69.6,3.333,76.7,2.54,-16.7,7.5
+Sy Harding Six-Month Cycle MACD (1d),PSA,23.0,65.2,3.649,83.9,3.34,-17.3,6.84
+Sy Harding Six-Month Cycle MACD (1d),PSX,15.0,66.7,2.811,42.2,2.03,-23.7,7.864
+Sy Harding Six-Month Cycle MACD (1d),Q,2.0,50.0,5.053,10.1,12.95,-0.8,33.026
+Sy Harding Six-Month Cycle MACD (1d),QCOM,23.0,60.9,2.208,50.8,2.25,-22.2,5.402
+Sy Harding Six-Month Cycle MACD (1d),QIA.DE,23.0,60.9,1.988,45.7,2.15,-26.0,6.281
+Sy Harding Six-Month Cycle MACD (1d),REG,23.0,60.9,1.123,25.8,1.46,-47.5,3.74
+Sy Harding Six-Month Cycle MACD (1d),REGN,23.0,60.9,4.598,105.7,2.68,-20.6,14.536
+Sy Harding Six-Month Cycle MACD (1d),RHM.DE,23.0,78.3,11.808,271.6,7.86,-19.6,30.318
+Sy Harding Six-Month Cycle MACD (1d),RL,23.0,65.2,2.68,61.6,2.28,-27.1,8.199
+Sy Harding Six-Month Cycle MACD (1d),ROL,23.0,73.9,4.528,104.1,8.15,-9.9,8.512
+Sy Harding Six-Month Cycle MACD (1d),ROST,23.0,73.9,5.932,136.4,6.23,-12.8,15.277
+Sy Harding Six-Month Cycle MACD (1d),RWE.DE,23.0,65.2,1.959,45.0,2.11,-26.3,4.027
+Sy Harding Six-Month Cycle MACD (1d),SAP.DE,23.0,69.6,2.019,46.4,1.84,-20.0,4.245
+Sy Harding Six-Month Cycle MACD (1d),SBAC,23.0,73.9,4.395,101.1,8.32,-6.0,11.515
+Sy Harding Six-Month Cycle MACD (1d),SHL.DE,9.0,66.7,1.48,13.3,1.62,-18.2,4.8
+Sy Harding Six-Month Cycle MACD (1d),SHW,23.0,78.3,4.781,110.0,4.66,-15.2,10.599
+Sy Harding Six-Month Cycle MACD (1d),SIE.DE,23.0,69.6,3.679,84.6,3.17,-11.5,8.352
+Sy Harding Six-Month Cycle MACD (1d),SLB,23.0,56.5,2.573,59.2,2.34,-18.8,8.389
+Sy Harding Six-Month Cycle MACD (1d),SNA,23.0,69.6,4.083,93.9,4.38,-14.1,8.895
+Sy Harding Six-Month Cycle MACD (1d),SO,23.0,65.2,2.334,53.7,2.62,-11.8,3.233
+Sy Harding Six-Month Cycle MACD (1d),STE,23.0,73.9,2.987,68.7,5.22,-9.4,5.268
+Sy Harding Six-Month Cycle MACD (1d),SY1.DE,21.0,66.7,2.69,56.5,2.98,-14.3,6.685
+Sy Harding Six-Month Cycle MACD (1d),SYK,23.0,73.9,4.222,97.1,4.13,-9.6,8.067
+Sy Harding Six-Month Cycle MACD (1d),T,23.0,73.9,1.754,40.3,2.3,-13.4,3.41
+Sy Harding Six-Month Cycle MACD (1d),TEL,20.0,70.0,3.344,66.9,3.12,-14.2,6.746
+Sy Harding Six-Month Cycle MACD (1d),TER,23.0,69.6,5.156,118.6,5.27,-10.5,16.631
+Sy Harding Six-Month Cycle MACD (1d),TFC,23.0,60.9,1.022,23.5,1.37,-24.8,2.973
+Sy Harding Six-Month Cycle MACD (1d),TGT,23.0,60.9,1.545,35.5,1.58,-19.3,4.369
+Sy Harding Six-Month Cycle MACD (1d),TJX,23.0,69.6,3.343,76.9,3.85,-12.5,7.617
+Sy Harding Six-Month Cycle MACD (1d),TPR,23.0,69.6,6.505,149.6,5.37,-21.0,18.393
+Sy Harding Six-Month Cycle MACD (1d),TRMB,23.0,60.9,3.549,81.6,2.41,-15.5,11.305
+Sy Harding Six-Month Cycle MACD (1d),TRV,23.0,87.0,4.685,107.7,5.58,-13.7,8.826
+Sy Harding Six-Month Cycle MACD (1d),TSCO,23.0,82.6,4.927,113.3,5.25,-17.5,13.619
+Sy Harding Six-Month Cycle MACD (1d),TSLA,17.0,64.7,8.92,151.6,6.62,-20.7,30.452
+Sy Harding Six-Month Cycle MACD (1d),TSN,23.0,69.6,6.311,145.2,4.76,-14.4,14.093
+Sy Harding Six-Month Cycle MACD (1d),TWLO,11.0,63.6,4.689,51.6,2.97,-22.0,18.174
+Sy Harding Six-Month Cycle MACD (1d),TXT,23.0,60.9,3.829,88.1,3.09,-20.4,9.353
+Sy Harding Six-Month Cycle MACD (1d),UAL,22.0,59.1,2.027,44.6,1.75,-28.2,10.972
+Sy Harding Six-Month Cycle MACD (1d),UBER,8.0,50.0,2.251,18.0,1.89,-9.0,9.983
+Sy Harding Six-Month Cycle MACD (1d),UHS,23.0,73.9,3.082,70.9,2.84,-18.1,9.628
+Sy Harding Six-Month Cycle MACD (1d),UNP,23.0,73.9,5.731,131.8,7.41,-7.9,10.221
+Sy Harding Six-Month Cycle MACD (1d),URI,23.0,60.9,4.152,95.5,2.58,-29.7,18.023
+Sy Harding Six-Month Cycle MACD (1d),V,19.0,84.2,5.79,110.0,11.25,-4.3,10.874
+Sy Harding Six-Month Cycle MACD (1d),VNA.DE,14.0,50.0,0.83,11.6,1.35,-29.5,0.876
+Sy Harding Six-Month Cycle MACD (1d),VOW3.DE,23.0,56.5,4.604,105.9,4.72,-11.9,9.959
+Sy Harding Six-Month Cycle MACD (1d),VRSK,18.0,66.7,3.986,71.7,3.14,-12.8,6.802
+Sy Harding Six-Month Cycle MACD (1d),VRT,9.0,66.7,12.615,113.5,4.91,-15.2,14.727
+Sy Harding Six-Month Cycle MACD (1d),VST,11.0,54.5,3.285,36.1,1.97,-24.8,7.596
+Sy Harding Six-Month Cycle MACD (1d),WY,23.0,60.9,1.89,43.5,1.94,-21.4,5.345
+Sy Harding Six-Month Cycle MACD (1d),XOM,23.0,56.5,2.781,64.0,2.03,-37.8,6.269
+Sy Harding Six-Month Cycle MACD (1d),XYZ,12.0,66.7,4.681,56.2,3.1,-15.3,16.89
+Sy Harding Six-Month Cycle MACD (1d),ZAL.DE,13.0,69.2,2.31,30.0,2.33,-15.2,8.782
+Sy Harding Six-Month Cycle MACD (1d),ZBRA,23.0,65.2,4.293,98.7,2.73,-33.8,10.021
 Trade Pro Ichimoku (1d),AAPL,50.0,42.0,0.237,11.8,1.4,-9.1,4.602
 Trade Pro Ichimoku (1d),ADBE,55.0,36.4,0.088,4.8,1.13,-9.0,-0.159
 Trade Pro Ichimoku (1d),ADS.DE,64.0,40.6,0.238,15.2,1.4,-7.6,1.946
@@ -11352,6 +12543,602 @@ Vergleich: Moving Momentum ohne Stochastik (1d),XOM,67.0,25.4,-0.054,-3.6,0.92,-
 Vergleich: Moving Momentum ohne Stochastik (1d),XYZ,33.0,15.2,1.843,60.8,3.22,-18.0,11.334
 Vergleich: Moving Momentum ohne Stochastik (1d),ZAL.DE,29.0,27.6,-0.071,-2.1,0.89,-4.7,0.201
 Vergleich: Moving Momentum ohne Stochastik (1d),ZBRA,54.0,29.6,0.183,9.9,1.26,-10.4,2.847
+Vergleich: RSI kreuzt 30/70 (1d),AAPL,37.0,56.8,-6.961,-257.6,0.23,-265.9,-19.663
+Vergleich: RSI kreuzt 30/70 (1d),ADBE,37.0,45.9,-3.787,-140.1,0.39,-160.8,-8.711
+Vergleich: RSI kreuzt 30/70 (1d),ADS.DE,37.0,54.1,-1.95,-72.2,0.57,-74.9,-4.437
+Vergleich: RSI kreuzt 30/70 (1d),AEE,41.0,70.7,1.963,80.5,2.25,-19.1,3.562
+Vergleich: RSI kreuzt 30/70 (1d),AFL,35.0,54.3,-1.812,-63.4,0.57,-74.9,-3.742
+Vergleich: RSI kreuzt 30/70 (1d),AIR.DE,38.0,60.5,-1.62,-61.6,0.6,-68.3,-2.601
+Vergleich: RSI kreuzt 30/70 (1d),AKAM,33.0,45.5,-5.097,-168.2,0.25,-176.7,-13.66
+Vergleich: RSI kreuzt 30/70 (1d),ALGN,42.0,50.0,-2.044,-85.9,0.56,-120.3,-6.345
+Vergleich: RSI kreuzt 30/70 (1d),ALV.DE,56.0,67.9,1.27,71.1,1.62,-37.3,2.783
+Vergleich: RSI kreuzt 30/70 (1d),AMD,45.0,66.7,-3.361,-151.3,0.45,-175.0,-15.739
+Vergleich: RSI kreuzt 30/70 (1d),AME,39.0,69.2,-0.11,-4.3,0.97,-54.9,-0.532
+Vergleich: RSI kreuzt 30/70 (1d),AMGN,52.0,65.4,0.619,32.2,1.31,-31.6,1.446
+Vergleich: RSI kreuzt 30/70 (1d),AMP,34.0,58.8,-0.939,-31.9,0.77,-56.9,-2.989
+Vergleich: RSI kreuzt 30/70 (1d),ANET,27.0,74.1,-1.592,-43.0,0.71,-95.8,-0.515
+Vergleich: RSI kreuzt 30/70 (1d),APO,41.0,65.9,0.155,6.4,1.05,-64.5,2.615
+Vergleich: RSI kreuzt 30/70 (1d),ATO,41.0,63.4,0.251,10.3,1.1,-34.2,1.449
+Vergleich: RSI kreuzt 30/70 (1d),AVY,38.0,65.8,-0.562,-21.3,0.84,-80.0,-1.593
+Vergleich: RSI kreuzt 30/70 (1d),AWK,32.0,62.5,-1.046,-33.5,0.7,-68.9,-0.369
+Vergleich: RSI kreuzt 30/70 (1d),AXON,46.0,63.0,-3.533,-162.5,0.42,-188.5,-10.496
+Vergleich: RSI kreuzt 30/70 (1d),AZO,29.0,58.6,-3.781,-109.6,0.44,-143.5,-8.974
+Vergleich: RSI kreuzt 30/70 (1d),BAC,51.0,70.6,-0.71,-36.2,0.83,-126.9,0.663
+Vergleich: RSI kreuzt 30/70 (1d),BAS.DE,49.0,71.4,0.994,48.7,1.55,-25.6,2.821
+Vergleich: RSI kreuzt 30/70 (1d),BAYN.DE,40.0,57.5,-1.464,-58.6,0.66,-78.9,-3.617
+Vergleich: RSI kreuzt 30/70 (1d),BE,18.0,72.2,-3.97,-71.5,0.43,-98.1,-23.035
+Vergleich: RSI kreuzt 30/70 (1d),BEI.DE,36.0,58.3,-0.016,-0.6,0.99,-34.6,-0.022
+Vergleich: RSI kreuzt 30/70 (1d),BF-B,45.0,66.7,-0.013,-0.6,1.0,-48.3,0.418
+Vergleich: RSI kreuzt 30/70 (1d),BIIB,34.0,47.1,-2.241,-76.2,0.52,-93.4,-7.355
+Vergleich: RSI kreuzt 30/70 (1d),BLK,40.0,65.0,-0.884,-35.4,0.78,-79.9,0.563
+Vergleich: RSI kreuzt 30/70 (1d),BMW.DE,46.0,71.7,0.76,34.9,1.4,-33.3,-0.039
+Vergleich: RSI kreuzt 30/70 (1d),BNR.DE,35.0,65.7,0.795,27.8,1.37,-34.7,2.23
+Vergleich: RSI kreuzt 30/70 (1d),BNY,35.0,57.1,-2.089,-73.1,0.5,-89.4,-3.787
+Vergleich: RSI kreuzt 30/70 (1d),BRO,37.0,62.2,-1.845,-68.3,0.55,-86.9,-2.911
+Vergleich: RSI kreuzt 30/70 (1d),C,40.0,57.5,-1.355,-54.2,0.7,-78.4,-1.531
+Vergleich: RSI kreuzt 30/70 (1d),CBK.DE,43.0,60.5,-2.225,-95.7,0.58,-57.9,-3.175
+Vergleich: RSI kreuzt 30/70 (1d),CCL,48.0,68.8,1.694,81.3,1.92,-36.2,3.554
+Vergleich: RSI kreuzt 30/70 (1d),CEG,8.0,75.0,-5.67,-45.4,0.28,-53.1,-7.286
+Vergleich: RSI kreuzt 30/70 (1d),CF,33.0,57.6,-3.909,-129.0,0.4,-149.0,-11.662
+Vergleich: RSI kreuzt 30/70 (1d),CFG,19.0,63.2,-1.495,-28.4,0.66,-60.5,-5.133
+Vergleich: RSI kreuzt 30/70 (1d),CHD,41.0,58.5,-0.163,-6.7,0.94,-24.4,0.668
+Vergleich: RSI kreuzt 30/70 (1d),CINF,38.0,60.5,-1.03,-39.2,0.69,-54.6,-1.836
+Vergleich: RSI kreuzt 30/70 (1d),CMI,39.0,56.4,-2.679,-104.5,0.49,-109.7,-7.849
+Vergleich: RSI kreuzt 30/70 (1d),CNC,39.0,64.1,-0.165,-6.4,0.95,-74.9,2.532
+Vergleich: RSI kreuzt 30/70 (1d),COF,43.0,72.1,1.181,50.8,1.52,-44.2,2.714
+Vergleich: RSI kreuzt 30/70 (1d),CON.DE,38.0,50.0,-2.012,-76.5,0.51,-88.6,-6.028
+Vergleich: RSI kreuzt 30/70 (1d),COST,32.0,59.4,-2.814,-90.0,0.46,-107.7,-3.527
+Vergleich: RSI kreuzt 30/70 (1d),CPAY,31.0,54.8,-2.235,-69.3,0.52,-80.9,-4.888
+Vergleich: RSI kreuzt 30/70 (1d),CSX,43.0,65.1,-0.913,-39.2,0.72,-82.9,-2.718
+Vergleich: RSI kreuzt 30/70 (1d),CTSH,45.0,66.7,0.068,3.1,1.02,-39.7,-1.083
+Vergleich: RSI kreuzt 30/70 (1d),CVS,42.0,57.1,-1.156,-48.6,0.71,-91.2,-1.293
+Vergleich: RSI kreuzt 30/70 (1d),DASH,8.0,25.0,-4.603,-36.8,0.1,-38.4,-25.375
+Vergleich: RSI kreuzt 30/70 (1d),DB1.DE,33.0,63.6,-1.461,-48.2,0.68,-48.2,-1.88
+Vergleich: RSI kreuzt 30/70 (1d),DBK.DE,46.0,63.0,-0.486,-22.4,0.85,-38.3,-0.025
+Vergleich: RSI kreuzt 30/70 (1d),DD,43.0,69.8,-0.188,-8.1,0.94,-65.6,-1.08
+Vergleich: RSI kreuzt 30/70 (1d),DDOG,16.0,68.8,0.426,6.8,1.23,-15.3,5.997
+Vergleich: RSI kreuzt 30/70 (1d),DELL,22.0,54.5,-4.391,-96.6,0.34,-98.0,-11.613
+Vergleich: RSI kreuzt 30/70 (1d),DGX,43.0,74.4,1.935,83.2,2.47,-17.7,4.619
+Vergleich: RSI kreuzt 30/70 (1d),DHL.DE,41.0,63.4,-0.874,-35.8,0.78,-72.0,-1.486
+Vergleich: RSI kreuzt 30/70 (1d),DHR,32.0,56.2,-0.754,-24.1,0.8,-50.1,-1.421
+Vergleich: RSI kreuzt 30/70 (1d),DLTR,44.0,59.1,-0.631,-27.8,0.81,-56.5,-1.507
+Vergleich: RSI kreuzt 30/70 (1d),DPZ,41.0,65.9,-1.803,-73.9,0.68,-138.4,-5.422
+Vergleich: RSI kreuzt 30/70 (1d),DTE.DE,48.0,70.8,1.89,90.7,2.19,-18.9,3.153
+Vergleich: RSI kreuzt 30/70 (1d),DTG.DE,13.0,84.6,2.629,34.2,11.47,-1.9,9.239
+Vergleich: RSI kreuzt 30/70 (1d),DVA,40.0,65.0,-1.156,-46.3,0.67,-63.4,-2.003
+Vergleich: RSI kreuzt 30/70 (1d),DVN,38.0,60.5,-1.108,-42.1,0.7,-67.4,-4.656
+Vergleich: RSI kreuzt 30/70 (1d),ED,37.0,62.2,-0.265,-9.8,0.86,-22.2,-0.28
+Vergleich: RSI kreuzt 30/70 (1d),EL,42.0,69.0,0.004,0.2,1.0,-38.2,-1.07
+Vergleich: RSI kreuzt 30/70 (1d),ELV,47.0,68.1,-0.333,-15.6,0.89,-86.0,0.549
+Vergleich: RSI kreuzt 30/70 (1d),EMR,39.0,61.5,0.387,15.1,1.17,-27.6,0.335
+Vergleich: RSI kreuzt 30/70 (1d),ENR.DE,6.0,16.7,-46.298,-277.8,0.01,-275.9,-174.632
+Vergleich: RSI kreuzt 30/70 (1d),EOAN.DE,47.0,61.7,-0.386,-18.2,0.86,-22.0,-0.441
+Vergleich: RSI kreuzt 30/70 (1d),EQIX,43.0,62.8,0.523,22.5,1.21,-25.6,2.037
+Vergleich: RSI kreuzt 30/70 (1d),EQT,26.0,53.8,-3.225,-83.8,0.41,-79.2,-16.359
+Vergleich: RSI kreuzt 30/70 (1d),EW,41.0,65.9,-1.334,-54.7,0.67,-106.0,-2.8
+Vergleich: RSI kreuzt 30/70 (1d),EXC,39.0,56.4,-0.443,-17.3,0.83,-30.7,-0.619
+Vergleich: RSI kreuzt 30/70 (1d),FICO,52.0,75.0,-1.203,-62.5,0.73,-139.2,-2.856
+Vergleich: RSI kreuzt 30/70 (1d),FISV,30.0,56.7,-4.996,-149.9,0.32,-161.1,-7.517
+Vergleich: RSI kreuzt 30/70 (1d),FITB,33.0,54.5,-2.578,-85.1,0.47,-102.8,-11.886
+Vergleich: RSI kreuzt 30/70 (1d),FIX,36.0,63.9,-2.675,-96.3,0.48,-103.0,-9.262
+Vergleich: RSI kreuzt 30/70 (1d),FME.DE,46.0,67.4,0.386,17.8,1.19,-32.1,1.341
+Vergleich: RSI kreuzt 30/70 (1d),FOXA,14.0,64.3,-0.16,-2.2,0.95,-34.9,1.513
+Vergleich: RSI kreuzt 30/70 (1d),FRE.DE,35.0,54.3,-2.103,-73.6,0.57,-83.3,-2.804
+Vergleich: RSI kreuzt 30/70 (1d),FTV,22.0,54.5,-0.064,-1.4,0.96,-22.4,-0.657
+Vergleich: RSI kreuzt 30/70 (1d),G1A.DE,47.0,59.6,1.03,48.4,1.44,-38.9,2.664
+Vergleich: RSI kreuzt 30/70 (1d),G24.DE,22.0,63.6,1.14,25.1,1.49,-36.1,3.855
+Vergleich: RSI kreuzt 30/70 (1d),GD,32.0,62.5,-1.69,-54.1,0.65,-90.2,-3.096
+Vergleich: RSI kreuzt 30/70 (1d),GL,18.0,27.8,-7.035,-126.6,0.17,-118.2,-14.183
+Vergleich: RSI kreuzt 30/70 (1d),GOOG,40.0,57.5,-3.277,-131.1,0.4,-139.1,-6.681
+Vergleich: RSI kreuzt 30/70 (1d),GOOGL,40.0,57.5,-3.166,-126.6,0.4,-134.7,-6.462
+Vergleich: RSI kreuzt 30/70 (1d),HEI.DE,40.0,55.0,-1.86,-74.4,0.6,-82.3,-4.235
+Vergleich: RSI kreuzt 30/70 (1d),HEN3.DE,51.0,60.8,1.282,65.4,1.61,-31.6,2.52
+Vergleich: RSI kreuzt 30/70 (1d),HNR1.DE,49.0,73.5,0.585,28.6,1.28,-33.8,2.711
+Vergleich: RSI kreuzt 30/70 (1d),HPE,27.0,74.1,1.461,39.5,1.74,-20.8,3.668
+Vergleich: RSI kreuzt 30/70 (1d),IBKR,40.0,67.5,-0.876,-35.1,0.76,-75.2,-0.628
+Vergleich: RSI kreuzt 30/70 (1d),IBM,52.0,69.2,0.87,45.3,1.4,-38.2,3.91
+Vergleich: RSI kreuzt 30/70 (1d),ICE,51.0,70.6,1.496,76.3,1.78,-28.6,3.411
+Vergleich: RSI kreuzt 30/70 (1d),IEX,39.0,71.8,0.24,9.3,1.09,-58.9,1.133
+Vergleich: RSI kreuzt 30/70 (1d),IFF,40.0,62.5,-0.71,-28.4,0.79,-72.1,-1.968
+Vergleich: RSI kreuzt 30/70 (1d),IFX.DE,41.0,58.5,-1.817,-74.5,0.61,-95.2,-14.513
+Vergleich: RSI kreuzt 30/70 (1d),IR,16.0,50.0,-0.475,-7.6,0.87,-37.3,-1.16
+Vergleich: RSI kreuzt 30/70 (1d),IRM,58.0,62.1,0.519,30.1,1.22,-36.2,1.585
+Vergleich: RSI kreuzt 30/70 (1d),ITW,37.0,62.2,-0.228,-8.5,0.93,-39.4,-0.347
+Vergleich: RSI kreuzt 30/70 (1d),JBHT,35.0,57.1,-0.005,-0.2,1.0,-36.6,-0.365
+Vergleich: RSI kreuzt 30/70 (1d),JNJ,46.0,73.9,0.847,38.9,1.47,-25.3,1.456
+Vergleich: RSI kreuzt 30/70 (1d),JPM,42.0,59.5,-0.722,-30.3,0.77,-70.7,-0.57
+Vergleich: RSI kreuzt 30/70 (1d),KEYS,20.0,60.0,-3.077,-61.5,0.46,-63.0,-6.875
+Vergleich: RSI kreuzt 30/70 (1d),KLAC,37.0,54.1,-1.737,-64.3,0.54,-75.4,-5.094
+Vergleich: RSI kreuzt 30/70 (1d),KMI,30.0,70.0,-1.077,-32.3,0.67,-52.8,-0.603
+Vergleich: RSI kreuzt 30/70 (1d),KO,33.0,48.5,-2.27,-74.9,0.42,-78.5,-3.441
+Vergleich: RSI kreuzt 30/70 (1d),LEN,32.0,50.0,-1.973,-63.1,0.5,-68.0,-5.98
+Vergleich: RSI kreuzt 30/70 (1d),LIN,34.0,67.6,-1.118,-38.0,0.68,-54.4,-1.288
+Vergleich: RSI kreuzt 30/70 (1d),LNT,40.0,62.5,0.629,25.1,1.26,-35.9,0.791
+Vergleich: RSI kreuzt 30/70 (1d),LYV,39.0,51.3,-1.868,-72.8,0.55,-103.4,-5.614
+Vergleich: RSI kreuzt 30/70 (1d),MAA,37.0,48.6,-0.704,-26.1,0.74,-46.6,-2.659
+Vergleich: RSI kreuzt 30/70 (1d),MAR,35.0,51.4,-1.928,-67.5,0.58,-76.2,-3.514
+Vergleich: RSI kreuzt 30/70 (1d),MBG.DE,41.0,58.5,-0.844,-34.6,0.74,-58.2,-2.477
+Vergleich: RSI kreuzt 30/70 (1d),MCD,45.0,66.7,0.397,17.8,1.16,-39.1,0.979
+Vergleich: RSI kreuzt 30/70 (1d),MDLZ,41.0,70.7,1.357,55.6,2.17,-13.5,2.346
+Vergleich: RSI kreuzt 30/70 (1d),MDT,43.0,62.8,0.273,11.7,1.11,-49.5,0.663
+Vergleich: RSI kreuzt 30/70 (1d),MGM,42.0,66.7,1.006,42.3,1.36,-38.4,3.605
+Vergleich: RSI kreuzt 30/70 (1d),MMM,50.0,76.0,1.313,65.7,1.53,-45.2,2.694
+Vergleich: RSI kreuzt 30/70 (1d),MO,39.0,56.4,0.178,6.9,1.05,-38.5,-0.803
+Vergleich: RSI kreuzt 30/70 (1d),MOS,41.0,46.3,-3.043,-124.8,0.45,-189.0,-8.569
+Vergleich: RSI kreuzt 30/70 (1d),MPWR,46.0,69.6,0.146,6.7,1.05,-41.8,1.748
+Vergleich: RSI kreuzt 30/70 (1d),MRK.DE,50.0,64.0,0.679,33.9,1.29,-19.8,2.614
+Vergleich: RSI kreuzt 30/70 (1d),MRVL,33.0,45.5,-1.523,-50.3,0.6,-61.4,-5.406
+Vergleich: RSI kreuzt 30/70 (1d),MSCI,35.0,65.7,-1.507,-52.8,0.67,-108.4,-3.312
+Vergleich: RSI kreuzt 30/70 (1d),MTB,37.0,67.6,0.116,4.3,1.05,-24.4,1.141
+Vergleich: RSI kreuzt 30/70 (1d),MTD,48.0,70.8,-0.096,-4.6,0.97,-74.9,0.267
+Vergleich: RSI kreuzt 30/70 (1d),MTX.DE,36.0,63.9,-0.823,-29.6,0.75,-58.9,-0.299
+Vergleich: RSI kreuzt 30/70 (1d),MUV2.DE,49.0,65.3,0.14,6.9,1.06,-43.5,1.053
+Vergleich: RSI kreuzt 30/70 (1d),NKE,43.0,65.1,-1.222,-52.5,0.69,-67.4,-2.279
+Vergleich: RSI kreuzt 30/70 (1d),NUE,37.0,70.3,1.358,50.2,1.62,-27.5,4.241
+Vergleich: RSI kreuzt 30/70 (1d),NVDA,34.0,47.1,-14.307,-486.4,0.12,-491.9,-51.324
+Vergleich: RSI kreuzt 30/70 (1d),NWS,33.0,78.8,3.108,102.5,4.0,-16.6,8.349
+Vergleich: RSI kreuzt 30/70 (1d),NWSA,29.0,62.1,1.779,51.6,2.03,-17.6,4.993
+Vergleich: RSI kreuzt 30/70 (1d),O,37.0,64.9,1.286,47.6,1.75,-16.7,2.001
+Vergleich: RSI kreuzt 30/70 (1d),OXY,35.0,62.9,0.061,2.1,1.02,-47.0,1.517
+Vergleich: RSI kreuzt 30/70 (1d),P,26.0,65.4,-0.78,-20.3,0.76,-44.9,-0.354
+Vergleich: RSI kreuzt 30/70 (1d),PAH3.DE,30.0,53.3,-2.076,-62.3,0.47,-71.4,-4.823
+Vergleich: RSI kreuzt 30/70 (1d),PCAR,41.0,68.3,0.28,11.5,1.11,-50.0,-0.09
+Vergleich: RSI kreuzt 30/70 (1d),PCG,28.0,35.7,-2.284,-64.0,0.42,-47.4,-5.173
+Vergleich: RSI kreuzt 30/70 (1d),PFE,42.0,64.3,0.462,19.4,1.24,-19.4,1.0
+Vergleich: RSI kreuzt 30/70 (1d),PH,43.0,67.4,0.409,17.6,1.12,-39.3,2.225
+Vergleich: RSI kreuzt 30/70 (1d),PLD,44.0,70.5,1.912,84.1,2.41,-16.5,4.544
+Vergleich: RSI kreuzt 30/70 (1d),PODD,37.0,59.5,-0.866,-32.0,0.76,-61.8,-1.518
+Vergleich: RSI kreuzt 30/70 (1d),PPG,37.0,67.6,0.086,3.2,1.03,-79.0,-3.587
+Vergleich: RSI kreuzt 30/70 (1d),PSA,37.0,59.5,-0.002,-0.1,1.0,-52.5,0.465
+Vergleich: RSI kreuzt 30/70 (1d),PSX,25.0,64.0,-1.637,-40.9,0.63,-51.7,-3.6
+Vergleich: RSI kreuzt 30/70 (1d),Q,1.0,0.0,-4.934,-4.9,0.0,0.0,-22.523
+Vergleich: RSI kreuzt 30/70 (1d),QCOM,45.0,73.3,1.408,63.4,1.77,-25.9,5.403
+Vergleich: RSI kreuzt 30/70 (1d),QIA.DE,51.0,70.6,1.592,81.2,1.99,-26.2,3.96
+Vergleich: RSI kreuzt 30/70 (1d),REG,38.0,60.5,0.575,21.8,1.29,-26.3,1.368
+Vergleich: RSI kreuzt 30/70 (1d),REGN,48.0,62.5,-0.736,-35.3,0.78,-79.8,-5.492
+Vergleich: RSI kreuzt 30/70 (1d),RHM.DE,38.0,50.0,-7.32,-278.2,0.24,-289.4,-14.045
+Vergleich: RSI kreuzt 30/70 (1d),RL,39.0,53.8,-1.691,-65.9,0.55,-80.5,-5.696
+Vergleich: RSI kreuzt 30/70 (1d),ROL,39.0,64.1,0.475,18.5,1.16,-32.0,1.796
+Vergleich: RSI kreuzt 30/70 (1d),ROST,39.0,61.5,-0.882,-34.4,0.75,-69.1,-0.247
+Vergleich: RSI kreuzt 30/70 (1d),RWE.DE,39.0,51.3,-1.625,-63.4,0.59,-54.9,-3.087
+Vergleich: RSI kreuzt 30/70 (1d),SAP.DE,38.0,68.4,-1.066,-40.5,0.73,-96.1,-1.887
+Vergleich: RSI kreuzt 30/70 (1d),SBAC,32.0,71.9,-1.191,-38.1,0.74,-67.0,-2.558
+Vergleich: RSI kreuzt 30/70 (1d),SHL.DE,15.0,53.3,-0.013,-0.2,1.0,-30.9,0.332
+Vergleich: RSI kreuzt 30/70 (1d),SHW,36.0,69.4,-1.628,-58.6,0.62,-100.7,-2.375
+Vergleich: RSI kreuzt 30/70 (1d),SIE.DE,42.0,71.4,1.467,61.6,1.61,-55.6,2.804
+Vergleich: RSI kreuzt 30/70 (1d),SLB,43.0,67.4,0.178,7.7,1.06,-24.0,2.835
+Vergleich: RSI kreuzt 30/70 (1d),SNA,36.0,61.1,0.359,12.9,1.11,-44.7,-0.539
+Vergleich: RSI kreuzt 30/70 (1d),SO,44.0,61.4,1.285,56.5,1.73,-30.2,1.456
+Vergleich: RSI kreuzt 30/70 (1d),STE,40.0,67.5,1.882,75.3,2.3,-12.4,5.117
+Vergleich: RSI kreuzt 30/70 (1d),SY1.DE,35.0,57.1,-1.031,-36.1,0.69,-41.2,-2.61
+Vergleich: RSI kreuzt 30/70 (1d),SYK,37.0,64.9,-2.763,-102.2,0.47,-164.3,-3.315
+Vergleich: RSI kreuzt 30/70 (1d),T,41.0,51.2,-1.768,-72.5,0.46,-77.8,-2.961
+Vergleich: RSI kreuzt 30/70 (1d),TEL,34.0,70.6,-0.102,-3.5,0.97,-47.4,-1.842
+Vergleich: RSI kreuzt 30/70 (1d),TER,43.0,60.5,-0.114,-4.9,0.96,-56.1,-2.642
+Vergleich: RSI kreuzt 30/70 (1d),TFC,45.0,75.6,2.425,109.1,3.05,-12.9,6.007
+Vergleich: RSI kreuzt 30/70 (1d),TGT,41.0,63.4,0.206,8.4,1.07,-35.2,0.033
+Vergleich: RSI kreuzt 30/70 (1d),TJX,40.0,72.5,0.009,0.4,1.0,-76.7,-3.027
+Vergleich: RSI kreuzt 30/70 (1d),TPR,43.0,62.8,-0.178,-7.6,0.93,-48.7,-1.45
+Vergleich: RSI kreuzt 30/70 (1d),TRMB,40.0,52.5,-1.781,-71.2,0.54,-90.0,-4.482
+Vergleich: RSI kreuzt 30/70 (1d),TRV,34.0,67.6,0.427,14.5,1.17,-35.0,-0.44
+Vergleich: RSI kreuzt 30/70 (1d),TSCO,33.0,42.4,-3.485,-115.0,0.35,-120.8,-8.319
+Vergleich: RSI kreuzt 30/70 (1d),TSLA,34.0,70.6,-3.024,-102.8,0.45,-147.0,-5.541
+Vergleich: RSI kreuzt 30/70 (1d),TSN,41.0,51.2,-2.222,-91.1,0.53,-155.0,-5.316
+Vergleich: RSI kreuzt 30/70 (1d),TWLO,27.0,70.4,0.277,7.5,1.08,-26.3,3.349
+Vergleich: RSI kreuzt 30/70 (1d),TXT,39.0,64.1,-0.835,-32.6,0.78,-78.3,-3.447
+Vergleich: RSI kreuzt 30/70 (1d),UAL,39.0,61.5,-0.674,-26.3,0.79,-50.3,-4.51
+Vergleich: RSI kreuzt 30/70 (1d),UBER,13.0,46.2,-0.863,-11.2,0.77,-30.2,-5.458
+Vergleich: RSI kreuzt 30/70 (1d),UHS,48.0,66.7,-0.057,-2.7,0.98,-54.8,-0.49
+Vergleich: RSI kreuzt 30/70 (1d),UNP,36.0,66.7,0.386,13.9,1.11,-69.3,1.934
+Vergleich: RSI kreuzt 30/70 (1d),URI,44.0,47.7,-2.784,-122.5,0.43,-166.9,-13.081
+Vergleich: RSI kreuzt 30/70 (1d),V,25.0,64.0,-4.613,-115.3,0.41,-133.7,-5.784
+Vergleich: RSI kreuzt 30/70 (1d),VNA.DE,27.0,66.7,0.078,2.1,1.03,-23.7,0.648
+Vergleich: RSI kreuzt 30/70 (1d),VOW3.DE,40.0,50.0,-2.593,-103.7,0.44,-132.1,-6.435
+Vergleich: RSI kreuzt 30/70 (1d),VRSK,37.0,64.9,1.108,41.0,1.55,-22.4,2.843
+Vergleich: RSI kreuzt 30/70 (1d),VRT,10.0,40.0,-14.292,-142.9,0.14,-112.6,-59.79
+Vergleich: RSI kreuzt 30/70 (1d),VST,16.0,68.8,-2.435,-39.0,0.56,-65.0,-2.938
+Vergleich: RSI kreuzt 30/70 (1d),WY,43.0,62.8,0.602,25.9,1.26,-49.8,0.11
+Vergleich: RSI kreuzt 30/70 (1d),XOM,39.0,69.2,0.808,31.5,1.3,-34.6,1.46
+Vergleich: RSI kreuzt 30/70 (1d),XYZ,20.0,80.0,-5.735,-114.7,0.37,-151.0,-21.908
+Vergleich: RSI kreuzt 30/70 (1d),ZAL.DE,19.0,36.8,-2.861,-54.4,0.39,-50.3,-9.862
+Vergleich: RSI kreuzt 30/70 (1d),ZBRA,51.0,64.7,-0.731,-37.3,0.78,-61.7,-3.335
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AAPL,18.0,83.3,2.171,39.1,2.62,-24.1,5.862
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ADBE,19.0,52.6,0.788,15.0,1.35,-17.9,1.262
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ADS.DE,18.0,72.2,0.672,12.1,1.28,-16.8,3.102
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AEE,20.0,85.0,3.214,64.3,3.55,-22.4,6.368
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AFL,17.0,76.5,1.696,28.8,1.77,-20.9,3.26
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AIR.DE,19.0,84.2,1.485,28.2,2.3,-9.4,5.319
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AKAM,17.0,52.9,-0.906,-15.4,0.72,-21.8,-1.0
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ALGN,21.0,71.4,1.556,32.7,1.75,-29.1,7.36
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ALV.DE,28.0,82.1,3.047,85.3,4.63,-19.8,6.604
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AMD,23.0,73.9,0.801,18.4,1.61,-11.0,7.079
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AME,19.0,94.7,3.96,75.2,8.44,-10.1,9.065
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AMGN,26.0,76.9,2.857,74.3,6.44,-4.9,6.237
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AMP,17.0,70.6,3.113,52.9,3.49,-7.7,6.802
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ANET,13.0,92.3,4.939,64.2,1290.41,-0.0,19.956
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",APO,21.0,66.7,2.499,52.5,3.49,-11.2,9.92
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ATO,20.0,85.0,3.147,62.9,5.57,-6.4,6.712
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AVY,19.0,84.2,1.058,20.1,1.38,-43.2,3.816
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AWK,16.0,87.5,3.163,50.6,22.8,-2.2,7.11
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AXON,23.0,60.9,1.477,34.0,2.04,-9.1,5.703
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",AZO,14.0,85.7,3.197,44.8,3.71,-16.4,7.097
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BAC,26.0,80.8,-0.26,-6.8,0.93,-77.8,4.797
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BAS.DE,24.0,79.2,1.735,41.7,2.68,-14.2,5.066
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BAYN.DE,20.0,60.0,0.406,8.1,1.16,-26.0,1.627
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BE,9.0,66.7,1.89,17.0,2.41,-6.2,22.088
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BEI.DE,18.0,72.2,2.152,38.7,3.42,-9.1,3.866
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BF-B,22.0,77.3,2.052,45.1,2.37,-18.2,3.936
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BIIB,17.0,47.1,1.192,20.3,1.85,-9.5,3.349
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BLK,20.0,85.0,3.346,66.9,4.66,-7.4,9.362
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BMW.DE,23.0,73.9,0.825,19.0,1.45,-15.1,2.985
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BNR.DE,17.0,70.6,2.05,34.9,4.21,-5.5,6.204
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BNY,18.0,72.2,1.213,21.8,2.09,-9.7,2.415
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",BRO,18.0,72.2,1.343,24.2,1.98,-11.9,3.6
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",C,20.0,55.0,-0.345,-6.9,0.9,-51.4,1.25
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CBK.DE,21.0,66.7,-0.435,-9.1,0.87,-53.4,1.704
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CCL,24.0,75.0,1.465,35.2,1.68,-32.9,5.13
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CEG,4.0,100.0,3.429,13.7,inf,0.0,20.097
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CF,16.0,75.0,2.151,34.4,3.33,-9.4,8.384
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CFG,10.0,70.0,1.155,11.6,1.66,-11.4,3.106
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CHD,20.0,80.0,3.53,70.6,12.7,-3.4,8.167
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CINF,19.0,78.9,1.552,29.5,1.83,-28.5,3.42
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CMI,20.0,70.0,1.684,33.7,1.98,-15.6,4.753
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CNC,19.0,73.7,2.786,52.9,3.43,-12.1,11.67
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",COF,21.0,76.2,2.278,47.8,2.84,-14.0,7.812
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CON.DE,19.0,57.9,-0.126,-2.4,0.95,-26.6,0.051
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",COST,16.0,93.8,3.885,62.2,64.32,-1.0,8.313
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CPAY,15.0,73.3,2.873,43.1,5.27,-6.1,7.102
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CSX,21.0,76.2,2.862,60.1,6.9,-3.6,6.458
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CTSH,22.0,81.8,2.143,47.2,3.93,-8.9,5.556
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",CVS,21.0,61.9,1.175,24.7,1.81,-9.9,3.63
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DASH,4.0,25.0,-2.308,-9.2,0.21,-4.3,-17.261
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DB1.DE,16.0,75.0,2.85,45.6,3.56,-10.4,6.342
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DBK.DE,23.0,65.2,-0.128,-3.0,0.96,-37.6,2.213
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DD,21.0,81.0,0.385,8.1,1.19,-24.7,2.878
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DDOG,8.0,87.5,2.355,18.8,5.74,-4.0,18.629
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DELL,11.0,81.8,2.068,22.7,4.86,-4.9,9.983
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DGX,21.0,95.2,3.81,80.0,28.69,-2.9,9.268
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DHL.DE,20.0,70.0,1.05,21.0,1.57,-20.5,4.42
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DHR,16.0,81.2,4.059,64.9,9.03,-4.6,8.222
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DLTR,22.0,72.7,2.429,53.4,3.86,-13.4,7.16
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DPZ,20.0,85.0,3.371,67.4,4.09,-11.4,7.763
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DTE.DE,24.0,70.8,2.495,59.9,3.22,-11.4,4.836
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DTG.DE,7.0,100.0,3.697,25.9,inf,0.0,13.078
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DVA,20.0,70.0,1.622,32.4,2.43,-9.2,5.364
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",DVN,19.0,57.9,-0.143,-2.7,0.94,-28.8,2.9
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ED,18.0,72.2,1.567,28.2,3.65,-5.8,2.715
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EL,21.0,81.0,2.762,58.0,3.42,-19.3,5.649
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ELV,23.0,87.0,2.253,51.8,3.52,-12.2,6.888
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EMR,19.0,73.7,1.993,37.9,2.81,-9.2,5.51
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ENR.DE,3.0,0.0,-4.981,-14.9,0.0,-4.6,-20.13
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EOAN.DE,23.0,73.9,0.274,6.3,1.13,-27.9,0.436
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EQIX,21.0,81.0,3.557,74.7,7.78,-5.9,11.602
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EQT,13.0,61.5,-0.367,-4.8,0.87,-25.1,-1.807
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EW,20.0,85.0,3.072,61.4,4.8,-11.1,8.114
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",EXC,19.0,57.9,0.48,9.1,1.25,-26.5,1.214
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FICO,26.0,80.8,2.933,76.3,3.89,-13.0,9.132
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FISV,15.0,73.3,2.08,31.2,2.85,-12.1,2.329
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FITB,17.0,58.8,-2.026,-34.4,0.57,-54.7,-1.442
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FIX,18.0,83.3,2.998,54.0,7.19,-3.9,10.418
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FME.DE,23.0,73.9,1.466,33.7,2.45,-19.8,3.641
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FOXA,7.0,71.4,2.345,16.4,7.3,-2.0,8.647
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FRE.DE,17.0,70.6,1.05,17.9,1.38,-30.2,4.931
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",FTV,11.0,54.5,1.386,15.2,3.0,-4.9,3.332
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",G1A.DE,23.0,73.9,2.676,61.5,3.11,-10.9,9.087
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",G24.DE,11.0,81.8,4.123,45.4,5.38,-10.2,10.826
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",GD,16.0,75.0,2.749,44.0,6.06,-4.0,5.189
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",GL,9.0,44.4,0.121,1.1,1.05,-11.0,-0.38
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",GOOG,20.0,80.0,2.2,44.0,3.19,-8.9,5.045
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",GOOGL,20.0,80.0,2.159,43.2,3.33,-7.8,5.172
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",HEI.DE,20.0,70.0,0.258,5.2,1.1,-27.0,3.252
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",HEN3.DE,25.0,72.0,2.829,70.7,4.38,-7.4,6.231
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",HNR1.DE,24.0,91.7,3.476,83.4,33.18,-1.7,8.353
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",HPE,14.0,92.9,3.707,51.9,6.83,-8.9,12.75
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IBKR,20.0,75.0,2.866,57.3,6.73,-3.8,7.985
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IBM,26.0,73.1,2.108,54.8,3.15,-18.0,6.72
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ICE,25.0,84.0,4.052,101.3,8.88,-5.5,11.009
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IEX,20.0,85.0,3.518,70.4,5.7,-7.3,7.996
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IFF,20.0,70.0,0.948,19.0,1.54,-21.3,1.383
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IFX.DE,21.0,66.7,1.507,31.6,1.89,-24.7,4.855
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IR,8.0,62.5,1.701,13.6,2.66,-3.6,9.542
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",IRM,29.0,69.0,2.214,64.2,4.86,-6.3,5.867
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ITW,19.0,78.9,3.091,58.7,5.36,-6.8,5.582
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",JBHT,18.0,77.8,2.681,48.3,14.08,-1.8,7.404
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",JNJ,23.0,82.6,3.023,69.5,6.92,-2.5,4.995
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",JPM,21.0,76.2,2.33,48.9,4.21,-10.3,5.691
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",KEYS,10.0,70.0,2.026,20.3,2.13,-5.7,8.183
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",KLAC,19.0,78.9,2.263,43.0,3.58,-15.0,7.198
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",KMI,15.0,73.3,-0.09,-1.3,0.96,-29.7,1.422
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",KO,16.0,68.8,1.375,22.0,2.02,-11.8,1.845
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",LEN,16.0,50.0,-0.837,-13.4,0.7,-25.2,-0.752
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",LIN,17.0,88.2,3.512,59.7,15.66,-3.7,7.029
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",LNT,20.0,80.0,3.253,65.1,3.99,-18.0,5.777
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",LYV,19.0,68.4,1.861,35.4,2.45,-5.5,5.262
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MAA,19.0,57.9,0.99,18.8,1.78,-14.4,1.409
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MAR,17.0,76.5,2.347,39.9,2.25,-23.8,6.963
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MBG.DE,21.0,66.7,-0.11,-2.3,0.95,-19.6,0.97
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MCD,22.0,86.4,3.439,75.7,8.49,-7.4,6.435
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MDLZ,21.0,76.2,2.544,53.4,8.54,-3.7,4.338
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MDT,21.0,71.4,1.408,29.6,1.81,-12.5,2.882
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MGM,21.0,76.2,1.589,33.4,1.93,-21.2,10.535
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MMM,25.0,84.0,2.887,72.2,2.75,-25.9,5.899
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MO,19.0,68.4,1.623,30.8,2.05,-14.4,2.23
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MOS,21.0,42.9,-0.554,-11.6,0.82,-42.5,-0.699
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MPWR,23.0,91.3,3.937,90.6,10.75,-4.8,16.85
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MRK.DE,25.0,72.0,2.44,61.0,3.24,-12.7,7.314
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MRVL,17.0,64.7,1.213,20.6,1.51,-20.3,4.681
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MSCI,17.0,82.4,3.236,55.0,4.79,-5.1,8.288
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MTB,19.0,73.7,1.645,31.3,2.34,-17.4,4.694
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MTD,24.0,87.5,3.6,86.4,10.34,-4.6,10.0
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MTX.DE,18.0,83.3,2.461,44.3,4.13,-9.8,9.525
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",MUV2.DE,24.0,75.0,2.789,66.9,9.85,-1.7,5.645
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",NKE,22.0,68.2,1.203,26.5,1.66,-38.3,2.405
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",NUE,18.0,77.8,3.866,69.6,4.45,-7.9,12.717
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",NVDA,17.0,64.7,1.648,28.0,2.03,-9.8,3.305
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",NWS,16.0,87.5,3.784,60.5,38.21,-1.1,11.557
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",NWSA,14.0,64.3,2.475,34.7,3.34,-6.9,8.222
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",O,19.0,84.2,2.692,51.1,5.16,-5.7,5.05
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",OXY,17.0,76.5,1.2,20.4,1.5,-21.2,7.361
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",P,13.0,69.2,2.203,28.6,3.76,-4.8,10.343
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PAH3.DE,15.0,60.0,-2.694,-40.4,0.38,-49.4,-4.466
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PCAR,21.0,76.2,2.417,50.8,4.1,-11.1,5.199
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PCG,14.0,50.0,-1.426,-20.0,0.59,-29.6,-5.863
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PFE,21.0,71.4,1.187,24.9,1.63,-18.8,2.215
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PH,22.0,81.8,3.774,83.0,5.13,-12.7,11.89
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PLD,22.0,90.9,3.754,82.6,26.96,-3.2,8.278
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PODD,18.0,72.2,1.985,35.7,2.16,-11.2,9.246
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PPG,18.0,61.1,1.482,26.7,1.83,-13.0,2.741
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PSA,18.0,77.8,2.491,44.8,3.93,-7.5,6.37
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",PSX,12.0,75.0,1.844,22.1,2.17,-14.0,9.062
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",QCOM,23.0,87.0,2.778,63.9,4.21,-11.1,10.0
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",QIA.DE,25.0,80.0,3.012,75.3,5.44,-11.2,7.803
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",REG,19.0,68.4,1.307,24.8,1.96,-13.0,3.204
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",REGN,24.0,79.2,2.739,65.7,3.17,-13.9,10.463
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",RHM.DE,19.0,57.9,1.066,20.3,1.71,-10.8,2.48
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",RL,19.0,63.2,1.028,19.5,1.78,-12.7,2.082
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ROL,19.0,84.2,4.213,80.0,7.53,-11.6,10.747
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ROST,19.0,89.5,3.472,66.0,22.76,-1.8,10.806
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",RWE.DE,19.0,57.9,-0.706,-13.4,0.78,-43.6,-0.029
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SAP.DE,19.0,78.9,2.175,41.3,2.95,-18.8,5.721
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SBAC,16.0,87.5,3.487,55.8,6.02,-8.3,10.378
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SHL.DE,7.0,71.4,1.523,10.7,2.1,-6.7,3.297
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SHW,18.0,94.4,3.856,69.4,17.26,-4.3,9.339
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SIE.DE,21.0,90.5,3.147,66.1,6.24,-12.6,8.525
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SLB,21.0,66.7,0.683,14.3,1.28,-29.4,6.22
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SNA,18.0,77.8,4.289,77.2,8.16,-4.9,8.251
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SO,22.0,68.2,2.956,65.0,5.66,-4.5,4.436
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",STE,20.0,85.0,4.689,93.8,20.3,-3.7,12.09
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SY1.DE,17.0,76.5,1.662,28.3,2.06,-20.3,3.146
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",SYK,18.0,77.8,2.337,42.1,3.44,-10.0,4.535
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",T,21.0,47.6,-0.827,-17.4,0.64,-30.6,-1.927
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TEL,17.0,82.4,2.663,45.3,3.25,-12.4,6.303
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TER,22.0,72.7,2.798,61.6,3.76,-18.9,8.308
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TFC,23.0,82.6,3.085,71.0,3.89,-10.7,7.539
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TGT,20.0,70.0,2.096,41.9,2.56,-9.2,4.638
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TJX,20.0,90.0,4.189,83.8,31.04,-2.2,9.0
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TPR,21.0,71.4,1.107,23.2,1.64,-17.6,4.524
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TRMB,20.0,60.0,0.721,14.4,1.35,-14.3,2.759
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TRV,17.0,82.4,4.36,74.1,11.98,-6.3,7.753
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TSCO,16.0,62.5,0.637,10.2,1.34,-15.4,3.952
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TSLA,17.0,76.5,2.93,49.8,7.95,-4.7,22.107
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TSN,20.0,60.0,0.536,10.7,1.24,-30.4,-0.116
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TWLO,13.0,76.9,3.178,41.3,2.84,-14.7,18.354
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",TXT,19.0,73.7,1.254,23.8,1.52,-21.2,3.089
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",UAL,20.0,75.0,1.151,23.0,1.77,-19.3,5.004
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",UBER,7.0,42.9,0.432,3.0,1.24,-5.8,3.608
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",UHS,24.0,79.2,2.096,50.3,3.66,-4.9,5.392
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",UNP,18.0,88.9,4.54,81.7,8.84,-9.8,12.446
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",URI,22.0,54.5,1.051,23.1,1.79,-16.4,3.184
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",V,12.0,91.7,3.501,42.0,18.24,-2.4,11.477
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",VNA.DE,14.0,85.7,1.36,19.0,1.72,-21.8,2.77
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",VOW3.DE,20.0,55.0,-0.42,-8.4,0.84,-31.5,-0.957
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",VRSK,18.0,94.4,4.231,76.2,7.55,-11.6,9.195
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",VRT,5.0,60.0,0.935,4.7,1.51,-7.6,7.356
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",VST,8.0,87.5,3.209,25.7,6.08,-5.1,18.706
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",WY,22.0,63.6,0.268,5.9,1.09,-35.8,-0.728
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",XOM,19.0,73.7,1.989,37.8,2.27,-18.7,5.592
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",XYZ,10.0,90.0,1.891,18.9,3.04,-9.3,14.341
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ZAL.DE,9.0,44.4,-2.043,-18.4,0.52,-24.3,-4.536
+"Vergleich: RSI kreuzt 30/70 (1d, nur Long)",ZBRA,26.0,73.1,1.313,34.1,1.92,-20.5,3.28
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AAPL,23.0,73.9,3.899,89.7,3.48,-18.5,9.354
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ADBE,23.0,60.9,3.238,74.5,2.28,-34.9,6.551
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ADS.DE,23.0,60.9,3.032,69.7,2.5,-21.4,7.424
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AEE,23.0,65.2,2.033,46.8,2.4,-21.5,2.8
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AFL,23.0,73.9,2.676,61.5,2.49,-22.2,4.238
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AIR.DE,23.0,73.9,3.958,91.0,2.73,-25.4,11.994
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AKAM,23.0,56.5,4.271,98.2,3.04,-24.3,13.661
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ALGN,23.0,69.6,4.257,97.9,3.01,-17.2,15.696
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ALV.DE,23.0,73.9,5.053,116.2,4.24,-15.7,9.902
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AMD,23.0,52.2,1.812,41.7,1.56,-32.3,12.042
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AME,23.0,78.3,6.273,144.3,9.96,-6.3,12.113
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AMGN,23.0,43.5,1.14,26.2,1.47,-27.4,2.102
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AMP,22.0,68.2,4.41,97.0,3.68,-11.9,11.073
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ANET,13.0,69.2,6.953,90.4,5.87,-11.2,19.477
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),APO,16.0,62.5,3.213,51.4,3.09,-7.8,11.564
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ATO,23.0,82.6,4.641,106.7,9.21,-5.9,8.103
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AVY,23.0,69.6,3.997,91.9,3.52,-12.1,7.413
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AWK,19.0,78.9,4.543,86.3,14.05,-3.7,7.852
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AXON,23.0,52.2,4.326,99.5,2.62,-13.0,12.3
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),AZO,23.0,78.3,6.409,147.4,8.16,-5.7,14.278
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BAC,23.0,47.8,1.849,42.5,1.71,-23.5,3.515
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BAS.DE,23.0,73.9,4.253,97.8,3.89,-15.5,10.035
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BAYN.DE,23.0,60.9,3.038,69.9,2.22,-26.1,8.067
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BE,9.0,66.7,2.757,24.8,3.07,-4.4,24.488
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BEI.DE,23.0,60.9,3.318,76.3,2.93,-17.1,5.319
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BF-B,23.0,56.5,2.608,60.0,2.53,-21.9,4.231
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BIIB,23.0,56.5,1.275,29.3,1.31,-44.4,4.073
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BLK,23.0,73.9,4.95,113.8,4.65,-13.3,9.824
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BMW.DE,23.0,69.6,2.853,65.6,3.0,-13.0,9.018
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BNR.DE,17.0,70.6,5.133,87.3,5.2,-6.4,11.926
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BNY,23.0,65.2,3.394,78.1,3.16,-9.2,7.324
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),BRO,23.0,73.9,3.63,83.5,3.3,-21.6,6.234
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),C,23.0,52.2,1.597,36.7,1.61,-20.7,2.069
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CBK.DE,23.0,60.9,2.787,64.1,2.02,-38.5,4.63
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CCL,23.0,43.5,-0.322,-7.4,0.9,-34.0,2.241
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CEG,6.0,50.0,2.22,13.3,1.8,-13.8,3.227
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CF,22.0,63.6,5.104,112.3,3.26,-22.5,18.929
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CFG,13.0,61.5,2.373,30.9,1.92,-17.0,7.96
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CHD,23.0,78.3,7.912,182.0,23.9,-3.2,11.855
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CINF,23.0,65.2,3.09,71.1,2.58,-17.4,7.248
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CMI,23.0,65.2,3.296,75.8,2.62,-9.7,7.748
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CNC,23.0,65.2,4.403,101.3,2.94,-18.5,14.439
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),COF,23.0,56.5,1.482,34.1,1.56,-20.5,3.552
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CON.DE,23.0,73.9,3.287,75.6,2.56,-27.0,7.22
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),COST,23.0,82.6,5.229,120.3,10.53,-3.5,8.149
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CPAY,17.0,76.5,5.803,98.6,4.55,-12.0,13.726
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CSX,23.0,78.3,6.067,139.5,6.99,-11.6,12.038
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CTSH,23.0,60.9,2.621,60.3,2.67,-12.6,6.974
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),CVS,23.0,56.5,3.348,77.0,3.01,-26.0,5.918
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DASH,7.0,42.9,-0.41,-2.9,0.9,-16.1,0.151
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DB1.DE,23.0,73.9,7.759,178.5,12.66,-7.6,13.078
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DBK.DE,23.0,52.2,1.912,44.0,1.76,-23.9,6.627
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DD,23.0,56.5,1.883,43.3,1.72,-23.1,4.605
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DDOG,8.0,12.5,-2.801,-22.4,0.29,-22.3,-11.679
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DELL,11.0,54.5,4.881,53.7,2.52,-11.0,11.974
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DGX,23.0,78.3,3.15,72.5,3.05,-17.4,6.985
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DHL.DE,23.0,65.2,3.627,83.4,4.22,-8.8,7.112
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DHR,23.0,65.2,3.621,83.3,3.29,-19.9,5.626
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DLTR,23.0,82.6,5.335,122.7,4.23,-16.1,14.371
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DPZ,23.0,82.6,6.039,138.9,12.18,-5.6,16.749
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DTE.DE,23.0,56.5,1.227,28.2,1.46,-22.5,3.729
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DTG.DE,6.0,66.7,4.278,25.7,3.99,-2.4,9.22
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DVA,23.0,65.2,3.811,87.6,2.98,-18.7,10.1
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),DVN,23.0,52.2,2.326,53.5,2.02,-22.0,7.236
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ED,23.0,69.6,2.555,58.8,3.42,-7.6,4.454
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EL,23.0,69.6,5.291,121.7,4.03,-17.0,9.77
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ELV,23.0,69.6,3.355,77.2,2.8,-20.8,8.273
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EMR,23.0,73.9,3.516,80.9,4.03,-11.9,6.62
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ENR.DE,7.0,71.4,9.641,67.5,9.76,-7.0,38.883
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EOAN.DE,23.0,52.2,2.53,58.2,2.64,-20.0,5.22
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EQIX,23.0,78.3,4.114,94.6,4.27,-7.8,13.023
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EQT,23.0,52.2,3.055,70.3,2.64,-23.0,10.972
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EW,23.0,82.6,6.006,138.1,12.59,-8.3,13.433
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),EXC,23.0,60.9,2.647,60.9,2.64,-20.0,4.973
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FICO,23.0,52.2,4.327,99.5,3.51,-18.5,11.827
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FISV,23.0,73.9,5.339,122.8,5.24,-17.7,8.776
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FITB,23.0,65.2,1.724,39.7,1.59,-17.3,3.632
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FIX,23.0,69.6,5.832,134.1,5.32,-12.0,17.773
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FME.DE,23.0,73.9,3.758,86.4,3.47,-9.6,7.529
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FOXA,8.0,62.5,2.683,21.5,2.91,-2.4,8.255
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FRE.DE,23.0,65.2,4.863,111.8,3.81,-29.5,9.974
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),FTV,11.0,72.7,2.519,27.7,2.03,-16.6,5.334
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),G1A.DE,23.0,65.2,3.859,88.8,3.46,-28.2,9.743
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),G24.DE,12.0,75.0,3.678,44.1,2.88,-16.0,7.178
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),GD,23.0,60.9,3.571,82.1,3.38,-20.1,5.407
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),GL,23.0,65.2,2.262,52.0,1.89,-31.1,4.016
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),GOOG,23.0,73.9,3.422,78.7,3.67,-11.1,7.133
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),GOOGL,23.0,73.9,3.299,75.9,3.55,-11.1,6.947
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),HEI.DE,23.0,73.9,6.904,158.8,5.25,-15.4,17.598
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),HEN3.DE,23.0,65.2,2.506,57.6,1.81,-41.5,5.276
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),HNR1.DE,23.0,87.0,6.144,141.3,11.38,-9.0,12.07
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),HPE,12.0,66.7,2.116,25.4,1.89,-14.1,7.448
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IBKR,20.0,60.0,4.613,92.3,5.46,-14.7,8.762
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IBM,23.0,60.9,0.503,11.6,1.21,-24.4,1.533
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ICE,22.0,86.4,4.482,98.6,10.64,-4.6,12.223
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IEX,23.0,73.9,4.577,105.3,4.92,-14.2,8.567
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IFF,23.0,60.9,3.191,73.4,2.44,-19.6,5.559
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IFX.DE,23.0,60.9,2.693,61.9,2.25,-22.0,8.697
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IR,10.0,70.0,3.184,31.8,2.53,-14.4,8.538
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),IRM,23.0,73.9,2.319,53.3,1.93,-19.7,7.23
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ITW,23.0,73.9,3.966,91.2,4.68,-8.4,7.361
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),JBHT,23.0,69.6,3.621,83.3,3.34,-18.7,10.184
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),JNJ,23.0,69.6,3.38,77.7,4.36,-8.5,4.45
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),JPM,23.0,78.3,4.036,92.8,3.73,-12.1,8.262
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),KEYS,13.0,53.8,6.723,87.4,4.21,-10.8,14.248
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),KLAC,23.0,65.2,4.719,108.5,5.42,-7.2,13.687
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),KMI,17.0,64.7,0.523,8.9,1.19,-34.5,2.539
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),KO,23.0,73.9,4.262,98.0,5.31,-14.8,5.668
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),LEN,23.0,56.5,1.152,26.5,1.41,-27.4,6.496
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),LIN,23.0,87.0,4.523,104.0,11.24,-6.8,8.668
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),LNT,23.0,69.6,4.389,101.0,6.3,-3.8,6.793
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),LYV,22.0,63.6,1.81,39.8,1.77,-21.8,4.485
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MAA,23.0,69.6,0.952,21.9,1.42,-25.8,3.255
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MAR,23.0,73.9,5.756,132.4,4.29,-17.2,13.68
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MBG.DE,23.0,60.9,1.979,45.5,1.75,-18.8,6.182
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MCD,23.0,82.6,4.196,96.5,6.46,-9.2,6.805
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MDLZ,23.0,60.9,1.997,45.9,2.36,-12.8,3.833
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MDT,23.0,60.9,1.55,35.6,1.93,-14.3,2.871
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MGM,23.0,69.6,2.607,59.9,2.08,-20.4,8.593
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MMM,23.0,60.9,2.895,66.6,2.63,-13.6,4.669
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MO,23.0,65.2,0.056,1.3,1.01,-73.4,0.677
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MOS,23.0,65.2,4.027,92.6,3.22,-19.0,13.884
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MPWR,23.0,82.6,4.68,107.6,6.24,-12.1,18.843
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MRK.DE,23.0,65.2,2.842,65.4,2.64,-19.2,6.953
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MRVL,23.0,69.6,3.156,72.6,3.33,-11.2,10.599
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MSCI,20.0,75.0,6.245,124.9,7.1,-8.6,15.72
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MTB,23.0,69.6,1.96,45.1,1.83,-16.8,4.377
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MTD,23.0,65.2,5.898,135.7,4.28,-12.7,11.337
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MTX.DE,22.0,72.7,4.481,98.6,3.1,-23.1,12.44
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),MUV2.DE,23.0,82.6,5.336,122.7,5.72,-14.1,10.768
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),NKE,23.0,52.2,1.654,38.0,1.68,-29.8,3.084
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),NUE,23.0,78.3,6.126,140.9,6.24,-13.1,19.869
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),NVDA,23.0,60.9,5.947,136.8,4.1,-14.4,20.739
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),NWS,14.0,50.0,1.325,18.6,1.56,-17.6,3.629
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),NWSA,14.0,50.0,1.385,19.4,1.59,-16.4,3.841
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),O,23.0,69.6,2.197,50.5,1.98,-27.3,4.81
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),OXY,23.0,65.2,2.776,63.8,2.22,-29.0,11.602
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),P,12.0,41.7,0.097,1.2,1.03,-17.5,-2.011
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PAH3.DE,19.0,63.2,3.775,71.7,3.14,-15.3,10.994
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PCAR,23.0,73.9,3.633,83.6,4.09,-9.5,8.56
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PCG,23.0,78.3,1.121,25.8,1.49,-29.6,3.954
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PFE,23.0,52.2,1.039,23.9,1.44,-25.9,0.779
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PH,23.0,69.6,4.989,114.7,4.26,-9.7,11.822
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PLD,23.0,69.6,3.453,79.4,4.33,-13.6,7.116
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PODD,20.0,70.0,3.043,60.9,2.83,-12.4,8.107
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PPG,23.0,69.6,3.513,80.8,2.65,-17.1,7.868
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PSA,23.0,73.9,3.549,81.6,3.19,-17.3,6.721
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),PSX,15.0,66.7,2.725,40.9,1.91,-27.8,8.708
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),Q,2.0,100.0,5.5,11.0,inf,0.0,34.295
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),QCOM,23.0,65.2,1.741,40.0,1.97,-18.4,3.977
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),QIA.DE,23.0,60.9,2.507,57.7,2.61,-25.1,7.638
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),REG,23.0,65.2,1.579,36.3,1.64,-44.4,4.68
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),REGN,23.0,65.2,5.024,115.6,2.87,-20.8,15.767
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),RHM.DE,23.0,78.3,11.752,270.3,8.08,-16.2,30.49
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),RL,23.0,65.2,3.283,75.5,2.76,-22.8,8.708
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ROL,23.0,78.3,4.769,109.7,9.21,-10.6,8.805
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ROST,23.0,65.2,5.303,122.0,6.16,-13.1,14.173
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),RWE.DE,23.0,65.2,2.43,55.9,2.46,-20.7,5.546
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SAP.DE,23.0,65.2,1.889,43.5,1.67,-26.8,4.5
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SBAC,23.0,69.6,4.633,106.6,8.17,-5.6,12.473
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SHL.DE,9.0,77.8,1.478,13.3,1.73,-18.2,4.61
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SHW,23.0,78.3,4.557,104.8,4.37,-11.8,10.068
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SIE.DE,23.0,65.2,3.411,78.4,2.74,-17.7,7.839
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SLB,23.0,60.9,2.661,61.2,2.25,-26.3,8.442
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SNA,23.0,73.9,4.156,95.6,4.31,-17.7,8.452
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SO,23.0,60.9,2.065,47.5,2.43,-12.2,3.124
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),STE,23.0,73.9,2.98,68.5,5.39,-9.4,5.315
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SY1.DE,21.0,61.9,2.392,50.2,2.7,-14.7,6.256
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),SYK,23.0,73.9,4.668,107.4,4.69,-10.5,8.464
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),T,23.0,60.9,2.184,50.2,2.51,-16.2,3.939
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TEL,20.0,70.0,3.76,75.2,3.3,-14.2,6.683
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TER,23.0,73.9,5.639,129.7,5.26,-12.9,17.784
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TFC,23.0,56.5,0.685,15.8,1.21,-24.8,2.724
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TGT,23.0,56.5,1.879,43.2,1.73,-19.3,5.264
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TJX,23.0,78.3,3.565,82.0,4.65,-12.5,7.838
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TPR,23.0,69.6,6.121,140.8,4.12,-24.1,17.1
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TRMB,23.0,56.5,3.265,75.1,2.33,-16.8,9.384
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TRV,23.0,87.0,4.469,102.8,4.56,-19.5,9.147
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TSCO,23.0,78.3,5.19,119.4,5.47,-17.5,14.574
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TSLA,17.0,64.7,6.327,107.6,5.04,-16.9,21.786
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TSN,23.0,65.2,6.37,146.5,4.92,-14.4,13.962
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TWLO,11.0,54.5,1.144,12.6,1.46,-21.5,3.749
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),TXT,23.0,65.2,4.273,98.3,2.92,-28.2,9.171
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),UAL,22.0,68.2,2.925,64.4,2.14,-28.2,15.667
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),UBER,8.0,37.5,1.874,15.0,1.72,-9.1,8.868
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),UHS,23.0,65.2,3.024,69.6,2.84,-16.9,8.265
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),UNP,23.0,78.3,5.515,126.9,6.62,-7.9,9.545
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),URI,23.0,56.5,4.635,106.6,2.71,-30.3,19.302
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),V,19.0,78.9,5.833,110.8,11.16,-4.3,10.849
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),VNA.DE,14.0,50.0,1.6,22.4,1.69,-28.5,2.636
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),VOW3.DE,23.0,65.2,4.975,114.4,5.23,-11.9,10.947
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),VRSK,18.0,66.7,4.2,75.6,3.54,-11.2,7.055
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),VRT,9.0,66.7,2.582,23.2,1.88,-15.2,12.49
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),VST,11.0,54.5,3.186,35.0,1.94,-24.8,7.714
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),WY,23.0,65.2,2.185,50.2,2.07,-22.1,5.866
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),XOM,23.0,56.5,3.355,77.2,2.47,-32.0,7.432
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),XYZ,12.0,58.3,4.163,50.0,2.86,-15.3,14.752
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ZAL.DE,13.0,69.2,1.613,21.0,2.01,-15.2,8.243
+Vergleich: Saison 16.10.–20.04. ohne MACD (1d),ZBRA,23.0,65.2,4.81,110.6,3.12,-31.5,11.45
 Vergleich: Stochastik-Kreuz ohne ADX/Volumen (1d),AAPL,182.0,39.0,0.183,33.4,1.61,-7.6,1.211
 Vergleich: Stochastik-Kreuz ohne ADX/Volumen (1d),ADBE,180.0,40.0,0.032,5.7,1.1,-10.0,0.019
 Vergleich: Stochastik-Kreuz ohne ADX/Volumen (1d),ADS.DE,196.0,32.1,-0.056,-10.9,0.84,-15.6,-0.234
@@ -12546,6 +14333,204 @@ Vergleich: jede MACD-Kreuzung (1d),ZBRA,391.0,45.5,-0.076,-29.8,0.93,-45.3,-0.31
 "Vergleich: nur %B 0,8/0,2 + SAR (1d)",XYZ,149.0,43.0,0.125,18.7,1.35,-15.2,1.234
 "Vergleich: nur %B 0,8/0,2 + SAR (1d)",ZAL.DE,173.0,38.2,0.094,16.3,1.24,-8.8,0.611
 "Vergleich: nur %B 0,8/0,2 + SAR (1d)",ZBRA,318.0,36.2,-0.024,-7.5,0.95,-24.6,-0.243
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AAPL,8.0,87.5,44.723,357.8,176.93,-2.0,106.48
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ADBE,7.0,42.9,93.747,656.2,31.07,-21.8,168.643
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ADS.DE,7.0,71.4,19.872,139.1,17.06,-6.9,48.931
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AEE,10.0,70.0,6.406,64.1,3.97,-21.6,9.798
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AFL,8.0,87.5,13.311,106.5,19.22,-5.8,27.971
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AIR.DE,11.0,63.6,5.095,56.1,2.66,-27.8,15.136
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AKAM,10.0,40.0,5.876,58.8,2.71,-16.2,19.53
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ALGN,10.0,60.0,17.857,178.6,8.49,-18.2,43.888
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ALV.DE,10.0,50.0,10.573,105.7,3.64,-20.9,17.354
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AMD,9.0,66.7,26.197,235.8,9.35,-28.3,125.843
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AME,10.0,70.0,12.265,122.7,7.61,-12.4,25.478
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AMGN,12.0,50.0,6.788,81.5,2.89,-18.2,13.452
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AMP,9.0,77.8,14.674,132.1,9.0,-13.3,32.812
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ANET,6.0,66.7,31.777,190.7,14.07,-14.2,79.803
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),APO,5.0,100.0,20.885,104.4,inf,0.0,53.326
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ATO,9.0,55.6,13.266,119.4,9.21,-4.9,21.351
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AVY,11.0,27.3,4.853,53.4,2.56,-19.2,10.067
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AWK,7.0,71.4,17.814,124.7,17.13,-7.7,35.694
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AXON,10.0,40.0,14.501,145.0,6.77,-11.9,39.722
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),AZO,9.0,88.9,24.68,222.1,22.16,0.0,41.136
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BAC,9.0,55.6,7.141,64.3,2.82,-17.8,19.568
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BAS.DE,10.0,50.0,3.204,32.0,1.94,-30.2,5.776
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BAYN.DE,10.0,40.0,12.103,121.0,4.96,-18.7,28.929
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BE,4.0,50.0,24.323,97.3,13.36,-7.9,156.11
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BEI.DE,9.0,55.6,5.898,53.1,2.91,-18.0,9.998
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BF-B,9.0,55.6,10.576,95.2,5.29,-15.2,24.521
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BIIB,11.0,36.4,16.602,182.6,4.8,-32.1,34.685
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BLK,10.0,60.0,16.462,164.6,6.91,-21.5,26.247
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BMW.DE,9.0,55.6,3.1,27.9,3.01,-6.2,7.964
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BNR.DE,9.0,22.2,0.044,0.4,1.01,-19.1,1.246
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BNY,9.0,55.6,15.708,141.4,5.82,-16.3,24.021
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),BRO,9.0,66.7,26.15,235.4,21.68,-6.6,35.228
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),C,12.0,50.0,2.131,25.6,1.47,-30.9,6.257
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CBK.DE,8.0,37.5,25.657,205.3,7.35,-32.3,79.821
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CCL,10.0,50.0,2.225,22.3,1.84,-12.0,6.741
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CEG,1.0,100.0,99.729,99.7,inf,0.0,263.021
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CF,10.0,60.0,12.094,120.9,5.94,-9.2,42.08
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CFG,7.0,57.1,2.921,20.5,1.54,-29.6,6.758
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CHD,9.0,44.4,17.938,161.4,12.24,-9.5,29.697
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CINF,11.0,54.5,7.131,78.4,5.33,-13.7,12.934
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CMI,10.0,60.0,6.976,69.8,4.12,-9.3,18.32
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CNC,12.0,41.7,5.844,70.1,2.48,-19.4,18.468
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),COF,12.0,58.3,2.335,28.0,1.63,-30.0,6.627
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CON.DE,8.0,50.0,11.413,91.3,14.77,-6.6,28.61
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),COST,11.0,81.8,21.915,241.1,52.68,-0.3,30.809
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CPAY,7.0,71.4,20.703,144.9,8.99,-14.0,44.636
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CSX,9.0,77.8,22.637,203.7,33.45,-5.0,42.163
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CTSH,11.0,63.6,6.165,67.8,2.87,-18.1,18.982
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),CVS,9.0,55.6,11.771,105.9,3.54,-22.2,21.664
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DASH,2.0,50.0,18.652,37.3,7.4,0.0,64.47
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DB1.DE,13.0,69.2,6.38,82.9,4.78,-18.1,10.646
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DBK.DE,12.0,25.0,6.8,81.6,3.49,-26.3,8.185
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DD,13.0,30.8,-0.079,-1.0,0.98,-19.6,-0.28
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DDOG,6.0,33.3,-3.444,-20.7,0.15,-22.4,-11.605
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DELL,4.0,100.0,36.788,147.2,inf,0.0,106.61
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DGX,14.0,35.7,2.697,37.8,1.67,-36.6,3.802
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DHL.DE,10.0,50.0,7.841,78.4,4.37,-12.9,12.693
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DHR,6.0,50.0,58.646,351.9,24.73,-13.5,94.617
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DLTR,12.0,58.3,4.186,50.2,2.88,-12.2,19.157
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DPZ,7.0,57.1,120.959,846.7,28.16,-13.6,462.539
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DTE.DE,13.0,46.2,0.456,5.9,1.14,-31.1,0.343
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DTG.DE,3.0,33.3,3.278,9.8,6.1,-1.9,5.423
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DVA,13.0,61.5,4.667,60.7,2.45,-26.0,9.457
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),DVN,10.0,50.0,3.371,33.7,1.88,-27.4,23.592
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ED,14.0,50.0,2.135,29.9,1.92,-15.0,3.523
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EL,7.0,71.4,21.717,152.0,9.01,-18.1,49.522
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ELV,11.0,45.5,7.643,84.1,4.46,-14.7,16.755
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EMR,9.0,88.9,11.016,99.1,6.62,-17.6,18.382
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ENR.DE,3.0,33.3,31.062,93.2,8.17,-10.7,128.168
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EOAN.DE,11.0,54.5,5.148,56.6,2.49,-32.0,5.204
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EQIX,10.0,80.0,14.651,146.5,17.49,-4.0,28.927
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EQT,10.0,50.0,3.379,33.8,2.34,-11.6,15.241
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EW,11.0,72.7,15.574,171.3,10.3,-16.7,35.749
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),EXC,9.0,55.6,5.656,50.9,5.08,-7.1,10.625
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FICO,5.0,80.0,70.55,352.7,85.09,-4.2,179.03
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FISV,6.0,83.3,78.301,469.8,325.32,-1.4,87.046
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FITB,10.0,60.0,1.068,10.7,1.18,-25.8,6.92
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FIX,10.0,50.0,57.644,576.4,19.37,-31.4,245.336
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FME.DE,10.0,30.0,9.039,90.4,5.38,-19.6,13.274
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FOXA,3.0,66.7,9.261,27.8,8.92,-3.5,15.403
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FRE.DE,7.0,57.1,35.402,247.8,12.08,-13.7,76.471
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),FTV,6.0,66.7,-0.122,-0.7,0.95,-10.4,1.115
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),G1A.DE,11.0,54.5,6.307,69.4,2.91,-30.1,13.187
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),G24.DE,5.0,80.0,24.572,122.9,12.18,-11.0,19.584
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),GD,10.0,60.0,12.5,125.0,5.08,-23.1,16.869
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),GL,11.0,54.5,5.339,58.7,2.18,-34.1,10.551
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),GOOG,9.0,88.9,19.564,176.1,25.99,-7.0,43.339
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),GOOGL,9.0,88.9,20.234,182.1,26.84,-7.0,44.812
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),HEI.DE,10.0,40.0,12.333,123.3,4.58,-22.6,27.364
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),HEN3.DE,11.0,63.6,6.706,73.8,2.96,-32.6,13.634
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),HNR1.DE,10.0,60.0,10.35,103.5,6.13,-7.6,15.119
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),HPE,6.0,66.7,6.318,37.9,3.77,-13.7,16.818
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IBKR,8.0,62.5,32.27,258.2,21.85,-6.0,62.233
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IBM,13.0,23.1,0.827,10.7,1.14,-44.9,1.928
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ICE,7.0,85.7,17.938,125.6,57.85,-2.2,37.959
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IEX,14.0,42.9,3.834,53.7,2.16,-20.0,8.716
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IFF,11.0,45.5,6.731,74.0,3.14,-26.5,11.559
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IFX.DE,9.0,66.7,12.299,110.7,6.41,-10.8,41.899
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IR,6.0,33.3,2.186,13.1,1.62,-9.3,3.874
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),IRM,14.0,35.7,0.387,5.4,1.11,-45.3,4.149
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ITW,10.0,70.0,7.188,71.9,3.94,-16.8,11.971
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),JBHT,9.0,55.6,6.94,62.5,4.97,-4.6,15.786
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),JNJ,13.0,38.5,6.332,82.3,2.69,-20.0,7.476
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),JPM,8.0,62.5,14.206,113.7,4.26,-22.2,22.231
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),KEYS,4.0,75.0,45.314,181.3,196.57,-0.9,91.294
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),KLAC,11.0,54.5,12.971,142.7,8.65,-8.9,30.03
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),KMI,9.0,44.4,2.013,18.1,1.85,-20.4,2.16
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),KO,12.0,50.0,7.572,90.9,4.88,-12.8,10.422
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),LEN,10.0,50.0,2.629,26.3,2.0,-12.1,7.385
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),LIN,10.0,70.0,11.431,114.3,9.72,-12.2,20.991
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),LNT,6.0,100.0,22.874,137.2,inf,0.0,37.661
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),LYV,10.0,50.0,14.42,144.2,7.04,-11.8,26.996
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MAA,10.0,60.0,6.556,65.6,3.06,-16.7,11.417
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MAR,9.0,88.9,18.023,162.2,10.12,-17.8,34.526
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MBG.DE,12.0,41.7,-2.771,-33.3,0.53,-60.1,-2.327
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MCD,12.0,58.3,6.622,79.5,3.43,-13.7,9.422
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MDLZ,13.0,46.2,-0.018,-0.2,0.99,-16.8,0.652
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MDT,14.0,35.7,0.206,2.9,1.04,-39.6,-0.872
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MGM,13.0,38.5,0.816,10.6,1.22,-38.5,2.438
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MMM,10.0,40.0,7.341,73.4,5.08,-10.4,12.256
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MO,6.0,66.7,35.233,211.4,15.73,-14.4,55.963
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MOS,12.0,33.3,0.507,6.1,1.09,-48.0,7.308
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MPWR,7.0,57.1,30.198,211.4,14.15,-10.4,109.077
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MRK.DE,11.0,36.4,18.148,199.6,9.77,-14.8,28.811
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MRVL,11.0,72.7,5.149,56.6,4.45,-10.5,21.563
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MSCI,8.0,37.5,74.325,594.6,28.13,-12.9,132.23
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MTB,10.0,70.0,6.528,65.3,4.82,-17.1,13.695
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MTD,11.0,72.7,14.17,155.9,11.41,-15.0,27.257
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MTX.DE,8.0,87.5,10.469,83.8,7.84,-12.2,34.787
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),MUV2.DE,10.0,60.0,6.726,67.3,3.6,-15.1,12.066
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),NKE,7.0,57.1,16.28,114.0,6.83,-9.4,34.071
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),NUE,10.0,50.0,8.104,81.0,3.25,-30.2,27.306
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),NVDA,7.0,71.4,81.419,569.9,37.48,-15.6,228.09
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),NWS,7.0,71.4,5.746,40.2,3.13,-16.5,15.358
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),NWSA,7.0,57.1,3.051,21.4,1.97,-14.7,9.727
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),O,10.0,60.0,2.159,21.6,2.26,-14.7,5.168
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),OXY,11.0,27.3,0.403,4.4,1.08,-45.8,10.394
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),P,7.0,71.4,4.503,31.5,5.6,-3.5,14.176
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PAH3.DE,11.0,45.5,-2.076,-22.8,0.62,-32.4,-5.239
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PCAR,13.0,53.8,4.012,52.2,5.33,-4.3,8.819
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PCG,12.0,58.3,0.049,0.6,1.01,-28.3,-0.228
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PFE,9.0,44.4,5.117,46.1,3.15,-10.8,7.124
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PH,12.0,66.7,13.729,164.8,16.58,-8.1,29.778
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PLD,12.0,41.7,7.466,89.6,2.75,-33.6,12.203
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PODD,7.0,71.4,17.74,124.2,11.55,-9.7,57.665
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PPG,10.0,40.0,3.181,31.8,1.89,-29.3,6.142
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PSA,8.0,62.5,12.133,97.1,10.59,-5.9,32.53
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),PSX,10.0,50.0,0.915,9.1,1.21,-42.9,5.593
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),QCOM,16.0,31.2,-2.469,-39.5,0.45,-39.5,-6.126
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),QIA.DE,11.0,36.4,-0.536,-5.9,0.88,-43.9,0.545
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),REG,13.0,61.5,2.494,32.4,2.77,-10.2,4.591
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),REGN,10.0,50.0,51.07,510.7,16.15,-21.3,161.25
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),RHM.DE,11.0,54.5,57.727,635.0,29.49,-9.6,138.712
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),RL,10.0,70.0,14.733,147.3,6.67,-21.1,40.792
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ROL,7.0,85.7,25.181,176.3,225.8,-0.8,57.299
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ROST,11.0,45.5,8.44,92.8,3.63,-21.7,21.529
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),RWE.DE,9.0,55.6,11.479,103.3,7.64,-15.6,18.717
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SAP.DE,12.0,41.7,4.249,51.0,2.01,-25.6,6.453
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SBAC,8.0,62.5,22.137,177.1,13.33,-8.8,59.016
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SHL.DE,5.0,40.0,-2.273,-11.4,0.49,-18.7,-3.667
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SHW,7.0,71.4,44.548,311.8,42.98,-4.1,65.113
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SIE.DE,9.0,66.7,8.211,73.9,3.45,-14.9,13.909
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SLB,10.0,50.0,4.357,43.6,2.5,-23.6,14.389
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SNA,12.0,58.3,8.921,107.1,3.89,-20.0,18.602
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SO,14.0,35.7,0.408,5.7,1.12,-17.3,1.649
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),STE,10.0,20.0,17.301,173.0,8.38,-10.4,25.176
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SY1.DE,7.0,57.1,21.185,148.3,14.1,-10.7,41.025
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),SYK,8.0,75.0,19.656,157.2,9.0,-14.5,28.336
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),T,14.0,42.9,2.513,35.2,1.97,-22.2,2.912
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TEL,9.0,66.7,6.319,56.9,2.84,-21.6,12.155
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TER,12.0,58.3,12.196,146.4,7.01,-11.8,30.798
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TFC,13.0,53.8,0.263,3.4,1.09,-19.6,-0.923
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TGT,10.0,60.0,9.062,90.6,4.23,-20.1,17.291
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TJX,10.0,50.0,9.602,96.0,4.17,-8.1,25.591
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TPR,11.0,36.4,3.394,37.3,1.6,-46.0,13.257
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TRMB,9.0,77.8,6.572,59.1,5.45,-10.7,17.78
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TRV,10.0,60.0,11.434,114.3,8.23,-12.8,17.088
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TSCO,12.0,50.0,10.372,124.5,4.02,-14.6,33.414
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TSLA,9.0,44.4,39.206,352.9,12.85,-12.8,112.841
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TSN,11.0,36.4,2.483,27.3,1.44,-37.5,6.39
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TWLO,4.0,75.0,24.828,99.3,66.84,-1.5,93.428
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),TXT,10.0,70.0,3.82,38.2,2.93,-14.1,7.457
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),UAL,12.0,50.0,3.417,41.0,1.73,-35.5,14.719
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),UBER,3.0,66.7,10.394,31.2,92.34,-0.3,42.687
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),UHS,11.0,27.3,3.323,36.6,1.67,-20.1,10.744
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),UNP,8.0,75.0,18.425,147.4,16.54,-7.0,45.479
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),URI,9.0,77.8,15.847,142.6,8.23,-19.6,53.479
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),V,4.0,100.0,186.746,747.0,inf,0.0,283.733
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),VNA.DE,4.0,100.0,19.633,78.5,inf,0.0,36.19
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),VOW3.DE,13.0,53.8,9.729,126.5,3.25,-38.9,22.149
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),VRSK,5.0,80.0,34.095,170.5,21.27,-8.4,50.309
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),VRT,2.0,100.0,168.066,336.1,inf,0.0,674.312
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),VST,5.0,60.0,48.249,241.2,20.41,-12.4,95.579
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),WY,13.0,38.5,-3.649,-47.4,0.39,-48.3,-8.423
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),XOM,11.0,54.5,7.673,84.4,4.07,-18.6,18.123
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),XYZ,9.0,44.4,13.249,119.2,4.76,-23.9,37.975
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ZAL.DE,7.0,42.9,-0.738,-5.2,0.8,-11.5,0.498
+Vergleich: nur 12-Monats-Steigung des Kurses (1M),ZBRA,10.0,40.0,17.19,171.9,5.53,-18.0,45.142
 Vergleich: nur Bollinger 30 (1d),AAPL,139.0,59.7,-0.841,-116.9,0.58,-123.6,-1.979
 Vergleich: nur Bollinger 30 (1d),ADBE,163.0,68.7,0.36,58.7,1.41,-18.1,1.096
 Vergleich: nur Bollinger 30 (1d),ADS.DE,148.0,64.2,0.055,8.1,1.05,-46.0,-0.005
@@ -13543,6 +15528,205 @@ Vergleich: roter Tag > SMA200 (1d),XOM,685.0,67.9,0.068,46.4,1.2,-23.9,0.127
 Vergleich: roter Tag > SMA200 (1d),XYZ,327.0,65.1,0.044,14.4,1.12,-35.2,0.144
 Vergleich: roter Tag > SMA200 (1d),ZAL.DE,332.0,67.2,-0.083,-27.5,0.82,-28.4,-0.196
 Vergleich: roter Tag > SMA200 (1d),ZBRA,687.0,67.1,0.054,36.8,1.16,-32.5,0.177
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AAPL,22.0,86.4,9.883,217.4,9.38,-12.1,23.131
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ADBE,22.0,68.2,2.993,65.8,2.75,-18.9,7.305
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ADS.DE,22.0,68.2,2.21,48.6,2.03,-15.6,4.293
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AEE,22.0,68.2,1.049,23.1,1.48,-24.0,2.297
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AFL,22.0,68.2,3.267,71.9,2.45,-20.7,8.082
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AIR.DE,22.0,50.0,0.724,15.9,1.27,-23.6,3.975
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AKAM,22.0,59.1,1.066,23.4,1.3,-26.7,2.624
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ALGN,22.0,50.0,3.689,81.2,2.17,-38.2,9.224
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ALV.DE,22.0,45.5,0.176,3.9,1.06,-33.4,-0.179
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AMD,22.0,59.1,5.337,117.4,2.62,-42.3,28.403
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AME,22.0,59.1,1.898,41.8,1.92,-11.6,4.103
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AMGN,22.0,68.2,4.168,91.7,4.93,-13.3,9.07
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AMP,21.0,66.7,1.544,32.4,1.67,-22.7,5.896
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ANET,13.0,76.9,5.102,66.3,4.35,-15.3,20.381
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),APO,16.0,68.8,2.182,34.9,1.96,-15.3,5.687
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ATO,22.0,40.9,1.218,26.8,1.49,-20.8,1.528
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AVY,22.0,59.1,0.031,0.7,1.01,-42.5,0.608
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AWK,19.0,73.7,2.11,40.1,2.35,-21.0,3.327
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AXON,22.0,54.5,4.576,100.7,3.87,-15.2,13.714
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),AZO,22.0,54.5,2.112,46.5,2.11,-17.9,4.237
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BAC,22.0,54.5,0.475,10.4,1.18,-33.4,5.013
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BAS.DE,22.0,45.5,-2.45,-53.9,0.44,-64.6,-3.351
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BAYN.DE,22.0,54.5,-0.21,-4.6,0.95,-55.2,-0.307
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BE,9.0,44.4,5.465,49.2,2.95,-12.9,71.486
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BEI.DE,22.0,59.1,0.57,12.5,1.32,-12.0,1.242
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BF-B,22.0,54.5,2.008,44.2,2.05,-21.3,2.354
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BIIB,22.0,68.2,3.825,84.1,3.36,-14.3,8.151
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BLK,22.0,50.0,1.798,39.5,1.73,-16.8,7.208
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BMW.DE,22.0,40.9,-1.616,-35.6,0.59,-55.8,-3.049
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BNR.DE,17.0,29.4,-1.737,-29.5,0.51,-41.8,-1.137
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BNY,22.0,54.5,0.913,20.1,1.42,-31.8,1.861
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),BRO,22.0,68.2,3.049,67.1,2.42,-19.7,4.782
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),C,22.0,50.0,-0.589,-13.0,0.77,-34.6,0.896
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CBK.DE,22.0,45.5,-0.277,-6.1,0.92,-55.6,-0.038
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CCL,22.0,45.5,0.261,5.7,1.1,-29.5,2.94
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CEG,5.0,80.0,11.398,57.0,44.97,-1.3,47.17
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CF,22.0,77.3,3.43,75.5,3.66,-12.5,10.213
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CFG,12.0,50.0,0.661,7.9,1.44,-6.9,5.236
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CHD,22.0,50.0,0.379,8.3,1.19,-25.5,1.342
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CINF,22.0,59.1,2.048,45.0,1.83,-29.8,1.877
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CMI,22.0,59.1,3.936,86.6,2.55,-20.1,12.432
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CNC,22.0,36.4,1.24,27.3,1.42,-23.2,3.578
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),COF,22.0,50.0,0.429,9.4,1.2,-15.5,9.409
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CON.DE,22.0,40.9,0.334,7.4,1.1,-38.3,6.443
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),COST,22.0,68.2,4.506,99.1,4.26,-10.8,7.822
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CPAY,16.0,68.8,2.737,43.8,2.33,-18.1,6.786
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CSX,22.0,72.7,1.651,36.3,1.86,-9.6,6.19
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CTSH,22.0,50.0,1.641,36.1,1.59,-21.1,5.18
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),CVS,22.0,54.5,0.413,9.1,1.16,-25.7,2.526
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DASH,6.0,66.7,3.71,22.3,4.49,-6.3,15.939
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DB1.DE,22.0,45.5,0.476,10.5,1.15,-40.0,-0.344
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DBK.DE,22.0,50.0,-1.709,-37.6,0.57,-69.8,-2.678
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DD,22.0,36.4,-0.115,-2.5,0.97,-21.7,5.007
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DDOG,7.0,85.7,11.24,78.7,15.56,-5.4,60.092
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DELL,11.0,81.8,8.163,89.8,5.78,-10.0,32.532
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DGX,22.0,54.5,0.161,3.6,1.05,-28.6,2.25
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DHL.DE,22.0,50.0,0.4,8.8,1.11,-28.4,2.135
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DHR,22.0,77.3,3.402,74.9,4.08,-10.5,7.823
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DLTR,22.0,54.5,0.321,7.1,1.09,-49.8,2.263
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DPZ,22.0,59.1,1.534,33.7,1.51,-42.6,2.16
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DTE.DE,22.0,45.5,0.189,4.2,1.08,-18.5,0.072
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DTG.DE,5.0,60.0,-1.312,-6.6,0.21,-7.9,-2.777
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DVA,22.0,54.5,0.734,16.2,1.23,-37.5,3.379
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),DVN,22.0,54.5,-0.598,-13.2,0.85,-51.0,3.415
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ED,22.0,54.5,0.967,21.3,1.42,-21.8,0.849
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EL,22.0,54.5,-0.011,-0.2,1.0,-42.1,3.831
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ELV,22.0,54.5,1.392,30.6,1.72,-16.4,3.711
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EMR,22.0,63.6,-0.073,-1.6,0.98,-36.1,2.849
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ENR.DE,6.0,33.3,1.292,7.7,1.23,-25.0,6.638
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EOAN.DE,22.0,45.5,-1.377,-30.3,0.68,-59.4,-2.485
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EQIX,22.0,72.7,2.232,49.1,1.99,-13.1,5.554
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EQT,22.0,50.0,0.953,21.0,1.31,-31.4,2.327
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EW,22.0,68.2,2.117,46.6,1.99,-29.1,4.919
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),EXC,22.0,50.0,-1.243,-27.3,0.65,-44.5,-1.323
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FICO,22.0,59.1,2.987,65.7,2.38,-23.0,8.294
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FISV,22.0,63.6,2.909,64.0,2.25,-19.8,3.013
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FITB,22.0,45.5,-0.217,-4.8,0.92,-22.0,7.254
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FIX,22.0,63.6,2.754,60.6,2.17,-16.0,15.16
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FME.DE,22.0,54.5,-0.697,-15.3,0.74,-51.4,-1.568
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FOXA,8.0,50.0,0.71,5.7,1.28,-13.6,2.402
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FRE.DE,22.0,59.1,0.858,18.9,1.43,-20.6,1.763
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),FTV,11.0,63.6,0.518,5.7,1.23,-17.6,3.317
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),G1A.DE,22.0,68.2,0.68,15.0,1.24,-19.2,4.533
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),G24.DE,11.0,63.6,4.027,44.3,3.03,-11.1,4.865
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),GD,22.0,72.7,2.718,59.8,2.23,-24.8,5.83
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),GL,22.0,68.2,1.924,42.3,2.06,-26.2,7.879
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),GOOG,22.0,81.8,6.741,148.3,9.55,-8.6,15.257
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),GOOGL,22.0,81.8,6.775,149.1,9.45,-8.6,15.562
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),HEI.DE,22.0,40.9,-2.582,-56.8,0.45,-75.9,-3.251
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),HEN3.DE,22.0,59.1,1.02,22.4,1.46,-19.5,3.678
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),HNR1.DE,22.0,36.4,0.099,2.2,1.04,-24.5,0.468
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),HPE,11.0,63.6,3.599,39.6,2.95,-20.2,15.782
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IBKR,20.0,65.0,2.855,57.1,2.76,-13.4,8.29
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IBM,22.0,68.2,2.389,52.6,2.39,-14.6,4.316
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ICE,21.0,81.0,2.927,61.5,3.39,-12.8,4.885
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IEX,22.0,54.5,0.884,19.5,1.41,-14.5,3.334
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IFF,22.0,45.5,0.22,4.8,1.08,-34.3,-0.216
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IFX.DE,22.0,54.5,1.23,27.1,1.49,-17.2,9.486
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IR,10.0,70.0,2.194,21.9,3.2,-5.2,8.625
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),IRM,22.0,54.5,2.18,48.0,1.71,-23.7,4.973
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ITW,22.0,40.9,0.645,14.2,1.28,-15.5,2.793
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),JBHT,22.0,45.5,0.442,9.7,1.27,-19.0,3.151
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),JNJ,22.0,45.5,1.962,43.2,2.45,-12.1,3.078
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),JPM,22.0,63.6,1.086,23.9,1.59,-26.6,4.482
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),KEYS,12.0,75.0,3.375,40.5,5.07,-4.7,8.429
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),KLAC,22.0,59.1,1.93,42.5,2.19,-13.1,7.617
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),KMI,16.0,43.8,-0.092,-1.5,0.96,-22.9,0.437
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),KO,22.0,63.6,1.711,37.6,1.65,-27.6,2.378
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),LEN,22.0,50.0,-0.23,-5.1,0.92,-35.4,4.689
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),LIN,22.0,68.2,2.054,45.2,2.09,-15.5,3.896
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),LNT,22.0,63.6,1.007,22.1,1.43,-23.6,1.86
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),LYV,21.0,71.4,5.053,106.1,4.94,-15.7,17.159
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MAA,22.0,50.0,1.585,34.9,1.58,-19.4,3.746
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MAR,22.0,54.5,0.778,17.1,1.33,-17.6,2.549
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MBG.DE,22.0,40.9,-0.737,-16.2,0.83,-43.9,1.527
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MCD,22.0,59.1,2.618,57.6,1.99,-18.7,3.982
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MDLZ,22.0,54.5,-0.407,-9.0,0.87,-31.6,0.33
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MDT,22.0,54.5,0.684,15.1,1.2,-37.0,2.31
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MGM,22.0,45.5,-0.068,-1.5,0.98,-25.4,4.812
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MMM,22.0,50.0,0.538,11.8,1.13,-46.0,2.268
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MO,22.0,77.3,2.691,59.2,2.6,-32.4,3.9
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MOS,22.0,45.5,-1.236,-27.2,0.74,-66.2,0.478
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MPWR,22.0,59.1,3.406,74.9,2.51,-23.6,15.383
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MRK.DE,22.0,59.1,1.562,34.4,1.77,-19.9,3.505
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MRVL,22.0,50.0,0.892,19.6,1.23,-58.7,8.911
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MSCI,19.0,52.6,2.006,38.1,2.26,-15.7,3.896
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MTB,22.0,45.5,0.546,12.0,1.33,-18.0,1.738
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MTD,22.0,63.6,3.461,76.1,2.6,-17.9,9.218
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MTX.DE,22.0,50.0,1.569,34.5,1.71,-20.4,5.797
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),MUV2.DE,22.0,50.0,-0.383,-8.4,0.87,-48.8,-0.816
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),NKE,22.0,63.6,2.661,58.5,1.99,-28.5,5.892
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),NUE,22.0,36.4,-1.588,-34.9,0.54,-52.1,-2.752
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),NVDA,22.0,72.7,8.277,182.1,5.88,-24.1,27.35
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),NWS,14.0,64.3,1.144,16.0,1.53,-13.6,4.69
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),NWSA,14.0,64.3,0.962,13.5,1.41,-13.8,4.45
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),O,22.0,54.5,-0.501,-11.0,0.84,-26.1,1.049
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),OXY,22.0,45.5,-0.589,-13.0,0.82,-35.8,0.505
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),P,11.0,72.7,6.919,76.1,6.49,-8.3,32.912
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PAH3.DE,18.0,33.3,-3.337,-60.1,0.27,-68.8,-7.072
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PCAR,22.0,50.0,0.172,3.8,1.07,-23.2,0.772
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PCG,22.0,40.9,-1.454,-32.0,0.58,-44.6,-3.82
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PFE,22.0,50.0,0.718,15.8,1.3,-14.6,1.525
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PH,22.0,54.5,1.107,24.4,1.39,-28.2,5.881
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PLD,22.0,54.5,0.754,16.6,1.25,-33.5,2.279
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PODD,20.0,70.0,3.372,67.4,2.08,-29.9,16.301
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PPG,22.0,45.5,-0.786,-17.3,0.75,-29.6,0.679
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PSA,22.0,59.1,1.493,32.8,1.65,-17.5,3.546
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),PSX,15.0,66.7,3.534,53.0,3.77,-7.8,11.625
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),Q,1.0,0.0,-4.224,-4.2,0.0,0.0,-16.477
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),QCOM,22.0,45.5,1.154,25.4,1.58,-26.6,5.378
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),QIA.DE,22.0,63.6,0.319,7.0,1.11,-32.1,1.872
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),REG,22.0,63.6,0.037,0.8,1.01,-27.8,-0.353
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),REGN,22.0,81.8,4.182,92.0,8.8,-6.8,15.244
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),RHM.DE,22.0,36.4,-1.591,-35.0,0.6,-47.9,-3.827
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),RL,22.0,54.5,0.934,20.6,1.35,-25.8,5.967
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ROL,22.0,77.3,2.562,56.4,2.19,-18.6,6.211
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ROST,22.0,68.2,2.011,44.2,2.39,-14.1,4.221
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),RWE.DE,22.0,54.5,-0.993,-21.9,0.77,-69.2,-0.193
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SAP.DE,22.0,68.2,2.987,65.7,3.07,-10.6,6.454
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SBAC,22.0,63.6,2.655,58.4,2.07,-22.2,5.589
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SHL.DE,9.0,55.6,0.089,0.8,1.04,-15.2,-0.463
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SHW,22.0,63.6,2.819,62.0,2.96,-15.3,6.511
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SIE.DE,22.0,50.0,-0.145,-3.2,0.95,-25.0,2.757
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SLB,22.0,36.4,-0.578,-12.7,0.83,-43.4,0.41
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SNA,22.0,54.5,1.497,32.9,1.73,-16.8,5.066
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SO,22.0,63.6,1.522,33.5,1.77,-17.5,2.334
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),STE,22.0,63.6,3.542,77.9,3.35,-14.2,7.471
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SY1.DE,20.0,65.0,1.844,36.9,2.0,-11.2,4.305
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),SYK,22.0,59.1,0.821,18.1,1.36,-19.4,1.965
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),T,22.0,40.9,-0.338,-7.4,0.91,-42.6,-1.749
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TEL,20.0,50.0,1.158,23.2,1.41,-16.7,7.806
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TER,22.0,40.9,0.732,16.1,1.25,-28.0,5.993
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TFC,22.0,54.5,-0.301,-6.6,0.87,-25.8,1.668
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TGT,22.0,54.5,1.548,34.1,1.5,-31.6,4.135
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TJX,22.0,63.6,3.869,85.1,4.16,-11.2,7.877
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TPR,22.0,40.9,-2.54,-55.9,0.49,-75.9,-0.512
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TRMB,22.0,59.1,1.676,36.9,1.58,-35.9,5.192
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TRV,22.0,59.1,1.772,39.0,2.05,-19.1,3.434
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TSCO,22.0,45.5,0.271,6.0,1.09,-24.7,3.412
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TSLA,17.0,64.7,7.217,122.7,7.38,-6.5,37.671
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TSN,22.0,40.9,-1.842,-40.5,0.58,-53.5,-4.23
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TWLO,11.0,54.5,6.661,73.3,7.02,-6.0,29.27
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),TXT,22.0,45.5,-0.509,-11.2,0.84,-40.9,2.451
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),UAL,21.0,38.1,-0.072,-1.5,0.96,-15.0,1.769
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),UBER,8.0,50.0,0.926,7.4,1.4,-8.2,4.105
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),UHS,22.0,59.1,1.345,29.6,1.47,-23.9,5.856
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),UNP,22.0,68.2,1.738,38.2,2.15,-9.5,5.52
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),URI,22.0,59.1,1.961,43.1,1.7,-21.5,14.112
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),V,19.0,78.9,4.695,89.2,4.7,-9.7,7.761
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),VNA.DE,14.0,64.3,1.215,17.0,1.62,-15.3,2.478
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),VOW3.DE,22.0,45.5,-0.52,-11.4,0.86,-67.6,-0.626
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),VRSK,17.0,82.4,3.965,67.4,4.56,-11.0,6.673
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),VRT,9.0,66.7,9.17,82.5,8.64,-8.0,53.162
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),VST,10.0,80.0,5.925,59.3,9.0,-6.3,27.026
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),WY,22.0,31.8,-3.287,-72.3,0.36,-69.8,-5.481
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),XOM,22.0,54.5,-0.111,-2.4,0.95,-38.0,0.604
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),XYZ,11.0,63.6,5.34,58.7,3.99,-12.4,26.019
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ZAL.DE,12.0,50.0,0.259,3.1,1.08,-23.7,1.877
+Vergleich: umgekehrte Saison 20.04.–16.10. (1d),ZBRA,22.0,50.0,-0.386,-8.5,0.91,-37.6,2.955
 Weinstein Stufe 2 (1w),AAPL,11.0,81.8,2.188,24.1,37.48,-0.7,50.048
 Weinstein Stufe 2 (1w),ADBE,14.0,35.7,0.743,10.4,2.73,-3.4,8.8
 Weinstein Stufe 2 (1w),ADS.DE,10.0,60.0,0.879,8.8,5.13,-0.8,16.712

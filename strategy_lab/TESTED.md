@@ -51,3 +51,12 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-11-08 | StockCharts ChartSchool | percent-b-money-flow | John Bollinger – Percent B Money Flow | getestet, PF 1,00 / 0,93 (L/S), 1,35 / 1,12 nur Long; Vergleich nur %B 1,06 / 0,92; nicht robust |
 | 2026-11-08 | StockCharts ChartSchool | cci-correction | CCI Correction | übersprungen: keine Ausstiegsregel im Artikel |
 | 2026-11-09 | GitHub | Jakeschincariol/day-trader-skill | Day Trader Skill (11 Claude-Skills, ORB-Regel) | getestet, PF 0,83 (2 R) / 0,79 (1 R), 5 Min, 60 Tage; Vergleich Kauf 9:45 ohne Ausbruch 0,78 / 0,77; Tages-Setups des Scanners ohne Ausstiegsregel nicht getestet |
+| 2026-11-15 | YouTube | rf_EQvubKlk | TradingLab – BEST MACD Trading Strategy | offen: Transkript erneut nicht abrufbar (HTTP 429) |
+| 2026-11-15 | YouTube | 9JEmsSItdt4 | TradingLab – The Strategy That Made Him $1.1 Million | offen: Transkript erneut nicht abrufbar (HTTP 429) |
+| 2026-11-15 | YouTube | 7JqyrSiQGFI | Quantified Strategies – NR7 Setup on Gold | offen: Transkript erneut nicht abrufbar (HTTP 429) |
+| 2026-11-15 | YouTube | sUcvpDSsQz0 | Neeraj Joshi – Swing Trading Strategy Backtested Over 5 Years | offen: Transkript nicht abrufbar (HTTP 429) |
+| 2026-11-15 | YouTube | QD4SmvOR350 | Trader Insights – Premium RS Strategy Tested 100 times | offen: Transkript nicht abrufbar (HTTP 429) |
+| 2026-11-15 | TradingView | IGJPEi7L | ChartArt – Stochastic + RSI, Double Strategy | getestet, PF 0,48 / 0,63 (L/S), 3,88 / 3,38 nur Long; Vergleich nur RSI 0,59 / 0,78 bzw. 2,33 / 2,53; nicht robust, kein Stop |
+| 2026-11-15 | TradingView | VO6DY8s1 | KivancOzbilgic – MACD ReLoaded STRATEGY | getestet, PF 0,99 / 0,95 (L/S), 1,56 / 1,39 nur Long; Vergleich EMA-MACD 1,01 / 0,97 bzw. 1,43 / 1,29; nicht robust, kein Stop |
+| 2026-11-15 | StockCharts ChartSchool | six-month-cycle-macd | Sy Harding – Six-Month Cycle MACD | getestet, PF 3,07 / 3,02; Saison ohne MACD 2,96 / 3,02; umgekehrte Saison 2,26 / 1,57; 3/4 (nur Holm), kein Stop |
+| 2026-11-15 | StockCharts ChartSchool | slope-performance-trend | Arthur Hill – Slope Performance Trend | getestet, PF 10,58 / 5,85 (Monat); Vergleich nur Kurs-Steigung 6,78 / 5,58; Zufall 6,30; nicht robust, kein Stop |
