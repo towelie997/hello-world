@@ -26,7 +26,8 @@ import pandas as pd
 from . import momentum_filter, robustness
 from .engine import summarize
 from .run_all import RESULTS, VIDEOS
-from .strategies import (bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
+from .strategies import (chartart_stoch_rsi, macd_reloaded, six_month_macd, slope_performance,
+                         bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
                          double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
                          supertrend_kivanc, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
                          chartart_bb_rsi, chartart_macd_sma, connors_rsi2, donchian_macd,
@@ -111,6 +112,17 @@ def jobs_for(U):
         ("BB PB MFI", lambda: bollinger_pb_mfi.run(U)),
         ("BB PB MFI Long", lambda: bollinger_pb_mfi.run(U, shorts=False)),
         ("Vergleich BB PB MFI", lambda: bollinger_pb_mfi.run(U, baseline=True)),
+        ("CA StochRSI", lambda: chartart_stoch_rsi.run(U)),
+        ("CA StochRSI Long", lambda: chartart_stoch_rsi.run(U, shorts=False)),
+        ("Vergleich CA StochRSI", lambda: chartart_stoch_rsi.run(U, baseline=True)),
+        ("Vergleich CA StochRSI Long", lambda: chartart_stoch_rsi.run(U, baseline=True, shorts=False)),
+        ("MACD ReLoaded", lambda: macd_reloaded.run(U)),
+        ("MACD ReLoaded Long", lambda: macd_reloaded.run(U, shorts=False)),
+        ("SixMonth", lambda: six_month_macd.run(U)),
+        ("Vergleich SixMonth", lambda: six_month_macd.run(U, baseline=True)),
+        ("Vergleich SixMonth invers", lambda: six_month_macd.run(U, baseline=True, inverse=True)),
+        ("SlopePerf", lambda: slope_performance.run(U)),
+        ("Vergleich SlopePerf", lambda: slope_performance.run(U, baseline=True)),
     ]
 
 
