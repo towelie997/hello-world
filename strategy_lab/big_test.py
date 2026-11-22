@@ -26,7 +26,8 @@ import pandas as pd
 from . import momentum_filter, robustness
 from .engine import summarize
 from .run_all import RESULTS, VIDEOS
-from .strategies import (chartart_stoch_rsi, macd_reloaded, six_month_macd, slope_performance,
+from .strategies import (ha_psar, nr7, pre_holiday, tradedots_breakout,
+                         chartart_stoch_rsi, macd_reloaded, six_month_macd, slope_performance,
                          bollinger_pb_mfi, chartart_macd_stoch, fractal_breakout, fw_pullback,
                          double7, ichimoku_tradepro, qs_5tage_tief, serdar_ao_stoch, stoch_pop,
                          supertrend_kivanc, golden_cross, qs_connors6, tl_bb_rsi, turtles_tmr0,
@@ -123,6 +124,19 @@ def jobs_for(U):
         ("Vergleich SixMonth invers", lambda: six_month_macd.run(U, baseline=True, inverse=True)),
         ("SlopePerf", lambda: slope_performance.run(U)),
         ("Vergleich SlopePerf", lambda: slope_performance.run(U, baseline=True)),
+        ("TradeDots", lambda: tradedots_breakout.run(U)),
+        ("Vergleich TradeDots", lambda: tradedots_breakout.run(U, baseline=True)),
+        ("HA PSAR", lambda: ha_psar.run(U)),
+        ("HA PSAR Long", lambda: ha_psar.run(U, shorts=False)),
+        ("Vergleich HA PSAR", lambda: ha_psar.run(U, baseline=True)),
+        ("Vergleich HA PSAR Long", lambda: ha_psar.run(U, baseline=True, shorts=False)),
+        ("PreHoliday 1", lambda: pre_holiday.run(U)),
+        ("PreHoliday 2", lambda: pre_holiday.run(U, days_before=2)),
+        ("Vergleich PreHoliday", lambda: pre_holiday.run(U, baseline=True)),
+        ("NR7 Gewinn", lambda: nr7.run(U)),
+        ("NR7 Schluss", lambda: nr7.run(U, exit_rule="close")),
+        ("Vergleich NR7 Gewinn", lambda: nr7.run(U, baseline=True)),
+        ("Vergleich NR7 Schluss", lambda: nr7.run(U, baseline=True, exit_rule="close")),
     ]
 
 
