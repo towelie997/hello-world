@@ -60,3 +60,9 @@ Format: Datum | Quelle | ID/Link | Titel | Ergebnis
 | 2026-11-15 | TradingView | VO6DY8s1 | KivancOzbilgic – MACD ReLoaded STRATEGY | getestet, PF 0,99 / 0,95 (L/S), 1,56 / 1,39 nur Long; Vergleich EMA-MACD 1,01 / 0,97 bzw. 1,43 / 1,29; nicht robust, kein Stop |
 | 2026-11-15 | StockCharts ChartSchool | six-month-cycle-macd | Sy Harding – Six-Month Cycle MACD | getestet, PF 3,07 / 3,02; Saison ohne MACD 2,96 / 3,02; umgekehrte Saison 2,26 / 1,57; 3/4 (nur Holm), kein Stop |
 | 2026-11-15 | StockCharts ChartSchool | slope-performance-trend | Arthur Hill – Slope Performance Trend | getestet, PF 10,58 / 5,85 (Monat); Vergleich nur Kurs-Steigung 6,78 / 5,58; Zufall 6,30; nicht robust, kein Stop |
+| 2026-11-22 | YouTube | rf_EQvubKlk, 9JEmsSItdt4, 7JqyrSiQGFI, sUcvpDSsQz0, QD4SmvOR350 | 5 offene Videos aus Vorwochen | offen: Transkripte erneut nicht abrufbar (HTTP 429) |
+| 2026-11-22 | TradingView | jc2hs2qK | TradeDots – Price and Volume Breakout Buy Strategy | getestet, PF 4,58 / 2,62 (26 / 200); ohne Volumen 3,56 / 2,48; Zufall 3,52; nicht robust, kein Stop |
+| 2026-11-22 | TradingView | 0iKy7lyG | QuantNomad – Heikin-Ashi PSAR Strategy | getestet, PF 1,05 / 0,96 (L/S), 1,44 / 1,25 nur Long; Vergleich normale Kerzen 1,00 / 0,95 bzw. 1,36 / 1,23; nicht robust, kein Stop |
+| 2026-11-22 | StockCharts ChartSchool | the-pre-holiday-effect | The Pre-Holiday Effect | getestet, PF 0,93 / 0,93 (1 Tag vorher), 1,13 / 1,23 (2 Tage vorher); Vergleich normales Wochenende 1,01 / 0,97; nicht robust, kein Stop |
+| 2026-11-22 | StockCharts ChartSchool | narrow-range-day-nr7 | Toby Crabel – Narrow Range Day NR7 | getestet, PF 1,07 / 0,99 (beide Ausstiege); Vergleich jeder Vortag 1,01 / 0,97 bzw. 0,98; nicht robust |
+| 2026-11-22 | TradingView | ROM3crig | Daveatt – BEST Engulfing + Breakout Strategy | übersprungen: Code verschachtelt und unvollständig geladen |

@@ -133,10 +133,10 @@ def jobs_for(U):
         ("PreHoliday 1", lambda: pre_holiday.run(U)),
         ("PreHoliday 2", lambda: pre_holiday.run(U, days_before=2)),
         ("Vergleich PreHoliday", lambda: pre_holiday.run(U, baseline=True)),
+        # NR7-Vergleich "jeder Vortag" nur im kleinen Test: ~1,4 Mio. Trades sprengen die
+        # 100-MB-Grenze von GitHub für trades.csv.gz.
         ("NR7 Gewinn", lambda: nr7.run(U)),
         ("NR7 Schluss", lambda: nr7.run(U, exit_rule="close")),
-        ("Vergleich NR7 Gewinn", lambda: nr7.run(U, baseline=True)),
-        ("Vergleich NR7 Schluss", lambda: nr7.run(U, baseline=True, exit_rule="close")),
     ]
 
 
