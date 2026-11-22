@@ -52,6 +52,9 @@ def run(symbols, start="2005-01-01", baseline=False, exit_rule="profit"):
             side = "long" if up else "short"
             entry = max(O[j], H[i]) if up else min(O[j], L[i])
             stop = L[i] if up else H[i]
+            if abs(entry - stop) < 1e-9:              # Spanne 0 (Datenlücke): kein Risiko messbar
+                i += 1
+                continue
             if H[j] > H[i] and L[j] < L[i]:
                 trades.append(make_trade(name, sym, side, df.index[j], entry, stop, None,
                                          df.index[j], stop, "stop"))
@@ -73,4 +76,4 @@ def run(symbols, start="2005-01-01", baseline=False, exit_rule="profit"):
             trades.append(make_trade(name, sym, side, df.index[j], entry, stop, None,
                                      df.index[k_out], px, why))
             i = k_out
-    return trades
+    return [x for x in trades if np.isfinite(x.r)]
