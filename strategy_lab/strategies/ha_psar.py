@@ -1,5 +1,5 @@
 """Heikin-Ashi PSAR Strategy – QuantNomad, TradingView (PUB;3Xncz0jk6WdXMtoUsh8PLZ04PWImlWra,
-ca. 3.400 Likes), tradingview.com/script/3Xncz0jk (Pine-Code über pine-facade geladen)
+ca. 3.400 Likes), tradingview.com/script/0iKy7lyG (Pine-Code über pine-facade geladen)
 
 Regeln aus dem Pine-Code (Standardwerte 0,02 / 0,02 / 0,2):
   Heikin-Ashi-Kerzen: haclose = (O+H+L+C)/4, haopen = (haopen[1]+haclose[1])/2,
