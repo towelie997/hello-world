@@ -33,26 +33,26 @@ QS/Connors 3 Tage tiefere Hochs/Tiefs (1d),Quantified Strategies (Connors),200,1
 Connors Double 7s (1d),StatOasis (Connors),200,33195,70.3,0.238,7892.9,1.38,-1386.9,0.573
 QS/Connors 4 von 5 Tagen runter (1d),Quantified Strategies (Connors),200,27813,69.7,0.161,4480.6,1.38,-454.2,0.405
 "Glow Ribbon Flip (1d, nur Long)",TradingView: blitz_locked,200,17186,40.2,0.152,2615.4,1.37,-273.8,1.24
-"Turtles tmr0 (1d, nur Long)",TradingView: tmr0,200,34899,42.3,0.355,12382.7,1.34,-1537.5,0.929
 QS/Connors Double 5 (1d),Quantified Strategies (Connors),200,49435,69.8,0.171,8472.1,1.34,-1152.2,0.413
+"Turtles tmr0 (1d, nur Long)",TradingView: tmr0,200,34899,42.3,0.355,12382.7,1.34,-1537.5,0.929
 Vergleich: EMA21/34 ohne Squeeze (1d),–,200,46160,26.1,0.314,14517.1,1.32,-2514.2,0.514
 QS 3 Swing-Regeln (1d),Quantified Strategies,200,95367,66.9,0.132,12636.1,1.29,-1303.3,0.416
 "Vergleich: MACD-Histogramm kreuzt 0 (1d, nur Long)",–,199,39763,39.7,0.227,9039.6,1.29,-1160.1,0.673
 EMA200 + RSI + Engulfing (1d),TradingLab,199,11111,40.0,0.179,1987.8,1.28,-203.0,1.128
-Vergleich: 5-Tage-Tief ohne Zeitstopp (1d),–,200,88916,67.3,0.123,10975.3,1.27,-1473.6,0.377
 Vergleich: Moving Momentum ohne Stochastik (1d),–,200,10387,25.1,0.192,1989.8,1.27,-455.5,1.276
 Squeeze + EMA21/34 (1d),BrandonTrades,200,21073,27.8,0.247,5210.6,1.27,-1109.3,0.488
-QS 5 Regeln (1d),Quantified Strategies,200,100988,67.5,0.112,11312.9,1.26,-1419.1,0.343
-Financial Wisdom Pullback (1d),Financial Wisdom,186,1639,24.8,0.211,345.9,1.26,-58.2,0.986
+Vergleich: 5-Tage-Tief ohne Zeitstopp (1d),–,200,88916,67.3,0.123,10975.3,1.27,-1473.6,0.377
 "ChartSchool Stochastic Pop (1d, nur Long)",StockCharts ChartSchool,198,4795,41.4,0.077,371.0,1.26,-70.0,0.603
-"QuantNomad Heikin-Ashi PSAR (1d, nur Long)",TradingView: QuantNomad,199,34159,45.7,0.247,8442.7,1.25,-1367.3,0.674
+Financial Wisdom Pullback (1d),Financial Wisdom,186,1639,24.8,0.211,345.9,1.26,-58.2,0.986
+QS 5 Regeln (1d),Quantified Strategies,200,100988,67.5,0.112,11312.9,1.26,-1419.1,0.343
 Vergleich: grüne Kerze > EMA200 (1d),–,199,26132,39.2,0.158,4128.3,1.25,-455.5,1.04
 "Vergleich: Kurs kreuzt EMA20 (1d, nur Long)",–,200,66056,32.8,0.135,8923.1,1.25,-1441.4,0.35
+"QuantNomad Heikin-Ashi PSAR (1d, nur Long)",TradingView: QuantNomad,199,34159,45.7,0.247,8442.7,1.25,-1367.3,0.674
 Moving Momentum (1d),StockCharts ChartSchool (A. Hill),200,8014,26.4,0.16,1280.5,1.24,-371.8,1.253
-"Vergleich: PSAR auf normalen Kerzen (1d, nur Long)",–,199,36851,44.5,0.216,7955.3,1.23,-1519.3,0.59
 Vergleich: Fraktal-Ausbruch ohne Trendfilter (1d),–,199,87582,53.1,0.137,12011.6,1.23,-1572.0,0.382
-"ChartSchool Pre-Holiday (2 Tage vorher, 1d)",StockCharts ChartSchool,199,34635,55.7,0.057,1964.0,1.23,-498.9,0.16
 Vergleich: Kauf nach rotem Tag (1d),–,200,157007,67.6,0.101,15825.2,1.23,-1754.7,0.291
+"Vergleich: PSAR auf normalen Kerzen (1d, nur Long)",–,199,36851,44.5,0.216,7955.3,1.23,-1519.3,0.59
+"ChartSchool Pre-Holiday (2 Tage vorher, 1d)",StockCharts ChartSchool,199,34635,55.7,0.057,1964.0,1.23,-498.9,0.16
 "SerdarYILMAZ AO+Stoch+RSI+ATR (1d, nur Long)",TradingView: SerdarYILMAZ,199,2870,60.8,0.089,256.6,1.22,-24.6,0.476
 Vergleich: roter Tag > SMA200 (1d),–,199,135472,67.1,0.066,8921.1,1.2,-1039.5,0.162
 QS 5-Tage-Tief + Zeitstopp (1d),Quantified Strategies,200,104242,63.6,0.086,8959.7,1.19,-1316.5,0.271
@@ -63,26 +63,28 @@ Trade Pro Ichimoku (1d),Trade Pro,199,10180,36.2,0.065,661.6,1.1,-153.6,0.093
 Vergleich: nur Bollinger 30 (1d),–,200,27459,65.6,0.042,1161.3,1.04,-1331.4,0.184
 TradingLab Bollinger + RSI (1d),TradingLab,200,7628,62.7,0.041,314.6,1.03,-743.1,0.299
 Vergleich: nur Stochastik 20/80 + ATR (1d),–,200,113408,57.2,0.009,1053.1,1.02,-936.8,0.066
-EMA50 Pullback (1d),Data Trader,200,11376,34.1,0.003,39.6,1.01,-237.9,-0.13
 Glow Ribbon Flip (1d),TradingView: blitz_locked,200,32285,34.1,0.003,106.8,1.01,-413.8,-0.075
+EMA50 Pullback (1d),Data Trader,200,11376,34.1,0.003,39.6,1.01,-237.9,-0.13
 KivancOzbilgic SuperTrend (1d),TradingView: KivancOzbilgic,200,28521,36.6,-0.006,-173.2,1.0,-1774.2,0.09
 Vergleich: Donchian 50 ohne MACD (1d),–,200,14703,35.8,-0.006,-91.7,0.99,-431.3,-0.223
-Donchian 50 + MACD (1d),TradingView: LordRobrecht,200,14266,35.3,-0.004,-62.9,0.99,-414.4,-0.241
-"Crabel NR7 (Schluss Einstiegstag, 1d)",StockCharts ChartSchool (Crabel),199,150100,47.2,-0.004,-600.3,0.99,-1062.9,0.007
 SerdarYILMAZ AO+Stoch+RSI+ATR (1d),TradingView: SerdarYILMAZ,199,10326,55.3,-0.007,-70.3,0.99,-274.5,0.072
+Donchian 50 + MACD (1d),TradingView: LordRobrecht,200,14266,35.3,-0.004,-62.9,0.99,-414.4,-0.241
+"Crabel NR7 (erster Gewinn-Schluss, 1d)",StockCharts ChartSchool (Crabel),199,132502,59.8,-0.003,-417.2,0.99,-1069.4,0.009
+"Crabel NR7 (Schluss Einstiegstag, 1d)",StockCharts ChartSchool (Crabel),199,150150,47.2,-0.004,-601.6,0.99,-1063.5,0.007
 Turtles tmr0 (1d),TradingView: tmr0,200,64319,37.3,-0.017,-1090.2,0.99,-3405.1,-0.083
-"Crabel NR7 (erster Gewinn-Schluss, 1d)",StockCharts ChartSchool (Crabel),199,132455,59.8,-0.003,-416.6,0.99,-1066.2,0.009
+"Vergleich: Ausbruch aus jedem Vortag (Schluss Einstiegstag, 1d)",–,199,866620,48.1,-0.006,-4997.7,0.98,-5411.8,-0.017
 Vergleich: nur Schluss über/unter Wolke (1d),–,199,19941,34.0,-0.015,-291.5,0.98,-534.6,-0.168
 "Vergleich: EMA21-Kreuz, fester Stop (1d)",–,200,128496,29.8,-0.004,-575.2,0.98,-884.0,-0.051
 Vergleich: normales Wochenende Fr→Mo (1d),–,199,178182,50.1,-0.004,-740.4,0.97,-1861.2,-0.005
+"Vergleich: Ausbruch aus jedem Vortag (erster Gewinn-Schluss, 1d)",–,199,503234,68.5,-0.009,-4375.2,0.97,-4620.9,-0.03
 Vergleich: MACD-Histogramm kreuzt 0 (1d),–,199,79482,35.1,-0.026,-2056.7,0.97,-4223.5,-0.034
 QuantNomad Heikin-Ashi PSAR (1d),TradingView: QuantNomad,199,68403,40.1,-0.043,-2943.9,0.96,-4290.1,-0.137
 Vergleich: Kurs kreuzt EMA20 (1d),–,200,132118,29.8,-0.021,-2714.0,0.96,-3086.7,-0.071
 Vergleich: Stochastik-Kreuz ohne ADX/Volumen (1d),–,199,33807,36.3,-0.014,-458.1,0.96,-562.4,-0.159
 KivancOzbilgic MACD ReLoaded (1d),TradingView: KivancOzbilgic,199,41123,34.3,-0.071,-2913.1,0.95,-3813.0,-0.061
 Vergleich: PSAR auf normalen Kerzen (1d),–,199,73789,39.1,-0.054,-3955.2,0.95,-5026.4,-0.163
-Bollinger %B + MFI (1d),StockCharts ChartSchool (Bollinger),199,12951,36.1,-0.03,-394.9,0.93,-542.1,-0.32
 "ChartSchool Pre-Holiday (1 Tag vorher, 1d)",StockCharts ChartSchool,199,34635,48.6,-0.012,-406.1,0.93,-820.5,-0.034
+Bollinger %B + MFI (1d),StockCharts ChartSchool (Bollinger),199,12951,36.1,-0.03,-394.9,0.93,-542.1,-0.32
 Vergleich: jede MACD-Kreuzung (1d),–,199,68866,41.7,-0.071,-4861.0,0.93,-5494.2,-0.167
 "Vergleich: nur %B 0,8/0,2 + SAR (1d)",–,199,60472,35.9,-0.034,-2071.0,0.92,-2343.0,-0.213
 ChartSchool Stochastic Pop & Drop (1d),StockCharts ChartSchool,199,12572,35.7,-0.036,-456.7,0.89,-508.3,-0.271

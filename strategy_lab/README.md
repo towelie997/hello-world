@@ -9,7 +9,8 @@ pip install -r sneaky_pivot/requirements.txt
 python -m strategy_lab.run_all        # aus dem Repo-Hauptordner
 ```
 
-Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder Trade),
+Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder Trade;
+im großen Test als `big/trades-01.csv.gz`, `-02` … in Teilen unter 100 MB),
 `per_symbol.csv` (je Strategie und Wert).
 
 > **Verbindlich für jeden wöchentlichen Lauf:**
@@ -324,6 +325,30 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
     an denen beide Seiten durchbrochen wurden, und kam so auf PF 2,1–2,8 – genau diese Tage
     sind die Verlierer. Jetzt werden sie konservativ als Verlust gerechnet.
 
+37. **Neu (26.11.2026): Zufallstest mit 10.000 statt 1.000 Durchläufen** (Entscheidung des
+    Nutzers, siehe Regel 2 oben). Die kleinste mögliche Holm-Zahl sinkt damit von 0,092 auf
+    0,0094. Ergebnis auf 200 Werten: **16 Strategien robust** – alle Connors-/QS-
+    Rückkaufregeln (inkl. „roter Tag > SMA200“) und die Saison Oktober–April (Sy Harding
+    Six-Month Cycle MACD und dieselbe Saison ohne MACD). Alle übrigen bleiben nicht robust,
+    weil sie echt am Zufall scheitern oder andere Kriterien verfehlen. Erkenntnis 22 ist damit
+    erledigt. Robust auf 200 Werten:
+    - Sy Harding Six-Month Cycle MACD (1d): PF 3,02 (Zufall 2,41)
+    - Vergleich: Saison 16.10.–20.04. ohne MACD (1d): PF 3,02 (Zufall 2,39)
+    - QS/Connors %b 3 Tage (1d): PF 1,51 (Zufall 1,18)
+    - Connors RSI(2) (1d): PF 1,47 (Zufall 1,17)
+    - QS/Connors RSI(5) 30/50 (1d): PF 1,46 (Zufall 1,24)
+    - QS/Connors R3 (1d): PF 1,43 (Zufall 1,20)
+    - QS/Connors 3 Tage tiefere Hochs/Tiefs (1d): PF 1,41 (Zufall 1,18)
+    - Connors Double 7s (1d): PF 1,38 (Zufall 1,28)
+    - QS/Connors 4 von 5 Tagen runter (1d): PF 1,38 (Zufall 1,18)
+    - QS/Connors Double 5 (1d): PF 1,34 (Zufall 1,22)
+    - QS 3 Swing-Regeln (1d): PF 1,29 (Zufall 1,18)
+    - Vergleich: 5-Tage-Tief ohne Zeitstopp (1d): PF 1,27 (Zufall 1,18)
+    - QS 5 Regeln (1d): PF 1,26 (Zufall 1,18)
+    - Vergleich: Kauf nach rotem Tag (1d): PF 1,23 (Zufall 1,18)
+    - Vergleich: roter Tag > SMA200 (1d): PF 1,20 (Zufall 1,14)
+    - QS 5-Tage-Tief + Zeitstopp (1d): PF 1,19 (Zufall 1,15)
+
 ## Robustheits-Prüfung
 
 ```bash
@@ -398,6 +423,12 @@ MACD ReLoaded scheitert der Zufallstest echt.
 TradeDots, PSAR und NR7 scheitert der Zufallstest echt. Holm-Untergrenze jetzt 0,092
 (92 Strategien).
 
+**Nachtrag (26.11.2026, 10.000 Zufallsdurchläufe):** 16 Strategien robust auf 200 Werten
+(Liste in Erkenntnis 37): alle Connors-/QS-Rückkaufregeln und die Saison Oktober–April.
+Von den Neuen der letzten Wochen sind robust: Connors Double 7s, QS 5-Tage-Tief + Zeitstopp,
+Six-Month Cycle MACD. Pre-Holiday (2 Tage vorher) bleibt 2/4 (verfehlt Gewinnjahre und
+Trennjahre).
+
 ## Momentum-Filter (Aktienauswahl)
 
 ```bash
@@ -451,65 +482,65 @@ strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Index
 
 | Strategie | PF 26 Werte | PF 200 Werte | PF letzte 5 J. | Gewinnjahre | PF Strategie / Zufall | Urteil |
 |---|---|---|---|---|---|---|
-| ChartSchool Slope Performance Trend (1M) | 10,10 | **5,85** | 5,88 | 95 % | 6,41 / 6,25 | nein (3/4) |
-| Vergleich: nur 12-Monats-Steigung des Kurses (1M) | 6,50 | **5,58** | 5,22 | 91 % | 5,92 / 5,59 | nein (3/4) |
-| ChartArt MACD + SMA200 (1d, nur Long) | 6,31 | **5,41** | 4,38 | 95 % | 5,99 / 7,37 | nein (3/4) |
-| ChartArt MACD + Stochastik (1d, nur Long) | 3,48 | **4,51** | 3,57 | 91 % | 4,95 / 6,00 | nein (3/4) |
+| ChartSchool Slope Performance Trend (1M) | 10,10 | **5,85** | 5,88 | 95 % | 6,41 / 6,29 | nein (3/4) |
+| Vergleich: nur 12-Monats-Steigung des Kurses (1M) | 6,50 | **5,58** | 5,22 | 91 % | 5,92 / 5,60 | nein (3/4) |
+| ChartArt MACD + SMA200 (1d, nur Long) | 6,31 | **5,41** | 4,38 | 95 % | 5,99 / 7,36 | nein (3/4) |
+| ChartArt MACD + Stochastik (1d, nur Long) | 3,48 | **4,51** | 3,57 | 91 % | 4,95 / 6,04 | nein (3/4) |
 | ChartArt Bollinger + RSI (1d, nur Long) | 5,04 | **4,05** | 3,79 | 95 % | 5,04 / 4,59 | nein (3/4) |
 | ChartArt Stochastik + RSI (1d, nur Long) | 3,72 | **3,38** | 3,25 | 91 % | 3,69 / 3,18 | nein (3/4) |
-| Sy Harding Six-Month Cycle MACD (1d) | 2,86 | **3,02** | 2,41 | 82 % | 3,05 / 2,40 | nein (3/4) |
-| Vergleich: Saison 16.10.–20.04. ohne MACD (1d) | 2,75 | **3,02** | 2,37 | 82 % | 2,99 / 2,40 | nein (3/4) |
+| Sy Harding Six-Month Cycle MACD (1d) | 2,86 | **3,02** | 2,41 | 82 % | 3,05 / 2,41 | robust |
+| Vergleich: Saison 16.10.–20.04. ohne MACD (1d) | 2,75 | **3,02** | 2,37 | 82 % | 2,99 / 2,39 | robust |
 | Weinstein Stufe 2 (1w) | 4,22 | **2,92** | 2,49 | 86 % | 3,17 / 3,53 | nein (3/4) |
-| ChartArt Golden Cross (1d) | 4,24 | **2,86** | 2,87 | 82 % | 3,22 / 3,73 | nein (3/4) |
-| Vergleich: Stufe 2 ohne rel. Stärke (1w) | 3,86 | **2,84** | 2,53 | 82 % | 3,10 / 3,49 | nein (3/4) |
-| TradeDots Kurs + Volumen-Ausbruch (1d) | 4,58 | **2,62** | 2,55 | 82 % | 2,91 / 3,52 | nein (3/4) |
+| ChartArt Golden Cross (1d) | 4,24 | **2,86** | 2,87 | 82 % | 3,22 / 3,71 | nein (3/4) |
+| Vergleich: Stufe 2 ohne rel. Stärke (1w) | 3,86 | **2,84** | 2,53 | 82 % | 3,10 / 3,48 | nein (3/4) |
+| TradeDots Kurs + Volumen-Ausbruch (1d) | 4,58 | **2,62** | 2,55 | 82 % | 2,91 / 3,50 | nein (3/4) |
 | Vergleich: RSI kreuzt 30/70 (1d, nur Long) | 2,25 | **2,53** | 2,83 | 91 % | 2,52 / 2,31 | nein (3/4) |
 | Vergleich: 60-Tage-Ausbruch ohne Volumen (1d) | 3,56 | **2,48** | 2,11 | 73 % | 2,69 / 3,05 | nein (3/4) |
 | ChartArt MACD + SMA200 (1d) | 2,41 | **2,22** | 1,57 | 91 % | 1,89 / 5,35 | nein (3/4) |
-| Vergleich: Kurs kreuzt SMA200 (1d) | 2,76 | **2,13** | 1,91 | 77 % | 2,26 / 2,12 | nein (3/4) |
+| Vergleich: Kurs kreuzt SMA200 (1d) | 2,76 | **2,13** | 1,91 | 77 % | 2,26 / 2,11 | nein (3/4) |
 | Moving Momentum (1d, nur Long) | 2,93 | **2,06** | 1,56 | 73 % | 2,33 / 2,51 | nein (3/4) |
 | Squeeze + EMA21/34 (1w) | 2,44 | **1,97** | 1,78 | 77 % | 2,11 / 2,29 | nein (3/4) |
 | Vergleich: EMA21/34 ohne Squeeze (1w) | 2,41 | **1,94** | 1,65 | 77 % | 2,15 / 2,26 | nein (3/4) |
-| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | 2,66 | **1,67** | 1,44 | 73 % | 1,81 / 2,01 | nein (3/4) |
+| Vergleich: 6-Wochen-Hoch-Ausbruch (1w) | 2,66 | **1,67** | 1,44 | 73 % | 1,81 / 2,02 | nein (3/4) |
 | TradingLab Bollinger + RSI (1d, nur Long) | 1,97 | **1,59** | 2,18 | 91 % | 1,63 / 1,44 | nein (3/4) |
 | Vergleich: umgekehrte Saison 20.04.–16.10. (1d) | 2,26 | **1,57** | 1,37 | 73 % | 1,86 / 2,39 | nein (2/4) |
 | KivancOzbilgic SuperTrend (1d, nur Long) | 1,73 | **1,55** | 1,31 | 73 % | 1,62 / 1,70 | nein (3/4) |
-| QS/Connors %b 3 Tage (1d) | 1,88 | **1,51** | 1,33 | 82 % | 1,58 / 1,18 | nein (3/4) |
+| QS/Connors %b 3 Tage (1d) | 1,88 | **1,51** | 1,33 | 82 % | 1,58 / 1,18 | robust |
 | Trade Pro Ichimoku (1d, nur Long) | 1,75 | **1,49** | 1,32 | 77 % | 1,69 / 2,16 | nein (3/4) |
 | Wochen-Ausbruch + MACD-Ausstieg (1w) | 1,87 | **1,49** | 1,36 | 68 % | 1,54 / 1,93 | nein (2/4) |
-| Connors RSI(2) (1d) | 1,75 | **1,47** | 1,24 | 82 % | 1,52 / 1,17 | nein (3/4) |
-| QS/Connors RSI(5) 30/50 (1d) | 1,59 | **1,46** | 1,19 | 82 % | 1,52 / 1,24 | nein (3/4) |
-| QS/Connors R3 (1d) | 1,63 | **1,43** | 1,17 | 82 % | 1,47 / 1,20 | nein (3/4) |
-| QS/Connors 3 Tage tiefere Hochs/Tiefs (1d) | 1,46 | **1,41** | 1,27 | 82 % | 1,48 / 1,18 | nein (3/4) |
-| KivancOzbilgic MACD ReLoaded (1d, nur Long) | 1,56 | **1,39** | 1,30 | 73 % | 1,46 / 1,54 | nein (3/4) |
-| Connors Double 7s (1d) | 1,47 | **1,38** | 1,17 | 82 % | 1,41 / 1,28 | nein (3/4) |
-| QS/Connors 4 von 5 Tagen runter (1d) | 1,53 | **1,38** | 1,20 | 82 % | 1,42 / 1,18 | nein (3/4) |
+| Connors RSI(2) (1d) | 1,75 | **1,47** | 1,24 | 82 % | 1,52 / 1,17 | robust |
+| QS/Connors RSI(5) 30/50 (1d) | 1,59 | **1,46** | 1,19 | 82 % | 1,52 / 1,24 | robust |
+| QS/Connors R3 (1d) | 1,63 | **1,43** | 1,17 | 82 % | 1,47 / 1,20 | robust |
+| QS/Connors 3 Tage tiefere Hochs/Tiefs (1d) | 1,46 | **1,41** | 1,27 | 82 % | 1,48 / 1,18 | robust |
+| KivancOzbilgic MACD ReLoaded (1d, nur Long) | 1,56 | **1,39** | 1,30 | 73 % | 1,46 / 1,53 | nein (3/4) |
+| Connors Double 7s (1d) | 1,47 | **1,38** | 1,17 | 82 % | 1,41 / 1,28 | robust |
+| QS/Connors 4 von 5 Tagen runter (1d) | 1,53 | **1,38** | 1,20 | 82 % | 1,42 / 1,18 | robust |
 | Glow Ribbon Flip (1d, nur Long) | 1,45 | **1,37** | 1,19 | 77 % | 1,41 / 1,53 | nein (3/4) |
-| QS/Connors Double 5 (1d) | 1,36 | **1,34** | 1,18 | 82 % | 1,36 / 1,22 | nein (3/4) |
+| QS/Connors Double 5 (1d) | 1,36 | **1,34** | 1,18 | 82 % | 1,36 / 1,22 | robust |
 | Turtles tmr0 (1d, nur Long) | 1,66 | **1,34** | 1,21 | 73 % | 1,36 / 1,52 | nein (3/4) |
 | Vergleich: EMA21/34 ohne Squeeze (1d) | 1,49 | **1,32** | 1,20 | 73 % | 1,32 / 1,40 | nein (3/4) |
-| QS 3 Swing-Regeln (1d) | 1,39 | **1,29** | 1,20 | 95 % | 1,35 / 1,18 | nein (3/4) |
+| QS 3 Swing-Regeln (1d) | 1,39 | **1,29** | 1,20 | 95 % | 1,35 / 1,18 | robust |
 | Vergleich: MACD-Histogramm kreuzt 0 (1d, nur Long) | 1,42 | **1,29** | 1,24 | 82 % | 1,32 / 1,35 | nein (3/4) |
-| EMA200 + RSI + Engulfing (1d) | 1,43 | **1,28** | 1,12 | 68 % | 1,35 / 1,63 | nein (2/4) |
+| EMA200 + RSI + Engulfing (1d) | 1,43 | **1,28** | 1,12 | 68 % | 1,35 / 1,62 | nein (2/4) |
 | Squeeze + EMA21/34 (1d) | 1,40 | **1,27** | 1,16 | 77 % | 1,29 / 1,43 | nein (3/4) |
-| Vergleich: 5-Tage-Tief ohne Zeitstopp (1d) | 1,30 | **1,27** | 1,18 | 86 % | 1,32 / 1,18 | nein (3/4) |
-| Vergleich: Moving Momentum ohne Stochastik (1d) | 1,83 | **1,27** | 1,16 | 68 % | 1,27 / 2,27 | nein (2/4) |
+| Vergleich: 5-Tage-Tief ohne Zeitstopp (1d) | 1,30 | **1,27** | 1,18 | 86 % | 1,32 / 1,18 | robust |
+| Vergleich: Moving Momentum ohne Stochastik (1d) | 1,83 | **1,27** | 1,16 | 68 % | 1,27 / 2,26 | nein (2/4) |
 | ChartSchool Stochastic Pop (1d, nur Long) | 1,34 | **1,26** | 1,32 | 82 % | 1,28 / 1,40 | nein (3/4) |
-| Financial Wisdom Pullback (1d) | 0,89 | **1,26** | 1,00 | 64 % | 1,33 / 1,48 | nein (1/4) |
-| QS 5 Regeln (1d) | 1,32 | **1,26** | 1,16 | 86 % | 1,30 / 1,18 | nein (3/4) |
+| Financial Wisdom Pullback (1d) | 0,89 | **1,26** | 1,00 | 64 % | 1,33 / 1,47 | nein (1/4) |
+| QS 5 Regeln (1d) | 1,32 | **1,26** | 1,16 | 86 % | 1,30 / 1,18 | robust |
 | QuantNomad Heikin-Ashi PSAR (1d, nur Long) | 1,44 | **1,25** | 1,16 | 77 % | 1,27 / 1,38 | nein (3/4) |
 | Vergleich: Kurs kreuzt EMA20 (1d, nur Long) | 1,38 | **1,25** | 1,16 | 77 % | 1,25 / 1,31 | nein (3/4) |
 | Vergleich: grüne Kerze > EMA200 (1d) | 1,33 | **1,25** | 1,12 | 77 % | 1,32 / 1,62 | nein (3/4) |
-| Moving Momentum (1d) | 1,67 | **1,24** | 1,03 | 55 % | 1,28 / 2,22 | nein (2/4) |
-| ChartSchool Pre-Holiday (2 Tage vorher, 1d) | 1,13 | **1,23** | 1,07 | 68 % | 1,25 / 1,11 | nein (2/4) |
+| Moving Momentum (1d) | 1,67 | **1,24** | 1,03 | 55 % | 1,28 / 2,23 | nein (2/4) |
+| ChartSchool Pre-Holiday (2 Tage vorher, 1d) | 1,13 | **1,23** | 1,07 | 68 % | 1,25 / 1,11 | nein (3/4) |
 | Vergleich: Fraktal-Ausbruch ohne Trendfilter (1d) | 1,29 | **1,23** | 1,18 | 77 % | 1,27 / 1,27 | nein (3/4) |
-| Vergleich: Kauf nach rotem Tag (1d) | 1,27 | **1,23** | 1,13 | 82 % | 1,26 / 1,18 | nein (3/4) |
+| Vergleich: Kauf nach rotem Tag (1d) | 1,27 | **1,23** | 1,13 | 82 % | 1,26 / 1,18 | robust |
 | Vergleich: PSAR auf normalen Kerzen (1d, nur Long) | 1,36 | **1,23** | 1,13 | 77 % | 1,24 / 1,37 | nein (3/4) |
 | SerdarYILMAZ AO+Stoch+RSI+ATR (1d, nur Long) | 1,01 | **1,22** | 1,20 | 77 % | 1,28 / 1,15 | nein (3/4) |
-| Vergleich: roter Tag > SMA200 (1d) | 1,25 | **1,20** | 1,10 | 77 % | 1,22 / 1,14 | nein (3/4) |
-| QS 5-Tage-Tief + Zeitstopp (1d) | 1,18 | **1,19** | 1,13 | 86 % | 1,22 / 1,14 | nein (3/4) |
+| Vergleich: roter Tag > SMA200 (1d) | 1,25 | **1,20** | 1,10 | 77 % | 1,22 / 1,14 | robust |
+| QS 5-Tage-Tief + Zeitstopp (1d) | 1,18 | **1,19** | 1,13 | 86 % | 1,22 / 1,15 | robust |
 | ChartArt Fractal Breakout (1d) | 1,10 | **1,14** | 1,12 | 82 % | 1,15 / 1,14 | nein (3/4) |
-| Bollinger %B + MFI (1d, nur Long) | 1,35 | **1,12** | 1,15 | 64 % | 1,13 / 1,35 | nein (2/4) |
+| Bollinger %B + MFI (1d, nur Long) | 1,35 | **1,12** | 1,15 | 64 % | 1,13 / 1,34 | nein (2/4) |
 | Vergleich: Umkehrtag im Aufwärtstrend (1d) | 1,22 | **1,11** | 1,05 | 73 % | 1,16 / 1,32 | nein (3/4) |
 | Trade Pro Ichimoku (1d) | 1,13 | **1,10** | 0,99 | 68 % | 1,01 / 2,28 | nein (1/4) |
 | Vergleich: nur Bollinger 30 (1d) | 0,93 | **1,04** | 1,05 | 64 % | 1,06 / 1,47 | nein (1/4) |
@@ -521,11 +552,13 @@ strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Index
 | Crabel NR7 (Schluss Einstiegstag, 1d) | 1,07 | **0,99** | 0,96 | 45 % | 1,01 / 1,06 | nein (0/4) |
 | Crabel NR7 (erster Gewinn-Schluss, 1d) | 1,07 | **0,99** | 0,95 | 41 % | 1,01 / 1,06 | nein (0/4) |
 | Donchian 50 + MACD (1d) | 1,15 | **0,99** | 0,81 | 59 % | 0,95 / 1,77 | nein (0/4) |
-| SerdarYILMAZ AO+Stoch+RSI+ATR (1d) | 0,85 | **0,99** | 1,02 | 45 % | 1,05 / 1,15 | nein (0/4) |
-| Turtles tmr0 (1d) | 1,14 | **0,99** | 0,93 | 45 % | 0,97 / 1,48 | nein (0/4) |
-| Vergleich: Donchian 50 ohne MACD (1d) | 1,15 | **0,99** | 0,82 | 59 % | 0,95 / 1,78 | nein (0/4) |
+| SerdarYILMAZ AO+Stoch+RSI+ATR (1d) | 0,85 | **0,99** | 1,02 | 45 % | 1,05 / 1,16 | nein (0/4) |
+| Turtles tmr0 (1d) | 1,14 | **0,99** | 0,93 | 45 % | 0,97 / 1,47 | nein (0/4) |
+| Vergleich: Donchian 50 ohne MACD (1d) | 1,15 | **0,99** | 0,82 | 59 % | 0,95 / 1,77 | nein (0/4) |
+| Vergleich: Ausbruch aus jedem Vortag (Schluss Einstiegstag, 1d) | 1,01 | **0,98** | 0,97 | 27 % | 0,97 / 1,06 | nein (0/4) |
 | Vergleich: EMA21-Kreuz, fester Stop (1d) | 1,03 | **0,98** | 1,00 | 59 % | 0,97 / 1,22 | nein (0/4) |
 | Vergleich: nur Schluss über/unter Wolke (1d) | 0,99 | **0,98** | 1,01 | 41 % | 0,95 / 1,60 | nein (0/4) |
+| Vergleich: Ausbruch aus jedem Vortag (erster Gewinn-Schluss, 1d) | 1,01 | **0,97** | 0,97 | 18 % | 0,96 / 1,08 | nein (0/4) |
 | Vergleich: MACD-Histogramm kreuzt 0 (1d) | 1,02 | **0,97** | 1,02 | 36 % | 0,99 / 1,35 | nein (0/4) |
 | Vergleich: normales Wochenende Fr→Mo (1d) | 1,01 | **0,97** | 0,94 | 50 % | 0,98 / 1,06 | nein (0/4) |
 | QuantNomad Heikin-Ashi PSAR (1d) | 1,05 | **0,96** | 0,97 | 32 % | 0,95 / 1,36 | nein (0/4) |
@@ -540,11 +573,11 @@ strategien, gleiche Kosten, gleiche Robustheits-Kriterien. Grenze: heutige Index
 | ChartSchool Stochastic Pop & Drop (1d) | 0,92 | **0,89** | 0,90 | 23 % | 0,90 / 1,35 | nein (0/4) |
 | Vergleich: RSI kreuzt 30/70 (1d) | 0,59 | **0,78** | 0,88 | 32 % | 0,77 / 2,69 | nein (0/4) |
 | ChartArt Stochastik + RSI (1d) | 0,52 | **0,63** | 0,72 | 36 % | 0,69 / 4,04 | nein (0/4) |
-| Vergleich: nur Bollinger-Kreuz (1d) | 0,39 | **0,45** | 0,44 | 23 % | 0,54 / 4,70 | nein (0/4) |
-| ChartArt Bollinger + RSI (1d) | 0,25 | **0,34** | 0,51 | 23 % | 0,44 / 7,19 | nein (0/4) |
-| ChartArt MACD + Stochastik (1d) | 0,05 | **0,15** | 0,63 | 9 % | 0,17 / 14,28 | nein (0/4) |
+| Vergleich: nur Bollinger-Kreuz (1d) | 0,39 | **0,45** | 0,44 | 23 % | 0,54 / 4,69 | nein (0/4) |
+| ChartArt Bollinger + RSI (1d) | 0,25 | **0,34** | 0,51 | 23 % | 0,44 / 7,20 | nein (0/4) |
+| ChartArt MACD + Stochastik (1d) | 0,05 | **0,15** | 0,63 | 9 % | 0,17 / 14,26 | nein (0/4) |
 
-*Tabelle Stand 22.11.2026 (neue Strategien per `--only` ergänzt). Urteil „3/4“ bei Connors/QS-Regeln und Six-Month Cycle: nur wegen der Holm-Untergrenze, siehe Erkenntnis 22.*
+*Tabelle Stand 26.11.2026: Zufallstest mit 10.000 Durchläufen (vorher 1.000), NR7-Vergleich wieder enthalten.*
 
 **Ergebnis (Stand 13.10.2026):**
 1. **Alle Profit-Faktoren sinken** gegenüber der kleinen Liste (z. B. Squeeze 1w 2,54 → 1,97,
