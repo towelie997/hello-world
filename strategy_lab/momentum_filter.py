@@ -35,6 +35,7 @@ import os
 import numpy as np
 import pandas as pd
 
+from .tradestore import read_trades
 from . import data
 from .engine import DEFAULT_COST
 from .robustness import RECENT_YEARS, holm, profit_factor
@@ -105,7 +106,7 @@ def random_pf(g: pd.DataFrame, close: pd.DataFrame, allowed: pd.DataFrame, rng,
 
 def main(universe=SWING, src: str = "trades.csv", dst: str = "momentum_filter.csv",
          n_sim: int = N_SIM):
-    trades = pd.read_csv(os.path.join(RESULTS, src))
+    trades = read_trades(os.path.join(RESULTS, src))
     trades = trades[~trades.entry_time.str.contains(":") | trades.entry_time.str.endswith("00:00:00")]
     flags, close = momentum_flags(universe)
     everything = pd.DataFrame(True, index=close.index, columns=close.columns)

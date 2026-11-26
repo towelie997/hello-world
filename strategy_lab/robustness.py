@@ -43,10 +43,11 @@ import pandas as pd
 
 from . import data
 from .engine import DEFAULT_COST
+from .tradestore import read_trades
 
 HERE = os.path.dirname(__file__)
 RESULTS = os.path.join(HERE, "results")
-N_SIM = 1000
+N_SIM = 10000                          # 26.11.2026 von 1000 erhöht (Entscheidung Nutzer)
 N_BOOT = 2000
 SPLIT_YEARS = range(2008, 2024)
 MIN_TRADES_YEAR = 5
@@ -177,7 +178,7 @@ def analyze(name: str, g: pd.DataFrame, bear: pd.Series, rng, last_year: int) ->
 
 def main(src: str = "trades.csv", dst: str = "robustness.csv"):
     """src/dst relativ zu results/ (großer Test: big/trades.csv.gz -> big/robustness.csv)."""
-    df = pd.read_csv(os.path.join(RESULTS, src))
+    df = read_trades(os.path.join(RESULTS, src))
     rng = np.random.default_rng(SEED)
     bear = bear_market_days()
     last_year = int(pd.to_datetime(df.entry_time, utc=True, format="mixed").dt.year.max())

@@ -8,7 +8,7 @@ Pflicht im wöchentlichen Lauf für jede neue Tages-/Wochenstrategie (siehe READ
 neue Strategie in `jobs` unten eintragen (mit Vergleichs-Variante) und mit --only testen.
 
 Universum: strategy_lab/universe.py (40 DAX + 160 zufällig gezogene S&P-500-Werte).
-Schreibt nach results/big/: trades.csv.gz, ranking.csv, per_symbol.csv,
+Schreibt nach results/big/: trades-01.csv.gz, trades-02.csv.gz … (Teile je unter 100 MB), ranking.csv, per_symbol.csv,
 robustness.csv (gleiche Kriterien wie robustness.py) und momentum_filter.csv
 (relatives Momentum jetzt = obere Hälfte von 200 Werten).
 Intraday- und Forex-Strategien sind nicht enthalten (Yahoo liefert dafür zu wenig Historie).
@@ -25,6 +25,7 @@ import pandas as pd
 
 from . import momentum_filter, robustness
 from .engine import summarize
+from .tradestore import read_trades, write_trades
 from .run_all import RESULTS, VIDEOS
 from .strategies import (ha_psar, nr7, pre_holiday, tradedots_breakout,
                          chartart_stoch_rsi, macd_reloaded, six_month_macd, slope_performance,
@@ -133,10 +134,10 @@ def jobs_for(U):
         ("PreHoliday 1", lambda: pre_holiday.run(U)),
         ("PreHoliday 2", lambda: pre_holiday.run(U, days_before=2)),
         ("Vergleich PreHoliday", lambda: pre_holiday.run(U, baseline=True)),
-        # NR7-Vergleich "jeder Vortag" nur im kleinen Test: ~1,4 Mio. Trades sprengen die
-        # 100-MB-Grenze von GitHub für trades.csv.gz.
         ("NR7 Gewinn", lambda: nr7.run(U)),
         ("NR7 Schluss", lambda: nr7.run(U, exit_rule="close")),
+        ("Vergleich NR7 Gewinn", lambda: nr7.run(U, baseline=True)),
+        ("Vergleich NR7 Schluss", lambda: nr7.run(U, baseline=True, exit_rule="close")),
     ]
 
 
@@ -159,14 +160,17 @@ def main(argv=None):
 
     df = pd.DataFrame([asdict(t) for t in all_trades])
     old_path = os.path.join(OUT, "trades.csv.gz")
-    if args.only and os.path.exists(old_path):
+    if args.only:
         # nur die neu gerechneten Strategien ersetzen, alle anderen behalten
-        old = pd.read_csv(old_path)
-        df = pd.concat([old[~old.strategy.isin(set(df.strategy))], df], ignore_index=True)
+        try:
+            old = read_trades(old_path)
+            df = pd.concat([old[~old.strategy.isin(set(df.strategy))], df], ignore_index=True)
+        except FileNotFoundError:
+            pass
     df["_t"] = pd.to_datetime(df.entry_time)  # gleiche Reihenfolge wie beim Volllauf
     df = df.sort_values(["strategy", "_t"], kind="stable").drop(columns="_t").reset_index(drop=True)
     os.makedirs(OUT, exist_ok=True)
-    df.to_csv(os.path.join(OUT, "trades.csv.gz"), index=False)
+    write_trades(df, old_path)                 # mehrere Teile, je unter 100 MB
 
     rows = []
     for name, g in df.groupby("strategy", sort=False):

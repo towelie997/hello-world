@@ -17,6 +17,9 @@ Ergebnisse: `strategy_lab/results/ranking.csv` (Rangliste), `trades.csv` (jeder 
 > 2. Kriterien und Parameter in `robustness.py` (Trennjahre, Bärenmarkt-Regel, Schwellen,
 >    Seed, Zahl der Simulationen) **nicht ändern**, um ein Ergebnis zu verbessern. Keinen
 >    eigenen Testzeitraum wählen und keine Jahre oder Krisen ausschließen.
+>    (Einzige Ausnahme bisher, auf Wunsch des Nutzers am 26.11.2026: Zufallsdurchläufe von
+>    1.000 auf 10.000 erhöht, damit die Holm-Korrektur bei vielen Strategien überhaupt
+>    noch ein „robust“ zulassen kann – siehe Erkenntnis 37.)
 > 3. Den Abschnitt „Robustheits-Prüfung“ unten aktualisieren und in der Abschlussnachricht
 >    für jede neue Strategie das Urteil (robust bzw. x/4 Kriterien) nennen.
 > 4. **Großer Test ist Pflicht** für jede neue Tages-/Wochenstrategie: in `big_test.py` in
@@ -334,7 +337,8 @@ Kein einzelner, von Hand gewählter Zeitraum entscheidet. Geprüft wird (Details
 - **Jedes Kalenderjahr einzeln** (festes Raster, Jahre mit mind. 5 Trades).
 - **Marktphasen nach objektiver Regel:** Bärenmarkt = SPY > 20 % unter seinem Hoch
   (erfasst 2008/09, COVID 2020 und 2022 automatisch, ohne Daten auszuwählen).
-- **Zufallstest:** gleiche Werte und Haltedauern, zufällige Einstiegstage, 1.000 Durchläufe.
+- **Zufallstest:** gleiche Werte und Haltedauern, zufällige Einstiegstage, 10.000 Durchläufe
+  (bis 22.11.2026: 1.000).
   Gegenprobe mit zufälligen Trades ergibt p ≈ 0,5 – der Test bevorzugt keine Seite.
 - **Bootstrap** des Profit-Faktors und **Holm-Korrektur** für die vielen getesteten Strategien.
 - **Jüngere Jahre (nur Zusatzinfo, nicht Teil des Urteils):** `pf_letzte5` (Profit-Faktor
